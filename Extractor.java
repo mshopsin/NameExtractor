@@ -4,6 +4,7 @@ abstract class Extractor{
 
 List<Operation> operations;
 
+	 abstract void init();
 	String run(String start)
 	{
 		String input = start;
@@ -18,5 +19,5 @@ List<Operation> operations;
 }
 
 interface Operation{
-	String execute(String input);
+	public String execute(String input);
 }
