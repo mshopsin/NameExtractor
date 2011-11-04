@@ -1,6 +1,6 @@
 import java.util.regex.*;
 
-
+/*
 
 public class NameExtractor{
 	public static void main(String args[]){
@@ -54,7 +54,7 @@ public class NameExtractor{
 	}
 }
 
-
+*/
 
 //Approach1
 // Read the First Name DB first 
