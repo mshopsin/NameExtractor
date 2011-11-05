@@ -28,7 +28,7 @@ public class Debugger{
 		 try {
             Class c = Class.forName(args[1]);
             
-     		NameExtractor cls = new NameExtractor();
+     		NameExtractor ne = new NameExtractor();
      		
             
             Method m[] = c.getDeclaredMethods();
@@ -38,7 +38,7 @@ public class Debugger{
             	System.out.println(m[i].toString());
             	if(m[i].getName().equals(new String("test")))
             	{
-            		m[i].invoke(cls,arglist);
+            		m[i].invoke(ne,null);
             	}
             }
             

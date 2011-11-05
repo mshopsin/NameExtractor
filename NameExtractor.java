@@ -4,6 +4,7 @@ public class NameExtractor extends Extractor
 
 	void init()
 	{
+		operations.clear();
 		operations.add(new Names());
 	}
 	

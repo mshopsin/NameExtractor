@@ -4,6 +4,11 @@ abstract class Extractor{
 
 List<Operation> operations;
 
+	List<Operation> getOperations()
+	{
+		return operations;
+	}
+
 	 abstract void init();
 	 abstract void test();
 	abstract String run(String start);
