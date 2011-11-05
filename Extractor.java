@@ -5,7 +5,9 @@ abstract class Extractor{
 List<Operation> operations;
 
 	 abstract void init();
-	abstract String run(String start);/*
+	 abstract void test();
+	abstract String run(String start);
+	/*
 	{
 		String input = start;
 		for(int i = 0; i < operations.size(); i++)

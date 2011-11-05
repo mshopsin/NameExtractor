@@ -18,6 +18,10 @@ public class NameExtractor extends Extractor
 		return input;		
 	}
 
+	void test()
+	{
+		System.out.println("woohoo");
+	}
 
 
 	class Names implements Operation
