@@ -7,6 +7,16 @@ public class NameExtractor extends Extractor
 		operations.add(new Names());
 	}
 	
+	 String run(String start)
+	{
+		String input = start;
+		for(int i = 0; i < operations.size(); i++)
+		{
+			input = operations.get(i).execute(input);
+		}
+		
+		return input;		
+	}
 
 
 

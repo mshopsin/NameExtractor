@@ -5,7 +5,7 @@ abstract class Extractor{
 List<Operation> operations;
 
 	 abstract void init();
-	String run(String start)
+	abstract String run(String start);/*
 	{
 		String input = start;
 		for(int i = 0; i < operations.size(); i++)
@@ -14,7 +14,7 @@ List<Operation> operations;
 		}
 		
 		return input;		
-	}
+	}*/
 
 }
 

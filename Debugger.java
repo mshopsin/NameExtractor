@@ -5,8 +5,11 @@ import java.io.InputStreamReader;
 import java.io.IOException;
 import java.io.Reader;
 import java.util.Date;
+import java.lang.reflect.*;
 public class Debugger{
 	public static void main(String args[]) throws IOException {
+	
+	
 		String path = args[0];
 		
 		
@@ -19,7 +22,18 @@ public class Debugger{
 		f.close();
 		}
 
-	
+		System.out.println("Methods");
+		 try {
+            Class c = Class.forName(args[1]);
+            Method m[] = c.getDeclaredMethods();
+            for (int i = 0; i < m.length; i++)
+            System.out.println(m[i].toString());
+         }
+         catch (Throwable e) {
+            System.err.println(e);
+         }
+
+		
 	}
 	
 	static String readWithStringBuffer(Reader fr)
