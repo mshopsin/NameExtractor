@@ -9,11 +9,6 @@ List<Operation> operations;
 		return operations;
 	}
 
-	public Extractor newInstance()
-	{
-		operations = new ArrayList<Operation>();
-		return this;
-	}
 	 abstract void init();
 	 abstract void test();
 	abstract String run(String start);

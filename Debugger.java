@@ -18,38 +18,53 @@ public class Debugger{
 		
 		
 		FileReader f = new FileReader(path);
+		String out = new String("");
 		
 		try {
-		String out = readWithStringBuffer(f);
-		System.out.println(out);
+		out = readWithStringBuffer(f);
+		
 		} finally {
 		f.close();
 		}
 
 		//Call Extractor
 
-		System.out.println("Methods");
+		
 		 try {
             Class c = Class.forName(args[1]);
             
      		Extractor ne = (Extractor)c.newInstance();
             
             Method m[] = c.getDeclaredMethods();
-             Object arglist[] = new Object[0];
-            for (int i = 0; i < m.length; i++)
-            {
-            	System.out.println(m[i].toString());
-            	if(m[i].getName().equals(new String("test")))
-            	{
-            		m[i].invoke(ne,null);
-            	}
-            	
-            	if(m[i].getName().equals(new String("init")))
-            	{
-            		m[i].invoke(ne,null);
-            	}
-            	
-            }
+            boolean initilized = false;
+            boolean ran = false;
+            
+            // Object arglist[] = new Object[0];
+			for(int j = 0; j < 2; j++)
+			{
+				for (int i = 0; i < m.length; i++)
+				{
+					
+					
+					if(m[i].getName().equals(new String("init")))
+					{
+						m[i].invoke(ne,null);
+						initilized = true;
+					}
+					
+					if(!ran && initilized && m[i].getName().equals(new String("run")))
+					{
+						 Object arglist[] = new Object[1];
+							arglist[0] = new String(out);
+	
+						System.out.println(m[i].invoke(ne,arglist));
+						
+						ran = true;
+					}
+				}
+			}
+            
+            
             
             /*
              Debugger methobj = new Debugger();

@@ -7,20 +7,29 @@ public class NameExtractor extends Extractor
 	void init()
 	{
 		//operations = 
-		System.out.println("woohoo init");
+		
 		//operations.clear();
 		try{
 		this.operations = new ArrayList<Operation>();
 		operations.add(new Names());
+		
 		}
          catch (Throwable e) {
          
-         System.err.println("Name Extractor " + e);
+         System.err.println("Name Extractor init " + e);
          }
 	}
 	
 	 String run(String start)
 	{
+		try{
+		
+		}
+		catch (Throwable e) {
+         
+         System.err.println("Name Extractor run " + e);
+         }
+		
 		String input = start;
 		for(int i = 0; i < operations.size(); i++)
 		{
@@ -40,7 +49,7 @@ public class NameExtractor extends Extractor
 	{
 		public Names()
 		{
-			System.out.println("test");
+			
 		}
 	
 		public String execute (String input)
