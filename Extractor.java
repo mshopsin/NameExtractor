@@ -11,6 +11,7 @@ List<Operation> operations;
 
 	public Extractor newInstance()
 	{
+		operations = new ArrayList<Operation>();
 		return this;
 	}
 	 abstract void init();

@@ -43,6 +43,12 @@ public class Debugger{
             	{
             		m[i].invoke(ne,null);
             	}
+            	
+            	if(m[i].getName().equals(new String("init")))
+            	{
+            		m[i].invoke(ne,null);
+            	}
+            	
             }
             
             /*

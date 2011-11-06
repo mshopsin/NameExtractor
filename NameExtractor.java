@@ -1,11 +1,22 @@
 import java.util.regex.*;
+import java.util.ArrayList;
+import java.util.List;
 public class NameExtractor extends Extractor
 {
 
 	void init()
 	{
-		operations.clear();
+		//operations = 
+		System.out.println("woohoo init");
+		//operations.clear();
+		try{
+		this.operations = new ArrayList<Operation>();
 		operations.add(new Names());
+		}
+         catch (Throwable e) {
+         
+         System.err.println("Name Extractor " + e);
+         }
 	}
 	
 	 String run(String start)
@@ -27,6 +38,11 @@ public class NameExtractor extends Extractor
 
 	class Names implements Operation
 	{
+		public Names()
+		{
+			System.out.println("test");
+		}
+	
 		public String execute (String input)
 		{
 			String pattern = "\\b([A-Z][a-z]+\\s[A-Z][a-z]+)\\b"; //Search For Fist Char Capitalized Words
