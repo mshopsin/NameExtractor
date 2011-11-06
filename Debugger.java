@@ -1,3 +1,7 @@
+//Simply call
+//java Debugger sample.txt NameExtractor
+
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.InputStream;
@@ -28,8 +32,7 @@ public class Debugger{
 		 try {
             Class c = Class.forName(args[1]);
             
-     		NameExtractor ne = new NameExtractor();
-     		
+     		Extractor ne = (Extractor)c.newInstance();
             
             Method m[] = c.getDeclaredMethods();
              Object arglist[] = new Object[0];
