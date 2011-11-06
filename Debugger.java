@@ -13,6 +13,14 @@ import java.lang.reflect.*;
 public class Debugger{
 	public static void main(String args[]) throws IOException {
 	
+		if(args.length != 2)
+		{
+			System.out.println("Too few arguments");
+			System.out.println("java Debugger [text file] [Extractor]");
+			System.out.println("java Debugger sample.txt NameExtractor");
+			return;
+		}
+	
 	
 		String path = args[0];
 		
