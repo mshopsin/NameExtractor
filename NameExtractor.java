@@ -11,6 +11,7 @@ public class NameExtractor extends Extractor
 		//operations.clear();
 		try{
 		this.operations = new ArrayList<Operation>();
+		this.FirstLast = new ArrayList<Name>();
 		operations.add(new Names());
 		
 		}
@@ -70,6 +71,18 @@ public class NameExtractor extends Extractor
 			
 			while (m.find()){
 				sname = sname  + "|" + input.substring(m.start(),m.end());
+				
+				String fullName = new String(input.substring(m.start(),m.end()));
+				String[] temp;
+ 
+			  
+			    String delimiter = " ";
+
+			    temp = fullName.split(delimiter);
+				
+				Name nm = new Name(temp[0],temp[1]);
+				FirstLast.add(nm);
+				
 				System.out.print("ID="+ cnt + " IndexStart:" + m.start() + "\tIndexEnd:" + m.end() + "\t");
 				System.out.println("Found:" + input.substring(m.start(),m.end()));
 				cnt++;

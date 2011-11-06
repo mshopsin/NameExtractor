@@ -3,10 +3,16 @@ import java.util.List;
 abstract class Extractor{
 
 List<Operation> operations;
+List<Name> FirstLast;
 
 	List<Operation> getOperations()
 	{
 		return operations;
+	}
+
+	List<Name> getNames()
+	{
+		return FirstLast;
 	}
 
 	 abstract void init();
