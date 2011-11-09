@@ -82,7 +82,7 @@ public class Debugger{
 					{
 						
 	
-						HashMap map = m[i].invoke(ne,null);
+						HashMap map = (HashMap)m[i].invoke(ne,null);
 						
 						
 					}
