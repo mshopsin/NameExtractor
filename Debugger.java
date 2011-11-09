@@ -2,18 +2,16 @@
 //java Debugger sample.txt NameExtractor
 
 
-import java.io.BufferedReader;
-import java.io.FileReader;
-import java.io.InputStream;
-import java.io.InputStreamReader;
-import java.io.IOException;
-import java.io.Reader;
-import java.util.Date;
+
+import java.io.*;
+import java.util.*;
 import java.lang.reflect.*;
 public class Debugger{
 	int Match = 0;
 	int Missed = 0;
 	int Wrong  = 0;
+	
+
 
 	public static void main(String args[]) throws IOException {
 	
@@ -30,10 +28,18 @@ public class Debugger{
 		
 		
 		FileReader f = new FileReader(path);
-		String out = new String("");
+		
+		String input = new String("");
+		
+		
 		
 		try {
-		out = readWithStringBuffer(f);
+		input = readWithStringBuffer(f);
+		
+		DataSet ds = new DataSet(args[1]);
+			
+		
+		
 		
 		} finally {
 		f.close();
@@ -43,7 +49,7 @@ public class Debugger{
 
 		
 		 try {
-            Class c = Class.forName(args[1]);
+            Class c = Class.forName(args[2]);
             
      		Extractor ne = (Extractor)c.newInstance();
             
@@ -67,7 +73,7 @@ public class Debugger{
 					if(!ran && initilized && m[i].getName().equals(new String("run")))
 					{
 						 Object arglist[] = new Object[1];
-							arglist[0] = new String(out);
+							arglist[0] = new String(input);
 	
 						System.out.println(m[i].invoke(ne,arglist));
 						
@@ -78,16 +84,6 @@ public class Debugger{
             
             
             
-            /*
-             Debugger methobj = new Debugger();
-             Object arglist[] = new Object[0];
-             Class partypes[] = new Class[0];
-		     Method meth = c.getMethod("init", partypes);
-			 Object retobj = meth.invoke(methobj, arglist);
-             Integer retval = (Integer)retobj;
-             System.out.println(retval.intValue());*/
-             
-          
             
          }
          catch (Throwable e) {
@@ -95,7 +91,11 @@ public class Debugger{
          }
 
 		
+	
+
+	
 	}
+	
 	
 	static String readWithStringBuffer(Reader fr)
 		throws IOException {
