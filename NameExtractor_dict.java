@@ -1,6 +1,7 @@
 import java.util.regex.*;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.*;
 
 public class NameExtractor_dict extends Extractor
 {
@@ -12,7 +13,9 @@ public class NameExtractor_dict extends Extractor
 		//operations.clear();
 		try{
 			this.operations = new ArrayList<Operation>();
-			this.FirstLast = new ArrayList<Name>();
+				//this.FirstLast = new ArrayList<Name>();
+			//HashMap map = new HashMap();
+			//FirstLast = new HashMap(); 
 			operations.add(new NameChar());
 			operations.add(new NameDict());
 		}
@@ -70,7 +73,8 @@ public class NameExtractor_dict extends Extractor
 
 			    temp = fullName.split(delimiter);
 				Name nm = new Name(temp[0],temp[1]);
-				FirstLast.add(nm);
+				FirstLast.put(fullName, nm);
+				//FirstLast.add(nm);
 				
 				System.out.print("ID="+ cnt + " IndexStart:" + m.start() + "\tIndexEnd:" + m.end() + "\t");
 				System.out.println("Found:" + input.substring(m.start(),m.end()));

@@ -11,13 +11,17 @@ import java.io.Reader;
 import java.util.Date;
 import java.lang.reflect.*;
 public class Debugger{
+	int Match = 0;
+	int Missed = 0;
+	int Wrong  = 0;
+
 	public static void main(String args[]) throws IOException {
 	
-		if(args.length != 2)
+		if(args.length != 3)
 		{
 			System.out.println("Too few arguments");
-			System.out.println("java Debugger [text file] [Extractor]");
-			System.out.println("java Debugger sample.txt NameExtractor");
+			System.out.println("java Debugger [Input file] [Test Data Set] [Extractor]");
+			System.out.println("java Debugger sample.txt GoldenData.csv NameExtractor");
 			return;
 		}
 	

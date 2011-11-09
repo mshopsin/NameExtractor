@@ -1,16 +1,17 @@
 import java.util.ArrayList;
 import java.util.List;
+import java.util.*; 
 abstract class Extractor{
 
 List<Operation> operations;
-List<Name> FirstLast;
-
+//List<Name> FirstLast;
+HashMap FirstLast = new HashMap();
 	List<Operation> getOperations()
 	{
 		return operations;
 	}
 
-	List<Name> getNames()
+	HashMap getNames()
 	{
 		return FirstLast;
 	}
