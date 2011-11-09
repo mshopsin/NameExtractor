@@ -7,9 +7,7 @@ import java.io.*;
 import java.util.*;
 import java.lang.reflect.*;
 public class Debugger{
-	int Match = 0;
-	int Missed = 0;
-	int Wrong  = 0;
+
 	
 
 
@@ -79,6 +77,16 @@ public class Debugger{
 						
 						ran = true;
 					}
+					
+					if(ran && initilized && m[i].getName().equals(new String("getNames")))
+					{
+						
+	
+						HashMap map = m[i].invoke(ne,null);
+						
+						
+					}
+					
 				}
 			}
             
