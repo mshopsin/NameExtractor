@@ -42,7 +42,11 @@ public class Debugger{
 		} finally {
 		f.close();
 		}
-
+		//in order to read the csv file from the Golden Data set additional formating is neccasary
+		
+		input = input.replace(",c"," ");
+		input = input.replace(",w"," ");
+	
 		//Call Extractor
 
 		
