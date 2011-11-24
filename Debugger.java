@@ -29,12 +29,12 @@ public class Debugger{
 		
 		String input = new String("");
 		
-		
+		DataSet ds;
 		
 		try {
 		input = readWithStringBuffer(f);
 		
-		DataSet ds = new DataSet(args[1]);
+		ds = new DataSet(args[1]);
 			
 		
 		
@@ -54,6 +54,7 @@ public class Debugger{
             Class c = Class.forName(args[2]);
             
      		Extractor ne = (Extractor)c.newInstance();
+            HashMap map;
             
             Method m[] = c.getDeclaredMethods();
             boolean initilized = false;
@@ -77,19 +78,20 @@ public class Debugger{
 						 Object arglist[] = new Object[1];
 							arglist[0] = new String(input);
 	
-						System.out.println(m[i].invoke(ne,arglist));
-						
+						List<String> NameList = (List<String>)m[i].invoke(ne,arglist);
+						System.out.println(NameList.size());
+						ds.checkData(NameList);
 						ran = true;
 					}
-					
-					if(ran && initilized && m[i].getName().equals(new String("getNames")))
+					/*
+					if(ran && initilized && m[i].getName().equals(new String("getNameList")))
 					{
 						
 	
-						HashMap map = (HashMap)m[i].invoke(ne,null);
+						(List<String>)m[i].invoke(ne,null));
 						
 						
-					}
+					}*/
 					
 				}
 			}

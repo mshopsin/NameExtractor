@@ -24,7 +24,7 @@ public class NameExtractor_dict extends Extractor
        }
 	}
 	
-	 String run(String start)
+	List<String> run(String start)
 	{
 		try{
 		
@@ -35,12 +35,13 @@ public class NameExtractor_dict extends Extractor
          }
 		
 		String input = start;
+		List<String> output = new ArrayList();
 		for(int i = 0; i < operations.size(); i++)
 		{
-			input = operations.get(i).execute(input);
+			output.addAll(operations.get(i).execute(input));
 		}
 		
-		return input;		
+		return output;		
 	}
 
 	void test()
@@ -55,8 +56,11 @@ public class NameExtractor_dict extends Extractor
 			
 		}
 	
-		public String execute (String input)
-		{
+		public List<String> execute (String input)
+		{	
+		
+			List<String> Names = new ArrayList();
+			
 			String pattern = "\\b([A-Z][a-z]+\\s[A-Z][a-z]+)\\b"; //Search For Fist Char Capitalized Words
 			Pattern p = Pattern.compile(pattern);
 			Matcher m = p.matcher(input);
@@ -67,6 +71,7 @@ public class NameExtractor_dict extends Extractor
 				sname = sname  + "|" + input.substring(m.start(),m.end());
 				
 				String fullName = new String(input.substring(m.start(),m.end()));
+				Names.add(fullName);
 				String[] temp;
  
 			    String delimiter = " ";
@@ -81,7 +86,7 @@ public class NameExtractor_dict extends Extractor
 				cnt++;
 			}
 			System.out.println(sname);
-			return sname;
+			return Names;
 		}
 	}
 	
@@ -92,8 +97,11 @@ public class NameExtractor_dict extends Extractor
 			
 		}
 	
-		public String execute (String input)
+		public List<String> execute (String input)
 		{	
+		
+			List<String> Names = new ArrayList();
+		
 			System.out.println();
 			System.out.println("Check Dictionary start!");
 			//System.out.println("Input: " + input);		
@@ -117,11 +125,12 @@ public class NameExtractor_dict extends Extractor
 				System.out.print("Found:" + input.substring(n.start(),n.end()) + "\t");				
 				System.out.println(input.substring(n.start(),ed));
 				sname = sname  + "|" + input.substring(n.start(),ed);
+				Names.add(input.substring(n.start(),ed));
 				nt++;
 			}
 			System.out.println("Check Dictionary output: " + sname);
 			System.out.println();			
-			return sname;
+			return Names;
 			
 		}
 	}

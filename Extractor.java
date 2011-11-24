@@ -6,9 +6,20 @@ abstract class Extractor{
 List<Operation> operations;
 //List<Name> FirstLast;
 HashMap FirstLast = new HashMap();
+List<String> Names = new ArrayList();
+	
+
+	 abstract void init();
+	 abstract void test();
+	abstract List<String> run(String start);
 	List<Operation> getOperations()
 	{
 		return operations;
+	}
+
+	List<String> getNameList()
+	{
+		return Names;
 	}
 
 	HashMap getNames()
@@ -16,22 +27,8 @@ HashMap FirstLast = new HashMap();
 		return FirstLast;
 	}
 
-	 abstract void init();
-	 abstract void test();
-	abstract String run(String start);
-	/*
-	{
-		String input = start;
-		for(int i = 0; i < operations.size(); i++)
-		{
-			input = operations.get(i).execute(input);
-		}
-		
-		return input;		
-	}*/
-
 }
 
 interface Operation{
-	public String execute(String input);
+	public List<String> execute(String input);
 }

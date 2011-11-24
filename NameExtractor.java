@@ -22,7 +22,7 @@ public class NameExtractor extends Extractor
          }
 	}
 	
-	 String run(String start)
+	 List<String> run(String start)
 	{
 		try{
 		
@@ -33,12 +33,13 @@ public class NameExtractor extends Extractor
          }
 		
 		String input = start;
+		List<String> output = new ArrayList();
 		for(int i = 0; i < operations.size(); i++)
 		{
-			input = operations.get(i).execute(input);
+			output.addAll(operations.get(i).execute(input));
 		}
 		
-		return input;		
+		return output;		
 	}
 
 	void test()
@@ -54,9 +55,9 @@ public class NameExtractor extends Extractor
 			
 		}
 	
-		public String execute (String input)
+		public List<String> execute (String input)
 		{
-		System.out.println(input);
+			List<String> Names = new ArrayList();
 		
 			String pattern = "\\b([A-Z][a-z]+\\s[A-Z][a-z]+)\\b"; //Search For Fist Char Capitalized Words
 			//Set the First Name Dictionary
@@ -76,8 +77,9 @@ public class NameExtractor extends Extractor
 				sname = sname  + "|" + input.substring(m.start(),m.end());
 				
 				String fullName = new String(input.substring(m.start(),m.end()));
+				Names.add(fullName);
 				String[] temp;
- 
+ 				Names.add(fullName);
 			  
 			    String delimiter = " ";
 
@@ -91,7 +93,7 @@ public class NameExtractor extends Extractor
 				System.out.println("Found:" + input.substring(m.start(),m.end()));
 				cnt++;
 			}
-			return sname;
+			return Names;
 		}
 	}
 }
