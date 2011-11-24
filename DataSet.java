@@ -67,21 +67,30 @@ class DataSet{
 				Observed.add(key);
 				String value = (String)ReferenceMap.get(key);
 				
+			
+				
 				
 				if(value != null){
 						if( value.contains("c")){
-						System.out.println("Value "+key+ " is a real name");
+						Match++;
+						System.out.println("Value "+key+ ", is a real name");
 						
 						}else if( value.contains("w")){
-						System.out.println("Value: "+key+ " is not a name");
+						Wrong++;
+						System.out.println("Value: "+key+ ", is not a name");
 						}
 					
 					}else{
-					
-						System.out.println("Value: "+key+ " not found in training dataset");
+						Missed++;
+						System.out.println("Value: "+key+ ", not found in training dataset");
 					}
 				}
 			}
+
+			System.out.println("Correct Match with Training Data:" + Match);
+			System.out.println("False Match with Training Data:" + Wrong);
+			System.out.println("Not in the training set:" + Missed);
+
 		}
 			
 }
