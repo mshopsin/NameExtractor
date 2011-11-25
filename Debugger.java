@@ -61,8 +61,8 @@ public class Debugger{
             boolean ran = false;
             
             // Object arglist[] = new Object[0];
-			for(int j = 0; j < 2; j++)
-			{
+			//for(int j = 0; j < 2; j++)
+			//{
 				for (int i = 0; i < m.length; i++)
 				{
 					System.out.println(m[i].getName());
@@ -75,13 +75,14 @@ public class Debugger{
 					
 					if(initilized && m[i].getName().equals(new String("getOperations")))
 					{
-						System.out.println("test");
+						
 						List<Operation> operations = (List<Operation>)m[i].invoke(ne,null);
 						//Start run
 						
 						List<String> output = new ArrayList();
 						for(int k = 0; k < operations.size(); k++)
 						{
+							
 							
 							List<String> add = operations.get(k).execute(input);
 							
@@ -93,8 +94,11 @@ public class Debugger{
 								{
 									input += "|";
 								}
+								
 							}
+							System.out.println("operation:"+k);
 							ds.checkData(add);
+							ds.reset();
 							/*
 							if(i == operations.size()-1)
 							{
@@ -127,7 +131,7 @@ public class Debugger{
 					}*/
 					
 				}
-			}
+			//}
             
             
             
