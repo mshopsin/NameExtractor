@@ -65,7 +65,7 @@ public class Debugger{
 			{
 				for (int i = 0; i < m.length; i++)
 				{
-					
+					System.out.println(m[i].getName());
 					
 					if(m[i].getName().equals(new String("init")))
 					{
@@ -73,6 +73,39 @@ public class Debugger{
 						initilized = true;
 					}
 					
+					if(initilized && m[i].getName().equals(new String("getOperations")))
+					{
+						System.out.println("test");
+						List<Operation> operations = (List<Operation>)m[i].invoke(ne,null);
+						//Start run
+						
+						List<String> output = new ArrayList();
+						for(int k = 0; k < operations.size(); k++)
+						{
+							
+							List<String> add = operations.get(k).execute(input);
+							
+							input = "";
+							for(int l = 0; l < add.size(); l++)
+							{
+								input += add.get(l);
+								if(!((l - 1) == add.size()))
+								{
+									input += "|";
+								}
+							}
+							ds.checkData(add);
+							/*
+							if(i == operations.size()-1)
+							{
+								output=add;
+							}*/
+							
+						}
+						//end run
+					
+					}
+					/*
 					if(!ran && initilized && m[i].getName().equals(new String("run")))
 					{
 						 Object arglist[] = new Object[1];
@@ -82,7 +115,7 @@ public class Debugger{
 						System.out.println(NameList.size());
 						ds.checkData(NameList);
 						ran = true;
-					}
+					}*/
 					/*
 					if(ran && initilized && m[i].getName().equals(new String("getNameList")))
 					{

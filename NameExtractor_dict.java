@@ -5,6 +5,10 @@ import java.util.*;
 
 public class NameExtractor_dict extends Extractor
 {
+	List<Operation> getOperations()
+	{
+		return operations;
+	}
 
 	void init()
 	{
@@ -38,7 +42,25 @@ public class NameExtractor_dict extends Extractor
 		List<String> output = new ArrayList();
 		for(int i = 0; i < operations.size(); i++)
 		{
-			output.addAll(operations.get(i).execute(input));
+			
+			List<String> add = operations.get(i).execute(input);
+			
+			input = "";
+			for(int j = 0; j < add.size(); j++)
+			{
+				input += add.get(j);
+				if(!((j - 1) == add.size()))
+				{
+					input += "|";
+				}
+			}
+			//ds.checkData(add);
+			
+			if(i == operations.size()-1)
+			{
+				output=add;
+			}
+			
 		}
 		
 		return output;		

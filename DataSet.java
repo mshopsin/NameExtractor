@@ -73,16 +73,16 @@ class DataSet{
 				if(value != null){
 						if( value.contains("c")){
 						Match++;
-						System.out.println("Value "+key+ ", is a real name");
+						System.out.println("Value "+key+ " , is a real name");
 						
 						}else if( value.contains("w")){
 						Wrong++;
-						System.out.println("Value: "+key+ ", is not a name");
+						System.out.println("Value: "+key+ " , is not a name");
 						}
 					
 					}else{
 						Missed++;
-						System.out.println("Value: "+key+ ", not found in training dataset");
+						System.out.println("Value: "+key+ " , not found in training dataset");
 					}
 				}
 			}

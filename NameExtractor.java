@@ -3,6 +3,10 @@ import java.util.ArrayList;
 import java.util.List;
 public class NameExtractor extends Extractor
 {
+	List<Operation> getOperations()
+	{
+		return operations;
+	}
 
 	void init()
 	{

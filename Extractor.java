@@ -3,19 +3,16 @@ import java.util.List;
 import java.util.*; 
 abstract class Extractor{
 
-List<Operation> operations;
+List<Operation> operations = new ArrayList();
 //List<Name> FirstLast;
 HashMap FirstLast = new HashMap();
 List<String> Names = new ArrayList();
 	
-
+	 abstract List<Operation> getOperations();
 	 abstract void init();
 	 abstract void test();
 	abstract List<String> run(String start);
-	List<Operation> getOperations()
-	{
-		return operations;
-	}
+	
 
 	List<String> getNameList()
 	{
