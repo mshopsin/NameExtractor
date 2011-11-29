@@ -1,0 +1,1096 @@
+http://en.wikipedia.org/wiki/Data_mining
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" dir="ltr" class="client-nojs" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Data mining - Wikipedia, the free encyclopedia</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="generator" content="MediaWiki 1.18wmf1" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Data_mining&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Data_mining&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" type="text/css" media="all" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" type="text/css" media="all" />
+<style type="text/css" media="all">a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: enwiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*" type="text/javascript"></script>
+<script type="text/javascript">if ( window.mediaWiki ) {
+	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "Data_mining", "wgTitle": "Data mining", "wgCurRevisionId": 461953759, "wgArticleId": 42253, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["Accuracy disputes from September 2011", "Wikipedia articles needing rewrite from September 2011", "All articles with unsourced statements", "Articles with unsourced statements from July 2008", "Articles with unsourced statements from July 2010", "Wikipedia articles needing copy edit from September 2011", "All articles needing copy edit", "Data mining", "Data analysis", "Formal sciences"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgSearchNamespaces": [0], "wgFlaggedRevsParams": {"tags": {"status": {"levels": 1, "quality": 2, "pristine": 3}}}, "wgStableRevisionId": null, "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": true, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "wgTrackingToken": "5cdb993637dfa83da3162a6f4b601dc1", "wikilove-recipient": "", "wikilove-edittoken": "+\\", "wikilove-anon": 0, "mbEditToken": "+\\", "Geo": {"city": "", "country": ""}, "wgNoticeProject": "wikipedia"});
+}
+</script><script type="text/javascript">if ( window.mediaWiki ) {
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.18/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Data_mining action-view skin-vector">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- centralNotice loads here --></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading">Data mining</h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav">
+					Jump to: <a href="#mw-head">navigation</a>,
+					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div lang="en" dir="ltr" class="mw-content-ltr"><div class="dablink">Not to be confused with <a href="/wiki/Analytics" title="Analytics">analytics</a>, <a href="/wiki/Information_extraction" title="Information extraction">information extraction</a>, or <a href="/wiki/Data_analysis" title="Data analysis">data analysis</a>.</div>
+<p><b>Data mining</b> (the analysis step of the <b>knowledge discovery in databases</b> process,<sup id="cite_ref-Fayyad_0-0" class="reference"><a href="#cite_note-Fayyad-0"><span>[</span>1<span>]</span></a></sup> or KDD), a relatively young and interdisciplinary field of <a href="/wiki/Computer_science" title="Computer science">computer science</a><sup id="cite_ref-acm_1-0" class="reference"><a href="#cite_note-acm-1"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-brittanica_2-0" class="reference"><a href="#cite_note-brittanica-2"><span>[</span>3<span>]</span></a></sup> is the process of discovering new patterns from large <a href="/wiki/Data_set" title="Data set">data sets</a> involving methods at the intersection of <a href="/wiki/Artificial_intelligence" title="Artificial intelligence">artificial intelligence</a>, <a href="/wiki/Machine_learning" title="Machine learning">machine learning</a>, <a href="/wiki/Statistics" title="Statistics">statistics</a> and <a href="/wiki/Database_system" title="Database system">database systems</a>.<sup id="cite_ref-acm_1-1" class="reference"><a href="#cite_note-acm-1"><span>[</span>2<span>]</span></a></sup> The goal of data mining is to extract knowledge from a data set in a human-understandable structure<sup id="cite_ref-acm_1-2" class="reference"><a href="#cite_note-acm-1"><span>[</span>2<span>]</span></a></sup> and involves database and <a href="/wiki/Data_management" title="Data management">data management</a>, <a href="/wiki/Data_Pre-processing" title="Data Pre-processing">data preprocessing</a>, <a href="/wiki/Statistical_model" title="Statistical model">model</a> and <a href="/wiki/Statistical_inference" title="Statistical inference">inference</a> considerations, interestingness metrics, <a href="/wiki/Computational_complexity_theory" title="Computational complexity theory">complexity</a> considerations, post-processing of found structure, <a href="/wiki/Data_visualization" title="Data visualization">visualization</a> and <a href="/wiki/Online_algorithm" title="Online algorithm">online updating</a>.<sup id="cite_ref-acm_1-3" class="reference"><a href="#cite_note-acm-1"><span>[</span>2<span>]</span></a></sup></p>
+<p>The term is a <a href="/wiki/Buzzword" title="Buzzword">buzzword</a>, and is frequently misused to mean any form of large scale data or information processing (collection, <a href="/wiki/Information_extraction" title="Information extraction">extraction</a>, <a href="/wiki/Data_warehouse" title="Data warehouse">warehousing</a>, <a href="/wiki/Data_analysis" title="Data analysis">analysis</a> and statistics) but also generalized to any kind of <a href="/wiki/Decision_support_system" title="Decision support system">computer decision support system</a> including <a href="/wiki/Artificial_intelligence" title="Artificial intelligence">artificial intelligence</a>, <a href="/wiki/Machine_learning" title="Machine learning">machine learning</a> and <a href="/wiki/Business_intelligence" title="Business intelligence">business intelligence</a>. In the proper use of the word, the key term is <i><a href="/wiki/Discovery_(observation)" title="Discovery (observation)">discovery</a></i>, commonly defined as "detecting something new". Even the popular book "Data mining: Practical machine learning tools and techniques with Java"<sup id="cite_ref-witten_3-0" class="reference"><a href="#cite_note-witten-3"><span>[</span>4<span>]</span></a></sup> (which covers mostly <a href="/wiki/Machine_learning" title="Machine learning">machine learning</a> material) was originally to be named just "Practical machine learning", and the term "data mining" was only added for marketing reasons.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>5<span>]</span></a></sup> Often the more general terms "(large scale) <a href="/wiki/Data_analysis" title="Data analysis">data analysis</a>" or "<a href="/wiki/Analytics" title="Analytics">analytics</a>" or when referring to actual methods, <a href="/wiki/Artificial_intelligence" title="Artificial intelligence">artificial intelligence</a> and <a href="/wiki/Machine_learning" title="Machine learning">machine learning</a> are more appropriate.</p>
+<p>The actual data-mining task is the automatic or semi-automatic analysis of large quantities of data to extract previously unknown interesting patterns such as groups of data records (<a href="/wiki/Cluster_analysis" title="Cluster analysis">cluster analysis</a>), unusual records (<a href="/wiki/Anomaly_detection" title="Anomaly detection">anomaly detection</a>) and dependencies (<a href="/wiki/Association_rule_mining" title="Association rule mining" class="mw-redirect">association rule mining</a>). This usually involves using database techniques such as <a href="/wiki/Spatial_index" title="Spatial index" class="mw-redirect">spatial indexes</a>. These patterns can then be seen as a kind of summary of the input data, and used in further analysis or for example in <a href="/wiki/Machine_learning" title="Machine learning">machine learning</a> and <a href="/wiki/Predictive_analytics" title="Predictive analytics">predictive analytics</a>. For example, the data mining step might identify multiple groups in the data, which can then be used to obtain more accurate prediction results by a <a href="/wiki/Decision_support_system" title="Decision support system">decision support system</a>. Neither the data collection, data preparation nor result interpretation and reporting are part of the data mining step, but do belong to the overall KDD process as additional steps.</p>
+<p>The related terms <i><a href="/wiki/Data_dredging" title="Data dredging">data dredging</a></i>, <i>data fishing</i> and <i>data snooping</i> refer to the use of data mining methods to sample parts of a larger population data set that are (or may be) too small for reliable statistical inferences to be made about the validity of any patterns discovered. These methods can, however, be used in creating new hypotheses to test against the larger data populations.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Research_and_evolution"><span class="tocnumber">1.1</span> <span class="toctext">Research and evolution</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Process"><span class="tocnumber">2</span> <span class="toctext">Process</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Pre-processing"><span class="tocnumber">2.1</span> <span class="toctext">Pre-processing</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Data_mining"><span class="tocnumber">2.2</span> <span class="toctext">Data mining</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Results_validation"><span class="tocnumber">2.3</span> <span class="toctext">Results validation</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Knowledge_grid"><span class="tocnumber">2.4</span> <span class="toctext">Knowledge grid</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Standards"><span class="tocnumber">3</span> <span class="toctext">Standards</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Notable_uses"><span class="tocnumber">4</span> <span class="toctext">Notable uses</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Games"><span class="tocnumber">4.1</span> <span class="toctext">Games</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Business"><span class="tocnumber">4.2</span> <span class="toctext">Business</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Science_and_engineering"><span class="tocnumber">4.3</span> <span class="toctext">Science and engineering</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Spatial_data_mining"><span class="tocnumber">4.4</span> <span class="toctext">Spatial data mining</span></a>
+<ul>
+<li class="toclevel-3 tocsection-14"><a href="#Challenges"><span class="tocnumber">4.4.1</span> <span class="toctext">Challenges</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-15"><a href="#Visual_Data_Mining"><span class="tocnumber">4.5</span> <span class="toctext">Visual Data Mining</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Surveillance"><span class="tocnumber">4.6</span> <span class="toctext">Surveillance</span></a>
+<ul>
+<li class="toclevel-3 tocsection-17"><a href="#Pattern_mining"><span class="tocnumber">4.6.1</span> <span class="toctext">Pattern mining</span></a></li>
+<li class="toclevel-3 tocsection-18"><a href="#Subject-based_data_mining"><span class="tocnumber">4.6.2</span> <span class="toctext">Subject-based data mining</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-19"><a href="#Privacy_concerns_and_ethics"><span class="tocnumber">5</span> <span class="toctext">Privacy concerns and ethics</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#Marketplace_surveys"><span class="tocnumber">6</span> <span class="toctext">Marketplace surveys</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#Groups_and_associations"><span class="tocnumber">7</span> <span class="toctext">Groups and associations</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a>
+<ul>
+<li class="toclevel-2 tocsection-23"><a href="#Methods"><span class="tocnumber">8.1</span> <span class="toctext">Methods</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="#Application_domains"><span class="tocnumber">8.2</span> <span class="toctext">Application domains</span></a></li>
+<li class="toclevel-2 tocsection-25"><a href="#Application_examples"><span class="tocnumber">8.3</span> <span class="toctext">Application examples</span></a></li>
+<li class="toclevel-2 tocsection-26"><a href="#Miscellaneous"><span class="tocnumber">8.4</span> <span class="toctext">Miscellaneous</span></a></li>
+<li class="toclevel-2 tocsection-27"><a href="#Related_topics"><span class="tocnumber">8.5</span> <span class="toctext">Related topics</span></a></li>
+<li class="toclevel-2 tocsection-28"><a href="#Commercial_data-mining_software_and_applications"><span class="tocnumber">8.6</span> <span class="toctext">Commercial data-mining software and applications</span></a></li>
+<li class="toclevel-2 tocsection-29"><a href="#Free_libre_open-source_data-mining_software_and_applications"><span class="tocnumber">8.7</span> <span class="toctext">Free libre open-source data-mining software and applications</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-30"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-31"><a href="#Further_reading"><span class="tocnumber">10</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-32"><a href="#External_links"><span class="tocnumber">11</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Data_mining&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a>]</span> <span class="mw-headline" id="Background">Background</span></h2>
+<p>The manual extraction of patterns from <a href="/wiki/Data" title="Data">data</a> has occurred for centuries. Early methods of identifying patterns in data include <a href="/wiki/Bayes%27_theorem" title="Bayes' theorem">Bayes' theorem</a> (1700s) and <a href="/wiki/Regression_analysis" title="Regression analysis">regression analysis</a> (1800s). The proliferation, ubiquity and increasing power of computer technology has increased data collection, storage and manipulations. As <a href="/wiki/Data_set" title="Data set">data sets</a> have grown in size and complexity, direct hands-on data analysis has increasingly been augmented with indirect, automatic data processing. This has been aided by other discoveries in computer science, such as <a href="/wiki/Neural_networks" title="Neural networks" class="mw-redirect">neural networks</a>, <a href="/wiki/Data_clustering" title="Data clustering" class="mw-redirect">clustering</a>, <a href="/wiki/Genetic_algorithms" title="Genetic algorithms" class="mw-redirect">genetic algorithms</a> (1950s), <a href="/wiki/Decision_tree_learning" title="Decision tree learning">decision trees</a> (1960s) and <a href="/wiki/Support_vector_machines" title="Support vector machines" class="mw-redirect">support vector machines</a> (1990s). Data mining is the process of applying these methods to data with the intention of uncovering hidden patterns.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>6<span>]</span></a></sup> It has been used for many years by businesses, scientists and governments to sift through volumes of data such as airline passenger trip records, census data and supermarket scanner data to produce market research reports. (Note, however, that reporting is not always considered to be data mining.)</p>
+<p>A primary reason for using data mining is to assist in the analysis of collections of observations of behavior. Such data is vulnerable to <a href="/wiki/Multicollinearity" title="Multicollinearity">collinearity</a> because of unknown interrelations. An unavoidable fact of data mining is that the (sub-)set(s) of data being analyzed may not be representative of the whole domain, and therefore may not contain examples of certain critical relationships and behaviors that exist across other parts of the domain. To address this sort of issue, the analysis may be augmented using experiment-based and other approaches, such as <a href="/wiki/Choice_modelling" title="Choice modelling">choice modelling</a> for human-generated data. In these situations, inherent correlations can be either controlled for, or removed altogether, during the construction of the <a href="/wiki/Experimental_design" title="Experimental design" class="mw-redirect">experimental design</a>.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Data_mining&amp;action=edit&amp;section=2" title="Edit section: Research and evolution">edit</a>]</span> <span class="mw-headline" id="Research_and_evolution">Research and evolution</span></h3>
+<p>The premier professional body in the field is the <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">Association for Computing Machinery</a>'s Special Interest Group on <a href="/wiki/Knowledge_discovery" title="Knowledge discovery">knowledge discovery</a> and Data Mining (<a href="/wiki/SIGKDD" title="SIGKDD">SIGKDD</a>). Since 1989 they have hosted an annual international conference and published its proceedings,<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>7<span>]</span></a></sup> and since 1999 have published a biannual <a href="/wiki/Academic_journal" title="Academic journal">academic journal</a> titled "SIGKDD Explorations".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>8<span>]</span></a></sup></p>
+<p>Computer science conferences on data mining include:</p>
+<ul>
+<li>CIKM – ACM <a href="/wiki/Conference_on_Information_and_Knowledge_Management" title="Conference on Information and Knowledge Management">Conference on Information and Knowledge Management</a></li>
+<li>DMIN – International Conference on Data Mining</li>
+<li>DMKD – Research Issues on Data Mining and Knowledge Discovery</li>
+<li>ECDM – European Conference on Data Mining</li>
+<li>ECML-PKDD – <a href="/wiki/European_Conference_on_Machine_Learning_and_Principles_and_Practice_of_Knowledge_Discovery_in_Databases" title="European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases" class="mw-redirect">European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases</a></li>
+<li>EDM – International Conference on Educational Data Mining</li>
+<li>ICDM – <a href="/wiki/IEEE" title="IEEE" class="mw-redirect">IEEE</a> <a href="/w/index.php?title=International_Conference_on_Data_Mining&amp;action=edit&amp;redlink=1" class="new" title="International Conference on Data Mining (page does not exist)">International Conference on Data Mining</a></li>
+<li>KDD – ACM SIGKDD <a href="/wiki/Conference_on_Knowledge_Discovery_and_Data_Mining" title="Conference on Knowledge Discovery and Data Mining" class="mw-redirect">Conference on Knowledge Discovery and Data Mining</a></li>
+<li>MLDM – Machine Learning and Data Mining in Pattern Recognition</li>
+<li>PAKDD – The annual <a href="/w/index.php?title=Pacific-Asia_Conference_on_Knowledge_Discovery_and_Data_Mining&amp;action=edit&amp;redlink=1" class="new" title="Pacific-Asia Conference on Knowledge Discovery and Data Mining (page does not exist)">Pacific-Asia Conference on Knowledge Discovery and Data Mining</a></li>
+<li>PAW – Predictive Analytics World</li>
+<li>SDM – <a href="/w/index.php?title=SIAM_International_Conference_on_Data_Mining&amp;action=edit&amp;redlink=1" class="new" title="SIAM International Conference on Data Mining (page does not exist)">SIAM International Conference on Data Mining</a> (<a href="/wiki/Society_for_Industrial_and_Applied_Mathematics" title="Society for Industrial and Applied Mathematics">SIAM</a>)</li>
+<li>SSTD – <a href="/w/index.php?title=Symposium_on_Spatial_and_Temporal_Databases&amp;action=edit&amp;redlink=1" class="new" title="Symposium on Spatial and Temporal Databases (page does not exist)">Symposium on Spatial and Temporal Databases</a></li>
+</ul>
+<p>Data mining topics are present on most <a href="/wiki/List_of_computer_science_conferences#Data_Management" title="List of computer science conferences">data management / database conferences</a>.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Data_mining&amp;action=edit&amp;section=3" title="Edit section: Process">edit</a>]</span> <span class="mw-headline" id="Process">Process</span></h2>
+<p>The <b>knowledge discovery in databases (KDD) process</b> is commonly defined with the stages (1) Selection (2) Preprocessing (3) Transformation (4) <i>Data Mining</i> (5) Interpretation/Evaluation.<sup id="cite_ref-Fayyad_0-1" class="reference"><a href="#cite_note-Fayyad-0"><span>[</span>1<span>]</span></a></sup> It exists however in many variations of this theme such as the <a href="/wiki/CRISP-DM" title="CRISP-DM" class="mw-redirect">CRoss Industry Standard Process for Data Mining (CRISP-DM)</a> which defines six phases: (1) Business Understanding, (2) Data Understanding, (3) Data Preparation, (4) Modeling, (5) Evaluation, and (6) Deployment or a simplified process such as (1) Pre-processing, (2) Data mining, and (3) Results validation.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Data_mining&amp;action=edit&amp;section=4" title="Edit section: Pre-processing">edit</a>]</span> <span class="mw-headline" id="Pre-processing">Pre-processing</span></h3>
+<p>Before data mining algorithms can be used, a target data set must be assembled. As data mining can only uncover patterns actually present in the data, the target dataset must be large enough to contain these patterns while remaining concise enough to be mined in an acceptable timeframe. A common source for data is a <a href="/wiki/Data_mart" title="Data mart">data mart</a> or <a href="/wiki/Data_warehouse" title="Data warehouse">data warehouse</a>. Pre-process is essential to analyse the <a href="/wiki/Multivariate_statistics" title="Multivariate statistics">multivariate</a> datasets before data mining.</p>
+<p>The target set is then cleaned. <a href="/wiki/Data_cleaning" title="Data cleaning" class="mw-redirect">Data cleaning</a> removes the observations with <a href="/wiki/Statistical_noise" title="Statistical noise">noise</a> and <a href="/wiki/Missing_data" title="Missing data">missing data</a>.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Data_mining&amp;action=edit&amp;section=5" title="Edit section: Data mining">edit</a>]</span> <span class="mw-headline" id="Data_mining">Data mining</span></h3>
+<p>Data mining involves six common classes of tasks:<sup id="cite_ref-Fayyad_0-2" class="reference"><a href="#cite_note-Fayyad-0"><span>[</span>1<span>]</span></a></sup></p>
+<ul>
+<li><a href="/wiki/Anomaly_detection" title="Anomaly detection">Anomaly detection</a> (Outlier/change/deviation detection) – The identification of unusual data records, that might be interesting or data errors and require further investigation.</li>
+<li><a href="/wiki/Association_rule_learning" title="Association rule learning">Association rule learning</a> (Dependency modeling) – Searches for relationships between variables. For example a supermarket might gather data on customer purchasing habits. Using association rule learning, the supermarket can determine which products are frequently bought together and use this information for marketing purposes. This is sometimes referred to as market basket analysis.</li>
+<li><a href="/wiki/Cluster_analysis" title="Cluster analysis">Clustering</a> – is the task of discovering groups and structures in the data that are in some way or another "similar", without using known structures in the data.</li>
+<li><a href="/wiki/Statistical_classification" title="Statistical classification">Classification</a> – is the task of generalizing known structure to apply to new data. For example, an email program might attempt to classify an email as legitimate or spam.</li>
+<li><a href="/wiki/Regression_analysis" title="Regression analysis">Regression</a> – Attempts to find a function which models the data with the least error.</li>
+<li>Summarization – providing a more compact representation of the data set, including visualization and report generation.</li>
+</ul>
+<h3><span class="editsection">[<a href="/w/index.php?title=Data_mining&amp;action=edit&amp;section=6" title="Edit section: Results validation">edit</a>]</span> <span class="mw-headline" id="Results_validation">Results validation</span></h3>
+<table class="metadata plainlinks ambox ambox-content" style="">
+<tr>
+<td class="mbox-image">
+<div style="width: 52px;"><img alt="" src="//upload.wikimedia.org/wikipedia/en/f/f4/Ambox_content.png" width="40" height="40" /></div>
+</td>
+<td class="mbox-text" style="">This section <b>is missing information about non-classification tasks in data mining, it only covers <a href="/wiki/Machine_learning" title="Machine learning">machine learning</a></b>. This concern has been noted on the <a href="/wiki/Talk:Data_mining" title="Talk:Data mining">talk page</a> where whether or not to include such information may be discussed. <small><i>(September 2011)</i></small></td>
+</tr>
+</table>
+<p>The final step of knowledge discovery from data is to verify the patterns produced by the data mining algorithms occur in the wider data set. Not all patterns found by the data mining algorithms are necessarily valid. It is common for the data mining algorithms to find patterns in the training set which are not present in the general data set. This is called <a href="/wiki/Overfitting" title="Overfitting">overfitting</a>. To overcome this, the evaluation uses a <a href="/wiki/Test_set" title="Test set">test set</a> of data on which the data mining algorithm was not trained. The learned patterns are applied to this test set and the resulting output is compared to the desired output. For example, a data mining algorithm trying to distinguish spam from legitimate emails would be trained on a <a href="/wiki/Training_set" title="Training set">training set</a> of sample emails. Once trained, the learned patterns would be applied to the test set of emails on which it had not been trained. The accuracy of these patterns can then be measured from how many emails they correctly classify. A number of statistical methods may be used to evaluate the algorithm such as <a href="/wiki/Receiver_operating_characteristic" title="Receiver operating characteristic">ROC curves</a>.</p>
+<p>If the learned patterns do not meet the desired standards, then it is necessary to reevaluate and change the pre-processing and data mining. If the learned patterns do meet the desired standards then the final step is to interpret the learned patterns and turn them into knowledge.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Data_mining&amp;action=edit&amp;section=7" title="Edit section: Knowledge grid">edit</a>]</span> <span class="mw-headline" id="Knowledge_grid">Knowledge grid</span></h3>
+<p>Researchers at the <a href="/wiki/University_of_Calabria" title="University of Calabria">University of Calabria</a> developed a Knowledge Grid architecture for distributed knowledge discovery, based on <a href="/wiki/Grid_computing" title="Grid computing">grid computing</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>9<span>]</span></a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>10<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Data_mining&amp;action=edit&amp;section=8" title="Edit section: Standards">edit</a>]</span> <span class="mw-headline" id="Standards">Standards</span></h2>
+<p>There have been some efforts to define standards for the data mining process, for example the 1999 European <a href="/wiki/Cross_Industry_Standard_Process_for_Data_Mining" title="Cross Industry Standard Process for Data Mining">Cross Industry Standard Process for Data Mining</a> (CRISP-DM 1.0) and the 2004 <a href="/wiki/Java_Data_Mining" title="Java Data Mining">Java Data Mining</a> standard (JDM 1.0). Development on successors of these processes (CRISP-DM 2.0 and JDM 2.0) was active in 2006, but has stalled since. JDM 2.0 was withdrawn without reaching a final draft.</p>
+<p>For exchanging the extracted models – in particular for the use in <a href="/wiki/Predictive_analytics" title="Predictive analytics">predictive analytics</a> – the key standard is the <a href="/wiki/Predictive_Model_Markup_Language" title="Predictive Model Markup Language">Predictive Model Markup Language</a> (PMML), which is an <a href="/wiki/XML" title="XML">XML</a>-based language developed by the Data Mining Group (DMG) and supported as exchange format by many data mining applications. As the name suggests it only covers prediction models, a particular data mining task of high importance to business applications, however extensions to for example cover <a href="/wiki/Subspace_clustering" title="Subspace clustering" class="mw-redirect">subspace clustering</a> have been proposed independently of the DMG.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>11<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Data_mining&amp;action=edit&amp;section=9" title="Edit section: Notable uses">edit</a>]</span> <span class="mw-headline" id="Notable_uses">Notable uses</span></h2>
+<table class="metadata plainlinks ambox ambox-content" style="">
+<tr>
+<td class="mbox-image">
+<div style="width: 52px;"><a href="/wiki/File:Crystal_Clear_app_kedit.svg" class="image"><img alt="Crystal Clear app kedit.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Crystal_Clear_app_kedit.svg/40px-Crystal_Clear_app_kedit.svg.png" width="40" height="40" /></a></div>
+</td>
+<td class="mbox-text" style="">This section <b>may need to be rewritten entirely to comply with Wikipedia's <a href="/wiki/Wikipedia:Manual_of_Style" title="Wikipedia:Manual of Style">quality standards</a></b>. <a class="external text" href="//en.wikipedia.org/w/index.php?title=Data_mining&amp;action=edit">You can help</a>. The <a href="/wiki/Talk:Data_mining" title="Talk:Data mining">discussion page</a> may contain suggestions. <small><i>(September 2011)</i></small></td>
+</tr>
+</table>
+<h3><span class="editsection">[<a href="/w/index.php?title=Data_mining&amp;action=edit&amp;section=10" title="Edit section: Games">edit</a>]</span> <span class="mw-headline" id="Games">Games</span></h3>
+<p>Since the early 1960s, with the availability of <a href="/wiki/Oracle_machine" title="Oracle machine">oracles</a> for certain <a href="/wiki/Combinatorial_game" title="Combinatorial game" class="mw-redirect">combinatorial games</a>, also called <a href="/wiki/Tablebase" title="Tablebase" class="mw-redirect">tablebases</a> (e.g. for 3x3-chess) with any beginning configuration, small-board <a href="/wiki/Dots-and-boxes" title="Dots-and-boxes" class="mw-redirect">dots-and-boxes</a>, small-board-hex, and certain endgames in chess, dots-and-boxes, and hex; a new area for data mining has been opened. This is the extraction of human-usable strategies from these oracles. Current pattern recognition approaches do not seem to fully acquire the high level of abstraction required to be applied successfully. Instead, extensive experimentation with the tablebases, combined with an intensive study of tablebase-answers to well designed problems and with knowledge of prior art, i.e. pre-tablebase knowledge, is used to yield insightful patterns. <a href="/wiki/Berlekamp" title="Berlekamp" class="mw-redirect">Berlekamp</a> in dots-and-boxes etc. and <a href="/wiki/John_Nunn" title="John Nunn">John Nunn</a> in <a href="/wiki/Chess" title="Chess">chess</a> <a href="/wiki/Chess_endgame" title="Chess endgame">endgames</a> are notable examples of researchers doing this work, though they were not and are not involved in tablebase generation.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Data_mining&amp;action=edit&amp;section=11" title="Edit section: Business">edit</a>]</span> <span class="mw-headline" id="Business">Business</span></h3>
+<p>Data mining in <a href="/wiki/Customer_relationship_management" title="Customer relationship management">customer relationship management</a> applications can contribute significantly to the bottom line.<sup class="Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources from July 2008">citation needed</span></a></i>]</sup> Rather than randomly contacting a prospect or customer through a call center or sending mail, a company can concentrate its efforts on prospects that are predicted to have a high likelihood of responding to an offer. More sophisticated methods may be used to optimize resources across campaigns so that one may predict to which channel and to which offer an individual is most likely to respond—across all potential offers. Additionally, sophisticated applications could be used to automate the mailing. Once the results from data mining (potential prospect/customer and channel/offer) are determined, this "sophisticated application" can either automatically send an e-mail or regular mail. Finally, in cases where many people will take an action without an offer, uplift modeling can be used to determine which people will have the greatest increase in responding if given an offer. <a href="/wiki/Data_clustering" title="Data clustering" class="mw-redirect">Data clustering</a> can also be used to automatically discover the segments or groups within a customer data set.</p>
+<p>Businesses employing data mining may see a return on investment, but also they recognize that the number of predictive models can quickly become very large. Rather than one model to predict how many customers will <a href="/wiki/Churn_rate" title="Churn rate">churn</a>, a business could build a separate model for each region and customer type. Then instead of sending an offer to all people that are likely to churn, it may only want to send offers to loyal customers. Finally, it may want to determine which customers are going to be profitable over a window of time and only send the offers to those that are likely to be profitable. In order to maintain this quantity of models, they need to manage model versions and move to <i>automated data mining</i>.</p>
+<p>Data mining can also be helpful to human-resources departments in identifying the characteristics of their most successful employees. Information obtained, such as universities attended by highly successful employees, can help HR focus recruiting efforts accordingly. Additionally, Strategic Enterprise Management applications help a company translate corporate-level goals, such as profit and margin share targets, into operational decisions, such as production plans and workforce levels.<sup id="cite_ref-autogenerated1_11-0" class="reference"><a href="#cite_note-autogenerated1-11"><span>[</span>12<span>]</span></a></sup></p>
+<p>Another example of data mining, often called the <a href="/wiki/Market_basket_analysis" title="Market basket analysis" class="mw-redirect">market basket analysis</a>, relates to its use in retail sales. If a clothing store records the purchases of customers, a data-mining system could identify those customers who favor silk shirts over cotton ones. Although some explanations of relationships may be difficult, taking advantage of it is easier. The example deals with <a href="/wiki/Association_rule" title="Association rule" class="mw-redirect">association rules</a> within transaction-based data. Not all data are transaction based and logical or inexact <a href="/wiki/Rule_of_inference" title="Rule of inference">rules</a> may also be present within a <a href="/wiki/Database" title="Database">database</a>.</p>
+<p><a href="/wiki/Market_basket_analysis" title="Market basket analysis" class="mw-redirect">Market basket analysis</a> has also been used to identify the purchase patterns of the <a href="/wiki/Alpha_consumer" title="Alpha consumer">Alpha consumer</a>. Alpha Consumers are people that play a key role in connecting with the concept behind a product, then adopting that product, and finally validating it for the rest of society. Analyzing the data collected on this type of user has allowed companies to predict future buying trends and forecast supply demands.<sup class="Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources from July 2010">citation needed</span></a></i>]</sup></p>
+<p>Data Mining is a highly effective tool in the catalog marketing industry.<sup class="Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources from July 2010">citation needed</span></a></i>]</sup> Catalogers have a rich history of customer transactions on millions of customers dating back several years. Data mining tools can identify patterns among customers and help identify the most likely customers to respond to upcoming mailing campaigns.</p>
+<p>Data Mining for business applications is a component which needs to be integrated into a complex modelling and decision making process. <a href="/wiki/Reactive_Business_Intelligence" title="Reactive Business Intelligence">Reactive Business Intelligence (RBI)</a> advocates a holistic approach that integrates data mining, <a href="/wiki/Modeling_and_simulation" title="Modeling and simulation">modeling</a> and <a href="/wiki/Interactive_visualization" title="Interactive visualization">interactive visualization</a>, into an end-to-end discovery and continuous innovation process powered by human and automated learning.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>13<span>]</span></a></sup> In the area of <a href="/wiki/Decision_making" title="Decision making">decision making</a> the <a href="/wiki/Reactive_Business_Intelligence" title="Reactive Business Intelligence">RBI</a> approach has been used to mine the knowledge which is progressively acquired from the decision maker and self-tune the decision method accordingly.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>14<span>]</span></a></sup></p>
+<p>Related to an integrated-circuit production line, an example of data mining is described in the paper "Mining IC Test Data to Optimize VLSI Testing."<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>15<span>]</span></a></sup> In this paper the application of data mining and decision analysis to the problem of die-level functional test is described. Experiments mentioned in this paper demonstrate the ability of applying a system of mining historical die-test data to create a probabilistic model of patterns of die failure. These patterns are then utilized to decide in real time which die to test next and when to stop testing. This system has been shown, based on experiments with historical test data, to have the potential to improve profits on mature IC products.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Data_mining&amp;action=edit&amp;section=12" title="Edit section: Science and engineering">edit</a>]</span> <span class="mw-headline" id="Science_and_engineering">Science and engineering</span></h3>
+<p>In recent years, data mining has been used widely in the areas of science and engineering, such as <a href="/wiki/Bioinformatic" title="Bioinformatic" class="mw-redirect">bioinformatics</a>, <a href="/wiki/Genetics" title="Genetics">genetics</a>, <a href="/wiki/Medicine" title="Medicine">medicine</a>, <a href="/wiki/Educational_data_mining" title="Educational data mining">education</a> and <a href="/wiki/Electrical_power" title="Electrical power" class="mw-redirect">electrical power</a> engineering.</p>
+<p>In the study of human genetics, an important goal is to understand the mapping relationship between the inter-individual variation in human <a href="/wiki/DNA" title="DNA">DNA</a> sequences and variability in disease susceptibility. In lay terms, it is to find out how the changes in an individual's DNA sequence affect the risk of developing common diseases such as <a href="/wiki/Cancer" title="Cancer">cancer</a>. This is very important to help improve the diagnosis, prevention and treatment of the diseases. The data mining method that is used to perform this task is known as <a href="/wiki/Multifactor_dimensionality_reduction" title="Multifactor dimensionality reduction">multifactor dimensionality reduction</a>.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>16<span>]</span></a></sup></p>
+<p>In the area of electrical power engineering, data mining methods have been widely used for <a href="/wiki/Condition_monitoring" title="Condition monitoring">condition monitoring</a> of high voltage electrical equipment. The purpose of condition monitoring is to obtain valuable information on the <a href="/wiki/Insulator_(electrical)" title="Insulator (electrical)">insulation</a>'s health status of the equipment. <a href="/wiki/Data_clustering" title="Data clustering" class="mw-redirect">Data clustering</a> such as <a href="/wiki/Self-organizing_map" title="Self-organizing map">self-organizing map</a> (SOM) has been applied on the vibration monitoring and analysis of transformer on-load tap-changers (OLTCS). Using vibration monitoring, it can be observed that each tap change operation generates a signal that contains information about the condition of the tap changer contacts and the drive mechanisms. Obviously, different tap positions will generate different signals. However, there was considerable variability amongst normal condition signals for exactly the same tap position. SOM has been applied to detect abnormal conditions and to estimate the nature of the abnormalities.<sup id="cite_ref-McGrail_16-0" class="reference"><a href="#cite_note-McGrail-16"><span>[</span>17<span>]</span></a></sup></p>
+<p>Data mining methods have also been applied for <a href="/wiki/Dissolved_gas_analysis" title="Dissolved gas analysis">dissolved gas analysis</a> (DGA) on <a href="/wiki/Power_transformer" title="Power transformer" class="mw-redirect">power transformers</a>. DGA, as a diagnostics for power transformer, has been available for many years. Methods such as SOM has been applied to analyze data and to determine trends which are not obvious to the standard DGA ratio methods such as Duval Triangle.<sup id="cite_ref-McGrail_16-1" class="reference"><a href="#cite_note-McGrail-16"><span>[</span>17<span>]</span></a></sup></p>
+<p>A fourth area of application for data mining in science/engineering is within educational research, where data mining has been used to study the factors leading students to choose to engage in behaviors which reduce their learning<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>18<span>]</span></a></sup> and to understand the factors influencing university student retention.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>19<span>]</span></a></sup> A similar example of the social application of data mining is its use in <a href="/wiki/Expertise_finding" title="Expertise finding">expertise finding systems</a>, whereby descriptors of human expertise are extracted, normalized and classified so as to facilitate the finding of experts, particularly in scientific and technical fields. In this way, data mining can facilitate <a href="/wiki/Institutional_memory" title="Institutional memory">Institutional memory</a>.</p>
+<p>Other examples of applying data mining method applications are <a href="/wiki/Biomedical" title="Biomedical" class="mw-redirect">biomedical</a> data facilitated by domain <a href="/wiki/Ontologies" title="Ontologies" class="mw-redirect">ontologies</a>,<sup id="cite_ref-Zhu_19-0" class="reference"><a href="#cite_note-Zhu-19"><span>[</span>20<span>]</span></a></sup> mining clinical trial data,<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>21<span>]</span></a></sup> <a href="/wiki/Traffic_analysis" title="Traffic analysis">traffic analysis</a> using SOM,<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>22<span>]</span></a></sup> et cetera.</p>
+<p>In adverse drug reaction surveillance, the <a href="/wiki/Uppsala_Monitoring_Centre" title="Uppsala Monitoring Centre">Uppsala Monitoring Centre</a> has, since 1998, used data mining methods to routinely screen for reporting patterns indicative of emerging drug safety issues in the WHO global database of 4.6&#160;million suspected <a href="/wiki/Adverse_drug_reaction" title="Adverse drug reaction">adverse drug reaction</a> incidents.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>23<span>]</span></a></sup> Recently, similar methodology has been developed to mine large collections of <a href="/wiki/Electronic_health_records" title="Electronic health records" class="mw-redirect">electronic health records</a> for temporal patterns associating drug prescriptions to medical diagnoses.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span>[</span>24<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Data_mining&amp;action=edit&amp;section=13" title="Edit section: Spatial data mining">edit</a>]</span> <span class="mw-headline" id="Spatial_data_mining">Spatial data mining</span></h3>
+<p>Spatial data mining is the application of data mining methods to spatial data. Spatial data mining follows along the same functions in data mining, with the end objective to find patterns in geography. So far, data mining and <a href="/wiki/Geographic_Information_Systems" title="Geographic Information Systems" class="mw-redirect">Geographic Information Systems</a> (GIS) have existed as two separate technologies, each with its own methods, traditions and approaches to visualization and data analysis. Particularly, most contemporary GIS have only very basic spatial analysis functionality. The immense explosion in geographically referenced data occasioned by developments in IT, digital mapping, remote sensing, and the global diffusion of GIS emphasises the importance of developing data driven inductive approaches to geographical analysis and modeling.</p>
+<p>Data mining, which is the partially automated search for hidden patterns in large databases, offers great potential benefits for applied GIS-based decision-making. Recently, the task of integrating these two technologies has become critical, especially as various public and private sector organizations possessing huge databases with thematic and geographically referenced data begin to realise the huge potential of the information hidden there. Among those organizations are:</p>
+<ul>
+<li>offices requiring analysis or dissemination of geo-referenced statistical data</li>
+<li>public health services searching for explanations of disease clusters</li>
+<li>environmental agencies assessing the impact of changing land-use patterns on climate change</li>
+<li>geo-marketing companies doing customer segmentation based on spatial location.</li>
+</ul>
+<h4><span class="editsection">[<a href="/w/index.php?title=Data_mining&amp;action=edit&amp;section=14" title="Edit section: Challenges">edit</a>]</span> <span class="mw-headline" id="Challenges">Challenges</span></h4>
+<p>Geospatial data repositories tend to be very large. Moreover, existing GIS datasets are often splintered into feature and attribute components, that are conventionally archived in hybrid data management systems. Algorithmic requirements differ substantially for relational (attribute) data management and for topological (feature) data management.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span>[</span>25<span>]</span></a></sup> Related to this is the range and diversity of geographic data formats, that also presents unique challenges. The digital geographic data revolution is creating new types of data formats beyond the traditional "vector" and "raster" formats. Geographic data repositories increasingly include ill-structured data such as imagery and geo-referenced multi-media.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25"><span>[</span>26<span>]</span></a></sup></p>
+<p>There are several critical research challenges in geographic knowledge discovery and data mining. Miller and Han<sup id="cite_ref-26" class="reference"><a href="#cite_note-26"><span>[</span>27<span>]</span></a></sup> offer the following list of emerging research topics in the field:</p>
+<ul>
+<li><b>Developing and supporting geographic data warehouses</b> – Spatial properties are often reduced to simple <a href="/wiki/Theory_of_Forms#What_are_the_Forms.3F" title="Theory of Forms">aspatial</a> attributes in mainstream data warehouses. Creating an integrated GDW requires solving issues in spatial and temporal data interoperability, including differences in semantics, referencing systems, geometry, accuracy and position.</li>
+<li><b>Better spatio-temporal representations in geographic knowledge discovery</b> – Current geographic knowledge discovery (GKD) methods generally use very simple representations of geographic objects and spatial relationships. Geographic data mining methods should recognize more complex geographic objects (lines and polygons) and relationships (non-Euclidean distances, direction, connectivity and interaction through attributed geographic space such as terrain). Time needs to be more fully integrated into these geographic representations and relationships.</li>
+<li><b>Geographic knowledge discovery using diverse data types</b> – GKD methods should be developed that can handle diverse data types beyond the traditional raster and vector models, including imagery and geo-referenced multimedia, as well as dynamic data types (video streams, animation).</li>
+</ul>
+<p>In <a href="/wiki/Rexer%27s_Annual_Data_Miner_Survey" title="Rexer's Annual Data Miner Survey">four annual surveys of data miners</a>,<sup id="cite_ref-survey2010_27-0" class="reference"><a href="#cite_note-survey2010-27"><span>[</span>28<span>]</span></a></sup> data mining practitioners consistently identified that they faced three key challenges more than any others:</p>
+<ul>
+<li>Dirty Data</li>
+<li>Explaining Data Mining to Others</li>
+<li>Unavailability of Data / Difficult Access to Data</li>
+</ul>
+<p>In the <a href="/wiki/Rexer%27s_Annual_Data_Miner_Survey" title="Rexer's Annual Data Miner Survey">2010 survey</a> data miners also shared their experiences in overcoming these challenges.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28"><span>[</span>29<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Data_mining&amp;action=edit&amp;section=15" title="Edit section: Visual Data Mining">edit</a>]</span> <span class="mw-headline" id="Visual_Data_Mining">Visual Data Mining</span></h3>
+<p>The process of turning from analogical into digital, large data sets have been generated, collected and stored discovering statistical patterns, trends and information which is hidden in data, in order to build predictive patterns. A study found that Visual Data Mining is faster and much more intuitive than traditional data mining.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29"><span>[</span>30<span>]</span></a></sup><sup id="cite_ref-30" class="reference"><a href="#cite_note-30"><span>[</span>31<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Data_mining&amp;action=edit&amp;section=16" title="Edit section: Surveillance">edit</a>]</span> <span class="mw-headline" id="Surveillance">Surveillance</span></h3>
+<p>Prior data mining to stop terrorist programs under the U.S. government include the <a href="/wiki/Total_Information_Awareness" title="Total Information Awareness" class="mw-redirect">Total Information Awareness</a> (TIA) program, Secure Flight (formerly known as Computer-Assisted Passenger Prescreening System (<a href="/wiki/CAPPS_II" title="CAPPS II" class="mw-redirect">CAPPS II</a>)), Analysis, Dissemination, Visualization, Insight, Semantic Enhancement (<a href="/wiki/ADVISE" title="ADVISE">ADVISE</a>),<sup id="cite_ref-31" class="reference"><a href="#cite_note-31"><span>[</span>32<span>]</span></a></sup> and the Multi-state Anti-Terrorism Information Exchange (<a href="/wiki/MATRIX" title="MATRIX" class="mw-redirect">MATRIX</a>).<sup id="cite_ref-32" class="reference"><a href="#cite_note-32"><span>[</span>33<span>]</span></a></sup> These programs have been discontinued due to controversy over whether they violate the US Constitution's 4th amendment, although many programs that were formed under them continue to be funded by different organizations, or under different names.<sup id="cite_ref-eff-tia-funding_33-0" class="reference"><a href="#cite_note-eff-tia-funding-33"><span>[</span>34<span>]</span></a></sup></p>
+<p>Two plausible data mining methods in the context of combating terrorism include "pattern mining" and "subject-based data mining".</p>
+<h4><span class="editsection">[<a href="/w/index.php?title=Data_mining&amp;action=edit&amp;section=17" title="Edit section: Pattern mining">edit</a>]</span> <span class="mw-headline" id="Pattern_mining">Pattern mining</span></h4>
+<p>"Pattern mining" is a data mining method that involves finding existing <a href="/wiki/Pattern" title="Pattern">patterns</a> in data. In this context <i>patterns</i> often means <a href="/wiki/Association_rules" title="Association rules" class="mw-redirect">association rules</a>. The original motivation for searching association rules came from the desire to analyze supermarket transaction data, that is, to examine customer behavior in terms of the purchased products. For example, an association rule "beer ⇒ potato chips (80%)" states that four out of five customers that bought beer also bought potato chips.</p>
+<p>In the context of pattern mining as a tool to identify terrorist activity, the <a href="/wiki/United_States_National_Research_Council" title="United States National Research Council">National Research Council</a> provides the following definition: "Pattern-based data mining looks for patterns (including anomalous data patterns) that might be associated with terrorist activity — these patterns might be regarded as small signals in a large ocean of noise."<sup id="cite_ref-34" class="reference"><a href="#cite_note-34"><span>[</span>35<span>]</span></a></sup><sup id="cite_ref-NRC2008_35-0" class="reference"><a href="#cite_note-NRC2008-35"><span>[</span>36<span>]</span></a></sup><sup id="cite_ref-Haag2006_36-0" class="reference"><a href="#cite_note-Haag2006-36"><span>[</span>37<span>]</span></a></sup> Pattern Mining includes new areas such a <a href="/wiki/Music_Information_Retrieval" title="Music Information Retrieval" class="mw-redirect">Music Information Retrieval</a> (MIR) where patterns seen both in the temporal and non temporal domains are imported to classical knowledge discovery search methods.</p>
+<h4><span class="editsection">[<a href="/w/index.php?title=Data_mining&amp;action=edit&amp;section=18" title="Edit section: Subject-based data mining">edit</a>]</span> <span class="mw-headline" id="Subject-based_data_mining">Subject-based data mining</span></h4>
+<p>"Subject-based data mining" is a data mining method involving the search for associations between individuals in data. In the context of combating terrorism, the <a href="/wiki/United_States_National_Research_Council" title="United States National Research Council">National Research Council</a> provides the following definition: "Subject-based data mining uses an initiating individual or other datum that is considered, based on other information, to be of high interest, and the goal is to determine what other persons or financial transactions or movements, etc., are related to that initiating datum."<sup id="cite_ref-NRC2008_35-1" class="reference"><a href="#cite_note-NRC2008-35"><span>[</span>36<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Data_mining&amp;action=edit&amp;section=19" title="Edit section: Privacy concerns and ethics">edit</a>]</span> <span class="mw-headline" id="Privacy_concerns_and_ethics">Privacy concerns and ethics</span></h2>
+<p>Some people believe that data mining itself is ethically neutral.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37"><span>[</span>38<span>]</span></a></sup> It is important to note that the term data mining has no ethical implications. The term is often associated with the mining of information in relation to peoples' behavior. However, data mining is a statistical method that is applied to a set of information, or a data set. Associating these data sets with people is an extreme narrowing of the types of data that are available in today's technological society. Examples could range from a set of crash test data for passenger vehicles, to the performance of a group of stocks. These types of data sets make up a great proportion of the information available to be acted on by data mining methods, and rarely have ethical concerns associated with them. However, the ways in which data mining can be used can raise questions regarding privacy, legality, and ethics.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38"><span>[</span>39<span>]</span></a></sup> In particular, data mining government or commercial data sets for national security or law enforcement purposes, such as in the <a href="/wiki/Total_Information_Awareness" title="Total Information Awareness" class="mw-redirect">Total Information Awareness</a> Program or in <a href="/wiki/ADVISE" title="ADVISE">ADVISE</a>, has raised privacy concerns.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39"><span>[</span>40<span>]</span></a></sup><sup id="cite_ref-40" class="reference"><a href="#cite_note-40"><span>[</span>41<span>]</span></a></sup></p>
+<p>Data mining requires data preparation which can uncover information or patterns which may compromise confidentiality and privacy obligations. A common way for this to occur is through <a href="/wiki/Aggregate_function" title="Aggregate function">data aggregation</a>. Data aggregation is when the data are accrued, possibly from various sources, and put together so that they can be analyzed.<sup id="cite_ref-NASCIO_41-0" class="reference"><a href="#cite_note-NASCIO-41"><span>[</span>42<span>]</span></a></sup> This is not data mining per se, but a result of the preparation of data before and for the purposes of the analysis. The threat to an individual's privacy comes into play when the data, once compiled, cause the data miner, or anyone who has access to the newly compiled data set, to be able to identify specific individuals, especially when originally the data were anonymous.</p>
+<p>It is recommended that an individual is made aware of the following before data are collected:</p>
+<ul>
+<li>the purpose of the data collection and any data mining projects,</li>
+<li>how the data will be used,</li>
+<li>who will be able to mine the data and use them,</li>
+<li>the security surrounding access to the data, and in addition,</li>
+<li>how collected data can be updated.<sup id="cite_ref-NASCIO_41-1" class="reference"><a href="#cite_note-NASCIO-41"><span>[</span>42<span>]</span></a></sup></li>
+</ul>
+<p>In the <a href="/wiki/United_States" title="United States">United States</a>, privacy concerns have been somewhat addressed by their <a href="/wiki/US_congress" title="US congress" class="mw-redirect">congress</a> via the passage of regulatory controls such as the <a href="/wiki/Health_Insurance_Portability_and_Accountability_Act" title="Health Insurance Portability and Accountability Act">Health Insurance Portability and Accountability Act</a> (HIPAA). The HIPAA requires individuals to be given "informed consent" regarding any information that they provide and its intended future uses by the facility receiving that information. According to an article in Biotech Business Week, "In practice, HIPAA may not offer any greater protection than the longstanding regulations in the research arena, says the AAHC. More importantly, the rule's goal of protection through informed consent is undermined by the complexity of consent forms that are required of patients and participants, which approach a level of incomprehensibility to average individuals."<sup id="cite_ref-42" class="reference"><a href="#cite_note-42"><span>[</span>43<span>]</span></a></sup> This underscores the necessity for data anonymity in data aggregation practices.</p>
+<p>One may additionally modify the data so that they are anonymous, so that individuals may not be readily identified.<sup id="cite_ref-NASCIO_41-2" class="reference"><a href="#cite_note-NASCIO-41"><span>[</span>42<span>]</span></a></sup> However, even de-identified data sets can contain enough information to identify individuals, as occurred when journalists were able to find several individuals based on a set of search histories that were inadvertently released by AOL.<sup id="cite_ref-43" class="reference"><a href="#cite_note-43"><span>[</span>44<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Data_mining&amp;action=edit&amp;section=20" title="Edit section: Marketplace surveys">edit</a>]</span> <span class="mw-headline" id="Marketplace_surveys">Marketplace surveys</span></h2>
+<p>Several researchers and organizations have conducted reviews of data mining tools and surveys of data miners. These identify some of the strengths and weaknesses of the software packages. They also provide an overview of the behaviors, preferences and views of data miners. Some of these reports include:</p>
+<ul>
+<li><a href="/wiki/Rexer%27s_Annual_Data_Miner_Survey" title="Rexer's Annual Data Miner Survey">Annual Rexer Analytics Data Miner Surveys</a>.<sup id="cite_ref-survey2010_27-1" class="reference"><a href="#cite_note-survey2010-27"><span>[</span>28<span>]</span></a></sup></li>
+<li><a href="/wiki/Forrester_Research" title="Forrester Research">Forrester Research</a> 2010 Predictive Analytics and Data Mining Solutions report.<sup id="cite_ref-44" class="reference"><a href="#cite_note-44"><span>[</span>45<span>]</span></a></sup></li>
+<li><a href="/wiki/Gartner" title="Gartner">Gartner</a> 2008 "Magic Quadrant" report.<sup id="cite_ref-45" class="reference"><a href="#cite_note-45"><span>[</span>46<span>]</span></a></sup></li>
+<li>Haughton et al.'s 2003 Review of Data Mining Software Packages in <i><a href="/wiki/The_American_Statistician" title="The American Statistician">The American Statistician</a></i>.<sup id="cite_ref-46" class="reference"><a href="#cite_note-46"><span>[</span>47<span>]</span></a></sup></li>
+<li>Robert A. Nisbet's 2006 Three Part Series of articles "Data Mining Tools: Which One is Best For CRM?"<sup id="cite_ref-47" class="reference"><a href="#cite_note-47"><span>[</span>48<span>]</span></a></sup></li>
+<li>2011 Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery in <sup id="cite_ref-48" class="reference"><a href="#cite_note-48"><span>[</span>49<span>]</span></a></sup></li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Data_mining&amp;action=edit&amp;section=21" title="Edit section: Groups and associations">edit</a>]</span> <span class="mw-headline" id="Groups_and_associations">Groups and associations</span></h2>
+<ul>
+<li><a href="/wiki/SIGKDD" title="SIGKDD">SIGKDD</a>, the <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">ACM</a> Special Interest Group on Knowledge Discovery and Data Mining.<sup id="cite_ref-49" class="reference"><a href="#cite_note-49"><span>[</span>50<span>]</span></a></sup></li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Data_mining&amp;action=edit&amp;section=22" title="Edit section: See also">edit</a>]</span> <span class="mw-headline" id="See_also">See also</span></h2>
+<h3><span class="editsection">[<a href="/w/index.php?title=Data_mining&amp;action=edit&amp;section=23" title="Edit section: Methods">edit</a>]</span> <span class="mw-headline" id="Methods">Methods</span></h3>
+<div style="-moz-column-count: 3; -webkit-column-count: 3; column-count: 3;">
+<ul>
+<li><a href="/wiki/Anomaly_detection" title="Anomaly detection">Anomaly / outlier / change detection</a></li>
+<li><a href="/wiki/Association_rule_learning" title="Association rule learning">Association rule learning</a></li>
+<li><a href="/wiki/Statistical_classification" title="Statistical classification">Classification</a></li>
+<li><a href="/wiki/Cluster_analysis" title="Cluster analysis">Cluster analysis</a></li>
+<li><a href="/wiki/Decision_trees" title="Decision trees" class="mw-redirect">Decision trees</a></li>
+<li><a href="/wiki/Factor_analysis" title="Factor analysis">Factor analysis</a></li>
+<li><a href="/wiki/Regression_analysis" title="Regression analysis">Regression analysis</a></li>
+<li><a href="/wiki/Structured_data_analysis_(statistics)" title="Structured data analysis (statistics)">Structured data analysis</a></li>
+<li><a href="/wiki/Text_mining" title="Text mining">Text mining</a></li>
+</ul>
+</div>
+<h3><span class="editsection">[<a href="/w/index.php?title=Data_mining&amp;action=edit&amp;section=24" title="Edit section: Application domains">edit</a>]</span> <span class="mw-headline" id="Application_domains">Application domains</span></h3>
+<div style="-moz-column-count: 3; -webkit-column-count: 3; column-count: 3;">
+<ul>
+<li><a href="/wiki/Analytics" title="Analytics">Analytics</a></li>
+<li><a href="/wiki/Business_intelligence" title="Business intelligence">Business intelligence</a></li>
+<li><a href="/wiki/Data_analysis" title="Data analysis">Data analysis</a></li>
+<li><a href="/wiki/Data_warehouse" title="Data warehouse">Data warehouse</a></li>
+<li><a href="/wiki/Decision_support_system" title="Decision support system">Decision support system</a></li>
+<li><a href="/wiki/Exploratory_data_analysis" title="Exploratory data analysis">Exploratory data analysis</a></li>
+<li><a href="/wiki/Predictive_analytics" title="Predictive analytics">Predictive analytics</a></li>
+<li><a href="/wiki/Web_mining" title="Web mining">Web mining</a></li>
+</ul>
+</div>
+<h3><span class="editsection">[<a href="/w/index.php?title=Data_mining&amp;action=edit&amp;section=25" title="Edit section: Application examples">edit</a>]</span> <span class="mw-headline" id="Application_examples">Application examples</span></h3>
+<div style="-moz-column-count: 3; -webkit-column-count: 3; column-count: 3;">
+<ul>
+<li><a href="/wiki/Customer_analytics#Data_mining" title="Customer analytics">Customer analytics</a></li>
+<li><a href="/wiki/Data_mining_in_agriculture" title="Data mining in agriculture">Data mining in agriculture</a></li>
+<li><a href="/wiki/National_Security_Agency#Transaction_data_mining" title="National Security Agency">National Security Agency</a></li>
+<li><a href="/wiki/Police-enforced_ANPR_in_the_UK#Data_mining" title="Police-enforced ANPR in the UK">Police-enforced ANPR in the UK</a></li>
+<li><a href="/wiki/Quantitative_structure%E2%80%93activity_relationship#Data_mining" title="Quantitative structure–activity relationship">Quantitative structure–activity relationship</a></li>
+<li><a href="/wiki/Data_mining_in_meteorology" title="Data mining in meteorology">Data mining in meteorology</a></li>
+<li><a href="/wiki/Educational_data_mining" title="Educational data mining">Educational data mining</a></li>
+<li><a href="/wiki/Surveillance#Data_mining_and_profiling" title="Surveillance">Surveillance</a> / <a href="/wiki/Mass_surveillance#Data_mining" title="Mass surveillance">Mass surveillance</a> (e.g., <a href="/wiki/Stellar_wind_(code_name)" title="Stellar wind (code name)">Stellar wind</a>)</li>
+</ul>
+</div>
+<h3><span class="editsection">[<a href="/w/index.php?title=Data_mining&amp;action=edit&amp;section=26" title="Edit section: Miscellaneous">edit</a>]</span> <span class="mw-headline" id="Miscellaneous">Miscellaneous</span></h3>
+<div style="-moz-column-count: 3; -webkit-column-count: 3; column-count: 3;">
+<ul>
+<li><a href="/wiki/Privacy-preserving_data_mining" title="Privacy-preserving data mining">Privacy-preserving data mining</a></li>
+</ul>
+</div>
+<h3><span class="editsection">[<a href="/w/index.php?title=Data_mining&amp;action=edit&amp;section=27" title="Edit section: Related topics">edit</a>]</span> <span class="mw-headline" id="Related_topics">Related topics</span></h3>
+<p>Data mining is about <i>analysing</i> data; for information about extracting information out of data, see:</p>
+<div style="-moz-column-count: 3; -webkit-column-count: 3; column-count: 3;">
+<ul>
+<li><a href="/wiki/Information_extraction" title="Information extraction">Information extraction</a></li>
+<li><a href="/wiki/Web_scraping" title="Web scraping">Web scraping</a></li>
+<li><a href="/wiki/Named-entity_recognition" title="Named-entity recognition">Named-entity recognition</a></li>
+<li><a href="/w/index.php?title=Data_Cleansing&amp;action=edit&amp;redlink=1" class="new" title="Data Cleansing (page does not exist)">Data Cleansing</a></li>
+<li><a href="/wiki/Data_integration" title="Data integration">Data integration</a></li>
+<li><a href="/w/index.php?title=Data_selection&amp;action=edit&amp;redlink=1" class="new" title="Data selection (page does not exist)">Data selection</a></li>
+<li><a href="/wiki/Data_transformation" title="Data transformation">Data transformation</a></li>
+<li><a href="/w/index.php?title=Pattern_evaluation&amp;action=edit&amp;redlink=1" class="new" title="Pattern evaluation (page does not exist)">Pattern evaluation</a></li>
+<li><a href="/wiki/Profiling_practices" title="Profiling practices">Profiling practices</a></li>
+</ul>
+</div>
+<h3><span class="editsection">[<a href="/w/index.php?title=Data_mining&amp;action=edit&amp;section=28" title="Edit section: Commercial data-mining software and applications">edit</a>]</span> <span class="mw-headline" id="Commercial_data-mining_software_and_applications">Commercial data-mining software and applications</span></h3>
+<ul>
+<li><a href="/wiki/Microsoft_Analysis_Services" title="Microsoft Analysis Services">Microsoft Analysis Services</a> data mining software provided by <a href="/wiki/Microsoft" title="Microsoft">Microsoft</a></li>
+<li><a href="/wiki/SAS_(software)" title="SAS (software)">SAS</a> Enterprise Miner – data mining software provided by the <a href="/wiki/SAS_Institute" title="SAS Institute">SAS Institute</a>.</li>
+<li><a href="/wiki/SPSS_Modeler" title="SPSS Modeler">SPSS Modeler</a> – data mining software provided by <a href="/wiki/IBM" title="IBM">IBM</a> <a href="/wiki/SPSS" title="SPSS">SPSS</a>. According to <a href="/wiki/Rexer%27s_Annual_Data_Miner_Survey" title="Rexer's Annual Data Miner Survey">Rexer's Annual Data Miner Survey</a> in 2010, IBM SPSS Modeler (along with <a href="/wiki/STATISTICA" title="STATISTICA">STATISTICA</a> Data Miner and <a href="/wiki/R_(programming_language)" title="R (programming language)">R</a>) received the strongest satisfaction ratings in both 2010 and 2009.<sup id="cite_ref-survey2010_27-2" class="reference"><a href="#cite_note-survey2010-27"><span>[</span>28<span>]</span></a></sup></li>
+<li><a href="/wiki/STATISTICA" title="STATISTICA">STATISTICA</a> Data Miner – data mining software provided by <a href="/wiki/StatSoft" title="StatSoft">StatSoft</a>. According to <a href="/wiki/Rexer%27s_Annual_Data_Miner_Survey" title="Rexer's Annual Data Miner Survey">Rexer's Annual Data Miner Survey</a> in 2010, STATISTICA Data Miner (along with <a href="/wiki/IBM" title="IBM">IBM</a> <a href="/wiki/SPSS_Modeler" title="SPSS Modeler">SPSS Modeler</a> and <a href="/wiki/R_(programming_language)" title="R (programming language)">R</a>) received the strongest satisfaction ratings in both 2010 and 2009; moreover, in 2010 it was rated as the primary data mining tool chosen most often (18%).<sup id="cite_ref-survey2010_27-3" class="reference"><a href="#cite_note-survey2010-27"><span>[</span>28<span>]</span></a></sup></li>
+<li><a rel="nofollow" class="external text" href="http://www.ezdi.us"><i>ezDI</i></a> data mining software provided by <a href="/w/index.php?title=EzDI&amp;action=edit&amp;redlink=1" class="new" title="EzDI (page does not exist)">ezDI</a></li>
+</ul>
+<h3><span class="editsection">[<a href="/w/index.php?title=Data_mining&amp;action=edit&amp;section=29" title="Edit section: Free libre open-source data-mining software and applications">edit</a>]</span> <span class="mw-headline" id="Free_libre_open-source_data-mining_software_and_applications">Free libre open-source data-mining software and applications</span></h3>
+<ol>
+<li><a href="/wiki/Carrot2" title="Carrot2">Carrot2</a> – Text and search results clustering framework.</li>
+<li><a href="/wiki/Environment_for_DeveLoping_KDD-Applications_Supported_by_Index-Structures" title="Environment for DeveLoping KDD-Applications Supported by Index-Structures" class="mw-redirect">ELKI</a> – A university research project with advanced <a href="/wiki/Cluster_analysis" title="Cluster analysis">cluster analysis</a> and <a href="/wiki/Anomaly_detection" title="Anomaly detection">outlier detection</a> methods written in <a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java</a> language.</li>
+<li><a href="/wiki/General_Architecture_for_Text_Engineering" title="General Architecture for Text Engineering">GATE</a> – <a href="/wiki/Natural_language_processing" title="Natural language processing">Natural language processing</a> and language engineering tool.</li>
+<li><a href="/wiki/JHepWork" title="JHepWork">JHepWork</a> – Java <a href="/wiki/Cross-platform" title="Cross-platform">cross-platform</a> data analysis framework developed at <a href="/wiki/Argonne_National_Laboratory" title="Argonne National Laboratory">ANL</a>.</li>
+<li><a href="/wiki/KNIME" title="KNIME">KNIME</a> – The Konstanz Information Miner, a user friendly and comprehensive data analytics framework.</li>
+<li><a href="/wiki/NLTK" title="NLTK" class="mw-redirect">NLTK</a> or <a href="/wiki/Natural_Language_Toolkit" title="Natural Language Toolkit">Natural Language Toolkit</a> – A suite of libraries and programs for symbolic and statistical natural language processing (NLP) for the <a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a> language.</li>
+<li><a href="/wiki/Orange_(software)" title="Orange (software)">Orange</a> – A component-based data mining and <a href="/wiki/Machine_learning" title="Machine learning">machine learning</a> software suite written in <a href="/wiki/Python" title="Python">Python</a> language.</li>
+<li><a href="/wiki/R_(programming_language)" title="R (programming language)">R</a> – A <a href="/wiki/Programming_language" title="Programming language">programming language</a> and software environment for <a href="/wiki/Statistics" title="Statistics">statistical</a> computing, data mining and graphics. It is part of the <a href="/wiki/GNU_project" title="GNU project" class="mw-redirect">GNU project</a>.</li>
+<li><a href="/wiki/RapidMiner" title="RapidMiner">RapidMiner</a> – An environment for <a href="/wiki/Machine_learning" title="Machine learning">machine learning</a> and data mining experiments.</li>
+<li><a href="/w/index.php?title=TANAGRA_(software)&amp;action=edit&amp;redlink=1" class="new" title="TANAGRA (software) (page does not exist)">Tanagra</a> – A tool that includes exploratory data analysis and statistical algorithms.</li>
+<li><a href="/wiki/UIMA" title="UIMA">UIMA</a> – The UIMA (Unstructured Information Management Architecture) is a component framework for analysing unstructured content such as text, audio and video, originally developed by IBM.</li>
+<li><a href="/wiki/Weka_(machine_learning)" title="Weka (machine learning)">Weka</a> – A suite of machine learning software written in the <a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java</a> language.</li>
+<li><a href="/wiki/Chemicalize.org" title="Chemicalize.org">Chemicalize.org</a> – A chemical structure miner and web search engine.</li>
+</ol>
+<p>In 2010, the open source R language overtook other tools to become the tool used by more data miners (43%) than any other.<sup id="cite_ref-survey2010_27-4" class="reference"><a href="#cite_note-survey2010-27"><span>[</span>28<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Data_mining&amp;action=edit&amp;section=30" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Fayyad-0">^ <a href="#cite_ref-Fayyad_0-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Fayyad_0-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Fayyad_0-2"><sup><i><b>c</b></i></sup></a> <span class="citation web">Fayyad, Usama; Gregory Piatetsky-Shapiro, and Padhraic Smyth (1996). <a rel="nofollow" class="external text" href="http://www.kdnuggets.com/gpspubs/aimag-kdd-overview-1996-Fayyad.pdf">"From Data Mining to Knowledge Discovery in Databases"</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.kdnuggets.com/gpspubs/aimag-kdd-overview-1996-Fayyad.pdf">http://www.kdnuggets.com/gpspubs/aimag-kdd-overview-1996-Fayyad.pdf</a></span><span class="reference-accessdate">. Retrieved 2008-12-17</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=From+Data+Mining+to+Knowledge+Discovery+in+Databases&amp;rft.atitle=&amp;rft.aulast=Fayyad&amp;rft.aufirst=Usama&amp;rft.au=Fayyad%2C%26%2332%3BUsama&amp;rft.date=1996&amp;rft_id=http%3A%2F%2Fwww.kdnuggets.com%2Fgpspubs%2Faimag-kdd-overview-1996-Fayyad.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Data_mining"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-acm-1">^ <a href="#cite_ref-acm_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-acm_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-acm_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-acm_1-3"><sup><i><b>d</b></i></sup></a> <span class="citation web"><a rel="nofollow" class="external text" href="http://www.sigkdd.org/curriculum.php">"Data Mining Curriculum"</a>. <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">ACM</a> <a href="/wiki/SIGKDD" title="SIGKDD">SIGKDD</a>. 2006-04-30<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.sigkdd.org/curriculum.php">http://www.sigkdd.org/curriculum.php</a></span><span class="reference-accessdate">. Retrieved 2011-10-28</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Data+Mining+Curriculum&amp;rft.atitle=&amp;rft.date=2006-04-30&amp;rft.pub=%5B%5BAssociation+for+Computing+Machinery%7CACM%5D%5D+%5B%5BSIGKDD%5D%5D&amp;rft_id=http%3A%2F%2Fwww.sigkdd.org%2Fcurriculum.php&amp;rfr_id=info:sid/en.wikipedia.org:Data_mining"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-brittanica-2"><b><a href="#cite_ref-brittanica_2-0">^</a></b> <span class="citation web">Clifton, Christopher (2010). <a rel="nofollow" class="external text" href="http://www.britannica.com/EBchecked/topic/1056150/data-mining">"Encyclopedia Britannica: Definition of Data Mining"</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.britannica.com/EBchecked/topic/1056150/data-mining">http://www.britannica.com/EBchecked/topic/1056150/data-mining</a></span><span class="reference-accessdate">. Retrieved 2010-12-09</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Encyclopedia+Britannica%3A+Definition+of+Data+Mining&amp;rft.atitle=&amp;rft.aulast=Clifton&amp;rft.aufirst=Christopher&amp;rft.au=Clifton%2C%26%2332%3BChristopher&amp;rft.date=2010&amp;rft_id=http%3A%2F%2Fwww.britannica.com%2FEBchecked%2Ftopic%2F1056150%2Fdata-mining&amp;rfr_id=info:sid/en.wikipedia.org:Data_mining"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-witten-3"><b><a href="#cite_ref-witten_3-0">^</a></b> <span class="citation book">Ian H. Witten; Eibe Frank; Mark A. Hall (30 January 2011). <i>Data Mining: Practical Machine Learning Tools and Techniques</i> (3 ed.). Elsevier. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-12-374856-0" title="Special:BookSources/978-0-12-374856-0">978-0-12-374856-0</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Data+Mining%3A+Practical+Machine+Learning+Tools+and+Techniques&amp;rft.aulast=Ian+H.+Witten&amp;rft.au=Ian+H.+Witten&amp;rft.au=Eibe+Frank&amp;rft.au=Mark+A.+Hall&amp;rft.date=30+January+2011&amp;rft.edition=3&amp;rft.pub=Elsevier&amp;rft.isbn=978-0-12-374856-0&amp;rfr_id=info:sid/en.wikipedia.org:Data_mining"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-4"><b><a href="#cite_ref-4">^</a></b> <span class="citation Journal">R.R. Bouckaert; E. Frank; M.A. Hall; G. Holmes; B. Pfahringer; P. Reutemann; I.H. Witten (2010). "WEKA Experiences with a Java open-source project". <i>Journal of Machine Learning Research</i> <b>11</b>: 2533–2541. "the original title, "Practical machine learning", was changed [...] The term "data mining" was prepended primarily for marketing reasons."</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=WEKA+Experiences+with+a+Java+open-source+project&amp;rft.jtitle=Journal+of+Machine+Learning+Research&amp;rft.aulast=R.R.+Bouckaert&amp;rft.au=R.R.+Bouckaert&amp;rft.au=E.+Frank&amp;rft.au=M.A.+Hall&amp;rft.au=G.+Holmes&amp;rft.au=B.+Pfahringer&amp;rft.au=P.+Reutemann&amp;rft.au=I.H.+Witten&amp;rft.date=2010&amp;rft.volume=11&amp;rft.pages=2533%E2%80%932541&amp;rfr_id=info:sid/en.wikipedia.org:Data_mining"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-5"><b><a href="#cite_ref-5">^</a></b> <span class="citation book">Kantardzic, Mehmed (2003). <i>Data Mining: Concepts, Models, Methods, and Algorithms</i>. John Wiley &amp; Sons. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0471228524" title="Special:BookSources/0471228524">0471228524</a>. <a href="/wiki/Online_Computer_Library_Center" title="Online Computer Library Center">OCLC</a>&#160;<a rel="nofollow" class="external text" href="http://www.worldcat.org/oclc/50055336">50055336</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Data+Mining%3A+Concepts%2C+Models%2C+Methods%2C+and+Algorithms&amp;rft.aulast=Kantardzic&amp;rft.aufirst=Mehmed&amp;rft.au=Kantardzic%2C%26%2332%3BMehmed&amp;rft.date=2003&amp;rft.pub=John+Wiley+%26+Sons&amp;rft.isbn=0471228524&amp;rft_id=info:oclcnum/50055336&amp;rfr_id=info:sid/en.wikipedia.org:Data_mining"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-6"><b><a href="#cite_ref-6">^</a></b> <a rel="nofollow" class="external text" href="http://www.kdd.org/conferences.php">Proceedings</a>, International Conferences on Knowledge Discovery and Data Mining, ACM, New York.</li>
+<li id="cite_note-7"><b><a href="#cite_ref-7">^</a></b> <a rel="nofollow" class="external text" href="http://www.kdd.org/explorations/about.php">SIGKDD Explorations</a>, ACM, New York.</li>
+<li id="cite_note-8"><b><a href="#cite_ref-8">^</a></b> <span class="citation Journal">Mario Cannataro; Domenico Talia (January 2003). <a rel="nofollow" class="external text" href="http://grid.deis.unical.it/papers/pdf/CACM2003.pdf">"The knowledge grid: An Architecture for Distributed Knowledge Discovery"</a>. <i>Communications of the ACM</i> <b>46</b> (1): 89–93. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1145%2F602421.602425">10.1145/602421.602425</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://grid.deis.unical.it/papers/pdf/CACM2003.pdf">http://grid.deis.unical.it/papers/pdf/CACM2003.pdf</a></span><span class="reference-accessdate">. Retrieved October 17, 2011</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The+knowledge+grid%3A+An+Architecture+for+Distributed+Knowledge+Discovery&amp;rft.jtitle=Communications+of+the+ACM&amp;rft.aulast=Mario+Cannataro&amp;rft.au=Mario+Cannataro&amp;rft.au=Domenico+Talia&amp;rft.date=January+2003&amp;rft.volume=46&amp;rft.issue=1&amp;rft.pages=89%E2%80%9393&amp;rft_id=info:doi/10.1145%2F602421.602425&amp;rft_id=http%3A%2F%2Fgrid.deis.unical.it%2Fpapers%2Fpdf%2FCACM2003.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Data_mining"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-9"><b><a href="#cite_ref-9">^</a></b> <span class="citation Journal">Domenico Talia; Paolo Trunfio (July 2010). <a rel="nofollow" class="external text" href="http://grid.deis.unical.it/papers/pdf/CACM2010.pdf">"How distributed data mining tasks can thrive as knowledge services"</a>. <i>Communications of the ACM</i> <b>53</b> (7): 132–137. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1145%2F1785414.1785451">10.1145/1785414.1785451</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://grid.deis.unical.it/papers/pdf/CACM2010.pdf">http://grid.deis.unical.it/papers/pdf/CACM2010.pdf</a></span><span class="reference-accessdate">. Retrieved October 17, 2011</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=How+distributed+data+mining+tasks+can+thrive+as+knowledge+services&amp;rft.jtitle=Communications+of+the+ACM&amp;rft.aulast=Domenico+Talia&amp;rft.au=Domenico+Talia&amp;rft.au=Paolo+Trunfio&amp;rft.date=July+2010&amp;rft.volume=53&amp;rft.issue=7&amp;rft.pages=132%E2%80%93137&amp;rft_id=info:doi/10.1145%2F1785414.1785451&amp;rft_id=http%3A%2F%2Fgrid.deis.unical.it%2Fpapers%2Fpdf%2FCACM2010.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Data_mining"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-10"><b><a href="#cite_ref-10">^</a></b> <span class="citation Journal">Günnemann, S.; Kremer, H.; Seidl, T. (2011). "An extension of the PMML standard to subspace clustering models". <i>Proceedings of the 2011 workshop on Predictive markup language modeling - PMML '11</i>. pp. 48. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1145%2F2023598.2023605">10.1145/2023598.2023605</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781450308373" title="Special:BookSources/9781450308373">9781450308373</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=An+extension+of+the+PMML+standard+to+subspace+clustering+models&amp;rft.atitle=Proceedings+of+the+2011+workshop+on+Predictive+markup+language+modeling+-+PMML+%2711&amp;rft.aulast=G%C3%BCnnemann&amp;rft.aufirst=S.&amp;rft.au=G%C3%BCnnemann%2C%26%2332%3BS.&amp;rft.au=Kremer%2C%26%2332%3BH.&amp;rft.au=Seidl%2C%26%2332%3BT.&amp;rft.date=2011&amp;rft.pages=pp.+48&amp;rft_id=info:doi/10.1145%2F2023598.2023605&amp;rft.isbn=9781450308373&amp;rfr_id=info:sid/en.wikipedia.org:Data_mining"><span style="display: none;">&#160;</span></span> <span class="plainlinks noprint" style="font-size:smaller"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cite_doi/10.1145.2F2023598.2023605&amp;action=edit&amp;editintro=Template:Cite_doi/editintro2">edit</a></span></li>
+<li id="cite_note-autogenerated1-11"><b><a href="#cite_ref-autogenerated1_11-0">^</a></b> <span class="citation book">Ellen Monk, Bret Wagner (2006). <i>Concepts in Enterprise Resource Planning, Second Edition</i>. Thomson Course Technology, Boston, MA. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-619-21663-8" title="Special:BookSources/0-619-21663-8">0-619-21663-8</a>. <a href="/wiki/Online_Computer_Library_Center" title="Online Computer Library Center">OCLC</a>&#160;<a rel="nofollow" class="external text" href="http://www.worldcat.org/oclc/224465825">224465825</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Concepts+in+Enterprise+Resource+Planning%2C+Second+Edition&amp;rft.aulast=Ellen+Monk%2C+Bret+Wagner&amp;rft.au=Ellen+Monk%2C+Bret+Wagner&amp;rft.date=2006&amp;rft.pub=Thomson+Course+Technology%2C+Boston%2C+MA&amp;rft.isbn=0-619-21663-8&amp;rft_id=info:oclcnum/224465825&amp;rfr_id=info:sid/en.wikipedia.org:Data_mining"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-12"><b><a href="#cite_ref-12">^</a></b> Roberto Battiti and Mauro Brunato, <i><a rel="nofollow" class="external text" href="http://www.reactivebusinessintelligence.com/">Reactive Business Intelligence. From Data to Models to Insight</a></i>, Reactive Search Srl, Italy, February 2011. <a href="/wiki/Special:BookSources/9788890579509" class="internal mw-magiclink-isbn">ISBN 978-88-905795-0-9</a>.</li>
+<li id="cite_note-13"><b><a href="#cite_ref-13">^</a></b> <span class="citation Journal">Battiti, Roberto; Andrea Passerini (2010). "Brain-Computer Evolutionary Multi-Objective Optimization (BC-EMO): a genetic algorithm adapting to the decision maker". <i>IEEE Transactions on Evolutionary Computation</i> <b>14</b> (15): 671–687. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a> <a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/url">=http://rtm.science.unitn.it/~battiti/archive/bcemo.pdf url =http://rtm.science.unitn.it/~battiti/archive/bcemo.pdf</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1109%2FTEVC.2010.2058118">10.1109/TEVC.2010.2058118</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Brain-Computer+Evolutionary+Multi-Objective+Optimization+%28BC-EMO%29%3A+a+genetic+algorithm+adapting+to+the+decision+maker&amp;rft.jtitle=IEEE+Transactions+on+Evolutionary+Computation&amp;rft.aulast=Battiti&amp;rft.aufirst=Roberto&amp;rft.au=Battiti%2C%26%2332%3BRoberto&amp;rft.date=2010&amp;rft.volume=14&amp;rft.issue=15&amp;rft.pages=671%E2%80%93687&amp;rft_id=info:bibcode/url+++++++++%3Dhttp%3A%2F%2Frtm.science.unitn.it%2F%7Ebattiti%2Farchive%2Fbcemo.pdf&amp;rft_id=info:doi/10.1109%2FTEVC.2010.2058118&amp;rfr_id=info:sid/en.wikipedia.org:Data_mining"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-14"><b><a href="#cite_ref-14">^</a></b> Tony Fountain, Thomas Dietterich &amp; Bill Sudyka (2000) <a rel="nofollow" class="external text" href="http://web.engr.oregonstate.edu/~tgd/publications/kdd2000-dlft.pdf"><i>Mining IC Test Data to Optimize VLSI Testing</i></a>, in Proceedings of the Sixth ACM SIGKDD International Conference on Knowledge Discovery &amp; Data Mining. (pp. 18–25). ACM Press.</li>
+<li id="cite_note-15"><b><a href="#cite_ref-15">^</a></b> <span class="citation book">Xingquan Zhu, Ian Davidson (2007). <i>Knowledge Discovery and Data Mining: Challenges and Realities</i>. Hershey, New York. p.&#160;18. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-159904252-7" title="Special:BookSources/978-159904252-7">978-159904252-7</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Knowledge+Discovery+and+Data+Mining%3A+Challenges+and+Realities&amp;rft.aulast=Xingquan+Zhu%2C+Ian+Davidson&amp;rft.au=Xingquan+Zhu%2C+Ian+Davidson&amp;rft.date=2007&amp;rft.pages=p.%26nbsp%3B18&amp;rft.pub=Hershey%2C+New+York&amp;rft.isbn=978-159904252-7&amp;rfr_id=info:sid/en.wikipedia.org:Data_mining"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-McGrail-16">^ <a href="#cite_ref-McGrail_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-McGrail_16-1"><sup><i><b>b</b></i></sup></a> <span class="citation Journal">A.J. McGrail, E. Gulski et al.. "Data Mining Techniques to Asses the Condition of High Voltage Electrical Plant". <i>CIGRE WG 15.11 of Study Committee 15</i>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Data+Mining+Techniques+to+Asses+the+Condition+of+High+Voltage+Electrical+Plant&amp;rft.jtitle=CIGRE+WG+15.11+of+Study+Committee+15&amp;rft.aulast=A.J.+McGrail%2C+E.+Gulski+et+al.&amp;rft.au=A.J.+McGrail%2C+E.+Gulski+et+al.&amp;rfr_id=info:sid/en.wikipedia.org:Data_mining"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-17"><b><a href="#cite_ref-17">^</a></b> <span class="citation Journal">R. Baker. "Is Gaming the System State-or-Trait? Educational Data Mining Through the Multi-Contextual Application of a Validated Behavioral Model". <i>Workshop on Data Mining for User Modeling 2007</i>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Is+Gaming+the+System+State-or-Trait%3F+Educational+Data+Mining+Through+the+Multi-Contextual+Application+of+a+Validated+Behavioral+Model&amp;rft.jtitle=Workshop+on+Data+Mining+for+User+Modeling+2007&amamp;rft.aulast=R.+Baker&amp;rft.au=R.+Baker&amp;rfr_id=info:sid/en.wikipedia.org:Data_mining"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-18"><b><a href="#cite_ref-18">^</a></b> <span class="citation Journal">J.F. Superby, J-P. Vandamme, N. Meskens. "Determination of factors influencing the achievement of the first-year university students using data mining methods". <i>Workshop on Educational Data Mining 2006</i>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Determination+of+factors+influencing+the+achievement+of+the+first-year+university+students+using+data+mining+methods&amp;rft.jtitle=Workshop+on+Educational+Data+Mining+2006&amp;rft.aulast=J.F.+Superby%2C+J-P.+Vandamme%2C+N.+Meskens&amp;rft.au=J.F.+Superby%2C+J-P.+Vandamme%2C+N.+Meskens&amp;rfr_id=info:sid/en.wikipedia.org:Data_mining"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-Zhu-19"><b><a href="#cite_ref-Zhu_19-0">^</a></b> <span class="citation book">Xingquan Zhu, Ian Davidson (2007). <i>Knowledge Discovery and Data Mining: Challenges and Realities</i>. Hershey, New York. pp.&#160;163–189. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-159904252-7" title="Special:BookSources/978-159904252-7">978-159904252-7</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Knowledge+Discovery+and+Data+Mining%3A+Challenges+and+Realities&amp;rft.aulast=Xingquan+Zhu%2C+Ian+Davidson&amp;rft.au=Xingquan+Zhu%2C+Ian+Davidson&amp;rft.date=2007&amp;rft.pages=pp.%26nbsp%3B163%E2%80%93189&amp;rft.pub=Hershey%2C+New+York&amp;rft.isbn=978-159904252-7&amp;rfr_id=info:sid/en.wikipedia.org:Data_mining"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-20"><b><a href="#cite_ref-20">^</a></b> <span class="citation book">Xingquan Zhu, Ian Davidson (2007). <i>Knowledge Discovery and Data Mining: Challenges and Realities</i>. Hershey, New Your. pp.&#160;31–48. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-159904252-7" title="Special:BookSources/978-159904252-7">978-159904252-7</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Knowledge+Discovery+and+Data+Mining%3A+Challenges+and+Realities&amp;rft.aulast=Xingquan+Zhu%2C+Ian+Davidson&amp;rft.au=Xingquan+Zhu%2C+Ian+Davidson&amp;rft.date=2007&amp;rft.pages=pp.%26nbsp%3B31%E2%80%9348&amp;rft.pub=Hershey%2C+New+Your&amp;rft.isbn=978-159904252-7&amp;rfr_id=info:sid/en.wikipedia.org:Data_mining"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-21"><b><a href="#cite_ref-21">^</a></b> <span class="citation Journal">Yudong Chen, Yi Zhang, Jianming Hu, Xiang Li. "Traffic Data Analysis Using Kernel PCA and Self-Organizing Map". <i>Intelligent Vehicles Symposium, 2006 IEEE</i>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Traffic+Data+Analysis+Using+Kernel+PCA+and+Self-Organizing+Map&amp;rft.jtitle=Intelligent+Vehicles+Symposium%2C+2006+IEEE&amp;rft.aulast=Yudong+Chen%2C+Yi+Zhang%2C+Jianming+Hu%2C+Xiang+Li&amp;rft.au=Yudong+Chen%2C+Yi+Zhang%2C+Jianming+Hu%2C+Xiang+Li&amp;rfr_id=info:sid/en.wikipedia.org:Data_mining"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-22"><b><a href="#cite_ref-22">^</a></b> Bate A, Lindquist M, Edwards IR, Olsson S, Orre R, Lansner A, De Freitas RM. A Bayesian neural network method for adverse drug reaction signal generation. <i>Eur J Clin Pharmacol.</i> 1998 Jun;54(4):315–21.</li>
+<li id="cite_note-23"><b><a href="#cite_ref-23">^</a></b> Norén GN, Bate A, Hopstadius J, Star K, Edwards IR. Temporal Pattern Discovery for Trends and Transient Effects: Its Application to Patient Records. <i>Proceedings of the Fourteenth International Conference on Knowledge Discovery and Data Mining SIGKDD 2008</i>, pages 963–971. Las Vegas NV, 2008.</li>
+<li id="cite_note-24"><b><a href="#cite_ref-24">^</a></b> Healey, R., 1991, Database Management Systems. In Maguire, D., Goodchild, M.F., and Rhind, D., (eds.), Geographic Information Systems: Principles and Applications (London: Longman).</li>
+<li id="cite_note-25"><b><a href="#cite_ref-25">^</a></b> Câmara, A. S. and Raper, J., (eds.), 1999, Spatial Multimedia and Virtual Reality, (London: Taylor and Francis).</li>
+<li id="cite_note-26"><b><a href="#cite_ref-26">^</a></b> Miller, H. and Han, J., (eds.), 2001, Geographic Data Mining and Knowledge Discovery, (London: Taylor &amp; Francis).</li>
+<li id="cite_note-survey2010-27">^ <a href="#cite_ref-survey2010_27-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-survey2010_27-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-survey2010_27-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-survey2010_27-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-survey2010_27-4"><sup><i><b>e</b></i></sup></a> Karl Rexer, Heather Allen, &amp; Paul Gearan (2010) <a rel="nofollow" class="external text" href="http://www.rexeranalytics.com/Data-Miner-Survey-Results-2010.html"><i>2010 Data Miner Survey Summary</i></a>, presented at Predictive Analytics World, Oct. 2010.</li>
+<li id="cite_note-28"><b><a href="#cite_ref-28">^</a></b> Karl Rexer, Heather Allen, &amp; Paul Gearan (2010) <a rel="nofollow" class="external text" href="http://www.rexeranalytics.com/Overcoming_Challenges.html"><i>2010 Data Miner Survey – Overcoming Data Mining's Top Challenges</i></a>.</li>
+<li id="cite_note-29"><b><a href="#cite_ref-29">^</a></b> ZHAO Kaidi and LIU Bing (University of Illinois), M. TIRPARK Thomas and WEIMIN Xiao (Motorola Labs): <a rel="nofollow" class="external text" href="http://dl.acm.org/citation.cfm?id=1106390">A Visual Data Mining Framework for Convenient Identification of Useful Knowledge</a></li>
+<li id="cite_note-30"><b><a href="#cite_ref-30">^</a></b> A. KEIM Daniel, <a rel="nofollow" class="external text" href="http://citeseer.ist.psu.edu/viewdoc/summary?doi=10.1.1.135.7051">Information Visualization and Visual Data Mining</a></li>
+<li id="cite_note-31"><b><a href="#cite_ref-31">^</a></b> Government Accountability Office, <i>Data Mining: Early Attention to Privacy in Developing a Key DHS Program Could Reduce Risks</i>, GAO-07-293, Washington, D.C.: February 2007.</li>
+<li id="cite_note-32"><b><a href="#cite_ref-32">^</a></b> <a rel="nofollow" class="external text" href="http://www.msnbc.msn.com/id/20604775/">Secure Flight Program report</a>, MSNBC.</li>
+<li id="cite_note-eff-tia-funding-33"><b><a href="#cite_ref-eff-tia-funding_33-0">^</a></b> <span class="citation web"><a rel="nofollow" class="external text" href="http://w2.eff.org/Privacy/TIA/20031003_comments.php">"Total/Terrorism Information Awareness (TIA): Is It Truly Dead?"</a>. <i>Electronic Frontier Foundation (official website)</i>. 2003<span class="printonly">. <a rel="nofollow" class="external free" href="http://w2.eff.org/Privacy/TIA/20031003_comments.php">http://w2.eff.org/Privacy/TIA/20031003_comments.php</a></span><span class="reference-accessdate">. Retrieved 2009-03-15</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Total%2FTerrorism+Information+Awareness+%28TIA%29%3A+Is+It+Truly+Dead%3F&amp;rft.atitle=Electronic+Frontier+Foundation+%28official+website%29&amp;rft.date=2003&amp;rft_id=http%3A%2F%2Fw2.eff.org%2FPrivacy%2FTIA%2F20031003_comments.php&amp;rfr_id=info:sid/en.wikipedia.org:Data_mining"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-34"><b><a href="#cite_ref-34">^</a></b> R. Agrawal et al., <i>Fast discovery of association rules</i>, in <i>Advances in knowledge discovery and data mining</i> pp. 307–328, MIT Press, 1996.</li>
+<li id="cite_note-NRC2008-35">^ <a href="#cite_ref-NRC2008_35-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-NRC2008_35-1"><sup><i><b>b</b></i></sup></a> National Research Council, <i>Protecting Individual Privacy in the Struggle Against Terrorists: A Framework for Program Assessment</i>, Washington, DC: National Academies Press, 2008.</li>
+<li id="cite_note-Haag2006-36"><b><a href="#cite_ref-Haag2006_36-0">^</a></b> <span class="citation book">Stephen Haag et al. (2006). <i>Management Information Systems for the information age</i>. Toronto: McGraw-Hill Ryerson. p.&#160;28. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-07-095569-7" title="Special:BookSources/0-07-095569-7">0-07-095569-7</a>. <a href="/wiki/Online_Computer_Library_Center" title="Online Computer Library Center">OCLC</a>&#160;<a rel="nofollow" class="external text" href="http://www.worldcat.org/oclc/63194770">63194770</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Management+Information+Systems+for+the+information+age&amp;rft.aulast=Stephen+Haag+et+al.&amp;rft.au=Stephen+Haag+et+al.&amp;rft.date=2006&amp;rft.pages=p.%26nbsp%3B28&amp;rft.place=Toronto&amp;rft.pub=McGraw-Hill+Ryerson&amp;rft.isbn=0-07-095569-7&amp;rft_id=info:oclcnum/63194770&amp;rfr_id=info:sid/en.wikipedia.org:Data_mining"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-37"><b><a href="#cite_ref-37">^</a></b> <span class="citation Journal">William Seltzer. <a rel="nofollow" class="external text" href="http://www.amstat.org/committees/ethics/linksdir/Jsm2005Seltzer.pdf"><i>The Promise and Pitfalls of Data Mining: Ethical Issues</i></a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.amstat.org/committees/ethics/linksdir/Jsm2005Seltzer.pdf">http://www.amstat.org/committees/ethics/linksdir/Jsm2005Seltzer.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Promise+and+Pitfalls+of+Data+Mining%3A+Ethical+Issues&amp;rft.aulast=William+Seltzer&amp;rft.au=William+Seltzer&amp;rft_id=http%3A%2F%2Fwww.amstat.org%2Fcommittees%2Fethics%2Flinksdir%2FJsm2005Seltzer.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Data_mining"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-38"><b><a href="#cite_ref-38">^</a></b> <span class="citation Journal">Chip Pitts (March 15, 2007). <a rel="nofollow" class="external text" href="http://www.washingtonspectator.com/articles/20070315surveillance_1.cfm">"The End of Illegal Domestic Spying? Don't Count on It"</a>. <i>Washington Spectator</i><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.washingtonspectator.com/articles/20070315surveillance_1.cfm">http://www.washingtonspectator.com/articles/20070315surveillance_1.cfm</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The+End+of+Illegal+Domestic+Spying%3F++Don%27t+Count+on+It&amp;rft.jtitle=Washington+Spectator&amp;rft.aulast=Chip+Pitts&amp;rft.au=Chip+Pitts&amp;rft.date=March+15%2C+2007&amp;rft_id=http%3A%2F%2Fwww.washingtonspectator.com%2Farticles%2F20070315surveillance_1.cfm&amp;rfr_id=info:sid/en.wikipedia.org:Data_mining"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-39"><b><a href="#cite_ref-39">^</a></b> <span class="citation Journal">K.A. Taipale (December 15, 2003). <a rel="nofollow" class="external text" href="http://www.stlr.org/cite.cgi?volume=5&amp;article=2">"Data Mining and Domestic Security: Connecting the Dots to Make Sense of Data"</a>. <i>Columbia Science and Technology Law Review</i> <b>5</b> (2). <a href="/wiki/Online_Computer_Library_Center" title="Online Computer Library Center">OCLC</a>&#160;<a rel="nofollow" class="external text" href="http://www.worldcat.org/oclc/45263753">45263753</a>. <a href="/wiki/Social_Science_Research_Network" title="Social Science Research Network">SSRN</a>&#160;<a rel="nofollow" class="external text" href="http://ssrn.com/abstract=546782">546782</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.stlr.org/cite.cgi?volume=5&amp;article=2">http://www.stlr.org/cite.cgi?volume=5&amp;article=2</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Data+Mining+and+Domestic+Security%3A+Connecting+the+Dots+to+Make+Sense+of+Data&amp;rft.jtitle=Columbia+Science+and+Technology+Law+Review&amp;rft.aulast=K.A.+Taipale&amp;rft.au=K.A.+Taipale&amp;rft.date=December+15%2C+2003&amp;rft.volume=5&amp;rft.issue=2&amp;rft_id=info:oclcnum/45263753&amp;rft_id=info:ssrn/546782&amp;rft_id=http%3A%2F%2Fwww.stlr.org%2Fcite.cgi%3Fvolume%3D5%26article%3D2&amp;rfr_id=info:sid/en.wikipedia.org:Data_mining"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-40"><b><a href="#cite_ref-40">^</a></b> <span class="citation Journal">John Resig, Ankur Teredesai (2004). <a rel="nofollow" class="external text" href="http://citeseer.ist.psu.edu/resig04framework.html">"A Framework for Mining Instant Messaging Services"</a>. <i>In Proceedings of the 2004 SIAM DM Conference</i><span class="printonly">. <a rel="nofollow" class="external free" href="http://citeseer.ist.psu.edu/resig04framework.html">http://citeseer.ist.psu.edu/resig04framework.html</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=A+Framework+for+Mining+Instant+Messaging+Services&amp;rft.jtitle=In+Proceedings+of+the+2004+SIAM+DM+Conference&amp;rft.aulast=John+Resig%2C+Ankur+Teredesai&amp;rft.au=John+Resig%2C+Ankur+Teredesai&amp;rft.date=2004&amp;rft_id=http%3A%2F%2Fciteseer.ist.psu.edu%2Fresig04framework.html&amp;rfr_id=info:sid/en.wikipedia.org:Data_mining"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-NASCIO-41">^ <a href="#cite_ref-NASCIO_41-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-NASCIO_41-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-NASCIO_41-2"><sup><i><b>c</b></i></sup></a> <a rel="nofollow" class="external text" href="http://www.nascio.org/publications/documents/NASCIO-dataMining.pdf"><i>Think Before You Dig: Privacy Implications of Data Mining &amp; Aggregation</i></a>, NASCIO Research Brief, September 2004.</li>
+<li id="cite_note-42"><b><a href="#cite_ref-42">^</a></b> Biotech Business Week Editors. (June 30, 2008). BIOMEDICINE; HIPAA Privacy Rule Impedes Biomedical Research. Biotech Business Week. Retrieved 17 Nov 2009 from LexisNexis Academic.</li>
+<li id="cite_note-43"><b><a href="#cite_ref-43">^</a></b> <a rel="nofollow" class="external text" href="http://www.securityfocus.com/brief/277"><i>AOL search data identified individuals</i></a>, SecurityFocus, August 2006.</li>
+<li id="cite_note-44"><b><a href="#cite_ref-44">^</a></b> James Kobielus (1 July 2008) <a rel="nofollow" class="external text" href="http://www.forrester.com/rb/Research/wave%26trade%3B_predictive_analytics_and_data_mining_solutions%2C/q/id/56077/t/2"><i>The Forrester Wave: Predictive Analytics and Data Mining Solutions, Q1 2010</i></a>, Forrester Research.</li>
+<li id="cite_note-45"><b><a href="#cite_ref-45">^</a></b> Gareth Herschel (1 July 2008) <a rel="nofollow" class="external text" href="http://mediaproducts.gartner.com/reprints/sas/vol5/article3/article3.html"><i>Magic Quadrant for Customer Data-Mining Applications</i></a>, Gartner Inc.</li>
+<li id="cite_note-46"><b><a href="#cite_ref-46">^</a></b> Dominique Haughton, Joel Deichmann, Abdolreza Eshghi, Selin Sayek, Nicholas Teebagy, &amp; Heikki Topi (2003) <a rel="nofollow" class="external text" href="http://www.jstor.org/pss/30037299"><i>A Review of Software Packages for Data Mining</i></a>, The American Statistician, Vol. 57, No. 4, pp. 290–309.</li>
+<li id="cite_note-47"><b><a href="#cite_ref-47">^</a></b> Robert Nisbet (2006) <a rel="nofollow" class="external text" href="http://www.information-management.com/specialreports/20060124/1046025-1.html"><i>Data Mining Tools: Which One is Best for CRM? Part 1</i></a>, Information Management Special Reports, January 2006.</li>
+<li id="cite_note-48"><b><a href="#cite_ref-48">^</a></b> <span class="citation Journal">Ralf Mikut; Markus Reischl (September/October 2011). <a rel="nofollow" class="external text" href="http://onlinelibrary.wiley.com/doi/10.1002/widm.24/abstract">"Data Mining Tools"</a>. <i>Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery</i> <b>1</b> (5): 431–445. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1002%2Fwidm.24">10.1002/widm.24</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://onlinelibrary.wiley.com/doi/10.1002/widm.24/abstract">http://onlinelibrary.wiley.com/doi/10.1002/widm.24/abstract</a></span><span class="reference-accessdate">. Retrieved October 21, 2011</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Data+Mining+Tools&amp;rft.jtitle=Wiley+Interdisciplinary+Reviews%3A+Data+Mining+and+Knowledge+Discovery&amp;rft.aulast=Ralf+Mikut&amp;rft.au=Ralf+Mikut&amp;rft.au=Markus+Reischl&amp;rft.date=September%2FOctober+2011&amp;rft.volume=1&amp;rft.issue=5&amp;rft.pages=431%E2%80%93445&amp;rft_id=info:doi/10.1002%2Fwidm.24&amp;rft_id=http%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2F10.1002%2Fwidm.24%2Fabstract&amp;rfr_id=info:sid/en.wikipedia.org:Data_mining"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-49"><b><a href="#cite_ref-49">^</a></b> <span class="citation web"><a rel="nofollow" class="external text" href="http://www.kdd.org/">"ACM SIGKDD: Home Page"</a>. Kdd.org<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.kdd.org/">http://www.kdd.org/</a></span><span class="reference-accessdate">. Retrieved 2011-10-28</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=ACM+SIGKDD%3A+Home+Page&amp;rft.atitle=&amp;rft.pub=Kdd.org&amp;rft_id=http%3A%2F%2Fwww.kdd.org%2F&amp;rfr_id=info:sid/en.wikipedia.org:Data_mining"><span style="display: none;">&#160;</span></span></li>
+</ol>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Data_mining&amp;action=edit&amp;section=31" title="Edit section: Further reading">edit</a>]</span> <span class="mw-headline" id="Further_reading">Further reading</span></h2>
+<table class="metadata plainlinks ambox mbox-small-left ambox-style" style="">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Acap.svg" class="image"><img alt="Acap.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Acap.svg/24px-Acap.svg.png" width="24" height="27" /></a></td>
+<td class="mbox-text" style="">This section may require <a href="/wiki/Wikipedia:Basic_copyediting" title="Wikipedia:Basic copyediting">copy-editing</a> for wikification, too much literature, most covering subdomains only. Literature spam.</td>
+</tr>
+</table>
+<ul>
+<li>Cabena, Peter, Pablo Hadjnian, Rolf Stadler, Jaap Verhees and Alessandro Zanasi (1997). <i>Discovering Data Mining: From Concept to Implementation</i>. <a href="/wiki/Prentice_Hall" title="Prentice Hall">Prentice Hall</a>, <a href="/wiki/Special:BookSources/0137439806" class="internal mw-magiclink-isbn">ISBN 0-13-743980-6</a>.</li>
+<li>Feldman, Ronen and James Sanger. <i>The Text Mining Handbook</i>. <a href="/wiki/Cambridge_University_Press" title="Cambridge University Press">Cambridge University Press</a>, <a href="/wiki/Special:BookSources/9780521836579" class="internal mw-magiclink-isbn">ISBN 978-0-521-83657-9</a>.</li>
+<li>Guo, Yike and Robert Grossman, editors (1999). <i>High Performance Data Mining: Scaling Algorithms, Applications and Systems</i>. <a href="/wiki/Kluwer_Academic_Publishers" title="Kluwer Academic Publishers" class="mw-redirect">Kluwer Academic Publishers</a>.</li>
+<li>Hastie, Trevor, Robert Tibshirani and Jerome Friedman (2001). <i>The Elements of Statistical Learning: Data Mining, Inference, and Prediction</i>. Springer, <a href="/wiki/Special:BookSources/0387952845" class="internal mw-magiclink-isbn">ISBN 0-387-95284-5</a>.</li>
+<li>Liu, Bing (2007). <i>Web Data Mining: Exploring Hyperlinks, Contents and Usage Data.</i> <a href="/wiki/Springer_Verlag" title="Springer Verlag" class="mw-redirect">Springer</a>, <a href="/wiki/Special:BookSources/3540378812" class="internal mw-magiclink-isbn">ISBN 3-540-37881-2</a>.</li>
+<li><span class="citation Journal">Murphy, Chris (May 16, 2011). "Is Data Mining Free Speech?". <i><a href="/wiki/InformationWeek" title="InformationWeek">InformationWeek</a></i> (<a href="/wiki/UBM_plc" title="UBM plc">UMB</a>): 12.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Is+Data+Mining+Free+Speech%3F&amp;rft.jtitle=%5B%5BInformationWeek%5D%5D&amp;rft.aulast=Murphy&amp;rft.aufirst=Chris&amp;rft.au=Murphy%2C%26%2332%3BChris&amp;rft.date=May+16%2C++2011&amp;rft.pages=12&amp;rft.pub=%5B%5BUBM+plc%7CUMB%5D%5D&amp;rfr_id=info:sid/en.wikipedia.org:Data_mining"><span style="display: none;">&#160;</span></span></li>
+<li>Nisbet, Robert, John Elder, Gary Miner (2009). <i>Handbook of Statistical Analysis &amp; Data Mining Applications</i>. <a href="/wiki/Academic_Press" title="Academic Press">Academic Press</a>/Elsevier. <a href="/wiki/Special:BookSources/9780123747655" class="internal mw-magiclink-isbn">ISBN 9780123747655</a></li>
+<li>Poncelet, Pascal, Florent Masseglia and Maguelonne Teisseire, editors (October 2007). "Data Mining Patterns: New Methods and Applications", <i>Information Science Reference</i>. <a href="/wiki/Special:BookSources/9781599041629" class="internal mw-magiclink-isbn">ISBN 978-1-59904-162-9</a>.</li>
+<li>Pang-Ning Tan, Michael Steinbach and Vipin Kumar (2005). <i>Introduction to Data Mining</i>. <a href="/wiki/Special:BookSources/0321321367" class="internal mw-magiclink-isbn">ISBN 0-321-32136-7</a></li>
+<li>Sergios Theodoridis, Konstantinos Koutroumbas (2009). <i>Pattern Recognition</i>, 4th Edition. Academic Press. <a href="/wiki/Special:BookSources/9781597492720" class="internal mw-magiclink-isbn">ISBN 978-1-59749-272-0</a>.</li>
+<li>Weiss and Indurkhya. <i>Predictive Data Mining</i>. <a href="/wiki/Morgan_Kaufmann" title="Morgan Kaufmann" class="mw-redirect">Morgan Kaufmann</a>.</li>
+<li><span class="citation book">Ian H. Witten; Eibe Frank; Mark A. Hall (30 January 2011). <i>Data Mining: Practical Machine Learning Tools and Techniques</i> (3 ed.). Elsevier. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-12-374856-0" title="Special:BookSources/978-0-12-374856-0">978-0-12-374856-0</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Data+Mining%3A+Practical+Machine+Learning+Tools+and+Techniques&amp;rft.aulast=Ian+H.+Witten&amp;rft.au=Ian+H.+Witten&amp;rft.au=Eibe+Frank&amp;rft.au=Mark+A.+Hall&amp;rft.date=30+January+2011&amp;rft.edition=3&amp;rft.pub=Elsevier&amp;rft.isbn=978-0-12-374856-0&amp;rfr_id=info:sid/en.wikipedia.org:Data_mining"><span style="display: none;">&#160;</span></span> (See also <a href="/wiki/Weka_(machine_learning)" title="Weka (machine learning)">Free Weka software</a>.)</li>
+<li>Ye, N. (2003). <i>The Handbook of Data Mining</i>. Mahwah, New Jersey: Lawrence Erlbaum.</li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Data_mining&amp;action=edit&amp;section=32" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" /></td>
+<td class="mbox-text" style="">Wikimedia Commons has media related to: <i><b><a class="external text" href="//commons.wikimedia.org/wiki/Category:Data_mining">Data mining</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.dmoz.org/Computers/Software/Databases/Data_Mining/">Data Mining Software</a> at the <a href="/wiki/Open_Directory_Project" title="Open Directory Project">Open Directory Project</a></li>
+</ul>
+<table class="navbox" cellspacing="0" style=";">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks hlist collapsible autocollapse" style="width:100%;background:transparent;color:inherit;;">
+<tr>
+<th style=";" colspan="2" class="navbox-title"><span style="float:left;width:6em;text-align:left;"><span class="noprint plainlinks navbar" style=""><span style="white-space:nowrap;word-spacing:-.12em;"><a href="/wiki/Template:Data_warehouse" title="Template:Data warehouse"><span style=";;background:none transparent;border:none;font-size:100%;" title="View this template">v</span></a> <span style=";;background:none transparent;border:none;font-size:100%;"><b>·</b></span> <a href="/wiki/Template_talk:Data_warehouse" title="Template talk:Data warehouse"><span style=";;background:none transparent;border:none;font-size:100%;" title="Discuss this template">d</span></a> <span style=";;background:none transparent;border:none;font-size:100%;"><b>·</b></span> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Data_warehouse&amp;action=edit"><span style=";;background:none transparent;border:none;font-size:100%;" title="Edit this template">e</span></a></span></span></span><span class="" style="font-size:110%;"><a href="/wiki/Data_warehouse" title="Data warehouse">Data warehouse</a></span></th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;">
+<tr>
+<td class="navbox-abovebelow" style=";" colspan="2">
+<div><b>Creating the data warehouse</b></div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";width:8em;padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;">Concepts</div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Database" title="Database">Database</a></li>
+<li><a href="/wiki/Dimension_(data_warehouse)" title="Dimension (data warehouse)">Dimension</a></li>
+<li><a href="/wiki/Dimensional_modeling" title="Dimensional modeling">Dimensional modeling</a></li>
+<li><a href="/wiki/Fact_(data_warehouse)" title="Fact (data warehouse)">Fact</a></li>
+<li><a href="/wiki/Online_analytical_processing" title="Online analytical processing">OLAP</a></li>
+<li><a href="/wiki/Star_schema" title="Star schema">Star schema</a></li>
+<li><a href="/wiki/Aggregate_(Data_Warehouse)" title="Aggregate (Data Warehouse)" class="mw-redirect">Aggregate</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";width:8em;padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;">Variants</div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anchor_Modeling" title="Anchor Modeling">Anchor Modeling</a></li>
+<li><a href="/wiki/Column-oriented_DBMS" title="Column-oriented DBMS">Column-oriented DBMS</a></li>
+<li><a href="/wiki/Data_Vault_Modeling" title="Data Vault Modeling">Data Vault Modeling</a></li>
+<li><a href="/wiki/HOLAP" title="HOLAP">HOLAP</a></li>
+<li><a href="/wiki/MOLAP" title="MOLAP">MOLAP</a></li>
+<li><a href="/wiki/ROLAP" title="ROLAP">ROLAP</a></li>
+<li><a href="/wiki/Operational_data_store" title="Operational data store">Operational data store</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";width:8em;padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;">Elements</div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Data_dictionary" title="Data dictionary">Data dictionary</a>/<a href="/wiki/Metadata" title="Metadata">Metadata</a></li>
+<li><a href="/wiki/Data_mart" title="Data mart">Data mart</a></li>
+<li><a href="/wiki/Sixth_normal_form" title="Sixth normal form">Sixth normal form</a></li>
+<li><a href="/wiki/Surrogate_key" title="Surrogate key">Surrogate key</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";width:8em;padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;">Fact</div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Fact_table" title="Fact table">Fact table</a></li>
+<li><a href="/wiki/Early-arriving_fact" title="Early-arriving fact">Early-arriving fact</a></li>
+<li><a href="/wiki/Measure_(data_warehouse)" title="Measure (data warehouse)">Measure</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";width:8em;padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;">Dimension</div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dimension_table" title="Dimension table">Dimension table</a></li>
+<li><a href="/wiki/Degenerate_dimension" title="Degenerate dimension">Degenerate</a></li>
+<li><a href="/wiki/Slowly_changing_dimension" title="Slowly changing dimension">Slowly changing</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";width:8em;padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;">Filling</div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Extract,_transform,_load" title="Extract, transform, load">Extract-Transform-Load (ETL)</a></li>
+<li><a href="/wiki/Data_extraction" title="Data extraction">Extract</a></li>
+<li><a href="/wiki/Data_transformation" title="Data transformation">Transform</a></li>
+<li><a href="/wiki/Data_loading" title="Data loading" class="mw-redirect">Load</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;">
+<tr>
+<td class="navbox-abovebelow" style=";" colspan="2">
+<div><b>Using the data warehouse</b></div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";width:8em;padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;">Concepts</div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Business_intelligence" title="Business intelligence">Business intelligence</a></li>
+<li><a href="/wiki/Dashboard_(business)" title="Dashboard (business)">Dashboard</a></li>
+<li><strong class="selflink">Data mining</strong></li>
+<li><a href="/wiki/Decision_support_system" title="Decision support system">Decision support system (DSS)</a></li>
+<li><a href="/wiki/OLAP_cube" title="OLAP cube">OLAP cube</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";width:8em;padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;">Languages</div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Data_Mining_Extensions" title="Data Mining Extensions">Data Mining Extensions (DMX)</a></li>
+<li><a href="/wiki/MultiDimensional_eXpressions" title="MultiDimensional eXpressions">MultiDimensional eXpressions (MDX)</a></li>
+<li><a href="/wiki/XML_for_Analysis" title="XML for Analysis">XML for Analysis (XMLA)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";width:8em;padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;">Tools</div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Business_intelligence_tools" title="Business intelligence tools">Business intelligence tools</a></li>
+<li><a href="/wiki/List_of_reporting_software" title="List of reporting software">Reporting software</a></li>
+<li><a href="/wiki/Spreadsheets" title="Spreadsheets" class="mw-redirect">Spreadsheet</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;">
+<tr>
+<td class="navbox-abovebelow" style=";" colspan="2">
+<div><b>Related</b></div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";width:8em;padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;">People</div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bill_Inmon" title="Bill Inmon">Bill Inmon</a></li>
+<li><a href="/wiki/Ralph_Kimball" title="Ralph Kimball">Ralph Kimball</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";width:8em;padding-left:0em;padding-right:0em;;">
+<div style="padding:0em 0.75em;">Products</div>
+</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Comparison_of_OLAP_Servers" title="Comparison of OLAP Servers">Comparison of OLAP Servers</a></li>
+<li><a href="/wiki/Category:Data_warehousing_products" title="Category:Data warehousing products">Data warehousing products and their producers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" cellspacing="0" style=";">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible autocollapse" style="width:100%;background:transparent;color:inherit;;">
+<tr>
+<th style=";" colspan="2" class="navbox-title"><span style="float:left;width:6em;text-align:left;"><span class="noprint plainlinks navbar" style=""><span style="white-space:nowrap;word-spacing:-.12em;"><a href="/wiki/Template:Computer_science" title="Template:Computer science"><span style=";;background:none transparent;border:none;font-size:100%;" title="View this template">v</span></a> <span style=";;background:none transparent;border:none;font-size:100%;"><b>·</b></span> <a href="/wiki/Template_talk:Computer_science" title="Template talk:Computer science"><span style=";;background:none transparent;border:none;font-size:100%;" title="Discuss this template">d</span></a> <span style=";;background:none transparent;border:none;font-size:100%;"><b>·</b></span> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Computer_science&amp;action=edit"><span style=";;background:none transparent;border:none;font-size:100%;" title="Edit this template">e</span></a></span></span></span><span class="" style="font-size:110%;">Major fields of <a href="/wiki/Computer_science" title="Computer science">computer science</a></span></th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";;"><a href="/wiki/Mathematics" title="Mathematics">Mathematical foundations</a></td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;line-height:1.5em;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/wiki/Mathematical_logic" title="Mathematical logic">Mathematical logic</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Set_theory" title="Set theory">Set theory</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Number_theory" title="Number theory">Number theory</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Graph_theory" title="Graph theory">Graph theory</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Type_theory" title="Type theory">Type theory</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Category_theory" title="Category theory">Category theory</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Numerical_analysis" title="Numerical analysis">Numerical analysis</a> &#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Information_theory" title="Information theory">Information theory</a> &#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Combinatorics" title="Combinatorics">Combinatorics</a> &#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Boolean_algebra" title="Boolean algebra">Boolean algebra</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";;"><a href="/wiki/Theory_of_computation" title="Theory of computation">Theory of computation</a></td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;line-height:1.5em;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="/wiki/Automata_theory" title="Automata theory">Automata theory</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Computability_theory" title="Computability theory">Computability theory</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Computational_complexity_theory" title="Computational complexity theory">Computational complexity theory</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Quantum_computer" title="Quantum computer">Quantum computing theory</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";;"><a href="/wiki/Algorithm" title="Algorithm">Algorithms</a>, <a href="/wiki/Data_structure" title="Data structure">data structures</a></td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;line-height:1.5em;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/wiki/Analysis_of_algorithms" title="Analysis of algorithms">Analysis of algorithms</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Algorithm_design" title="Algorithm design">Algorithm design</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Computational_geometry" title="Computational geometry">Computational geometry</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";;"><a href="/wiki/Programming_language" title="Programming language">Programming languages</a>, <a href="/wiki/Compiler" title="Compiler">compilers</a></td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;line-height:1.5em;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="/wiki/Parsing" title="Parsing">Parsers</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Interpreter_(computing)" title="Interpreter (computing)">Interpreters</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Procedural_programming" title="Procedural programming">Procedural programming</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Object-oriented_programming" title="Object-oriented programming">Object-oriented programming</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Functional_programming" title="Functional programming">Functional programming</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Logic_programming" title="Logic programming">Logic programming</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Programming_paradigm" title="Programming paradigm">Programming paradigms</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";;"><a href="/wiki/Concurrency_(computer_science)" title="Concurrency (computer science)">Concurrent</a>, <a href="/wiki/Parallel_computing" title="Parallel computing">parallel</a>, <a href="/wiki/Distributed_computing" title="Distributed computing">distributed</a> systems</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;line-height:1.5em;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/wiki/Multiprocessing" title="Multiprocessing">Multiprocessing</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Grid_computing" title="Grid computing">Grid computing</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Concurrency_control" title="Concurrency control">Concurrency control</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";;"><a href="/wiki/Software_engineering" title="Software engineering">Software engineering</a></td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;line-height:1.5em;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="/wiki/Requirements_analysis" title="Requirements analysis">Requirements analysis</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Software_design" title="Software design">Software design</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Computer_programming" title="Computer programming">Computer programming</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Formal_methods" title="Formal methods">Formal methods</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Software_testing" title="Software testing">Software testing</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Software_development_process" title="Software development process">Software development process</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";;"><a href="/wiki/Systems_architecture" title="Systems architecture">System architecture</a></td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;line-height:1.5em;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/wiki/Computer_architecture" title="Computer architecture">Computer architecture</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Microarchitecture" title="Microarchitecture">Computer organization</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Operating_system" title="Operating system">Operating systems</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";;"><a href="/wiki/Telecommunication" title="Telecommunication">Telecommunication</a>, <a href="/wiki/Computer_networking" title="Computer networking" class="mw-redirect">networking</a></td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;line-height:1.5em;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="/wiki/Computer_music" title="Computer music">Computer audio</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Routing" title="Routing">Routing</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Network_topology" title="Network topology">Network topology</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Cryptography" title="Cryptography">Cryptography</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";;"><a href="/wiki/Database" title="Database">Databases</a></td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;line-height:1.5em;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/wiki/Database_management_system" title="Database management system">Database management systems</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Relational_database" title="Relational database">Relational databases</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/SQL" title="SQL">SQL</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Transaction_processing" title="Transaction processing">Transactions</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Index_(database)" title="Index (database)">Database indexes</a>&#160;<span style="font-weight:bold;">·</span>  <strong class="selflink">Data mining</strong></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";;"><a href="/wiki/Artificial_intelligence" title="Artificial intelligence">Artificial intelligence</a></td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;line-height:1.5em;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="/wiki/Automated_reasoning" title="Automated reasoning">Automated reasoning</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Computational_linguistics" title="Computational linguistics">Computational linguistics</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Computer_vision" title="Computer vision">Computer vision</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Evolutionary_computation" title="Evolutionary computation">Evolutionary computation</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Expert_system" title="Expert system">Expert systems</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Machine_learning" title="Machine learning">Machine learning</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Natural_language_processing" title="Natural language processing">Natural language processing</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Robotics" title="Robotics">Robotics</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";;"><a href="/wiki/Computer_graphics" title="Computer graphics">Computer graphics</a></td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;line-height:1.5em;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/wiki/Visualization_(computer_graphics)" title="Visualization (computer graphics)">Visualization</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Computer_animation" title="Computer animation">Computer animation</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Image_processing" title="Image processing">Image processing</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";;"><a href="/wiki/Human%E2%80%93computer_interaction" title="Human–computer interaction">Human–computer interaction</a></td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;line-height:1.5em;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="/wiki/Computer_accessibility" title="Computer accessibility">Computer accessibility</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/User_interface" title="User interface">User interfaces</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Wearable_computer" title="Wearable computer">Wearable computing</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Ubiquitous_computing" title="Ubiquitous computing">Ubiquitous computing</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Virtual_reality" title="Virtual reality">Virtual reality</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";;"><a href="/wiki/Computational_science" title="Computational science">Scientific computing</a></td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;line-height:1.5em;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/wiki/Artificial_life" title="Artificial life">Artificial life</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Bioinformatics" title="Bioinformatics">Bioinformatics</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Cognitive_science" title="Cognitive science">Cognitive science</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Computational_chemistry" title="Computational chemistry">Computational chemistry</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Computational_neuroscience" title="Computational neuroscience">Computational neuroscience</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Computational_physics" title="Computational physics">Computational physics</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Numerical_analysis" title="Numerical analysis">Numerical algorithms</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Symbolic_computation" title="Symbolic computation">Symbolic mathematics</a></div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" style=";" colspan="2">
+<div>Note: Computer science can also be divided into different topics or fields according to the <a href="/wiki/ACM_Computing_Classification_System" title="ACM Computing Classification System">ACM Computing Classification System</a>.</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p><span id="interwiki-fr-ga"></span></p>
+
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 25120/1000000
+Post-expand include size: 228874/2048000 bytes
+Template argument size: 84778/2048000 bytes
+Expensive parser function count: 7/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:42253-0!*!0!!en!4!* and timestamp 20111122160156 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Data_mining&amp;oldid=461953759">http://en.wikipedia.org/w/index.php?title=Data_mining&amp;oldid=461953759</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Data_mining" title="Category:Data mining">Data mining</a></li><li><a href="/wiki/Category:Data_analysis" title="Category:Data analysis">Data analysis</a></li><li><a href="/wiki/Category:Formal_sciences" title="Category:Formal sciences">Formal sciences</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Accuracy_disputes_from_September_2011" title="Category:Accuracy disputes from September 2011">Accuracy disputes from September 2011</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_rewrite_from_September_2011" title="Category:Wikipedia articles needing rewrite from September 2011">Wikipedia articles needing rewrite from September 2011</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2008" title="Category:Articles with unsourced statements from July 2008">Articles with unsourced statements from July 2008</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2010" title="Category:Articles with unsourced statements from July 2010">Articles with unsourced statements from July 2010</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_copy_edit_from_September_2011" title="Category:Wikipedia articles needing copy edit from September 2011">Wikipedia articles needing copy edit from September 2011</a></li><li><a href="/wiki/Category:All_articles_needing_copy_edit" title="Category:All articles needing copy edit">All articles needing copy edit</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Data_mining" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in / create account</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Data_mining"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Data_mining"  title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+		<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Data_mining" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Data_mining&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Data_mining&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+		<input type='hidden' name="title" value="Special:Search"/>
+				<div id="simpleSearch">
+						<input type="text" name="search" value="" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/skins-1.18/vector/images/search-ltr.png?303-4" alt="Search" /></button>					</div>
+			</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//wikimediafoundation.org/wiki/Special:Landingcheck?landing_page=WMFJA085&amp;language=en&amp;utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=20101204SB002" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Data_mining" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Data_mining" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Data_mining&amp;oldid=461953759" title="Permanent link to this revision of the page">Permanent link</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Data_mining&amp;id=461953759" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Data+mining" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Data+mining&amp;oldid=461953759&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Data_mining&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%AA%D9%86%D9%82%D9%8A%D8%A8_%D9%81%D9%8A_%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA">العربية</a></li>
+			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%98%D0%B7%D0%B2%D0%BB%D0%B8%D1%87%D0%B0%D0%BD%D0%B5_%D0%BD%D0%B0_%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D1%8F_%D0%BE%D1%82_%D0%B4%D0%B0%D0%BD%D0%BD%D0%B8">Български</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Mineria_de_dades">Català</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Data_mining">Česky</a></li>
+			<li class="interwiki-da"><a href="//da.wikipedia.org/wiki/Data_mining">Dansk</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Data-Mining">Deutsch</a></li>
+			<li class="interwiki-et"><a href="//et.wikipedia.org/wiki/Andmekaeve">Eesti</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Miner%C3%ADa_de_datos">Español</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Datu-meatzaritza">Euskara</a></li>
+			<li class="interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%AF%D8%A7%D8%AF%D9%87%E2%80%8C%DA%A9%D8%A7%D9%88%DB%8C">فارسی</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Exploration_de_donn%C3%A9es">Français</a></li>
+			<li class="interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%A7%88%EC%9D%B4%EB%8B%9D">한국어</a></li>
+			<li class="interwiki-hi"><a href="//hi.wikipedia.org/wiki/%E0%A4%A1%E0%A4%BE%E0%A4%9F%E0%A4%BE_%E0%A4%AE%E0%A4%BE%E0%A4%87%E0%A4%A8%E0%A4%BF%E0%A4%82%E0%A4%97">हिन्दी</a></li>
+			<li class="interwiki-id"><a href="//id.wikipedia.org/wiki/Penggalian_data">Bahasa Indonesia</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Data_mining">Italiano</a></li>
+			<li class="interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%9B%D7%A8%D7%99%D7%99%D7%AA_%D7%9E%D7%99%D7%93%D7%A2">עברית</a></li>
+			<li class="interwiki-kn"><a href="//kn.wikipedia.org/wiki/%E0%B2%A6%E0%B2%A4%E0%B3%8D%E0%B2%A4%E0%B2%BE%E0%B2%82%E0%B2%B6_%E0%B2%97%E0%B2%A3%E0%B2%BF%E0%B2%97%E0%B2%BE%E0%B2%B0%E0%B2%BF%E0%B2%95%E0%B3%86">ಕನ್ನಡ</a></li>
+			<li class="interwiki-lv"><a href="//lv.wikipedia.org/wiki/Datizrace">Latviešu</a></li>
+			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Duomen%C5%B3_i%C5%A1gavimas">Lietuvių</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Adatb%C3%A1ny%C3%A1szat">Magyar</a></li>
+			<li class="interwiki-mr"><a href="//mr.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%A6%E0%A4%BE_%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%96%E0%A4%A8%E0%A4%A8">मराठी</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Datamining">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%9E%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0">日本語</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Data_mining">‪Norsk (bokmål)‬</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Eksploracja_danych">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Minera%C3%A7%C3%A3o_de_dados">Português</a></li>
+			<li class="interwiki-ro"><a href="//ro.wikipedia.org/wiki/Exploatare_de_date">Română</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/Data_mining">Русский</a></li>
+			<li class="interwiki-simple"><a href="//simple.wikipedia.org/wiki/Data_mining">Simple English</a></li>
+			<li class="interwiki-sk"><a href="//sk.wikipedia.org/wiki/H%C4%BAbkov%C3%A1_anal%C3%BDza_d%C3%A1t">Slovenčina</a></li>
+			<li class="interwiki-sl"><a href="//sl.wikipedia.org/wiki/Podatkovno_rudarjenje">Slovenščina</a></li>
+			<li class="interwiki-su"><a href="//su.wikipedia.org/wiki/Data_mining">Basa Sunda</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Tiedonlouhinta">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Informationsutvinning">Svenska</a></li>
+			<li class="interwiki-ta"><a href="//ta.wikipedia.org/wiki/%E0%AE%A4%E0%AE%B0%E0%AE%B5%E0%AF%81%E0%AE%9A%E0%AF%8D_%E0%AE%9A%E0%AF%86%E0%AE%AF%E0%AE%B2%E0%AE%BE%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%AE%E0%AF%8D">தமிழ்</a></li>
+			<li class="interwiki-th"><a href="//th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B3%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5">ไทย</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/Veri_madencili%C4%9Fi">Türkçe</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%94%D0%BE%D0%B1%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F_%D0%B4%D0%B0%D0%BD%D0%B8%D1%85">Українська</a></li>
+			<li class="interwiki-vi"><a href="//vi.wikipedia.org/wiki/Khai_ph%C3%A1_d%E1%BB%AF_li%E1%BB%87u">Tiếng Việt</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98">中文</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 22 November 2011 at 16:01.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_use">Terms of use</a> for details.<br/>
+Wikipedia&reg; is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href='/w/index.php?title=Data_mining&amp;useformat=mobile'>Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/skins-1.18/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<!-- fixalpha -->
+		<script type="text/javascript"> if ( window.isMSIE55 ) fixalpha(); </script>
+		<!-- /fixalpha -->
+		<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*" type="text/javascript"></script>
+<script type="text/javascript">if ( window.mediaWiki ) {
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax", "mediawiki.legacy.mwsuggest", "ext.gadget.wmfFR2011Style", "ext.vector.collapsibleNav", "ext.vector.collapsibleTabs", "ext.vector.editWarning", "ext.vector.simpleSearch", "ext.UserBuckets", "ext.articleFeedback.startup"]);
+}
+</script>
+<script src="/w/index.php?title=Special:BannerController&amp;cache=/cn.js&amp;303-4" type="text/javascript"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*" type="text/javascript"></script>
+<script type="text/javascript">if ( window.mediaWiki ) {
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,
+	"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"gadget-wmfFR2011Style":1});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: enwiki:resourceloader:filter:minify-js:4:b41a86ec4e0fe8329bc3ce917e792339 */
+}
+</script><script src="//geoiplookup.wikimedia.org/" type="text/javascript"></script><!-- Served by srv243 in 0.070 secs. -->
+	</body>
+</html>

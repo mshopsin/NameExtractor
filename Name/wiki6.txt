@@ -1,0 +1,373 @@
+http://en.wikipedia.org/wiki/Schema_matching
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" dir="ltr" class="client-nojs" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Schema matching - Wikipedia, the free encyclopedia</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="generator" content="MediaWiki 1.18wmf1" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Schema_matching&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Schema_matching&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" type="text/css" media="all" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" type="text/css" media="all" />
+<style type="text/css" media="all">a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: enwiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*" type="text/javascript"></script>
+<script type="text/javascript">if ( window.mediaWiki ) {
+	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "Schema_matching", "wgTitle": "Schema matching", "wgCurRevisionId": 422558628, "wgArticleId": 11488814, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["Wikipedia articles needing context from October 2009", "All Wikipedia articles needing context", "Wikipedia introduction cleanup from October 2009", "All pages needing cleanup", "Articles with missing files", "Databases"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgSearchNamespaces": [0], "wgFlaggedRevsParams": {"tags": {"status": {"levels": 1, "quality": 2, "pristine": 3}}}, "wgStableRevisionId": null, "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": true, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "wgTrackingToken": "627318234f7eb78929be1f4cf4ddd928", "wikilove-recipient": "", "wikilove-edittoken": "+\\", "wikilove-anon": 0, "mbEditToken": "+\\", "Geo": {"city": "", "country": ""}, "wgNoticeProject": "wikipedia"});
+}
+</script><script type="text/javascript">if ( window.mediaWiki ) {
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.18/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Schema_matching action-view skin-vector">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- centralNotice loads here --></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading">Schema matching</h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav">
+					Jump to: <a href="#mw-head">navigation</a>,
+					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div lang="en" dir="ltr" class="mw-content-ltr"><table class="metadata plainlinks ambox ambox-style ambox-Context" style="">
+<tr>
+<td class="mbox-image">
+<div style="width: 52px;"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" width="40" height="40" /></div>
+</td>
+<td class="mbox-text" style="">This article <b>provides insufficient context for those unfamiliar with the subject</b>. Please help <a rel="nofollow" class="external text" href="//en.wikipedia.org/w/index.php?title=Schema_matching&amp;action=edit">improve the article</a> with a <a href="/wiki/Wikipedia:Writing_better_articles#Lead_section" title="Wikipedia:Writing better articles">good introductory style</a>. <small><i>(October 2009)</i></small></td>
+</tr>
+</table>
+<p>The terms <b>schema matching</b> and <i><a href="/wiki/Data_mapping" title="Data mapping">mapping</a></i> are often used interchangeably. For this article, we differentiate the two as follows: <a href="/wiki/Database_schema" title="Database schema">Schema</a> matching is the process of identifying that two objects are <a href="/wiki/Semantic" title="Semantic" class="mw-redirect">semantically</a> related (scope of this article) while mapping refers to the <a href="/wiki/Data_transformation" title="Data transformation">transformations</a> between the objects. For example, in the two schemas DB1.Student (Name, SSN, Level, Major, Marks) and DB2.Grad-Student (Name, ID, Major, Grades); possible matches would be: DB1.Student ≈ DB2.Grad-Student; DB1.SSN = DB2.ID etc. and possible transformations or mappings would be: DB1.Marks to DB2.Grades (100-90 A; 90-80 B..)</p>
+<p>Automating these two approaches has been one of the fundamental tasks of <a href="/wiki/Data_integration" title="Data integration">data integration</a>. In general it is not possible to determine fully automatically the different correspondences between two schemas, primarily because of the differing and often not explicated or documented semantics of the two schemas.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Impediments_to_Schema_Matching"><span class="tocnumber">1</span> <span class="toctext">Impediments to Schema Matching</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Schema_Matching"><span class="tocnumber">2</span> <span class="toctext">Schema Matching</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Methodology"><span class="tocnumber">2.1</span> <span class="toctext">Methodology</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Approaches"><span class="tocnumber">2.2</span> <span class="toctext">Approaches</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Identified_Relationships"><span class="tocnumber">2.3</span> <span class="toctext">Identified Relationships</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Schema_matching&amp;action=edit&amp;section=1" title="Edit section: Impediments to Schema Matching">edit</a>]</span> <span class="mw-headline" id="Impediments_to_Schema_Matching">Impediments to Schema Matching</span></h2>
+<p>Among others, common challenges to automating matching and mapping have been previously classified in <sup id="cite_ref-kim_0-0" class="reference"><a href="#cite_note-kim-0"><span>[</span>1<span>]</span></a></sup> especially for relational DB schemas; and in <sup id="cite_ref-sk_1-0" class="reference"><a href="#cite_note-sk-1"><span>[</span>2<span>]</span></a></sup> - a fairly comprehensive list of heterogeneity not limited to the relational model recognizing schematic vs semantic differences/heterogeneity. Most of these heterogeneities exist because schemas use different representations or definitions to represent the same information (schema conflicts); OR different expressions, units, and precision result in conflicting representations of the same data (data conflicts).<sup id="cite_ref-kim_0-1" class="reference"><a href="#cite_note-kim-0"><span>[</span>1<span>]</span></a></sup> (see Figure 1) Research in schema matching seeks to provide automated support to the process of finding semantic matches between two schemas. This process is made harder due to heterogeneities at the following levels <sup id="cite_ref-sheth99_2-0" class="reference"><a href="#cite_note-sheth99-2"><span>[</span>3<span>]</span></a></sup></p>
+<ul>
+<li><a href="/w/index.php?title=Syntactic_heterogeneity&amp;action=edit&amp;redlink=1" class="new" title="Syntactic heterogeneity (page does not exist)">Syntactic heterogeneity</a> - differences in the language used for representing the elements</li>
+<li><a href="/w/index.php?title=Structural_heterogeneity&amp;action=edit&amp;redlink=1" class="new" title="Structural heterogeneity (page does not exist)">Structural heterogeneity</a> - differences in the types, structures of the elements</li>
+<li>Model / <a href="/w/index.php?title=Representational_heterogeneity&amp;action=edit&amp;redlink=1" class="new" title="Representational heterogeneity (page does not exist)">Representational heterogeneity</a> – differences in the underlying models (database, ontologies) or their representations (relational, object-oriented, RDF,OWL)</li>
+<li><a href="/w/index.php?title=Semantic_heterogeneity&amp;action=edit&amp;redlink=1" class="new" title="Semantic heterogeneity (page does not exist)">Semantic heterogeneity</a> - where the same real world entity is represented <a href="/wiki/Synonym" title="Synonym">using different terms</a> or <a href="/wiki/Homonym" title="Homonym">vice-versa</a></li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Schema_matching&amp;action=edit&amp;section=2" title="Edit section: Schema Matching">edit</a>]</span> <span class="mw-headline" id="Schema_Matching">Schema Matching</span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:182px;"><a href="/w/index.php?title=Special:Upload&amp;wpDestFile=SurveySchemaMatching.jpg" class="new" title="File:SurveySchemaMatching.jpg">File:SurveySchemaMatching.jpg</a>
+<div class="thumbcaption">Figure 2: Classification of schema matching approaches <sup id="cite_ref-rahm_3-0" class="reference"><a href="#cite_note-rahm-3"><span>[</span>4<span>]</span></a></sup></div>
+</div>
+</div>
+<p>Comprehensive surveys of automatic schema matching approaches are presented in,<sup id="cite_ref-rahm_3-1" class="reference"><a href="#cite_note-rahm-3"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-batini_4-0" class="reference"><a href="#cite_note-batini-4"><span>[</span>5<span>]</span></a></sup><sup id="cite_ref-doan_5-0" class="reference"><a href="#cite_note-doan-5"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-Kalfoglou_6-0" class="reference"><a href="#cite_note-Kalfoglou-6"><span>[</span>7<span>]</span></a></sup>,.<sup id="cite_ref-choi_7-0" class="reference"><a href="#cite_note-choi-7"><span>[</span>8<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Schema_matching&amp;action=edit&amp;section=3" title="Edit section: Methodology">edit</a>]</span> <span class="mw-headline" id="Methodology">Methodology</span></h3>
+<p><sup id="cite_ref-batini_4-1" class="reference"><a href="#cite_note-batini-4"><span>[</span>5<span>]</span></a></sup> Discusses a generic methodology for the task of schema integration or the activities involved. According to the authors, one can view the integration process to comprise of four main steps:</p>
+<blockquote>
+<ul>
+<li>Preintegration - An analysis of schemas is carried out before integration to decide upon some integration policy. This governs the choice of schemas to be integrated, the order of integration, and a possible assignment of preferences to entire schemas or portions of schemas.</li>
+<li>Comparison of the Schemas - Schemas are analyzed and compared to determine the correspondences among concepts and detect possible conflicts. Interschema properties may be discovered while comparing schemas.</li>
+<li>Conforming the Schemas - Once conflicts are detected, an effort is made to resolve them so that the merging of various schemas is possible.</li>
+<li>Merging and Restructuring - Now the schemas are ready to be superimposed, giving rise to some intermediate integrated schema(s). The intermediate results are analyzed and, if necessary, restructured in order to achieve several desirable qualities.</li>
+</ul>
+</blockquote>
+<h3><span class="editsection">[<a href="/w/index.php?title=Schema_matching&amp;action=edit&amp;section=4" title="Edit section: Approaches">edit</a>]</span> <span class="mw-headline" id="Approaches">Approaches</span></h3>
+<p>Approaches to schema integration can be broadly classified as ones that exploit either just schema information or schema and instance level information (see Figure 2 and <sup id="cite_ref-rahm_3-2" class="reference"><a href="#cite_note-rahm-3"><span>[</span>4<span>]</span></a></sup> and <sup id="cite_ref-batini_4-2" class="reference"><a href="#cite_note-batini-4"><span>[</span>5<span>]</span></a></sup> for a list of prototypes)</p>
+<p><b>Schema-level matchers</b> only consider schema information, not instance data. The available information includes the usual properties of schema elements, such as name, description, data type, relationship types (part-of, is-a, etc.), constraints, and schema structure. Working at the element (atomic elements like attributes of objects) or structure level (matching combinations of elements that appear together in a structure), these properties are used to identify matching elements in two schemas. Language-based or linguistic matchers use names and text (i.e., words or sentences) to find semantically similar schema elements. Constraint based matchers exploit constraints often contained in schemas. Such constraints are used to define data types and value ranges, uniqueness, optionality, relationship types and cardinalities, etc. Constraints in two input schemas are matched to determine the similarity of the schema elements.</p>
+<p><b>Instance-level matchers</b> use instance-level data to gather important insight into the contents and meaning of the schema elements. These are typically used in addition to schema level matches in order to boost the confidence in match results, more so when the information available at the schema level is insufficient. Matchers at this level use linguistic and constraint based characterization of instances. For example, using linguistic techniques, it might be possible to look at the Dept, DeptName and EmpName instances to conclude that DeptName is a better match candidate for Dept than EmpName. Constraints like zipcodes must be 5 digits long or format of phone numbers may allow matching of such types of instance data.</p>
+<p><b>Hybrid matchers</b> directly combine several matching approaches to determine match candidates based on multiple criteria or information sources.</p>
+<p><i>Most of these techniques also employ additional information such as dictionaries, thesauri, and user-provided match or mismatch information</i></p>
+<p><b>Reusing matching information</b> Another initiative has been to re-use previous matching information as auxiliary information for future matching tasks. The motivation for this work is that structures or substructures often repeat, for example in schemas in the E-commerce domain. Such a reuse of previous matches however needs to be a careful choice. It is possible that such a reuse makes sense only for some part of a new schema or only in some domains. For example, Salary and Income may be considered identical in a payroll application but not in a tax reporting application. There are several open ended challenegs in such reuse that deserves further work.</p>
+<p><b>Sample Prototypes</b> Typically, the implementation of such matching techniques can be classified as being either rule based or learner based systems. The complementary nature of these different approaches has instigated a number of applications using a combination of techniques depending on the nature of the domain or application under consideration. Among others, both <sup id="cite_ref-rahm_3-3" class="reference"><a href="#cite_note-rahm-3"><span>[</span>4<span>]</span></a></sup> and <sup id="cite_ref-batini_4-3" class="reference"><a href="#cite_note-batini-4"><span>[</span>5<span>]</span></a></sup> discuss such prototype systems along with the dimensions of their classification.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Schema_matching&amp;action=edit&amp;section=5" title="Edit section: Identified Relationships">edit</a>]</span> <span class="mw-headline" id="Identified_Relationships">Identified Relationships</span></h3>
+<p>The relationship types between objects that are identified at the end of a matching process are typically those with set semantics such as overlap, disjointness, exclusion, equivalence, subsumption. The logical encodings of these relationships are what they mean. Among others, an early attempt to use description logics for schema integration and identifying such relationships was presented in.<sup id="cite_ref-relns_8-0" class="reference"><a href="#cite_note-relns-8"><span>[</span>9<span>]</span></a></sup> Several state of the art matching tools today, some listed in,<sup id="cite_ref-rahm_3-4" class="reference"><a href="#cite_note-rahm-3"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-Kalfoglou_6-1" class="reference"><a href="#cite_note-Kalfoglou-6"><span>[</span>7<span>]</span></a></sup> and those benchmarked in the <i>Ontology Alignment Evaluation Initiative</i> <sup id="cite_ref-oaei_9-0" class="reference"><a href="#cite_note-oaei-9"><span>[</span>10<span>]</span></a></sup> are capable of identifying many such simple (1:1 / 1:n / n:1 element level matches) and complex matches (n:1 / n:m element or structure level matches) between objects.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Schema_matching&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a>]</span> <span class="mw-headline" id="See_also">See also</span></h2>
+<ul>
+<li><a href="/wiki/Data_Integration" title="Data Integration" class="mw-redirect">Data Integration</a></li>
+<li><a href="/wiki/Dataspaces" title="Dataspaces">Dataspaces</a></li>
+<li><a href="/wiki/Ontology_alignment" title="Ontology alignment">Ontology alignment</a></li>
+<li><a href="/wiki/Minimal_mappings" title="Minimal mappings">Minimal Mappings</a></li>
+<li><a href="/wiki/Federated_database_system" title="Federated database system">Federated database system</a></li>
+<li><a href="/wiki/Schema_crosswalk" title="Schema crosswalk">Schema crosswalk</a></li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Schema_matching&amp;action=edit&amp;section=7" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-kim-0">^ <a href="#cite_ref-kim_0-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-kim_0-1"><sup><i><b>b</b></i></sup></a> <span class="citation book">Kim, W. and Seo, J. (Dec. 1991). "Classifying Schematic and Data Heterogeneity in Multidatabase Systems.". <i>Computer 24, 12</i>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Classifying+Schematic+and+Data+Heterogeneity+in+Multidatabase+Systems.&amp;rft.atitle=Computer+24%2C+12&amp;rft.aulast=Kim%2C+W.+and+Seo%2C+J.&amp;rft.au=Kim%2C+W.+and+Seo%2C+J.&amp;rft.date=Dec.+1991&amp;rfr_id=info:sid/en.wikipedia.org:Schema_matching"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-sk-1"><b><a href="#cite_ref-sk_1-0">^</a></b> <span class="citation book">Sheth, A. P. and Kashyap, V. (1993). "So Far (Schematically) yet So Near (Semantically)". <i>In Proceedings of the IFIP WG 2.6 Database Semantics Conference on interoperable Database Systems</i>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=So+Far+%28Schematically%29+yet+So+Near+%28Semantically%29&amp;rft.atitle=In+Proceedings+of+the+IFIP+WG+2.6+Database+Semantics+Conference+on+interoperable+Database+Systems&amp;rft.aulast=Sheth%2C+A.+P.+and+Kashyap%2C+V.&amp;rft.au=Sheth%2C+A.+P.+and+Kashyap%2C+V.&amp;rft.date=1993&amp;rfr_id=info:sid/en.wikipedia.org:Schema_matching"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-sheth99-2"><b><a href="#cite_ref-sheth99_2-0">^</a></b> <span class="citation book">Sheth, A. P. (1999). "Changing Focus on Interoperability in Information Systems: From System, Syntax, Structure to Semantics". <i>In Interoperating Geographic Information Systems. M. F.</i> Goodchild, M. J. Egenhofer, R. Fegeas, and C. A. Kottman (eds.), Kluwer, Academic Publishers<i>.</i></span><i><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Changing+Focus+on+Interoperability+in+Information+Systems%3A+From+System%2C+Syntax%2C+Structure+to+Semantics&amp;rft.atitle=In+Interoperating+Geographic+Information+Systems.+M.+F.%0AGoodchild%2C+M.+J.+Egenhofer%2C+R.+Fegeas%2C+and+C.+A.+Kottman+%28eds.%29%2C+Kluwer%2C+Academic%0APublishers&amp;rft.aulast=Sheth%2C+A.+P.&amp;rft.au=Sheth%2C+A.+P.&amp;rft.date=1999&amp;rfr_id=info:sid/en.wikipedia.org:Schema_matching"><span style="display: none;">&#160;</span></span></i></li>
+<li id="cite_note-rahm-3">^ <a href="#cite_ref-rahm_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-rahm_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-rahm_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-rahm_3-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-rahm_3-4"><sup><i><b>e</b></i></sup></a> <span class="citation book">Rahm, E. and Bernstein, P (2001). "A survey of approaches to automatic schema matching". <i>The VLDB Journal 10, 4</i>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=A+survey+of+approaches+to+automatic+schema+matching&amp;rft.atitle=The+VLDB+Journal+10%2C+4&amp;rft.aulast=Rahm%2C+E.+and+Bernstein%2C+P&amp;rft.au=Rahm%2C+E.+and+Bernstein%2C+P&amp;rft.date=2001&amp;rfr_id=info:sid/en.wikipedia.org:Schema_matching"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-batini-4">^ <a href="#cite_ref-batini_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-batini_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-batini_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-batini_4-3"><sup><i><b>d</b></i></sup></a> <span class="citation book">Batini, C., Lenzerini, M., and Navathe, S. B. (1986). "A comparative analysis of methodologies for database schema integration.". <i>ACM Comput. Surv. 18, 4</i>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=A+comparative+analysis+of+methodologies+for+database+schema+integration.&amp;rft.atitle=ACM+Comput.+Surv.+18%2C+4&amp;rft.aulast=Batini%2C+C.%2C+Lenzerini%2C+M.%2C+and+Navathe%2C+S.+B.&amp;rft.au=Batini%2C+C.%2C+Lenzerini%2C+M.%2C+and+Navathe%2C+S.+B.&amp;rft.date=1986&amp;rfr_id=info:sid/en.wikipedia.org:Schema_matching"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-doan-5"><b><a href="#cite_ref-doan_5-0">^</a></b> <span class="citation book">Doan, A. and Halevy, A. (2005). "Semantic-integration research in the database community". <i>AI Mag. 26, 1</i>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Semantic-integration+research+in+the+database+community&amp;rft.atitle=AI+Mag.+26%2C+1&amp;rft.aulast=Doan%2C+A.+and+Halevy%2C+A.&amp;rft.au=Doan%2C+A.+and+Halevy%2C+A.&amp;rft.date=2005&amp;rfr_id=info:sid/en.wikipedia.org:Schema_matching"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-Kalfoglou-6">^ <a href="#cite_ref-Kalfoglou_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Kalfoglou_6-1"><sup><i><b>b</b></i></sup></a> <span class="citation book">Kalfoglou, Y. and Schorlemmer, M. (2003). "Ontology mapping: the state of the art". <i>Knowl. Eng. Rev. 18, 1</i>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Ontology+mapping%3A+the+state+of+the+art&amp;rft.atitle=Knowl.+Eng.+Rev.+18%2C+1&amp;rft.aulast=Kalfoglou%2C+Y.+and+Schorlemmer%2C+M.&amp;rft.au=Kalfoglou%2C+Y.+and+Schorlemmer%2C+M.&amp;rft.date=2003&amp;rfr_id=info:sid/en.wikipedia.org:Schema_matching"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-choi-7"><b><a href="#cite_ref-choi_7-0">^</a></b> <span class="citation book">Choi, N., Song, I., and Han, H. (2006). "A survey on ontology mapping". <i>SIGMOD Rec. 35, 3</i>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=A+survey+on+ontology+mapping&amp;rft.atitle=SIGMOD+Rec.+35%2C+3&amp;rft.aulast=Choi%2C+N.%2C+Song%2C+I.%2C+and+Han%2C+H.&amp;rft.au=Choi%2C+N.%2C+Song%2C+I.%2C+and+Han%2C+H.&amp;rft.date=2006&amp;rfr_id=info:sid/en.wikipedia.org:Schema_matching"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-relns-8"><b><a href="#cite_ref-relns_8-0">^</a></b> <span class="citation book">Ashoka Savasere, Amit P. Sheth, Sunit K. Gala, Shamkant B. Navathe, H. Markus (1993). "On Applying Classification to Schema Integration". <i>RIDE-IMS</i>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=On+Applying+Classification+to+Schema+Integration&amp;rft.atitle=RIDE-IMS&amp;rft.aulast=Ashoka+Savasere%2C+Amit+P.+Sheth%2C+Sunit+K.+Gala%2C+Shamkant+B.+Navathe%2C+H.+Markus&amp;rft.au=Ashoka+Savasere%2C+Amit+P.+Sheth%2C+Sunit+K.+Gala%2C+Shamkant+B.+Navathe%2C+H.+Markus&amp;rft.date=1993&amp;rfr_id=info:sid/en.wikipedia.org:Schema_matching"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-oaei-9"><b><a href="#cite_ref-oaei_9-0">^</a></b> <a rel="nofollow" class="external text" href="http://oaei.ontologymatching.org/2006/">Ontology Alignment Evaluation Initiative::2006</a></li>
+</ol>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Schema_matching&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://knoesis.wright.edu/library/download/S04-Dagstuhl-Early-Work.pdf">Early work in schema matching</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 6202/1000000
+Post-expand include size: 31449/2048000 bytes
+Template argument size: 11146/2048000 bytes
+Expensive parser function count: 2/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:11488814-0!*!0!!en!4!* and timestamp 20111006055041 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Schema_matching&amp;oldid=422558628">http://en.wikipedia.org/w/index.php?title=Schema_matching&amp;oldid=422558628</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Databases" title="Category:Databases">Databases</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_needing_context_from_October_2009" title="Category:Wikipedia articles needing context from October 2009">Wikipedia articles needing context from October 2009</a></li><li><a href="/wiki/Category:All_Wikipedia_articles_needing_context" title="Category:All Wikipedia articles needing context">All Wikipedia articles needing context</a></li><li><a href="/wiki/Category:Wikipedia_introduction_cleanup_from_October_2009" title="Category:Wikipedia introduction cleanup from October 2009">Wikipedia introduction cleanup from October 2009</a></li><li><a href="/wiki/Category:All_pages_needing_cleanup" title="Category:All pages needing cleanup">All pages needing cleanup</a></li><li><a href="/wiki/Category:Articles_with_missing_files" title="Category:Articles with missing files">Articles with missing files</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Schema_matching" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in / create account</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Schema_matching"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:Schema_matching&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+		<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Schema_matching" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Schema_matching&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Schema_matching&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+		<input type='hidden' name="title" value="Special:Search"/>
+				<div id="simpleSearch">
+						<input type="text" name="search" value="" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/skins-1.18/vector/images/search-ltr.png?303-4" alt="Search" /></button>					</div>
+			</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//wikimediafoundation.org/wiki/Special:Landingcheck?landing_page=WMFJA085&amp;language=en&amp;utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=20101204SB002" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Schema_matching" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Schema_matching" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Schema_matching&amp;oldid=422558628" title="Permanent link to this revision of the page">Permanent link</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Schema_matching&amp;id=422558628" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Schema+matching" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Schema+matching&amp;oldid=422558628&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Schema_matching&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 5 April 2011 at 18:49.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_use">Terms of use</a> for details.<br/>
+Wikipedia&reg; is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href='/w/index.php?title=Schema_matching&amp;useformat=mobile'>Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/skins-1.18/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<!-- fixalpha -->
+		<script type="text/javascript"> if ( window.isMSIE55 ) fixalpha(); </script>
+		<!-- /fixalpha -->
+		<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*" type="text/javascript"></script>
+<script type="text/javascript">if ( window.mediaWiki ) {
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax", "mediawiki.legacy.mwsuggest", "ext.gadget.wmfFR2011Style", "ext.vector.collapsibleNav", "ext.vector.collapsibleTabs", "ext.vector.editWarning", "ext.vector.simpleSearch", "ext.UserBuckets", "ext.articleFeedback.startup"]);
+}
+</script>
+<script src="/w/index.php?title=Special:BannerController&amp;cache=/cn.js&amp;303-4" type="text/javascript"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*" type="text/javascript"></script>
+<script type="text/javascript">if ( window.mediaWiki ) {
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,
+	"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"gadget-wmfFR2011Style":1});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: enwiki:resourceloader:filter:minify-js:4:b41a86ec4e0fe8329bc3ce917e792339 */
+}
+</script><script src="//geoiplookup.wikimedia.org/" type="text/javascript"></script><!-- Served by srv213 in 0.069 secs. -->
+	</body>
+</html>

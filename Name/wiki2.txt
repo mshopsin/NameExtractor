@@ -1,0 +1,1431 @@
+http://en.wikipedia.org/wiki/Street
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html lang="en" dir="ltr" class="client-nojs" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<title>Street - Wikipedia, the free encyclopedia</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<meta http-equiv="Content-Style-Type" content="text/css" />
+
+<meta name="generator" content="MediaWiki 1.18wmf1" />
+
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Street&amp;action=edit" />
+
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Street&amp;action=edit" />
+
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+
+<link rel="shortcut icon" href="/favicon.ico" />
+
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" type="text/css" media="all" />
+
+<meta name="ResourceLoaderDynamicStyles" content="" />
+
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" type="text/css" media="all" />
+
+<style type="text/css" media="all">a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+
+
+/* cache key: enwiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*" type="text/javascript"></script>
+
+<script type="text/javascript">if ( window.mediaWiki ) {
+
+mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "Street", "wgTitle": "Street", "wgCurRevisionId": 461194813, "wgArticleId": 199065, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["Pages containing links or citations to sites that require registration", "Articles lacking in-text citations from April 2009", "All articles lacking in-text citations", "Streets", "Types of roads"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgSearchNamespaces": [0], "wgFlaggedRevsParams": {"tags": {"status": {"levels": 1, "quality": 2, "pristine": 3}}}, "wgStableRevisionId": null, "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": true, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "wgTrackingToken": "544c4266e91b55741c3724a271443b39", "wikilove-recipient": "", "wikilove-edittoken": "+\\", "wikilove-anon": 0, "mbEditToken": "+\\", "Geo": {"city": "", "country": ""}, "wgNoticeProject": "wikipedia"});
+
+}
+
+</script><script type="text/javascript">if ( window.mediaWiki ) {
+
+mw.loader.load(["mediawiki.page.startup"]);
+
+}
+
+</script>
+
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.18/vector/csshover.min.htc")}</style><![endif]--></head>
+
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Street action-view skin-vector">
+
+<div id="mw-page-base" class="noprint"></div>
+
+<div id="mw-head-base" class="noprint"></div>
+
+<!-- content -->
+
+<div id="content">
+
+<a id="top"></a>
+
+<div id="mw-js-message" style="display:none;"></div>
+
+<!-- sitenotice -->
+
+<div id="siteNotice"><!-- centralNotice loads here --></div>
+
+<!-- /sitenotice -->
+
+<!-- firstHeading -->
+
+<h1 id="firstHeading" class="firstHeading">Street</h1>
+
+<!-- /firstHeading -->
+
+<!-- bodyContent -->
+
+<div id="bodyContent">
+
+<!-- tagline -->
+
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+
+<!-- /tagline -->
+
+<!-- subtitle -->
+
+<div id="contentSub"></div>
+
+<!-- /subtitle -->
+
+<!-- jumpto -->
+
+<div id="jump-to-nav">
+
+Jump to: <a href="#mw-head">navigation</a>,
+
+<a href="#p-search">search</a>
+
+</div>
+
+<!-- /jumpto -->
+
+<!-- bodycontent -->
+
+<div lang="en" dir="ltr" class="mw-content-ltr"><div class="dablink">For other uses, see <a href="/wiki/Street_(disambiguation)" title="Street (disambiguation)">Street (disambiguation)</a>.</div>
+
+<div class="thumb tright">
+
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Typical_Street_In_The_Royal_Borough_Of_Kensington_And_Chelsea_In_London.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Typical_Street_In_The_Royal_Borough_Of_Kensington_And_Chelsea_In_London.jpg/220px-Typical_Street_In_The_Royal_Borough_Of_Kensington_And_Chelsea_In_London.jpg" width="220" height="165" class="thumbimage" /></a>
+
+<div class="thumbcaption">
+
+<div class="magnify"><a href="/wiki/File:Typical_Street_In_The_Royal_Borough_Of_Kensington_And_Chelsea_In_London.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/skins-1.18/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+
+Typical service street ("mews") in the <a href="/wiki/Royal_Borough_of_Kensington_and_Chelsea" title="Royal Borough of Kensington and Chelsea">Royal Borough of Kensington and Chelsea</a> in <a href="/wiki/London" title="London">London</a>. Mews are typically found at the back of older housing terraces (rows of townhouses) in the UK, with a more elegant street in front of the terrace.</div>
+
+</div>
+
+</div>
+
+<div class="thumb tright">
+
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Abbey_Road_Zebra_crossing_2004-01.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Abbey_Road_Zebra_crossing_2004-01.jpg/220px-Abbey_Road_Zebra_crossing_2004-01.jpg" width="220" height="161" class="thumbimage" /></a>
+
+<div class="thumbcaption">
+
+<div class="magnify"><a href="/wiki/File:Abbey_Road_Zebra_crossing_2004-01.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/skins-1.18/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+
+<a href="/wiki/Abbey_Road_(street)" title="Abbey Road (street)">Abbey Road</a>, <a href="/wiki/London" title="London">London</a></div>
+
+</div>
+
+</div>
+
+<div class="thumb tright">
+
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Via_Roma_(Florence)_4.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Via_Roma_%28Florence%29_4.JPG/220px-Via_Roma_%28Florence%29_4.JPG" width="220" height="165" class="thumbimage" /></a>
+
+<div class="thumbcaption">
+
+<div class="magnify"><a href="/wiki/File:Via_Roma_(Florence)_4.JPG" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/skins-1.18/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+
+A street of center of <a href="/wiki/Florence" title="Florence">Florence</a>, <a href="/wiki/Italy" title="Italy">Italy</a></div>
+
+</div>
+
+</div>
+
+<div class="thumb tright">
+
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Beirut_002.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Beirut_002.jpg/220px-Beirut_002.jpg" width="220" height="165" class="thumbimage" /></a>
+
+<div class="thumbcaption">
+
+<div class="magnify"><a href="/wiki/File:Beirut_002.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/skins-1.18/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+
+A cobblestone street in <a href="/wiki/Beirut" title="Beirut">Beirut</a>, <a href="/wiki/Lebanon" title="Lebanon">Lebanon</a></div>
+
+</div>
+
+</div>
+
+<p>A <b>street</b> is a paved <a href="/wiki/Public" title="Public">public</a> <a href="/wiki/Thoroughfare" title="Thoroughfare">thoroughfare</a> in a built environment. It is a <a href="/wiki/Public" title="Public">public</a> parcel of <a href="/wiki/Landform" title="Landform">land</a> adjoining <a href="/wiki/Building" title="Building">buildings</a> in an <a href="/wiki/Urban_area" title="Urban area">urban</a> context, on which people may freely assemble, interact, and move about. A street can be as simple as a level patch of <a href="/wiki/Soil" title="Soil">dirt</a>, but is more often <a href="/wiki/Pavement_(material)" title="Pavement (material)" class="mw-redirect">paved</a> with a hard, durable surface such as <a href="/wiki/Concrete" title="Concrete">concrete</a>, <a href="/wiki/Cobblestone" title="Cobblestone">cobblestone</a> or <a href="/wiki/Brick" title="Brick">brick</a>. Portions may also be smoothed with <a href="/wiki/Asphalt" title="Asphalt">asphalt</a>, embedded with <a href="/wiki/Rail_tracks" title="Rail tracks" class="mw-redirect">rails</a>, or otherwise prepared to accommodate non-<a href="/wiki/Pedestrian" title="Pedestrian">pedestrian</a> traffic.</p>
+
+<p>Originally the word "street" simply meant a paved road (Latin: "via strata"). The word "street" is still sometimes used colloquially as a synonym for "<a href="/wiki/Road" title="Road">road</a>", for example in connection with the ancient <a href="/wiki/Watling_Street" title="Watling Street">Watling Street</a>, but city residents and <a href="/wiki/Urban_planning" title="Urban planning">urban planners</a> draw a crucial modern distinction: a road's main function is transportation, while streets facilitate public interaction.<sup id="cite_ref-Dictionary_0-0" class="reference"><a href="#cite_note-Dictionary-0"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-Yahoo.21_1-0" class="reference"><a href="#cite_note-Yahoo.21-1"><span>[</span>2<span>]</span></a></sup> Examples of streets include <a href="/wiki/Pedestrian_street" title="Pedestrian street" class="mw-redirect">pedestrian streets</a>, <a href="/wiki/Alley" title="Alley">alleys</a>, and <a href="/wiki/Downtown" title="Downtown">city-centre</a> streets too crowded for <a href="/wiki/Road_vehicle" title="Road vehicle" class="mw-redirect">road vehicles</a> to pass. Conversely, <a href="/wiki/Highway" title="Highway">highways</a> and <a href="/wiki/Motorway" title="Motorway" class="mw-redirect">motorways</a> are types of roads, but few would refer to them as streets.<sup id="cite_ref-Using_2-0" class="reference"><a href="#cite_note-Using-2"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-Avenue_3-0" class="reference"><a href="#cite_note-Avenue-3"><span>[</span>4<span>]</span></a></sup></p>
+
+<table id="toc" class="toc">
+
+<tr>
+
+<td>
+
+<div id="toctitle">
+
+<h2>Contents</h2>
+
+</div>
+
+<ul>
+
+<li class="toclevel-1 tocsection-1"><a href="#Etymology"><span class="tocnumber">1</span> <span class="toctext">Etymology</span></a></li>
+
+<li class="toclevel-1 tocsection-2"><a href="#Role_in_the_built_environment"><span class="tocnumber">2</span> <span class="toctext">Role in the built environment</span></a>
+
+<ul>
+
+<li class="toclevel-2 tocsection-3"><a href="#Circulation"><span class="tocnumber">2.1</span> <span class="toctext">Circulation</span></a>
+
+<ul>
+
+<li class="toclevel-3 tocsection-4"><a href="#Vehicular_traffic"><span class="tocnumber">2.1.1</span> <span class="toctext">Vehicular traffic</span></a></li>
+
+<li class="toclevel-3 tocsection-5"><a href="#Parking_for_vehicles"><span class="tocnumber">2.1.2</span> <span class="toctext">Parking for vehicles</span></a></li>
+
+<li class="toclevel-3 tocsection-6"><a href="#Sidewalk_and_bicycle_traffic"><span class="tocnumber">2.1.3</span> <span class="toctext">Sidewalk and bicycle traffic</span></a></li>
+
+</ul>
+
+</li>
+
+<li class="toclevel-2 tocsection-7"><a href="#Vehicular_amenities_and_roadside_hardware"><span class="tocnumber">2.2</span> <span class="toctext">Vehicular amenities and roadside hardware</span></a>
+
+<ul>
+
+<li class="toclevel-3 tocsection-8"><a href="#Landscaping"><span class="tocnumber">2.2.1</span> <span class="toctext">Landscaping</span></a></li>
+
+</ul>
+
+</li>
+
+<li class="toclevel-2 tocsection-9"><a href="#Utilities"><span class="tocnumber">2.3</span> <span class="toctext">Utilities</span></a></li>
+
+<li class="toclevel-2 tocsection-10"><a href="#Street_numbering"><span class="tocnumber">2.4</span> <span class="toctext">Street numbering</span></a></li>
+
+<li class="toclevel-2 tocsection-11"><a href="#Interaction"><span class="tocnumber">2.5</span> <span class="toctext">Interaction</span></a></li>
+
+<li class="toclevel-2 tocsection-12"><a href="#Identity"><span class="tocnumber">2.6</span> <span class="toctext">Identity</span></a></li>
+
+</ul>
+
+</li>
+
+<li class="toclevel-1 tocsection-13"><a href="#As_distinct_from_other_spaces"><span class="tocnumber">3</span> <span class="toctext">As distinct from other spaces</span></a>
+
+<ul>
+
+<li class="toclevel-2 tocsection-14"><a href="#Nomenclature"><span class="tocnumber">3.1</span> <span class="toctext">Nomenclature</span></a></li>
+
+</ul>
+
+</li>
+
+<li class="toclevel-1 tocsection-15"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+
+<li class="toclevel-1 tocsection-16"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+
+<li class="toclevel-1 tocsection-17"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+
+</ul>
+
+</td>
+
+</tr>
+
+</table>
+
+<h2><span class="editsection">[<a href="/w/index.php?title=Street&amp;action=edit&amp;section=1" title="Edit section: Etymology">edit</a>]</span> <span class="mw-headline" id="Etymology">Etymology</span></h2>
+
+<div class="thumb tleft">
+
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:M%C3%BCnchner-Stra%C3%9Fe,-Frankfurt.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/M%C3%BCnchner-Stra%C3%9Fe%2C-Frankfurt.jpg/220px-M%C3%BCnchner-Stra%C3%9Fe%2C-Frankfurt.jpg" width="220" height="165" class="thumbimage" /></a>
+
+<div class="thumbcaption">
+
+<div class="magnify"><a href="/wiki/File:M%C3%BCnchner-Stra%C3%9Fe,-Frankfurt.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/skins-1.18/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+
+A city-centre street in <a href="/wiki/Frankfurt" title="Frankfurt">Frankfurt</a>, <a href="/wiki/Germany" title="Germany">Germany</a></div>
+
+</div>
+
+</div>
+
+<div class="thumb tleft">
+
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Greek_street_-_III_century_BC_-_Porta_Rosa_-_Velia_-_Italy.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Greek_street_-_III_century_BC_-_Porta_Rosa_-_Velia_-_Italy.JPG/220px-Greek_street_-_III_century_BC_-_Porta_Rosa_-_Velia_-_Italy.JPG" width="220" height="147" class="thumbimage" /></a>
+
+<div class="thumbcaption">
+
+<div class="magnify"><a href="/wiki/File:Greek_street_-_III_century_BC_-_Porta_Rosa_-_Velia_-_Italy.JPG" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/skins-1.18/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+
+The Porta Rosa was the main street of <a href="/wiki/Velia" title="Velia">Elea</a>, connecting the northern quarter with the southern quarter. The street is 5 meters wide and has an incline of 18&#160;% in the steepest part. It is paved with limestone blocks, griders cut in square blocks, and on one side a small gutter for the drainage of rain water. The building is dated during the time of the reorganization of the city during the <a href="/wiki/Hellenistic_age" title="Hellenistic age" class="mw-redirect">Hellenistic age</a> (IV–III centuries BC).</div>
+
+</div>
+
+</div>
+
+<p>The word <i>street</i> has its origins in the Latin <i>strata</i> (meaning "paved road"); it is thus related to <i><a href="/wiki/Stratum" title="Stratum">stratum</a></i> and <i><a href="/wiki/Stratification_(archeology)" title="Stratification (archeology)">stratification</a></i>. Ancient Greek <i><a href="//en.wiktionary.org/wiki/%CF%83%CF%84%CF%81%CE%B1%CF%84%CF%8C%CF%82" class="extiw" title="wikt:στρατός">Stratos</a></i> means army; Greeks originally built roads to move their armies. <a href="/wiki/Old_English" title="Old English">Old English</a> applied the word to <a href="/wiki/Roman_roads_in_Britain" title="Roman roads in Britain">Roman roads in Britain</a> such as <a href="/wiki/Ermin_Street" title="Ermin Street">Ermin Street</a>, <a href="/wiki/Watling_Street" title="Watling Street">Watling Street</a>, etc. Later it acquired a dialectical meaning of "straggling village", which were often laid out on the verges of Roman roads and these settlements often became named <a href="/wiki/Stretton" title="Stretton">Stretton</a>. In the <a href="/wiki/Middle_Ages" title="Middle Ages">Middle Ages</a>, a <i>road</i> was a way people travelled, with <i>street</i> applied specifically to paved ways.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>5<span>]</span></a></sup></p>
+
+<h2><span class="editsection">[<a href="/w/index.php?title=Street&amp;action=edit&amp;section=2" title="Edit section: Role in the built environment">edit</a>]</span> <span class="mw-headline" id="Role_in_the_built_environment">Role in the built environment</span></h2>
+
+<div class="thumb tright">
+
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:St.JamesSt.-Montreal_-1910.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/St.JamesSt.-Montreal_-1910.jpg/220px-St.JamesSt.-Montreal_-1910.jpg" width="220" height="325" class="thumbimage" /></a>
+
+<div class="thumbcaption">
+
+<div class="magnify"><a href="/wiki/File:St.JamesSt.-Montreal_-1910.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/skins-1.18/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+
+<a href="/wiki/Saint_Jacques_Street" title="Saint Jacques Street">Rue Saint-Jacques</a>, a street in <a href="/wiki/Montreal" title="Montreal">Montreal</a>, 1910</div>
+
+</div>
+
+</div>
+
+<p>The street is a public <a href="/wiki/Easement" title="Easement">easement</a>, one of the few shared between all sorts of people. As a component of the <a href="/wiki/Built_environment" title="Built environment">built environment</a> as <a href="/wiki/Ancient_history" title="Ancient history">ancient</a> as human habitation, the street sustains a range of activities vital to <a href="/wiki/Civilization" title="Civilization">civilization</a>. Its roles are as numerous and diverse as its ever-changing cast of characters.</p>
+
+<p>Streets can be loosely categorized as <a href="/wiki/Main_street" title="Main street" class="mw-redirect">main streets</a> and <a href="/wiki/Side_street" title="Side street" class="mw-redirect">side streets</a>. Main streets are usually broad with a relatively high level of activity. Commerce and public interaction are more visible on main streets, and vehicles may use them for longer-distance travel. Side streets are quieter, often residential in use and character, and may be used for vehicular parking.</p>
+
+<h3><span class="editsection">[<a href="/w/index.php?title=Street&amp;action=edit&amp;section=3" title="Edit section: Circulation">edit</a>]</span> <span class="mw-headline" id="Circulation">Circulation</span></h3>
+
+<div class="rellink relarticle mainarticle">Main article: <a href="/wiki/Traffic" title="Traffic">Traffic</a></div>
+
+<div class="rellink boilerplate seealso">See also: <a href="/wiki/Street_network" title="Street network">Street network</a></div>
+
+<div class="thumb tleft">
+
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:JalanAmpangNight.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/JalanAmpangNight.jpg/220px-JalanAmpangNight.jpg" width="220" height="165" class="thumbimage" /></a>
+
+<div class="thumbcaption">
+
+<div class="magnify"><a href="/wiki/File:JalanAmpangNight.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/skins-1.18/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+
+<a href="/wiki/Jalan_Ampang" title="Jalan Ampang">Jalan Ampang</a> at night, with the <a href="/wiki/Petronas_Twin_Towers" title="Petronas Twin Towers" class="mw-redirect">Petronas Twin Towers</a> visible in the background in <a href="/wiki/Kuala_Lumpur" title="Kuala Lumpur">Kuala Lumpur</a>, <a href="/wiki/Malaysia" title="Malaysia">Malaysia</a>.</div>
+
+</div>
+
+</div>
+
+<p>Circulation, or less broadly, <a href="/wiki/Transportation" title="Transportation" class="mw-redirect">transportation</a>, is perhaps a street's most visible use, and certainly among the most important. The unrestricted movement of people and <a href="/wiki/Good_(economics_and_accounting)" title="Good (economics and accounting)" class="mw-redirect">goods</a> within a city is essential to its <a href="/wiki/Commerce" title="Commerce">commerce</a> and vitality, and streets provide the physical space for this activity.</p>
+
+<p>In the interest of order and efficiency, an effort may be made to segregate different types of traffic. This is usually done by carving a <a href="/wiki/Road" title="Road">road</a> through the middle for motorists, reserving <a href="/wiki/Sidewalk" title="Sidewalk">pavements</a> on either side for pedestrians; other arrangements allow for <a href="/wiki/Streetcar" title="Streetcar" class="mw-redirect">streetcars</a>, <a href="/wiki/Trolley_bus" title="Trolley bus" class="mw-redirect">trolleys</a>, and even <a href="/wiki/Wastewater" title="Wastewater">wastewater</a> and rainfall <a href="/wiki/Surface_runoff" title="Surface runoff">runoff</a> ditches (common in <a href="/wiki/Japan" title="Japan">Japan</a> and <a href="/wiki/India" title="India">India</a>). In the mid-20th century, as the automobile threatened to overwhelm city streets with pollution and ghastly accidents, many urban theorists came to see this segregation as not only helpful but necessary in order to maintain mobility. <a href="/wiki/Le_Corbusier" title="Le Corbusier">Le Corbusier</a>, for one, perceived an ever-stricter segregation of traffic as an essential affirmation of social order — a desirable, and ultimately inevitable, expression of modernity. To this end, proposals were advanced to build "vertical streets" where road vehicles, pedestrians, and trains would each occupy their own levels. Such an arrangement, it was said, would allow for even denser development in the future.</p>
+
+<p>These plans were never implemented comprehensively, a fact which today's urban theorists regard as fortunate for vitality and diversity. Rather, vertical segregation is applied on a piecemeal basis, as in <a href="/wiki/Sanitary_sewer" title="Sanitary sewer">sewers</a>, <a href="/wiki/Utility_pole" title="Utility pole">utility poles</a>, depressed highways, elevated railways, <a href="/wiki/Common_utility_duct" title="Common utility duct">common utility ducts</a>, the extensive complex of underground malls surrounding <a href="/wiki/Tokyo_Station" title="Tokyo Station" class="mw-redirect">Tokyo Station</a> and the <a href="/wiki/%C5%8Ctemachi" title="Ōtemachi">Ōtemachi</a> subway station, the elevated pedestrian <a href="/wiki/Skyway" title="Skyway">skyway</a> networks of <a href="/wiki/Minneapolis" title="Minneapolis">Minneapolis</a> and <a href="/wiki/Calgary" title="Calgary">Calgary</a>, the <a href="/wiki/Underground_city" title="Underground city">underground cities</a> of <a href="/wiki/Atlanta" title="Atlanta">Atlanta</a> and <a href="/wiki/Montreal" title="Montreal">Montreal</a>, and the <a href="/wiki/Multilevel_streets_in_Chicago" title="Multilevel streets in Chicago">multilevel streets in Chicago</a>.</p>
+
+<p>Transportation is often misunderstood to be the defining characteristic, or even the sole purpose, of a street. This has not been the case since the word "street" came to be limited to urban situations, and even in the automobile age, is still demonstrably false. A street may be temporarily blocked to all through traffic in order to secure the space for other uses, such as a <a href="/wiki/Street_fair" title="Street fair">street fair</a>, a <a href="/wiki/Flea_market" title="Flea market">flea market</a>, children at play, filming a movie, or construction work. Many streets are bracketed by <a href="/wiki/Bollard" title="Bollard">bollards</a> or <a href="/wiki/Jersey_barrier" title="Jersey barrier">Jersey barriers</a> so as to keep out vehicles. These measures are often taken in a city's busiest areas, the "destination" districts, when the volume of activity outgrows the capacity of private passenger vehicles to support it. A feature universal to all streets is a human-scale design that gives its users the space and security to feel engaged in their surroundings, whatever through traffic may pass.</p>
+
+<h4><span class="editsection">[<a href="/w/index.php?title=Street&amp;action=edit&amp;section=4" title="Edit section: Vehicular traffic">edit</a>]</span> <span class="mw-headline" id="Vehicular_traffic">Vehicular traffic</span></h4>
+
+<div class="rellink relarticle mainarticle">Main article: <a href="/wiki/Traffic" title="Traffic">Traffic</a></div>
+
+<div class="thumb tright">
+
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Shanghaid03.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Shanghaid03.jpg/220px-Shanghaid03.jpg" width="220" height="293" class="thumbimage" /></a>
+
+<div class="thumbcaption">
+
+<div class="magnify"><a href="/wiki/File:Shanghaid03.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/skins-1.18/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+
+A street full of vehicles in <a href="/wiki/Shanghai" title="Shanghai">Shanghai</a></div>
+
+</div>
+
+</div>
+
+<div class="thumb tright">
+
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Kitano_Street_Kobe01s5s4110.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Kitano_Street_Kobe01s5s4110.jpg/220px-Kitano_Street_Kobe01s5s4110.jpg" width="220" height="147" class="thumbimage" /></a>
+
+<div class="thumbcaption">
+
+<div class="magnify"><a href="/wiki/File:Kitano_Street_Kobe01s5s4110.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/skins-1.18/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+
+<a href="/wiki/Kitano-ch%C5%8D" title="Kitano-chō">Kitano Street</a> in <a href="/wiki/Kobe,_Hyogo" title="Kobe, Hyogo" class="mw-redirect">Kobe, Hyogo</a>, <a href="/wiki/Japan" title="Japan">Japan</a></div>
+
+</div>
+
+</div>
+
+<div class="thumb tright">
+
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Roxas_Boulevard.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Roxas_Boulevard.jpg/220px-Roxas_Boulevard.jpg" width="220" height="165" class="thumbimage" /></a>
+
+<div class="thumbcaption">
+
+<div class="magnify"><a href="/wiki/File:Roxas_Boulevard.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/skins-1.18/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+
+<a href="/wiki/Roxas_Boulevard" title="Roxas Boulevard">Roxas Boulevard</a>, A wide coastal street in <a href="/wiki/Manila" title="Manila">Manila</a> which offers a sunset view from the baywalk area</div>
+
+</div>
+
+</div>
+
+<p>Despite this, the operator of a motor vehicle may (incompletely) regard a street as merely a thoroughfare for vehicular travel or <a href="/wiki/Parking" title="Parking">parking</a>. As far as concerns the driver, a street can be <b>one-way</b> or <b>two-way</b>: vehicles on one-way streets may travel in only one direction, while those on two-way streets may travel both ways. One way streets typically have signs reading "ONE WAY" and an arrow showing the direction of allowed travel. Most two-way streets are wide enough for at least two lanes of traffic.</p>
+
+<p>Which lane is for which <a href="/wiki/Driving_on_the_left_or_right" title="Driving on the left or right" class="mw-redirect">direction of traffic</a> depends on what country the street is located in. On broader two-way streets, there is often a <i>center line</i> <a href="/wiki/Road_surface_marking" title="Road surface marking">marked</a> down the middle of the street separating those lanes on which vehicular traffic goes in one direction from other lanes in which traffic goes in the opposite direction. Occasionally, there may be a <a href="/wiki/Median_strip" title="Median strip" class="mw-redirect">median strip</a> separating lanes of opposing traffic. If there is more than one lane going in one direction on a main street, these lanes may be separated by intermittent <i>lane lines</i> marked on the street pavement. Side streets often do not have center lines or lane lines.</p>
+
+<h4><span class="editsection">[<a href="/w/index.php?title=Street&amp;action=edit&amp;section=5" title="Edit section: Parking for vehicles">edit</a>]</span> <span class="mw-headline" id="Parking_for_vehicles">Parking for vehicles</span></h4>
+
+<div class="rellink relarticle mainarticle">Main article: <a href="/wiki/Parking" title="Parking">Parking</a></div>
+
+<p>Many streets, especially <a href="/wiki/Side_street" title="Side street" class="mw-redirect">side streets</a> in residential areas, have an extra lane's width on either or both sides for <a href="/wiki/Parallel_parking" title="Parallel parking">parallel parking</a>. Most minor side streets allowing free parallel parking do not have pavement markings designating the parking lane. <a href="/wiki/Main_street" title="Main street" class="mw-redirect">Main streets</a> more often have parking lanes marked. Some streets are too busy or narrow for parking on the side. Sometimes parking on the sides of streets is allowed only at certain times. Curbside signs often state regulations about parking. Some streets, particularly in business areas, may have <a href="/wiki/Parking_meter" title="Parking meter">parking meters</a> into which coins must be paid to allow parking in the adjacent space for a limited time. Other parking meters work on a credit card and ticket basis or <a href="/wiki/Pay_and_display" title="Pay and display">pay and display</a>. Parking lane markings on the pavement may designate the meter corresponding to a parking space. Some wide streets with light traffic allow <i>angle parking</i>.</p>
+
+<h4><span class="editsection">[<a href="/w/index.php?title=Street&amp;action=edit&amp;section=6" title="Edit section: Sidewalk and bicycle traffic">edit</a>]</span> <span class="mw-headline" id="Sidewalk_and_bicycle_traffic">Sidewalk and bicycle traffic</span></h4>
+
+<p><a href="/wiki/Sidewalk" title="Sidewalk">Sidewalks</a> (US usage) or pavements (UK usage) are often located alongside on one or usually both sides of the street within the public land strips beyond the curbs. Sidewalks serve a traffic purpose, by making walking easier and more attractive, but they also serve a social function, allowing neighbors to meet and interact on their walks. They also can foster economic activity, such as window shopping and <a href="/wiki/Sidewalk_cafe" title="Sidewalk cafe">sidewalk cafes</a>. Some studies have found that shops on streets with sidewalks get more customers than similar shops without sidewalks.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>6<span>]</span></a></sup></p>
+
+<p>An important element of sidewalk design is accessibility for persons with disabilities. Features that make sidewalks more accessible include <a href="/w/index.php?title=Curb_ramps&amp;action=edit&amp;redlink=1" class="new" title="Curb ramps (page does not exist)">curb ramps</a>, <a href="/wiki/Tactile_paving" title="Tactile paving">tactile paving</a> and accessible traffic signals. The <a href="/wiki/Americans_with_Disabilities_Act" title="Americans with Disabilities Act" class="mw-redirect">Americans with Disabilities Act</a> requires accessibility improvement on new and reconstructed streets within the US.</p>
+
+<p>In most jurisdictions, bicycles are legally allowed to use streets, and required to follow the same laws as motor vehicle traffic, except those inapplicable by their nature, such as emission inspections. Where the volume of bicycle traffic warrants and available right-of-way allows, provisions may be made to separate bicyclists from motor vehicle traffic. Wider lanes may be provided next to the curb, or shoulders may provided. <a href="/wiki/Bicycle_lanes" title="Bicycle lanes" class="mw-redirect">Bicycle lanes</a> may be used on busy streets to provide some separation between bicycle traffic and motor vehicle traffic. The bicycle lane may be placed between the travel lanes and the parking lanes, or between the parking lanes and the curb.</p>
+
+<h3><span class="editsection">[<a href="/w/index.php?title=Street&amp;action=edit&amp;section=7" title="Edit section: Vehicular amenities and roadside hardware">edit</a>]</span> <span class="mw-headline" id="Vehicular_amenities_and_roadside_hardware">Vehicular amenities and roadside hardware</span></h3>
+
+<p>Often, a <a href="/wiki/Curb" title="Curb">curb</a> is used to separate the vehicle traffic lanes from the adjacent sidewalk area. <a href="/wiki/Street_signs" title="Street signs" class="mw-redirect">Street signs</a>, <a href="/wiki/Parking_meter" title="Parking meter">parking meters</a>, <a href="/wiki/Bicycle_stand" title="Bicycle stand">bicycle stands</a>, <a href="/wiki/Bench_(furniture)" title="Bench (furniture)">benches</a>, <a href="/wiki/Traffic_signals" title="Traffic signals" class="mw-redirect">traffic signals</a>, and <a href="/wiki/Street_light" title="Street light">street lights</a> are often found adjacent to streets. They may be behind the sidewalk, or between the sidewalk and the curb.</p>
+
+<h4><span class="editsection">[<a href="/w/index.php?title=Street&amp;action=edit&amp;section=8" title="Edit section: Landscaping">edit</a>]</span> <span class="mw-headline" id="Landscaping">Landscaping</span></h4>
+
+<p>There may be a <a href="/wiki/Road_verge" title="Road verge">road verge</a> (a strip of grass or other vegetation) between the <a href="/wiki/Carriageway" title="Carriageway">carriageway</a> (North American English: Roadway) and the pavement on either side of the street on which <a href="/wiki/Grass" title="Grass">Grass</a> or <a href="/wiki/Tree" title="Tree">trees</a> are often grown there for <a href="/wiki/Landscaping" title="Landscaping">landscaping</a>. These are often placed for beautification, but are increasingly being used to control <a href="/wiki/Stormwater" title="Stormwater">stormwater</a>.</p>
+
+<h3><span class="editsection">[<a href="/w/index.php?title=Street&amp;action=edit&amp;section=9" title="Edit section: Utilities">edit</a>]</span> <span class="mw-headline" id="Utilities">Utilities</span></h3>
+
+<p>Although primarily used for traffic, streets are important corridors for utilities such as electric power, communications such as telephone, cable television and fiber optic lines, storm and <a href="/wiki/Sanitary_sewers" title="Sanitary sewers" class="mw-redirect">sanitary sewers</a>, and natural gas lines.</p>
+
+<h3><span class="editsection">[<a href="/w/index.php?title=Street&amp;action=edit&amp;section=10" title="Edit section: Street numbering">edit</a>]</span> <span class="mw-headline" id="Street_numbering">Street numbering</span></h3>
+
+<p>Practically all public streets in Western countries and the majority elsewhere (though not in Japan; see <a href="/wiki/Japanese_addressing_system" title="Japanese addressing system">Japanese addressing system</a>) are given a <a href="/wiki/Street_name" title="Street name" class="mw-redirect">street name</a> or at least a number to identify them and any <a href="/wiki/Address_(geography)" title="Address (geography)">addresses</a> located along the streets. <a href="/wiki/Alley" title="Alley">Alleys</a> typically do not have names. The length of a lot of land along a street is referred to as the <i>frontage</i> of the lot.</p>
+
+<h3><span class="editsection">[<a href="/w/index.php?title=Street&amp;action=edit&amp;section=11" title="Edit section: Interaction">edit</a>]</span> <span class="mw-headline" id="Interaction">Interaction</span></h3>
+
+<p>A street may assume the role of a <a href="/wiki/Town_square" title="Town square">town square</a> for its regulars. <a href="/wiki/Jane_Jacobs" title="Jane Jacobs">Jane Jacobs</a>, an economist and prominent urbanist, wrote extensively on the ways that interaction among the people who live and work on a particular street—"<a href="/wiki/Mass_surveillance" title="Mass surveillance">eyes on the street</a>"—can reduce crime, encourage the exchange of ideas, and generally make the world a better place.</p>
+
+<h3><span class="editsection">[<a href="/w/index.php?title=Street&amp;action=edit&amp;section=12" title="Edit section: Identity">edit</a>]</span> <span class="mw-headline" id="Identity">Identity</span></h3>
+
+<p>A street can often serve as the <a href="/wiki/Catalyst" title="Catalyst" class="mw-redirect">catalyst</a> for the <a href="/wiki/Neighborhood" title="Neighborhood" class="mw-redirect">neighborhood</a>'s prosperity, <a href="/wiki/Culture" title="Culture">culture</a> and <a href="//en.wiktionary.org/wiki/solidarity" class="extiw" title="wikt:solidarity">solidarity</a>. <a href="/wiki/New_Orleans" title="New Orleans">New Orleans</a>’ <a href="/wiki/Bourbon_Street" title="Bourbon Street">Bourbon Street</a> is famous not only for its active <a href="/wiki/Nightlife_(activity)" title="Nightlife (activity)" class="mw-redirect">nightlife</a> but also for its role as the center of the city’s <a href="/wiki/French_Quarter" title="French Quarter">French Quarter</a>. Similarly, <a href="/wiki/Bowery,_Manhattan" title="Bowery, Manhattan" class="mw-redirect">the Bowery</a> has at various times been <a href="/wiki/New_York_City" title="New York City">New York City</a>'s main highway, theater district, <a href="/wiki/Red-light_district" title="Red-light district">red-light district</a>, <a href="/wiki/Skid_row" title="Skid row">skid row</a>, restaurant supply district, and the center of the <a href="/wiki/Nation" title="Nation">nation</a>'s <a href="/wiki/Underground_music" title="Underground music">underground</a> <a href="/wiki/Punk_rock" title="Punk rock">punk</a> <a href="/wiki/Subculture" title="Subculture">scene</a>. <a href="/wiki/Madison_Avenue" title="Madison Avenue">Madison Avenue</a> and <a href="/wiki/Fleet_Street" title="Fleet Street">Fleet Street</a> are so strongly identified with their respective most famous types of commerce, that their names are sometimes applied to firms located elsewhere. Other streets mark divisions between neighborhoods of a city. For example, <a href="/wiki/Yonge_Street" title="Yonge Street">Yonge Street</a> divides <a href="/wiki/Toronto" title="Toronto">Toronto</a> into east and west sides, and <a href="/wiki/East_Capitol_Street" title="East Capitol Street">East Capitol Street</a> divides <a href="/wiki/Washington,_D.C." title="Washington, D.C.">Washington, D.C.</a> into north and south.</p>
+
+<p>Some streets are associated with the beautification of a town or city. <a href="/wiki/Greenwood,_Mississippi" title="Greenwood, Mississippi">Greenwood, Mississippi</a>'s Grand Boulevard was once named one of America's ten most beautiful streets by the U.S. Chambers of Commerce and the Garden Clubs of America. The 1000 oak trees lining Grand Boulevard were planted in 1916 by Sally Humphreys Gwin, a charter member of the Greenwood Garden Club. In 1950, Gwin received a citation from the National Congress of the <a href="/wiki/Daughters_of_the_American_Revolution" title="Daughters of the American Revolution">Daughters of the American Revolution</a> in recognition of her work in the conservation of trees.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>7<span>]</span></a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>8<span>]</span></a></sup></p>
+
+<p>Streets also tend to aggregate establishments of similar nature and character. <a href="/w/index.php?title=East_9th_Street_(Manhattan)&amp;action=edit&amp;redlink=1" class="new" title="East 9th Street (Manhattan) (page does not exist)">East 9th Street</a> in <a href="/wiki/Manhattan" title="Manhattan">Manhattan</a>, for example, offers a cluster of <a href="/wiki/Japan" title="Japan">Japanese</a> restaurants, clothing stores, and cultural venues. In Washington, D.C., 17th Street and P Street are well-known as epicenters of the city's (relatively small) gay culture. Many cities have a <a href="/wiki/Radio_Row" title="Radio Row">Radio Row</a> or <a href="/wiki/Restaurant" title="Restaurant">Restaurant Row</a>. Like in <a href="/wiki/Philadelphia" title="Philadelphia">Philadelphia</a> there is a small street called <a href="/wiki/Jewelers%27_Row,_Philadelphia" title="Jewelers' Row, Philadelphia" class="mw-redirect">Jewelers' row</a> giving the identity of a "Diamond district". This phenomenon is the subject of urban <a href="/wiki/Location_theory" title="Location theory">location theory</a> in <a href="/wiki/Economics" title="Economics">economics</a>.</p>
+
+<h2><span class="editsection">[<a href="/w/index.php?title=Street&amp;action=edit&amp;section=13" title="Edit section: As distinct from other spaces">edit</a>]</span> <span class="mw-headline" id="As_distinct_from_other_spaces">As distinct from other spaces</span></h2>
+
+<div class="thumb tright">
+
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Centralbeirut.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Centralbeirut.jpg/220px-Centralbeirut.jpg" width="220" height="293" class="thumbimage" /></a>
+
+<div class="thumbcaption">
+
+<div class="magnify"><a href="/wiki/File:Centralbeirut.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/skins-1.18/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+
+<a href="/wiki/Beirut_Central_District" title="Beirut Central District">Centre Ville</a>, <a href="/wiki/Beirut" title="Beirut">Beirut</a>, <a href="/wiki/Lebanon" title="Lebanon">Lebanon</a></div>
+
+</div>
+
+</div>
+
+<p>A <a href="/wiki/Road" title="Road">road</a>, like a street, is often paved and used for <a href="/wiki/Transport" title="Transport">travel</a>. However, a street is characterized by the degree and quality of street life it facilitates, whereas a road serves primarily as a through passage for <a href="/wiki/Road_vehicle" title="Road vehicle" class="mw-redirect">road vehicles</a> or (less frequently) <a href="/wiki/Pedestrian" title="Pedestrian">pedestrians</a>. <a href="/wiki/Busker" title="Busker" class="mw-redirect">Buskers</a>, <a href="/wiki/Beggar" title="Beggar" class="mw-redirect">beggars</a>, boulevardiers, patrons of pavement <a href="/wiki/Caf%C3%A9" title="Café">cafés</a>, <a href="/wiki/Peoplewatching" title="Peoplewatching" class="mw-redirect">peoplewatchers</a>, <a href="/wiki/Streetwalker" title="Streetwalker" class="mw-redirect">streetwalkers</a>, and a diversity of other characters are habitual users of a street; the same people would not typically be found on a road.</p>
+
+<p>In <a href="/wiki/Rural" title="Rural" class="mw-redirect">rural</a> and <a href="/wiki/Suburban" title="Suburban" class="mw-redirect">suburban</a> environments where street life is rare, the terms "street" and "road" are frequently considered interchangeable. Still, even here, what is called a "street" is usually a smaller thoroughfare, such as a road within a <a href="/wiki/Housing_development" title="Housing development" class="mw-redirect">housing development</a> feeding directly into individual <a href="/wiki/Driveway" title="Driveway">driveways</a>. In the last half of the 20th century these streets often abandoned the tradition of a rigid, rectangular <a href="/wiki/Grid_plan" title="Grid plan">grid</a>, and instead were designed to discourage through traffic. This and other <a href="/wiki/Traffic_calming" title="Traffic calming">traffic calming</a> methods provided quiet for families and play space for children. Adolescent suburbanites find, in attenuated form, the amenities of street life in <a href="/wiki/Shopping_mall" title="Shopping mall">shopping malls</a> where vehicles are forbidden.</p>
+
+<p>If a road connects places, then a street connects people. One may "hit the road" to see the <a href="/wiki/Wonders_of_the_world" title="Wonders of the world" class="mw-redirect">wonders of the world</a>—<a href="/wiki/Jack_Kerouac" title="Jack Kerouac">Jack Kerouac</a> famously <a href="/wiki/On_the_Road" title="On the Road">chronicled</a> one such journey—but the latest <a href="/wiki/Bling" title="Bling" class="mw-redirect">bling</a> will "hit the streets" before it ever appears on a road. It is "on the street" where one hears an interesting <a href="/wiki/Rumor" title="Rumor">rumor</a>, where one bumps into an old acquaintance, where one acquires <a href="/wiki/How-to" title="How-to">street smarts</a>. One seldom sees a "road" vendor except of fresh produce, or a "road" performer. You'll never find yourself on a long "street" to nowhere or under assault by a violent "road" gang, hence politicians seldom view with alarm the prevalence of "crime in the roads". The street, not the road is home to the homeless unless they are <a href="/wiki/Hobo" title="Hobo">hoboes</a>, and even Kerouac's hero finally returned to find his friends on a New York street.</p>
+
+<p>A <a href="/wiki/Town_square" title="Town square">town square</a> or <a href="/wiki/Plaza" title="Plaza">plaza</a> is a little more like a street, but a town square is rarely paved with <a href="/wiki/Asphalt" title="Asphalt">asphalt</a> and may not make any concessions for through traffic at all.</p>
+
+<h3><span class="editsection">[<a href="/w/index.php?title=Street&amp;action=edit&amp;section=14" title="Edit section: Nomenclature">edit</a>]</span> <span class="mw-headline" id="Nomenclature">Nomenclature</span></h3>
+
+<div class="rellink relarticle mainarticle">Main article: <a href="/wiki/Street_name" title="Street name" class="mw-redirect">Street name</a></div>
+
+<div class="thumb tright">
+
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Bundesarchiv_Bild_183-S53267,_St._Petersburg,_Newski-Prospekt.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Bundesarchiv_Bild_183-S53267%2C_St._Petersburg%2C_Newski-Prospekt.jpg/220px-Bundesarchiv_Bild_183-S53267%2C_St._Petersburg%2C_Newski-Prospekt.jpg" width="220" height="164" class="thumbimage" /></a>
+
+<div class="thumbcaption">
+
+<div class="magnify"><a href="/wiki/File:Bundesarchiv_Bild_183-S53267,_St._Petersburg,_Newski-Prospekt.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/skins-1.18/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+
+<a href="/wiki/Nevsky_Prospekt" title="Nevsky Prospekt" class="mw-redirect">Nevsky Prospekt</a>, is the main street in the city of <a href="/wiki/St._Petersburg" title="St. Petersburg" class="mw-redirect">St. Petersburg</a>, 1901.</div>
+
+</div>
+
+</div>
+
+<div class="thumb tright">
+
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Avenida_Cruzeiro_do_Sul.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Avenida_Cruzeiro_do_Sul.jpg/220px-Avenida_Cruzeiro_do_Sul.jpg" width="220" height="293" class="thumbimage" /></a>
+
+<div class="thumbcaption">
+
+<div class="magnify"><a href="/wiki/File:Avenida_Cruzeiro_do_Sul.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/skins-1.18/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+
+An avenue in <a href="/wiki/S%C3%A3o_Paulo" title="São Paulo">São Paulo</a>.</div>
+
+</div>
+
+</div>
+
+<p>There is a haphazard relationship, at best, between a thoroughfare's function and its name. For example, London's <a href="/wiki/Abbey_Road_(street)" title="Abbey Road (street)">Abbey Road</a> serves all the vital functions of a street, despite its name, and locals are more apt to refer to the "street" outside than the "road". A desolate road in rural <a href="/wiki/Montana" title="Montana">Montana</a>, on the other hand, may bear a sign proclaiming it "Davidson Street", but this does not make it a "street" except in the original sense of a paved road.</p>
+
+<p>In the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a> many towns will refer to their main thoroughfare as the <a href="/wiki/High_Street" title="High Street">High Street</a> (in the <a href="/wiki/United_States" title="United States">United States</a> it would be called the <a href="/wiki/Main_Street" title="Main Street">Main Street</a> — however, occasionally "Main Street" in a city or town is a street other than the <i>de facto</i> main thoroughfare), and many of the ways leading off it will be named "Road" despite the urban setting. Thus the town's so-called "Roads" will actually be more street like than a road.</p>
+
+<p>Some streets may even be called highways. <a href="/wiki/Hurontario_Street" title="Hurontario Street">Hurontario Street</a> in <a href="/wiki/Mississauga" title="Mississauga">Mississauga</a>, <a href="/wiki/Ontario" title="Ontario">Ontario</a>, Canada, is commonly referred to as "<a href="/wiki/Highway_10_(Ontario)" title="Highway 10 (Ontario)" class="mw-redirect">Highway 10</a>" — even though such a highway designation no longer officially exists. This is probably due to the fact that the street is a modern suburban arterial that was urbanized after decades of having the status and function a true highway, so people continued to use the number because of force of habit.</p>
+
+<p>In some other English-speaking countries, such as New Zealand and Australia, cities are often divided by a main "Road," with "Streets" leading from this "Road", or are divided by thoroughfares known as "Streets" or "Roads" with no apparent differentiation between the two. In <a href="/wiki/Auckland" title="Auckland">Auckland</a>, for example, the main shopping precinct is around <a href="/wiki/Queen_Street,_Auckland" title="Queen Street, Auckland">Queen Street</a> and <a href="/wiki/Karangahape_Road" title="Karangahape Road">Karangahape Road</a>.</p>
+
+<p>Streets have existed for as long as humans have lived in permanent settlements (see <a href="/wiki/Civilization" title="Civilization">civilization</a>). However, modern civilization in much of the New World developed around transportation provided by motor vehicles. In some parts of the English-speaking world, such as North America, many think of the street as a thoroughfare for <a href="/wiki/Vehicular_traffic" title="Vehicular traffic" class="mw-redirect">vehicular traffic</a> first and foremost. In this view, pedestrian traffic is incidental to the street's purpose; a street consists of a thoroughfare running through the middle (in essence, a <a href="/wiki/Road" title="Road">road</a>), and may or may not have <a href="/wiki/Sidewalk" title="Sidewalk">pavements</a> along the sides.</p>
+
+<p>In an even narrower sense, some may think of a street as only the vehicle-driven and <a href="/wiki/Parking" title="Parking">parking</a> part of the thoroughfare. Thus, <a href="/wiki/Sidewalk" title="Sidewalk">pavements</a> and <a href="/wiki/Road_verge" title="Road verge">road verges</a> would not be thought of as part of the street. A mother may tell her toddlers "Don't go out into the street, so you don't get hit by a car."</p>
+
+<p>Among urban residents of the English-speaking world, the word appears to carry its original connotations (i.e. the facilitation of traffic as a prime purpose, and "street life" as an incidental benefit). For instance, a <i>New York Times</i> writer lets casually slip the observation that automobile-laden <a href="/wiki/Houston_Street" title="Houston Street" class="mw-redirect">Houston Street</a> is "a street that can hardly be called 'street' anymore, transformed years ago into an eight-lane raceway that alternately resembles a Nascar event and a parking lot."<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>9<span>]</span></a></sup> Published in the paper's Metro section, the article evidently presumes an audience with an innate grasp of the modern urban role of the street. To the readers of the Metro section, vehicular traffic does not reinforce, but rather detracts from, the essential "street-ness" of a street.</p>
+
+<p>At least one map has been made to illustrate the geography of naming conventions for thoroughfares; street, avenue, boulevard, circle, and other suffixes are contrasted against one another.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>10<span>]</span></a></sup></p>
+
+<h2><span class="editsection">[<a href="/w/index.php?title=Street&amp;action=edit&amp;section=15" title="Edit section: See also">edit</a>]</span> <span class="mw-headline" id="See_also">See also</span></h2>
+
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+
+<tr>
+
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" /></td>
+
+<td class="mbox-text" style="">Wikimedia Commons has media related to: <i><b><a class="external text" href="//commons.wikimedia.org/wiki/Street">Street</a></b></i></td>
+
+</tr>
+
+</table>
+
+<div>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="background-color:transparent;table-layout:fixed;">
+
+<tr valign="top">
+
+<td>
+
+<div style="margin-right:20px;">
+
+<ul>
+
+<li><a href="/wiki/Built_environment" title="Built environment">Built environment</a></li>
+
+<li><a href="/wiki/Intersection_(road)" title="Intersection (road)">Intersection</a></li>
+
+<li><a href="/wiki/Living_street" title="Living street">Living street</a></li>
+
+<li><i><a href="/wiki/Manual_for_Streets" title="Manual for Streets">Manual for Streets</a></i> (in the UK)</li>
+
+<li><a href="/wiki/Spreuerhofstra%C3%9Fe" title="Spreuerhofstraße">Spreuerhofstraße</a> (Narrowest street in the World)</li>
+
+<li><a href="/wiki/Pedestrian-friendly" title="Pedestrian-friendly" class="mw-redirect">Pedestrian-friendly</a></li>
+
+<li><a href="/wiki/Pedestrian_street" title="Pedestrian street" class="mw-redirect">Pedestrian street</a>, <a href="/wiki/Auto-free_zone" title="Auto-free zone" class="mw-redirect">Auto-free zone</a></li>
+
+</ul>
+
+</div>
+
+</td>
+
+<td>
+
+<div style="margin-right: 20px;">
+
+<ul>
+
+<li><a href="/wiki/Road" title="Road">Road</a></li>
+
+<li><a href="/wiki/Segregated_cycle_facilities" title="Segregated cycle facilities">Segregated cycle facilities</a></li>
+
+<li><a href="/wiki/Street_furniture" title="Street furniture">Street furniture</a></li>
+
+<li><a href="/wiki/Street_reclamation" title="Street reclamation">Street reclamation</a></li>
+
+<li><a href="/wiki/Street_suffix" title="Street suffix">Street suffix</a></li>
+
+<li><a href="/wiki/Urban_car" title="Urban car" class="mw-redirect">Urban car</a></li>
+
+<li><a href="/wiki/Urban_street" title="Urban street">Urban street</a></li>
+
+</ul>
+
+</div>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<h2><span class="editsection">[<a href="/w/index.php?title=Street&amp;action=edit&amp;section=16" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+
+<table class="metadata plainlinks ambox ambox-style ambox-No_footnotes" style="">
+
+<tr>
+
+<td class="mbox-image">
+
+<div style="width: 52px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" width="40" height="40" /></div>
+
+</td>
+
+<td class="mbox-text" style="">This article includes a <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">list of references</a>, related reading or <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">external links</a>, but <b>its sources remain unclear because it lacks <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a></b>. Please <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" title="Wikipedia:WikiProject Fact and Reference Check">improve</a> this article by introducing more precise citations. <small><i>(April 2009)</i></small></td>
+
+</tr>
+
+</table>
+
+<div class="reflist" style="list-style-type: decimal;">
+
+<ol class="references">
+
+<li id="cite_note-Dictionary-0"><b><a href="#cite_ref-Dictionary_0-0">^</a></b> <a rel="nofollow" class="external text" href="http://dictionary.reference.com/help/faq/language/d01.html">Dictionary</a>.</li>
+
+<li id="cite_note-Yahoo.21-1"><b><a href="#cite_ref-Yahoo.21_1-0">^</a></b> <a rel="nofollow" class="external text" href="http://ask.yahoo.com/ask/20050224.html">Ask Yahoo!</a></li>
+
+<li id="cite_note-Using-2"><b><a href="#cite_ref-Using_2-0">^</a></b> <a rel="nofollow" class="external text" href="http://www.usingenglish.com/forum/ask-teacher/8661-need-advice-road-vs-street.html">Road vs Street</a> at Using English forum.</li>
+
+<li id="cite_note-Avenue-3"><b><a href="#cite_ref-Avenue_3-0">^</a></b> <a rel="nofollow" class="external text" href="http://www.usingenglish.com/forum/ask-teacher/26412-avenue-vs-street.html">Avenue vs Street</a> at Using English forum.</li>
+
+<li id="cite_note-4"><b><a href="#cite_ref-4">^</a></b> <span class="citation web"><a rel="nofollow" class="external text" href="http://www.etymonline.com/index.php?term=street">"Online Etymology"</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.etymonline.com/index.php?term=street">http://www.etymonline.com/index.php?term=street</a></span><span class="reference-accessdate">. Retrieved 2006-11-14</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Online+Etymology&amp;rft.atitle=&amp;rft_id=http%3A%2F%2Fwww.etymonline.com%2Findex.php%3Fterm%3Dstreet&amp;rfr_id=info:sid/en.wikipedia.org:Street"><span style="display: none;">&#160;</span></span></li>
+
+<li id="cite_note-5"><b><a href="#cite_ref-5">^</a></b> <span class="citation web"><a rel="nofollow" class="external text" href="http://www.completestreets.org/complete-streets-fundamentals/factsheets/economic-revitalization/">"Economic Revitalization"</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.completestreets.org/complete-streets-fundamentals/factsheets/economic-revitalization/">http://www.completestreets.org/complete-streets-fundamentals/factsheets/economic-revitalization/</a></span><span class="reference-accessdate">. Retrieved 7/15/2011</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Economic+Revitalization&amp;rft.atitle=&amp;rft_id=http%3A%2F%2Fwww.completestreets.org%2Fcomplete-streets-fundamentals%2Ffactsheets%2Feconomic-revitalization%2F&amp;rfr_id=info:sid/en.wikipedia.org:Street"><span style="display: none;">&#160;</span></span></li>
+
+<li id="cite_note-6"><b><a href="#cite_ref-6">^</a></b> <a rel="nofollow" class="external text" href="http://www.newspaperarchive.com"><i>Delta Democrat-Times</i>, November 26, 1956.</a></li>
+
+<li id="cite_note-7"><b><a href="#cite_ref-7">^</a></b> <a rel="nofollow" class="external text" href="http://books.google.com/books?id=ftJm0hwGAGEC&amp;pg=PA87&amp;lpg=PA87&amp;dq=%22ten+most+beautiful+streets%22&amp;source=bl&amp;ots=jQ4q7RfFuK&amp;sig=gHCc9TWjro3-IoRyD1ShDgwHPhE&amp;hl=en&amp;ei=wCTZSda8PNfVlQfsw4G9DA&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=3">Kirkpatrick, Mario Carter. <i>Mississippi Off the Beaten Path</i>. GPP Travel, 2007.</a></li>
+
+<li id="cite_note-8"><b><a href="#cite_ref-8">^</a></b> <a rel="nofollow" class="external text" href="http://www.nytimes.com/2005/10/09/nyregion/thecity/09stre.html"><i>New York Times</i> article</a><span style="font-size:0.95em; font-weight:bold; color:#555;">(registration required)</span></li>
+
+<li id="cite_note-9"><b><a href="#cite_ref-9">^</a></b> <span class="citation web">Bill Rankin (2005). <a rel="nofollow" class="external text" href="http://www.radicalcartography.net/?vancouver">"Vancouver Roads"</a>. radicalcartography<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.radicalcartography.net/?vancouver">http://www.radicalcartography.net/?vancouver</a></span><span class="reference-accessdate">. Retrieved 2010-06-19</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Vancouver+Roads&amp;rft.atitle=&amp;rft.aulast=Bill+Rankin&amp;rft.au=Bill+Rankin&amp;rft.date=2005&amp;rft.pub=radicalcartography&amp;rft_id=http%3A%2F%2Fwww.radicalcartography.net%2F%3Fvancouver&amp;rfr_id=info:sid/en.wikipedia.org:Street"><span style="display: none;">&#160;</span></span></li>
+
+</ol>
+
+</div>
+
+<h2><span class="editsection">[<a href="/w/index.php?title=Street&amp;action=edit&amp;section=17" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+
+<ul>
+
+<li><a rel="nofollow" class="external text" href="http://www.mheu.org/en/street/">A virtual exhibition on the history of streets</a></li>
+
+<li><a rel="nofollow" class="external text" href="http://www.askoxford.com/asktheexperts/faq/aboutwords/street?view=uk">AskOxford: What is the difference between a 'street' and a 'road'?</a></li>
+
+<li><a rel="nofollow" class="external text" href="http://www.streetnote.org">streetnote, street music</a> Live street music and musicians from the streets of the USA</li>
+
+<li><a rel="nofollow" class="external autonumber" href="http://escholarship.org/uc/ucdavislibrary_streetnotes">[1]</a> Biannual exhibition of poetry and documentary about streets and traffic.</li>
+
+<li><a rel="nofollow" class="external text" href="http://www.streetsblog.org">Streetsblog</a> – News focusing on streets and street life in the modern urban landscape. (No affiliation.)</li>
+
+<li><a rel="nofollow" class="external text" href="http://ask.yahoo.com/ask/20050224.html">What distinguishes a street from a lane from a road from a boulevard, etc.?</a> – An <i>Ask Yahoo!</i> editor's examination of the issue.</li>
+
+<li><a rel="nofollow" class="external text" href="http://books.google.com/books?id=N8YOAAAAYAAJ&amp;pg=PR38&amp;lpg=PR38&amp;dq=%22paved+streets%22+%22first+city%22+%22united+states%22&amp;source=web&amp;ots=CKrLXY23zb&amp;sig=qSl8S0jpx23Bv6TFgbxegsr0fC8&amp;hl=en&amp;sa=X&amp;oi=book_result&amp;resnum=1&amp;ct=result#PPR38,M1">A Treatise on Highway Construction, Designed as a Text-book and Work of Reference for All who May be Engaged in the Location, Construction, Or Maintenance of Roads, Streets, and Pavements, By Austin Thomas Byrne, 1900</a> – Boston appears to be the first city in the United States to pave its streets, by 1663, many with pebbles.</li>
+
+</ul>
+
+<table class="navbox" cellspacing="0" style=";">
+
+<tr>
+
+<td style="padding:2px;">
+
+<table cellspacing="0" class="nowraplinks collapsible collapsed" style="width:100%;background:transparent;color:inherit;;">
+
+<tr>
+
+<th style=";" colspan="2" class="navbox-title"><span style="float:left;width:6em;text-align:left;"><span class="noprint plainlinks navbar" style=""><span style="white-space:nowrap;word-spacing:-.12em;"><a href="/wiki/Template:Road_types" title="Template:Road types"><span style=";;background:none transparent;border:none;font-size:100%;" title="View this template">v</span></a> <span style=";;background:none transparent;border:none;font-size:100%;"><b>·</b></span> <a href="/wiki/Template_talk:Road_types" title="Template talk:Road types"><span style=";;background:none transparent;border:none;font-size:100%;" title="Discuss this template">d</span></a> <span style=";;background:none transparent;border:none;font-size:100%;"><b>·</b></span> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Road_types&amp;action=edit"><span style=";;background:none transparent;border:none;font-size:100%;" title="Edit this template">e</span></a></span></span></span><span class="" style="font-size:110%;">Roads and junctions</span></th>
+
+</tr>
+
+<tr style="height:2px;">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td class="navbox-group" style=";;"><a href="/wiki/Types_of_road" title="Types of road">Types of road</a></td>
+
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+
+<div style="padding:0em 0.25em"></div>
+
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;">
+
+<tr>
+
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;;">
+
+<div style="padding:0em 0.75em;"><a href="/wiki/Limited-access_road" title="Limited-access road">Limited-access</a></div>
+
+</td>
+
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+
+<div style="padding:0em 0.25em"><a href="/wiki/Controlled-access_highway" title="Controlled-access highway">Freeway/Motorway</a>&#160;<b>·</b> <span style="white-space:nowrap;"><a href="/wiki/Dual_carriageway" title="Dual carriageway">Dual carriageway/Expressway</a>&#160;<b>·</b></span></div>
+
+</td>
+
+</tr>
+
+<tr style="height:2px">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;;">
+
+<div style="padding:0em 0.75em;"><a href="/wiki/Category:Limited-access_roads_by_country" title="Category:Limited-access roads by country">By country</a></div>
+
+</td>
+
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+
+<div style="padding:0em 0.25em"><a href="/wiki/Autobahn" title="Autobahn" class="mw-redirect">Germany</a>&#160;<b>·</b> <span style="white-space:nowrap;"><a href="/wiki/Highways_in_Croatia" title="Highways in Croatia">Croatia</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/List_of_autopistas_and_autov%C3%ADas_in_Spain" title="List of autopistas and autovías in Spain">Spain</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Autostrade_of_Italy" title="Autostrade of Italy">Italy</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Roads_in_Portugal" title="Roads in Portugal">Portugal</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Highways_in_the_Czech_Republic" title="Highways in the Czech Republic">Czech Republic</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/High-quality_dual_carriageway" title="High-quality dual carriageway">Ireland</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Numbered_highways_in_the_United_States" title="Numbered highways in the United States">United States</a> (<a href="/wiki/United_States_Numbered_Highways" title="United States Numbered Highways">U.S. Routes</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Interstate_Highway_System" title="Interstate Highway System">Interstates</a>)</span></div>
+
+</td>
+
+</tr>
+
+<tr style="height:2px">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;;">
+
+<div style="padding:0em 0.75em;">Main roads</div>
+
+</td>
+
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+
+<div style="padding:0em 0.25em"><a href="/wiki/Arterial_road" title="Arterial road">Arterial road</a>&#160;<b>·</b> <span style="white-space:nowrap;"><a href="/wiki/Collector_road" title="Collector road">Collector road</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Local-express_lanes" title="Local-express lanes">Express-collector setup</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Farm-to-market_road" title="Farm-to-market road">Farm-to-market road</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Highway" title="Highway">Highway</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Link_road" title="Link road">Link road</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Two-lane_expressway" title="Two-lane expressway">Two-lane expressway</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/2%2B1_road" title="2+1 road">2+1 road</a> (<a href="/wiki/Parkway" title="Parkway">Parkway</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Super_two" title="Super two">Super two</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/2%2B2_road" title="2+2 road">2+2 road</a>)&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Trunk_road" title="Trunk road">Trunk road</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Highway_systems_by_country" title="Highway systems by country">Highway systems by country</a></span></div>
+
+</td>
+
+</tr>
+
+<tr style="height:2px">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;;">
+
+<div style="padding:0em 0.75em;">Local roads</div>
+
+</td>
+
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+
+<div style="padding:0em 0.25em"><a href="/wiki/Boulevard" title="Boulevard">Boulevard</a>&#160;<b>·</b> <span style="white-space:nowrap;"><a href="/wiki/Frontage_road" title="Frontage road">Frontage road</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Road" title="Road">Road</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Single_carriageway" title="Single carriageway">Single carriageway</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><strong class="selflink">Street</strong>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Alley" title="Alley">Alley</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Backroad" title="Backroad">Backroad</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Cul-de-sac" title="Cul-de-sac">Cul-de-sac</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Driveway" title="Driveway">Driveway</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Lane" title="Lane">Lane</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Primitive_road" title="Primitive road">Primitive road</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Side_road" title="Side road">Side road</a></span></div>
+
+</td>
+
+</tr>
+
+<tr style="height:2px">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;;">
+
+<div style="padding:0em 0.75em;">Other terms</div>
+
+</td>
+
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+
+<div style="padding:0em 0.25em"><a href="/wiki/Concurrency_(road)" title="Concurrency (road)">Concurrency</a>&#160;<b>·</b> <span style="white-space:nowrap;"><a href="/wiki/Private_highway" title="Private highway">Private highway</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Special_route" title="Special route">Special route</a> (<a href="/wiki/Business_route" title="Business route">Business route</a>)&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Toll_road" title="Toll road">Toll road</a></span></div>
+
+</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+<tr style="height:2px">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td class="navbox-group" style=";;"><a href="/wiki/Road_surface" title="Road surface">Surfaces</a></td>
+
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+
+<div style="padding:0em 0.25em"><a href="/wiki/Asphalt_concrete" title="Asphalt concrete">Asphalt concrete</a>&#160;<b>·</b> <span style="white-space:nowrap;"><a href="/wiki/Brick" title="Brick">Brick</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Chipseal" title="Chipseal">Chipseal</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Cobblestone" title="Cobblestone">Cobblestone</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Concrete" title="Concrete">Concrete</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Corduroy_road" title="Corduroy road">Corduroy</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Dirt_road" title="Dirt road">Dirt</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Gravel_road" title="Gravel road">Gravel</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Ice_road" title="Ice road">Ice</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Macadam" title="Macadam">Macadam</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Bitumen" title="Bitumen" class="mw-redirect">Oiled (bitumen)</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Plank_road" title="Plank road">Plank</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Sett_(paving)" title="Sett (paving)">Sett</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Tarmac" title="Tarmac">Tarmac</a></span></div>
+
+</td>
+
+</tr>
+
+<tr style="height:2px">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td class="navbox-group" style=";;"><a href="/wiki/Junction_(road)" title="Junction (road)">Road junctions</a></td>
+
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+
+<div style="padding:0em 0.25em"></div>
+
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;">
+
+<tr>
+
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;;">
+
+<div style="padding:0em 0.75em;"><a href="/wiki/Interchange_(road)" title="Interchange (road)">Interchanges</a><br />
+
+<span style="font-weight:normal;">(<a href="/wiki/Grade_separation" title="Grade separation">grade-separated</a>)</span></div>
+
+</td>
+
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+
+<div style="padding:0em 0.25em"><span style="white-space:nowrap;"><a href="/wiki/Cloverleaf_interchange" title="Cloverleaf interchange">Cloverleaf</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Diamond_interchange" title="Diamond interchange">Diamond</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Interchange_(road)#Directional_T_interchange" title="Interchange (road)">Directional T</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Diverging_diamond_interchange" title="Diverging diamond interchange">Diverging diamond</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Partial_cloverleaf_interchange" title="Partial cloverleaf interchange">Parclo</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Interchange_(road)#Trumpet_interchange" title="Interchange (road)">Trumpet</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Single-point_urban_interchange" title="Single-point urban interchange">SPUI</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Stack_interchange" title="Stack interchange">Stack</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Three-level_diamond_interchange" title="Three-level diamond interchange">Three-level diamond</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Raindrop_interchange" title="Raindrop interchange" class="mw-redirect">Raindrop</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Roundabout_interchange" title="Roundabout interchange">Roundabout interchange</a></span></div>
+
+</td>
+
+</tr>
+
+<tr style="height:2px">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td class="navbox-group" style=";padding-left:0em;padding-right:0em;;">
+
+<div style="padding:0em 0.75em;"><a href="/wiki/Intersection_(road)" title="Intersection (road)">Intersections</a><br />
+
+<span style="font-weight:normal;">(<a href="/wiki/At-grade_intersection" title="At-grade intersection">at-grade</a>)</span></div>
+
+</td>
+
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+
+<div style="padding:0em 0.25em"><span style="white-space:nowrap;"><a href="/wiki/Box_junction" title="Box junction">Box junction</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Continuous-flow_intersection" title="Continuous-flow intersection">Continuous flow</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Hook_turn" title="Hook turn">Hook turn</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Jughandle" title="Jughandle">Jughandle</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Michigan_left" title="Michigan left">Michigan left</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Quadrant_roadway_intersection" title="Quadrant roadway intersection">Quadrant roadway</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Roundabout" title="Roundabout">Roundabout</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Superstreet" title="Superstreet">Superstreet</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/3-way_junction" title="3-way junction">3-way junction</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Traffic_circle" title="Traffic circle">Traffic circle</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Bowtie_(road)" title="Bowtie (road)">Bowtie</a></span></div>
+
+</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+<tr style="height:2px;">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td class="navbox-abovebelow" style=";" colspan="2">
+
+<div><a href="/wiki/Raised_pavement_marker" title="Raised pavement marker">Raised pavement marker</a> &#160;<b>·</b> <span style="white-space:nowrap;"><a href="/wiki/List_of_road_types_by_features" title="List of road types by features">List of road types by features</a> &#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Central_reservation" title="Central reservation">Central reservation</a> &#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Sidewalk" title="Sidewalk">Sidewalk</a> &#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Lane" title="Lane">Lane</a></span></div>
+
+</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+
+
+
+
+<!--
+
+NewPP limit report
+
+Preprocessor node count: 4229/1000000
+
+Post-expand include size: 87998/2048000 bytes
+
+Template argument size: 68415/2048000 bytes
+
+Expensive parser function count: 1/500
+
+-->
+
+
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:199065-0!*!0!!en!4!* and timestamp 20111120181858 -->
+
+</div> <!-- /bodycontent -->
+
+<!-- printfooter -->
+
+<div class="printfooter">
+
+Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Street&amp;oldid=461194813">http://en.wikipedia.org/w/index.php?title=Street&amp;oldid=461194813</a>" </div>
+
+<!-- /printfooter -->
+
+<!-- catlinks -->
+
+<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Streets" title="Category:Streets">Streets</a></li><li><a href="/wiki/Category:Types_of_roads" title="Category:Types of roads">Types of roads</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_containing_links_or_citations_to_sites_that_require_registration" title="Category:Pages containing links or citations to sites that require registration">Pages containing links or citations to sites that require registration</a></li><li><a href="/wiki/Category:Articles_lacking_in-text_citations_from_April_2009" title="Category:Articles lacking in-text citations from April 2009">Articles lacking in-text citations from April 2009</a></li><li><a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">All articles lacking in-text citations</a></li></ul></div></div> <!-- /catlinks -->
+
+<div class="visualClear"></div>
+
+<!-- debughtml -->
+
+<!-- /debughtml -->
+
+</div>
+
+<!-- /bodyContent -->
+
+</div>
+
+<!-- /content -->
+
+<!-- header -->
+
+<div id="mw-head" class="noprint">
+
+
+
+<!-- 0 -->
+
+<div id="p-personal" class="">
+
+<h5>Personal tools</h5>
+
+<ul>
+
+<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Street" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in / create account</a></li>
+
+</ul>
+
+</div>
+
+
+
+<!-- /0 -->
+
+<div id="left-navigation">
+
+
+
+<!-- 0 -->
+
+<div id="p-namespaces" class="vectorTabs">
+
+<h5>Namespaces</h5>
+
+<ul>
+
+<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Street" title="View the content page [c]" accesskey="c">Article</a></span></li>
+
+<li id="ca-talk"><span><a href="/wiki/Talk:Street" title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+
+</ul>
+
+</div>
+
+
+
+<!-- /0 -->
+
+
+
+<!-- 1 -->
+
+<div id="p-variants" class="vectorMenu emptyPortlet">
+
+<h5><span>Variants</span><a href="#"></a></h5>
+
+<div class="menu">
+
+<ul>
+
+</ul>
+
+</div>
+
+</div>
+
+
+
+<!-- /1 -->
+
+</div>
+
+<div id="right-navigation">
+
+
+
+<!-- 0 -->
+
+<div id="p-views" class="vectorTabs">
+
+<h5>Views</h5>
+
+<ul>
+
+<li id="ca-view" class="selected"><span><a href="/wiki/Street" >Read</a></span></li>
+
+<li id="ca-edit"><span><a href="/w/index.php?title=Street&amp;action=edit" title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+
+<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Street&amp;action=history" title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+
+</ul>
+
+</div>
+
+
+
+<!-- /0 -->
+
+
+
+<!-- 1 -->
+
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+
+<h5><span>Actions</span><a href="#"></a></h5>
+
+<div class="menu">
+
+<ul>
+
+</ul>
+
+</div>
+
+</div>
+
+
+
+<!-- /1 -->
+
+
+
+<!-- 2 -->
+
+<div id="p-search">
+
+<h5><label for="searchInput">Search</label></h5>
+
+<form action="/w/index.php" id="searchform">
+
+<input type='hidden' name="title" value="Special:Search"/>
+
+<div id="simpleSearch">
+
+<input type="text" name="search" value="" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /> <button type="submit" name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/skins-1.18/vector/images/search-ltr.png?303-4" alt="Search" /></button> </div>
+
+</form>
+
+</div>
+
+
+
+<!-- /2 -->
+
+</div>
+
+</div>
+
+<!-- /header -->
+
+<!-- panel -->
+
+<div id="mw-panel" class="noprint">
+
+<!-- logo -->
+
+<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+
+<!-- /logo -->
+
+
+
+<!-- navigation -->
+
+<div class="portal" id='p-navigation'>
+
+<h5>Navigation</h5>
+
+<div class="body">
+
+<ul>
+
+<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+
+<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+
+<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+
+<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+
+<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+
+<li id="n-sitesupport"><a href="//wikimediafoundation.org/wiki/Special:Landingcheck?landing_page=WMFJA085&amp;language=en&amp;utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=20101204SB002" title="Support us">Donate to Wikipedia</a></li>
+
+</ul>
+
+</div>
+
+</div>
+
+
+
+<!-- /navigation -->
+
+
+
+<!-- SEARCH -->
+
+
+
+<!-- /SEARCH -->
+
+
+
+<!-- interaction -->
+
+<div class="portal" id='p-interaction'>
+
+<h5>Interaction</h5>
+
+<div class="body">
+
+<ul>
+
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+
+<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+
+<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+
+<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+
+<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+
+</ul>
+
+</div>
+
+</div>
+
+
+
+<!-- /interaction -->
+
+
+
+<!-- TOOLBOX -->
+
+<div class="portal" id='p-tb'>
+
+<h5>Toolbox</h5>
+
+<div class="body">
+
+<ul>
+
+<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Street" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+
+<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Street" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+
+<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+
+<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+
+<li id="t-permalink"><a href="/w/index.php?title=Street&amp;oldid=461194813" title="Permanent link to this revision of the page">Permanent link</a></li>
+
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Street&amp;id=461194813" title="Information on how to cite this page">Cite this page</a></li> </ul>
+
+</div>
+
+</div>
+
+
+
+<!-- /TOOLBOX -->
+
+
+
+<!-- coll-print_export -->
+
+<div class="portal" id='p-coll-print_export'>
+
+<h5>Print/export</h5>
+
+<div class="body">
+
+<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Street" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Street&amp;oldid=461194813&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Street&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul> </div>
+
+</div>
+
+
+
+<!-- /coll-print_export -->
+
+
+
+<!-- LANGUAGES -->
+
+<div class="portal" id='p-lang'>
+
+<h5>Languages</h5>
+
+<div class="body">
+
+<ul>
+
+<li class="interwiki-ang"><a href="//ang.wikipedia.org/wiki/Str%C7%A3t">Ænglisc</a></li>
+
+<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%B4%D8%A7%D8%B1%D8%B9">العربية</a></li>
+
+<li class="interwiki-an"><a href="//an.wikipedia.org/wiki/Carrera">Aragonés</a></li>
+
+<li class="interwiki-be-x-old"><a href="//be-x-old.wikipedia.org/wiki/%D0%92%D1%83%D0%BB%D1%96%D1%86%D0%B0">‪Беларуская (тарашкевіца)‬</a></li>
+
+<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%A3%D0%BB%D0%B8%D1%86%D0%B0">Български</a></li>
+
+<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Carrer">Català</a></li>
+
+<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Ulice">Česky</a></li>
+
+<li class="interwiki-cy"><a href="//cy.wikipedia.org/wiki/Stryd">Cymraeg</a></li>
+
+<li class="interwiki-da"><a href="//da.wikipedia.org/wiki/Gade">Dansk</a></li>
+
+<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Stra%C3%9Fe">Deutsch</a></li>
+
+<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Calle">Español</a></li>
+
+<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Strato">Esperanto</a></li>
+
+<li class="interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%AE%DB%8C%D8%A7%D8%A8%D8%A7%D9%86">فارسی</a></li>
+
+<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Rue">Français</a></li>
+
+<li class="interwiki-ga"><a href="//ga.wikipedia.org/wiki/Sr%C3%A1id">Gaeilge</a></li>
+
+<li class="interwiki-gl"><a href="//gl.wikipedia.org/wiki/R%C3%BAa">Galego</a></li>
+
+<li class="interwiki-hr"><a href="//hr.wikipedia.org/wiki/Ulica">Hrvatski</a></li>
+
+<li class="interwiki-io"><a href="//io.wikipedia.org/wiki/Strado">Ido</a></li>
+
+<li class="interwiki-is"><a href="//is.wikipedia.org/wiki/Gata">Íslenska</a></li>
+
+<li class="interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%A8%D7%97%D7%95%D7%91">עברית</a></li>
+
+<li class="interwiki-lv"><a href="//lv.wikipedia.org/wiki/Iela">Latviešu</a></li>
+
+<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Gatv%C4%97">Lietuvių</a></li>
+
+<li class="interwiki-ln"><a href="//ln.wikipedia.org/wiki/Balab%C3%A1la">Lingála</a></li>
+
+<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Utca">Magyar</a></li>
+
+<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Straat_(verharde_weg)">Nederlands</a></li>
+
+<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88">日本語</a></li>
+
+<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Gate">‪Norsk (bokmål)‬</a></li>
+
+<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Ulica">Polski</a></li>
+
+<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Rua">Português</a></li>
+
+<li class="interwiki-ro"><a href="//ro.wikipedia.org/wiki/Strad%C4%83">Română</a></li>
+
+<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A3%D0%BB%D0%B8%D1%86%D0%B0">Русский</a></li>
+
+<li class="interwiki-simple"><a href="//simple.wikipedia.org/wiki/Street">Simple English</a></li>
+
+<li class="interwiki-sk"><a href="//sk.wikipedia.org/wiki/Ulica">Slovenčina</a></li>
+
+<li class="interwiki-sl"><a href="//sl.wikipedia.org/wiki/Ulica">Slovenščina</a></li>
+
+<li class="interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%A3%D0%BB%D0%B8%D1%86%D0%B0">Српски / Srpski</a></li>
+
+<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Katu">Suomi</a></li>
+
+<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Gata">Svenska</a></li>
+
+<li class="interwiki-tg"><a href="//tg.wikipedia.org/wiki/%D0%9A%D3%AF%D1%87%D0%B0">Тоҷикӣ</a></li>
+
+<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/Sokak">Türkçe</a></li>
+
+<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%92%D1%83%D0%BB%D0%B8%D1%86%D1%8F">Українська</a></li>
+
+<li class="interwiki-wa"><a href="//wa.wikipedia.org/wiki/Rowe_(di_veye)">Walon</a></li>
+
+<li class="interwiki-zh-yue"><a href="//zh-yue.wikipedia.org/wiki/%E8%A1%97">粵語</a></li>
+
+<li class="interwiki-bat-smg"><a href="//bat-smg.wikipedia.org/wiki/%C5%AAl%C4%AB%C4%8D%C4%97">Žemaitėška</a></li>
+
+<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E8%A1%97%E9%81%93">中文</a></li>
+
+</ul>
+
+</div>
+
+</div>
+
+
+
+<!-- /LANGUAGES -->
+
+</div>
+
+<!-- /panel -->
+
+<!-- footer -->
+
+<div id="footer">
+
+<ul id="footer-info">
+
+<li id="footer-info-lastmod"> This page was last modified on 17 November 2011 at 23:45.<br /></li>
+
+<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+
+additional terms may apply.
+
+See <a href="//wikimediafoundation.org/wiki/Terms_of_use">Terms of use</a> for details.<br/>
+
+Wikipedia&reg; is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+
+</ul>
+
+<ul id="footer-places">
+
+<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+
+<li id="footer-places-mobileview"><a href='/w/index.php?title=Street&amp;useformat=mobile'>Mobile view</a></li>
+
+</ul>
+
+<ul id="footer-icons" class="noprint">
+
+<li id="footer-copyrightico">
+
+<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+
+</li>
+
+<li id="footer-poweredbyico">
+
+<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/skins-1.18/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+
+</li>
+
+</ul>
+
+<div style="clear:both"></div>
+
+</div>
+
+<!-- /footer -->
+
+<!-- fixalpha -->
+
+<script type="text/javascript"> if ( window.isMSIE55 ) fixalpha(); </script>
+
+<!-- /fixalpha -->
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*" type="text/javascript"></script>
+
+<script type="text/javascript">if ( window.mediaWiki ) {
+
+mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax", "mediawiki.legacy.mwsuggest", "ext.gadget.wmfFR2011Style", "ext.vector.collapsibleNav", "ext.vector.collapsibleTabs", "ext.vector.editWarning", "ext.vector.simpleSearch", "ext.UserBuckets", "ext.articleFeedback.startup"]);
+
+}
+
+</script>
+
+<script src="/w/index.php?title=Special:BannerController&amp;cache=/cn.js&amp;303-4" type="text/javascript"></script>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*" type="text/javascript"></script>
+
+<script type="text/javascript">if ( window.mediaWiki ) {
+
+mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,
+
+"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"gadget-wmfFR2011Style":1});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+
+
+
+/* cache key: enwiki:resourceloader:filter:minify-js:4:b41a86ec4e0fe8329bc3ce917e792339 */
+
+}
+
+</script><script src="//geoiplookup.wikimedia.org/" type="text/javascript"></script><!-- Served by mw17 in 0.064 secs. -->
+
+</body>
+
+</html>
+

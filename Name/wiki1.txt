@@ -1,0 +1,911 @@
+http://en.wikipedia.org/wiki/Document
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html lang="en" dir="ltr" class="client-nojs" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<title>Document - Wikipedia, the free encyclopedia</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<meta http-equiv="Content-Style-Type" content="text/css" />
+
+<meta name="generator" content="MediaWiki 1.18wmf1" />
+
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Document&amp;action=edit" />
+
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Document&amp;action=edit" />
+
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+
+<link rel="shortcut icon" href="/favicon.ico" />
+
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" type="text/css" media="all" />
+
+<meta name="ResourceLoaderDynamicStyles" content="" />
+
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" type="text/css" media="all" />
+
+<style type="text/css" media="all">a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+
+
+/* cache key: enwiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*" type="text/javascript"></script>
+
+<script type="text/javascript">if ( window.mediaWiki ) {
+
+mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "Document", "wgTitle": "Document", "wgCurRevisionId": 457628839, "wgArticleId": 161228, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["Documents", "Information science"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgSearchNamespaces": [0], "wgFlaggedRevsParams": {"tags": {"status": {"levels": 1, "quality": 2, "pristine": 3}}}, "wgStableRevisionId": null, "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": true, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "wgTrackingToken": "1b19dcddf99931a9ce5d1027414a5ed0", "wikilove-recipient": "", "wikilove-edittoken": "+\\", "wikilove-anon": 0, "mbEditToken": "+\\", "Geo": {"city": "", "country": ""}, "wgNoticeProject": "wikipedia"});
+
+}
+
+</script><script type="text/javascript">if ( window.mediaWiki ) {
+
+mw.loader.load(["mediawiki.page.startup"]);
+
+}
+
+</script>
+
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.18/vector/csshover.min.htc")}</style><![endif]--></head>
+
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Document action-view skin-vector">
+
+<div id="mw-page-base" class="noprint"></div>
+
+<div id="mw-head-base" class="noprint"></div>
+
+<!-- content -->
+
+<div id="content">
+
+<a id="top"></a>
+
+<div id="mw-js-message" style="display:none;"></div>
+
+<!-- sitenotice -->
+
+<div id="siteNotice"><!-- centralNotice loads here --></div>
+
+<!-- /sitenotice -->
+
+<!-- firstHeading -->
+
+<h1 id="firstHeading" class="firstHeading">Document</h1>
+
+<!-- /firstHeading -->
+
+<!-- bodyContent -->
+
+<div id="bodyContent">
+
+<!-- tagline -->
+
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+
+<!-- /tagline -->
+
+<!-- subtitle -->
+
+<div id="contentSub"></div>
+
+<!-- /subtitle -->
+
+<!-- jumpto -->
+
+<div id="jump-to-nav">
+
+Jump to: <a href="#mw-head">navigation</a>,
+
+<a href="#p-search">search</a>
+
+</div>
+
+<!-- /jumpto -->
+
+<!-- bodycontent -->
+
+<div lang="en" dir="ltr" class="mw-content-ltr"><div class="dablink">For the R.E.M. album, see <a href="/wiki/Document_(album)" title="Document (album)">Document (album)</a>.</div>
+
+<div class="dablink">For the similarly named surrealist journal, see <a href="/wiki/Documents_(magazine)" title="Documents (magazine)">Documents (magazine)</a>.</div>
+
+<p><br />
+
+The term <b>document</b> has more meanings in ordinary language and in scholarship. <a href="/wiki/WordNet" title="WordNet">WordNet</a> 3.1. lists four meanings (October 2011):</p>
+
+<ul>
+
+<li>document, written document, papers (writing that provides information (especially information of an official nature))</li>
+
+<li>document (anything serving as a representation of a person's thinking by means of symbolic marks)</li>
+
+<li>document (a written account of ownership or obligation)</li>
+
+<li>text file, document ((computer science) a computer file that contains text (and possibly formatting instructions) using seven-bit ASCII characters).</li>
+
+</ul>
+
+<p><br />
+
+In <a href="/wiki/Library_and_information_science" title="Library and information science">Library and information science</a> and in <a href="/wiki/Documentation_science" title="Documentation science">documentation science</a> is "document" considered a basic theoretical construct. It is everything which may be preserved or represented in order to serve as evidence for some purpose. The classical example provided by <a href="/wiki/Suzanne_Briet" title="Suzanne Briet">Suzanne Briet</a> is an <a href="/wiki/Antelope" title="Antelope">antelope</a>: "An antelope running wild on the plains of Africa should not be considered a document, she rules. But if it were to be captured, taken to a zoo and made an object of study, it has been made into a document. It has become physical evidence being used by those who study it. Indeed, scholarly articles written about the antelope are secondary documents, since the antelope itself is the primary document." (Quoted from Buckland, 1998 <sup id="cite_ref-0" class="reference"><a href="#cite_note-0"><span>[</span>1<span>]</span></a></sup>). (This view has been seen as an early expression of what now is known as <a href="/wiki/Actor%E2%80%93network_theory" title="Actor–network theory">actor–network theory</a>).</p>
+
+<p>That documents cannot be defined by their <a href="/wiki/Transmission_medium" title="Transmission medium">transmission medium</a> (such as paper) is evident because of the existence of <a href="/wiki/Electronic_document" title="Electronic document">electronic documents</a>.</p>
+
+<table id="toc" class="toc">
+
+<tr>
+
+<td>
+
+<div id="toctitle">
+
+<h2>Contents</h2>
+
+</div>
+
+<ul>
+
+<li class="toclevel-1 tocsection-1"><a href="#What_is_a_document.3F"><span class="tocnumber">1</span> <span class="toctext">What is a document?</span></a></li>
+
+<li class="toclevel-1 tocsection-2"><a href="#Types_of_documents"><span class="tocnumber">2</span> <span class="toctext">Types of documents</span></a></li>
+
+<li class="toclevel-1 tocsection-3"><a href="#Developing_documents"><span class="tocnumber">3</span> <span class="toctext">Developing documents</span></a></li>
+
+<li class="toclevel-1 tocsection-4"><a href="#History"><span class="tocnumber">4</span> <span class="toctext">History</span></a></li>
+
+<li class="toclevel-1 tocsection-5"><a href="#In_law"><span class="tocnumber">5</span> <span class="toctext">In law</span></a></li>
+
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+
+<li class="toclevel-1 tocsection-8"><a href="#Further_reading"><span class="tocnumber">8</span> <span class="toctext">Further reading</span></a></li>
+
+</ul>
+
+</td>
+
+</tr>
+
+</table>
+
+<h2><span class="editsection">[<a href="/w/index.php?title=Document&amp;action=edit&amp;section=1" title="Edit section: What is a document?">edit</a>]</span> <span class="mw-headline" id="What_is_a_document.3F">What is a document?</span></h2>
+
+<p>The concept of document has been defined as <b>“any concrete or symbolic indication, preserved or recorded, for reconstructing or for proving a phenomenon, whether physical or mental"</b> (Briet, 1951, 7; here quoted from Buckland, 1991).</p>
+
+<p>A much cited article asked "what is a document" and concluded this way: “The evolving notion of ‘‘document’’ among <a href="/wiki/Paul_Otlet" title="Paul Otlet">Otlet</a>, <a href="/wiki/Suzanne_Briet" title="Suzanne Briet">Briet</a>, <a href="/wiki/Walter_Sch%C3%BCrmeyer" title="Walter Schürmeyer">Schürmeyer</a>, and the other <a href="/wiki/Documentalist" title="Documentalist">documentalists</a> increasingly emphasized whatever functioned as a document rather than traditional physical forms of documents. The shift to digital technology would seem to make this distinction even more important. <a href="/wiki/David_M_Levy" title="David M Levy">Levy</a>’s thoughtful analyses have shown that an emphasis on the technology of digital documents has impeded our understanding of digital documents as documents (e.g., Levy, 1994<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>2<span>]</span></a></sup>) . A conventional document, such as a mail message or a technical report, exists physically in digital technology as a string of bits, but so does everything else in a digital environment. In this sense, any distinctiveness of a document as a physical form is further diminished, and discussion of ‘‘What is a digital document?’’ becomes even more problematic unless we remember the path of reasoning underlying the largely forgotten discussions of Otlet’s objects and Briet’s antelope.” (Buckland, 1997, p. 808<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>3<span>]</span></a></sup>).</p>
+
+<h2><span class="editsection">[<a href="/w/index.php?title=Document&amp;action=edit&amp;section=2" title="Edit section: Types of documents">edit</a>]</span> <span class="mw-headline" id="Types_of_documents">Types of documents</span></h2>
+
+<p>Documents are sometimes classified as <a href="/wiki/Classified_information" title="Classified information">secret</a>, <a href="/wiki/Privacy" title="Privacy">private</a> or public. They may also be described as a <a href="/wiki/Draft_document" title="Draft document">draft</a> or <a href="/wiki/Proofreading" title="Proofreading">proof</a>. When a document is <a href="/wiki/Copying" title="Copying">copied</a>, the source is referred to as the <a href="/wiki/Originality" title="Originality">original</a>.</p>
+
+<p>There are accepted standards for specific applications in various fields, such as:</p>
+
+<ul>
+
+<li>a7a: <a href="/wiki/Thesis" title="Thesis">thesis</a>, <a href="/wiki/Dissertation" title="Dissertation" class="mw-redirect">dissertation</a>, <a href="/wiki/Academic_publishing" title="Academic publishing">paper</a>, <a href="/wiki/Journal" title="Journal">journal</a></li>
+
+<li>Business and accounting: <a href="/wiki/Invoice" title="Invoice">Invoice</a>, <a href="/wiki/Financial_quote" title="Financial quote">quote</a>, <a href="/wiki/RFP" title="RFP" class="mw-redirect">RFP</a>, <a href="/wiki/Proposal" title="Proposal">Proposal</a>, <a href="/wiki/Contract" title="Contract">Contract</a>, <a href="/wiki/Packing_slip" title="Packing slip" class="mw-redirect">Packing slip</a>, <a href="/wiki/Manifest" title="Manifest">Manifest</a>, <a href="/wiki/Report" title="Report">Report</a> detailed &amp; summary, <a href="/wiki/Spread_sheet" title="Spread sheet" class="mw-redirect">Spread sheet</a>, <a href="/wiki/MSDS" title="MSDS" class="mw-redirect">MSDS</a>, <a href="/wiki/Waybill" title="Waybill">Waybill</a>, <a href="/wiki/Bill_of_Lading" title="Bill of Lading" class="mw-redirect">Bill of Lading</a> (BOL), <a href="/wiki/Statement" title="Statement">Statement</a>, <a href="/wiki/Nondisclosure_agreement" title="Nondisclosure agreement" class="mw-redirect">Nondisclosure agreement</a> (NDA) or sometimes referred to as; Mutual nondisclosure agreement (MNDA)</li>
+
+<li>Law and politics: <a href="/wiki/Summons" title="Summons">summons</a>, <a href="/wiki/Certificate" title="Certificate">certificate</a>, <a href="/wiki/License" title="License">license</a>, <a href="/wiki/Gazette" title="Gazette">gazette</a></li>
+
+<li>Government and industry: <a href="/wiki/White_paper" title="White paper">white paper</a></li>
+
+<li>Media and marketing: <a href="/wiki/Brief" title="Brief">brief</a>, <a href="/wiki/Mock-up" title="Mock-up" class="mw-redirect">mock-up</a>, <a href="/wiki/Script" title="Script">script</a></li>
+
+</ul>
+
+<p>Such standard documents can be created based on a <a href="/wiki/Template_(word_processing)" title="Template (word processing)">template</a>.</p>
+
+<h2><span class="editsection">[<a href="/w/index.php?title=Document&amp;action=edit&amp;section=3" title="Edit section: Developing documents">edit</a>]</span> <span class="mw-headline" id="Developing_documents">Developing documents</span></h2>
+
+<p>The <a href="/wiki/Page_layout" title="Page layout">page layout</a> of a document is the manner in which information is graphically arranged in the document space (e.g., on a page). If the appearance of the document is of concern, page layout is generally the responsibility of a <a href="/wiki/Graphic_design" title="Graphic design">graphic designer</a>. <a href="/wiki/Typography" title="Typography">Typography</a> deals with the design of letter and symbol forms, as well as their physical arrangement in the document (see <a href="/wiki/Typesetting" title="Typesetting">typesetting</a>). <a href="/wiki/Information_design" title="Information design">Information design</a> focuses on the effective communication of <a href="/wiki/Information" title="Information">information</a>, especially in industrial documents and public <a href="/wiki/Sign" title="Sign">signs</a>. Simple text documents may not require a visual design and may be handled by an <a href="/wiki/Author" title="Author">author</a>, <a href="/wiki/Data_entry_clerk" title="Data entry clerk">clerk</a> or <a href="/wiki/Transcriber" title="Transcriber">transcriber</a>. <a href="/wiki/Form_(document)" title="Form (document)">Forms</a> may require a visual design for the initial fields, but not to fill out the forms.</p>
+
+<h2><span class="editsection">[<a href="/w/index.php?title=Document&amp;action=edit&amp;section=4" title="Edit section: History">edit</a>]</span> <span class="mw-headline" id="History">History</span></h2>
+
+<p>Traditionally, the <a href="/wiki/Material" title="Material">medium</a> of a document was <a href="/wiki/Paper" title="Paper">paper</a> and the information was applied to it as <a href="/wiki/Ink" title="Ink">ink</a>, either by hand (to make a hand-written document) or by a mechanical process (such as a <a href="/wiki/Printing_press" title="Printing press">printing press</a> or, more recently, a <a href="/wiki/Laser_printer" title="Laser printer">laser printer</a>).</p>
+
+<p>Through time, documents have also been written with ink on <a href="/wiki/Papyrus" title="Papyrus">papyrus</a> (starting in ancient <a href="/wiki/Egypt" title="Egypt">Egypt</a>) or <a href="/wiki/Parchment" title="Parchment">parchment</a>; scratched as <a href="/wiki/Runes" title="Runes" class="mw-redirect">runes</a> on stone using a sharp apparatus; stamped or cut into <a href="/wiki/Clay" title="Clay">clay</a> and then baked to make <a href="/wiki/Clay_tablet" title="Clay tablet">clay tablets</a> (e.g., in the <a href="/wiki/Sumer" title="Sumer">Sumerian</a> and other <a href="/wiki/Mesopotamia" title="Mesopotamia">Mesopotamian</a> civilisations). The paper, papyrus or parchment might be rolled up as a <a href="/wiki/Scroll_(parchment)" title="Scroll (parchment)" class="mw-redirect">scroll</a> or cut into sheets and <a href="/wiki/Bookbinding" title="Bookbinding">bound</a> into a <a href="/wiki/Book" title="Book">book</a>. Today short documents might also consist of sheets of paper <a href="/wiki/Staple_(fastener)" title="Staple (fastener)">stapled</a> together.</p>
+
+<p>Modern electronic means of storing and displaying documents include:</p>
+
+<ul>
+
+<li><a href="/wiki/Desktop_computer" title="Desktop computer">desktop computer</a> and <a href="/wiki/Computer_display" title="Computer display" class="mw-redirect">monitor</a> (or <a href="/wiki/Laptop" title="Laptop">laptop</a>, <a href="/wiki/Tablet_PC" title="Tablet PC" class="mw-redirect">tablet PC</a>, etc.); optionally with a <a href="/wiki/Computer_printer" title="Computer printer" class="mw-redirect">printer</a> to obtain a <a href="/wiki/Hard_copy" title="Hard copy">hard copy</a></li>
+
+<li><a href="/wiki/Personal_digital_assistant" title="Personal digital assistant">Personal digital assistant</a> (PDA)</li>
+
+<li>dedicated <a href="/wiki/E-book_device" title="E-book device" class="mw-redirect">e-book device</a></li>
+
+<li><a href="/wiki/Electronic_paper" title="Electronic paper">electronic paper</a></li>
+
+<li><a href="/wiki/Information_appliance" title="Information appliance">information appliances</a></li>
+
+<li><a href="/wiki/Digital_audio_player" title="Digital audio player" class="mw-redirect">digital audio players</a></li>
+
+<li><a href="/wiki/Radio" title="Radio">radio</a> and <a href="/wiki/Television" title="Television">television</a> <a href="/wiki/Telecommunications_Service_Provider" title="Telecommunications Service Provider" class="mw-redirect">service provider</a></li>
+
+</ul>
+
+<p>Digital documents usually have to adhere to a specific <a href="/wiki/File_format" title="File format">file format</a> in order to be useful.</p>
+
+<h2><span class="editsection">[<a href="/w/index.php?title=Document&amp;action=edit&amp;section=5" title="Edit section: In law">edit</a>]</span> <span class="mw-headline" id="In_law">In law</span></h2>
+
+<p>Documents in all forms are frequently found to be material <a href="/wiki/Evidence" title="Evidence">evidence</a> in criminal and civil proceedings. The <a href="/wiki/Forensic" title="Forensic" class="mw-redirect">forensic</a> analysis of such a document falls under the scope of <a href="/wiki/Questioned_document_examination" title="Questioned document examination">questioned document examination</a>. For the purpose of cataloging and managing the large number of documents that may be produced in the course of a law suit, <a href="/wiki/Bates_numbering" title="Bates numbering">Bates numbering</a> is often applied to all documents so that each document has a unique, aribitrary identifying number.</p>
+
+<h2><span class="editsection">[<a href="/w/index.php?title=Document&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a>]</span> <span class="mw-headline" id="See_also">See also</span></h2>
+
+<p>Related concepts:</p>
+
+<ul>
+
+<li><a href="/wiki/Data_storage_device" title="Data storage device">Data storage device</a>: to store documents.</li>
+
+<li><a href="/wiki/Document_automation" title="Document automation">Document automation</a></li>
+
+<li><a href="/wiki/Document_file_format" title="Document file format">Document file format</a>: a standard used for represent the document into a storage device.</li>
+
+<li><a href="/wiki/Internet_media_type" title="Internet media type">Media type</a>: document parts (text block, illustration, audio sample, etc.) can use different media types to store and "display" it.</li>
+
+</ul>
+
+<p>Another related articles:</p>
+
+<ul>
+
+<li><a href="/wiki/Historical_document" title="Historical document">Historical document</a></li>
+
+<li><a href="/wiki/Desktop_publishing" title="Desktop publishing">Desktop publishing</a></li>
+
+<li><a href="/wiki/Word_processor" title="Word processor">Word processor</a></li>
+
+<li><a href="/wiki/Documentary_film" title="Documentary film">Documentary film</a></li>
+
+<li><a href="/wiki/Documentation_science" title="Documentation science">Documentation science</a></li>
+
+<li><a href="/wiki/Subject_(documents)" title="Subject (documents)">Subject (documents)</a></li>
+
+</ul>
+
+<h2><span class="editsection">[<a href="/w/index.php?title=Document&amp;action=edit&amp;section=7" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+
+<div class="reflist" style="list-style-type: decimal;">
+
+<ol class="references">
+
+<li id="cite_note-0"><b><a href="#cite_ref-0">^</a></b> Buckland, M. (1998). What is a digital document? In: Document Numérique (Paris) 2(2), <a rel="nofollow" class="external free" href="http://people.ischool.berkeley.edu/~buckland/digdoc.html">http://people.ischool.berkeley.edu/~buckland/digdoc.html</a></li>
+
+<li id="cite_note-1"><b><a href="#cite_ref-1">^</a></b> Levy, D. M. (1994) . Fixed or fluid? Document stability and new media. In European Conference on Hypertext Technology 1994 Proceedings, (pp. 24–31) . New York: Association for Computing Machinery. Retrieved 2011-10-18 from: <a rel="nofollow" class="external free" href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.119.8813&amp;rep=rep1&amp;type=pdf">http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.119.8813&amp;rep=rep1&amp;type=pdf</a></li>
+
+<li id="cite_note-2"><b><a href="#cite_ref-2">^</a></b> Buckland, Michael K. (1997). "What is a 'document'?". Journal of the American Society for Information Science 48 (9): 804–809. <a rel="nofollow" class="external free" href="http://polaris.gseis.ucla.edu/gleazer/260_readings/Buckland.pdf">http://polaris.gseis.ucla.edu/gleazer/260_readings/Buckland.pdf</a></li>
+
+</ol>
+
+</div>
+
+<h2><span class="editsection">[<a href="/w/index.php?title=Document&amp;action=edit&amp;section=8" title="Edit section: Further reading">edit</a>]</span> <span class="mw-headline" id="Further_reading">Further reading</span></h2>
+
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+
+<tr>
+
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" /></td>
+
+<td class="mbox-text" style="">Wikimedia Commons has media related to: <i><b><a class="external text" href="//commons.wikimedia.org/wiki/Category:Documents">Documents</a></b></i></td>
+
+</tr>
+
+</table>
+
+<ul>
+
+<li>Briet, S. (1951). Qu'est-ce que la documentation? Paris: Documentaires Industrielles et Techniques.</li>
+
+</ul>
+
+<ul>
+
+<li>Buckland, M. (1991). Information and information systems. New York: Greenwood Press.</li>
+
+</ul>
+
+<ul>
+
+<li>Frohmann, Bernd (2009). Revisiting "what is a document?" , Journal of Documentation, 65(2), 291-303.</li>
+
+</ul>
+
+<ul>
+
+<li>Hjerppe, R. (1994). A framework for the description of generalized documents. Advances in Knowledge Organization, 4, 173-180.</li>
+
+</ul>
+
+<ul>
+
+<li>Houser, L. (1986). Documents: The domain of library and information science. Library and Information Science Research, 8, 163-188.</li>
+
+</ul>
+
+<ul>
+
+<li>Larsen, P.S. (1999). Books and bytes: Preserving documents for posterity. Journal of the American Society for Information Science, 50(11), 1020-1027.</li>
+
+</ul>
+
+<ul>
+
+<li>Lund, N. W. (2008). Document theory. Annual Review of Information Science and Technology, 43, 399-432.</li>
+
+</ul>
+
+<ul>
+
+<li>Riles, A. (Ed.) (2006). Documents: Artifacts of Modern Knowledge. University of Michigan Press, Ann Arbor, MI.</li>
+
+</ul>
+
+<ul>
+
+<li>Schamber, L. (1996). What is a document? Rethinking the concept in uneasy times. Journal of the American Society for Information Science, 47, 669-671.</li>
+
+</ul>
+
+<ul>
+
+<li>Signer, Beat: <a rel="nofollow" class="external text" href="http://vub.academia.edu/BeatSigner/Papers/180192/What_is_Wrong_with_Digital_Documents_A_Conceptual_Model_for_Structural_Cross-Media_Content_Composition_and_Reuse"><i>What is Wrong with Digital Documents? A Conceptual Model for Structural Cross-Media Content Composition and Reuse</i></a>, In Proceedings of the 29th International Conference on Conceptual Modeling (ER 2010), Vancouver, Canada, November 2010.</li>
+
+</ul>
+
+<ul>
+
+<li>Ørom, A. (2007). The concept of information versus the concept of document. I: Document (re)turn. Contributions from a research field in transition. Ed. By Roswitha Skare, Niels Windfeld Lund &amp; Andreas Vårheim. Frankfurt am Main: Peter Lang. (Pp. 53-72).</li>
+
+</ul>
+
+
+
+
+
+<!--
+
+NewPP limit report
+
+Preprocessor node count: 317/1000000
+
+Post-expand include size: 2381/2048000 bytes
+
+Template argument size: 798/2048000 bytes
+
+Expensive parser function count: 0/500
+
+-->
+
+
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:161228-0!*!0!!en!4!* and timestamp 20111115135032 -->
+
+</div> <!-- /bodycontent -->
+
+<!-- printfooter -->
+
+<div class="printfooter">
+
+Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Document&amp;oldid=457628839">http://en.wikipedia.org/w/index.php?title=Document&amp;oldid=457628839</a>" </div>
+
+<!-- /printfooter -->
+
+<!-- catlinks -->
+
+<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Documents" title="Category:Documents">Documents</a></li><li><a href="/wiki/Category:Information_science" title="Category:Information science">Information science</a></li></ul></div></div> <!-- /catlinks -->
+
+<div class="visualClear"></div>
+
+<!-- debughtml -->
+
+<!-- /debughtml -->
+
+</div>
+
+<!-- /bodyContent -->
+
+</div>
+
+<!-- /content -->
+
+<!-- header -->
+
+<div id="mw-head" class="noprint">
+
+
+
+<!-- 0 -->
+
+<div id="p-personal" class="">
+
+<h5>Personal tools</h5>
+
+<ul>
+
+<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Document" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in / create account</a></li>
+
+</ul>
+
+</div>
+
+
+
+<!-- /0 -->
+
+<div id="left-navigation">
+
+
+
+<!-- 0 -->
+
+<div id="p-namespaces" class="vectorTabs">
+
+<h5>Namespaces</h5>
+
+<ul>
+
+<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Document" title="View the content page [c]" accesskey="c">Article</a></span></li>
+
+<li id="ca-talk"><span><a href="/wiki/Talk:Document" title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+
+</ul>
+
+</div>
+
+
+
+<!-- /0 -->
+
+
+
+<!-- 1 -->
+
+<div id="p-variants" class="vectorMenu emptyPortlet">
+
+<h5><span>Variants</span><a href="#"></a></h5>
+
+<div class="menu">
+
+<ul>
+
+</ul>
+
+</div>
+
+</div>
+
+
+
+<!-- /1 -->
+
+</div>
+
+<div id="right-navigation">
+
+
+
+<!-- 0 -->
+
+<div id="p-views" class="vectorTabs">
+
+<h5>Views</h5>
+
+<ul>
+
+<li id="ca-view" class="selected"><span><a href="/wiki/Document" >Read</a></span></li>
+
+<li id="ca-edit"><span><a href="/w/index.php?title=Document&amp;action=edit" title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+
+<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Document&amp;action=history" title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+
+</ul>
+
+</div>
+
+
+
+<!-- /0 -->
+
+
+
+<!-- 1 -->
+
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+
+<h5><span>Actions</span><a href="#"></a></h5>
+
+<div class="menu">
+
+<ul>
+
+</ul>
+
+</div>
+
+</div>
+
+
+
+<!-- /1 -->
+
+
+
+<!-- 2 -->
+
+<div id="p-search">
+
+<h5><label for="searchInput">Search</label></h5>
+
+<form action="/w/index.php" id="searchform">
+
+<input type='hidden' name="title" value="Special:Search"/>
+
+<div id="simpleSearch">
+
+<input type="text" name="search" value="" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /> <button type="submit" name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/skins-1.18/vector/images/search-ltr.png?303-4" alt="Search" /></button> </div>
+
+</form>
+
+</div>
+
+
+
+<!-- /2 -->
+
+</div>
+
+</div>
+
+<!-- /header -->
+
+<!-- panel -->
+
+<div id="mw-panel" class="noprint">
+
+<!-- logo -->
+
+<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+
+<!-- /logo -->
+
+
+
+<!-- navigation -->
+
+<div class="portal" id='p-navigation'>
+
+<h5>Navigation</h5>
+
+<div class="body">
+
+<ul>
+
+<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+
+<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+
+<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+
+<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+
+<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+
+<li id="n-sitesupport"><a href="//wikimediafoundation.org/wiki/Special:Landingcheck?landing_page=WMFJA085&amp;language=en&amp;utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=20101204SB002" title="Support us">Donate to Wikipedia</a></li>
+
+</ul>
+
+</div>
+
+</div>
+
+
+
+<!-- /navigation -->
+
+
+
+<!-- SEARCH -->
+
+
+
+<!-- /SEARCH -->
+
+
+
+<!-- interaction -->
+
+<div class="portal" id='p-interaction'>
+
+<h5>Interaction</h5>
+
+<div class="body">
+
+<ul>
+
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+
+<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+
+<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+
+<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+
+<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+
+</ul>
+
+</div>
+
+</div>
+
+
+
+<!-- /interaction -->
+
+
+
+<!-- TOOLBOX -->
+
+<div class="portal" id='p-tb'>
+
+<h5>Toolbox</h5>
+
+<div class="body">
+
+<ul>
+
+<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Document" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+
+<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Document" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+
+<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+
+<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+
+<li id="t-permalink"><a href="/w/index.php?title=Document&amp;oldid=457628839" title="Permanent link to this revision of the page">Permanent link</a></li>
+
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Document&amp;id=457628839" title="Information on how to cite this page">Cite this page</a></li> </ul>
+
+</div>
+
+</div>
+
+
+
+<!-- /TOOLBOX -->
+
+
+
+<!-- coll-print_export -->
+
+<div class="portal" id='p-coll-print_export'>
+
+<h5>Print/export</h5>
+
+<div class="body">
+
+<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Document" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Document&amp;oldid=457628839&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Document&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul> </div>
+
+</div>
+
+
+
+<!-- /coll-print_export -->
+
+
+
+<!-- LANGUAGES -->
+
+<div class="portal" id='p-lang'>
+
+<h5>Languages</h5>
+
+<div class="body">
+
+<ul>
+
+<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D9%85%D8%B3%D8%AA%D9%86%D8%AF">العربية</a></li>
+
+<li class="interwiki-az"><a href="//az.wikipedia.org/wiki/S%C9%99n%C9%99d">Azərbaycanca</a></li>
+
+<li class="interwiki-be"><a href="//be.wikipedia.org/wiki/%D0%94%D0%B0%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82">Беларуская</a></li>
+
+<li class="interwiki-be-x-old"><a href="//be-x-old.wikipedia.org/wiki/%D0%94%D0%B0%D0%BA%D1%83%D0%BC%D1%8D%D0%BD%D1%82">‪Беларуская (тарашкевіца)‬</a></li>
+
+<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Teul">Brezhoneg</a></li>
+
+<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82">Български</a></li>
+
+<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Document">Català</a></li>
+
+<li class="interwiki-sn"><a href="//sn.wikipedia.org/wiki/Gwaro">chiShona</a></li>
+
+<li class="interwiki-da"><a href="//da.wikipedia.org/wiki/Dokument">Dansk</a></li>
+
+<li class="interwiki-et"><a href="//et.wikipedia.org/wiki/Dokument">Eesti</a></li>
+
+<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Documento">Español</a></li>
+
+<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Dokumento">Esperanto</a></li>
+
+<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Dokumentu">Euskara</a></li>
+
+<li class="interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%B3%D9%86%D8%AF_(%D9%85%D8%AF%D8%B1%DA%A9)">فارسی</a></li>
+
+<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Document">Français</a></li>
+
+<li class="interwiki-gl"><a href="//gl.wikipedia.org/wiki/Documento">Galego</a></li>
+
+<li class="interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EB%AC%B8%EC%84%9C">한국어</a></li>
+
+<li class="interwiki-hr"><a href="//hr.wikipedia.org/wiki/Dokument">Hrvatski</a></li>
+
+<li class="interwiki-io"><a href="//io.wikipedia.org/wiki/Dokumento">Ido</a></li>
+
+<li class="interwiki-id"><a href="//id.wikipedia.org/wiki/Dokumen">Bahasa Indonesia</a></li>
+
+<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Documento">Italiano</a></li>
+
+<li class="interwiki-kk"><a href="//kk.wikipedia.org/wiki/%D2%9A%D2%B1%D0%B6%D0%B0%D1%82">Қазақша</a></li>
+
+<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Dokumentas">Lietuvių</a></li>
+
+<li class="interwiki-mk"><a href="//mk.wikipedia.org/wiki/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82">Македонски</a></li>
+
+<li class="interwiki-ms"><a href="//ms.wikipedia.org/wiki/Dokumen">Bahasa Melayu</a></li>
+
+<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Document">Nederlands</a></li>
+
+<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E6%96%87%E6%9B%B8">日本語</a></li>
+
+<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Dokument">‪Norsk (bokmål)‬</a></li>
+
+<li class="interwiki-nn"><a href="//nn.wikipedia.org/wiki/Dokument">‪Norsk (nynorsk)‬</a></li>
+
+<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Dokument">Polski</a></li>
+
+<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Documento">Português</a></li>
+
+<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82">Русский</a></li>
+
+<li class="interwiki-scn"><a href="//scn.wikipedia.org/wiki/Ducumentu">Sicilianu</a></li>
+
+<li class="interwiki-simple"><a href="//simple.wikipedia.org/wiki/Document">Simple English</a></li>
+
+<li class="interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82">Српски / Srpski</a></li>
+
+<li class="interwiki-sh"><a href="//sh.wikipedia.org/wiki/Dokument">Srpskohrvatski / Српскохрватски</a></li>
+
+<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Dokumentti">Suomi</a></li>
+
+<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Dokument">Svenska</a></li>
+
+<li class="interwiki-th"><a href="//th.wikipedia.org/wiki/%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%AA%E0%B8%B2%E0%B8%A3">ไทย</a></li>
+
+<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82">Українська</a></li>
+
+<li class="interwiki-ur"><a href="//ur.wikipedia.org/wiki/%D8%AF%D8%B3%D8%AA%D8%A7%D9%88%DB%8C%D8%B2">اردو</a></li>
+
+<li class="interwiki-vi"><a href="//vi.wikipedia.org/wiki/V%C4%83n_ki%E1%BB%87n">Tiếng Việt</a></li>
+
+<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E6%96%87%E7%8C%AE">中文</a></li>
+
+</ul>
+
+</div>
+
+</div>
+
+
+
+<!-- /LANGUAGES -->
+
+</div>
+
+<!-- /panel -->
+
+<!-- footer -->
+
+<div id="footer">
+
+<ul id="footer-info">
+
+<li id="footer-info-lastmod"> This page was last modified on 27 October 2011 at 09:20.<br /></li>
+
+<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+
+additional terms may apply.
+
+See <a href="//wikimediafoundation.org/wiki/Terms_of_use">Terms of use</a> for details.<br/>
+
+Wikipedia&reg; is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+
+</ul>
+
+<ul id="footer-places">
+
+<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+
+<li id="footer-places-mobileview"><a href='/w/index.php?title=Document&amp;useformat=mobile'>Mobile view</a></li>
+
+</ul>
+
+<ul id="footer-icons" class="noprint">
+
+<li id="footer-copyrightico">
+
+<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+
+</li>
+
+<li id="footer-poweredbyico">
+
+<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/skins-1.18/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+
+</li>
+
+</ul>
+
+<div style="clear:both"></div>
+
+</div>
+
+<!-- /footer -->
+
+<!-- fixalpha -->
+
+<script type="text/javascript"> if ( window.isMSIE55 ) fixalpha(); </script>
+
+<!-- /fixalpha -->
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*" type="text/javascript"></script>
+
+<script type="text/javascript">if ( window.mediaWiki ) {
+
+mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax", "mediawiki.legacy.mwsuggest", "ext.gadget.wmfFR2011Style", "ext.vector.collapsibleNav", "ext.vector.collapsibleTabs", "ext.vector.editWarning", "ext.vector.simpleSearch", "ext.UserBuckets", "ext.articleFeedback.startup"]);
+
+}
+
+</script>
+
+<script src="/w/index.php?title=Special:BannerController&amp;cache=/cn.js&amp;303-4" type="text/javascript"></script>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*" type="text/javascript"></script>
+
+<script type="text/javascript">if ( window.mediaWiki ) {
+
+mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,
+
+"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"gadget-wmfFR2011Style":1});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+
+
+
+/* cache key: enwiki:resourceloader:filter:minify-js:4:b41a86ec4e0fe8329bc3ce917e792339 */
+
+}
+
+</script><script src="//geoiplookup.wikimedia.org/" type="text/javascript"></script><!-- Served by srv231 in 0.055 secs. -->
+
+</body>
+
+</html>
+

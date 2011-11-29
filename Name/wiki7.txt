@@ -1,0 +1,485 @@
+http://en.wikipedia.org/wiki/Big_table
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" dir="ltr" class="client-nojs" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>BigTable - Wikipedia, the free encyclopedia</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="generator" content="MediaWiki 1.18wmf1" />
+<link rel="canonical" href="/wiki/BigTable" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=BigTable&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=BigTable&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" type="text/css" media="all" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" type="text/css" media="all" />
+<style type="text/css" media="all">a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: enwiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*" type="text/javascript"></script>
+<script type="text/javascript">if ( window.mediaWiki ) {
+	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "BigTable", "wgTitle": "BigTable", "wgCurRevisionId": 459843773, "wgArticleId": 5919973, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["Articles needing cleanup from February 2009", "All articles needing cleanup", "BigTable implementations", "Databases", "Distributed data stores", "Google"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgSearchNamespaces": [0], "wgFlaggedRevsParams": {"tags": {"status": {"levels": 1, "quality": 2, "pristine": 3}}}, "wgStableRevisionId": null, "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": true, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "wgTrackingToken": "c3c10da46eb13086624732da90697111", "wikilove-recipient": "", "wikilove-edittoken": "+\\", "wikilove-anon": 0, "mbEditToken": "+\\", "Geo": {"city": "", "country": ""}, "wgNoticeProject": "wikipedia"});
+}
+</script><script type="text/javascript">if ( window.mediaWiki ) {
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.18/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-BigTable action-view skin-vector">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- centralNotice loads here --></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading">BigTable</h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub">  (Redirected from <a href="/w/index.php?title=Big_table&amp;redirect=no" title="Big table">Big table</a>)</div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav">
+					Jump to: <a href="#mw-head">navigation</a>,
+					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div lang="en" dir="ltr" class="mw-content-ltr"><table class="metadata plainlinks ambox ambox-style ambox-Cleanup" style="">
+<tr>
+<td class="mbox-image">
+<div style="width: 52px;"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" width="40" height="40" /></div>
+</td>
+<td class="mbox-text" style="">This article <b>may require <a href="/wiki/Wikipedia:Cleanup" title="Wikipedia:Cleanup">cleanup</a> to meet Wikipedia's <a href="/wiki/Wikipedia:Manual_of_Style" title="Wikipedia:Manual of Style">quality standards</a></b>. (Consider using <a href="/wiki/Wikipedia:Template_messages/Cleanup" title="Wikipedia:Template messages/Cleanup">more specific cleanup instructions</a>.) Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=BigTable&amp;action=edit">improve this article</a> if you can. The <a href="/wiki/Talk:BigTable" title="Talk:BigTable">talk page</a> may contain suggestions. <small><i>(February 2009)</i></small></td>
+</tr>
+</table>
+<p><b>BigTable</b> is a <a href="/wiki/Data_compression" title="Data compression">compressed</a>, high performance, and <a href="/wiki/Proprietary_software" title="Proprietary software">proprietary</a> <a href="/wiki/Database_management_system" title="Database management system">database system</a> built on <a href="/wiki/Google_File_System" title="Google File System">Google File System</a> (also known as the "GFS"), <a href="/wiki/Distributed_lock_manager#Google.27s_Chubby_lock_service" title="Distributed lock manager">Chubby Lock Service</a>, <a href="/wiki/SSTable" title="SSTable">SSTable</a> and a few other <a href="/wiki/Google" title="Google">Google</a> technologies; it is currently not distributed nor is it used outside of Google, although Google offers access to it as part of their <a href="/wiki/Google_App_Engine" title="Google App Engine">Google App Engine</a>.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Design"><span class="tocnumber">2</span> <span class="toctext">Design</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Other_similar_software"><span class="tocnumber">3</span> <span class="toctext">Other similar software</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=BigTable&amp;action=edit&amp;section=1" title="Edit section: History">edit</a>]</span> <span class="mw-headline" id="History">History</span></h2>
+<p>BigTable development began in 2004<sup id="cite_ref-1st-blog_0-0" class="reference"><a href="#cite_note-1st-blog-0"><span>[</span>1<span>]</span></a></sup> and is now used by a number of Google applications, such as <a href="/wiki/MapReduce" title="MapReduce">MapReduce</a>, which is often used for generating and modifying data stored in BigTable,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>2<span>]</span></a></sup> <a href="/wiki/Google_Reader" title="Google Reader">Google Reader</a>,<sup id="cite_ref-google-reader_2-0" class="reference"><a href="#cite_note-google-reader-2"><span>[</span>3<span>]</span></a></sup> <a href="/wiki/Google_Maps" title="Google Maps">Google Maps</a>,<sup id="cite_ref-maps-orkut_3-0" class="reference"><a href="#cite_note-maps-orkut-3"><span>[</span>4<span>]</span></a></sup> <a href="/wiki/Google_Book_Search" title="Google Book Search" class="mw-redirect">Google Book Search</a>, "My Search History", <a href="/wiki/Google_Earth" title="Google Earth">Google Earth</a>, <a href="/wiki/Blogger.com" title="Blogger.com" class="mw-redirect">Blogger.com</a>, <a href="/wiki/Google_Code" title="Google Code">Google Code</a> hosting, <a href="/wiki/Orkut" title="Orkut">Orkut</a>,<sup id="cite_ref-maps-orkut_3-1" class="reference"><a href="#cite_note-maps-orkut-3"><span>[</span>4<span>]</span></a></sup> <a href="/wiki/YouTube" title="YouTube">YouTube</a>,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>5<span>]</span></a></sup> and <a href="/wiki/Gmail" title="Gmail">Gmail</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>6<span>]</span></a></sup> Google's reasons for developing its own database include scalability and better control of performance characteristics.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>7<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=BigTable&amp;action=edit&amp;section=2" title="Edit section: Design">edit</a>]</span> <span class="mw-headline" id="Design">Design</span></h2>
+<p>BigTable maps two arbitrary string values (row key and column key) and timestamp (hence three dimensional mapping) into an associated arbitrary byte array. It is not a relational database and can be better defined as a sparse, distributed multi-dimensional sorted map.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>8<span>]</span></a></sup> BigTable is designed to scale into the <a href="/wiki/Petabyte" title="Petabyte">petabyte</a> range across "hundreds or thousands of machines, and to make it easy to add more machines [to] the system and automatically start taking advantage of those resources without any reconfiguration".<sup id="cite_ref-o.27reilly_8-0" class="reference"><a href="#cite_note-o.27reilly-8"><span>[</span>9<span>]</span></a></sup></p>
+<p>Each <a href="/wiki/Table_(database)" title="Table (database)">table</a> has multiple dimensions (one of which is a <a href="/wiki/Field_(computer_science)" title="Field (computer science)">field</a> for time, allowing for <a href="/wiki/Versioning" title="Versioning" class="mw-redirect">versioning</a> and <a href="/wiki/Garbage_collection_(computer_science)" title="Garbage collection (computer science)">garbage collection</a>). Tables are optimized for GFS by being split into multiple <i>tablets</i> - segments of the table as split along a row chosen such that the tablet will be ~200 <a href="/wiki/Megabyte" title="Megabyte">megabytes</a> in size. When sizes threaten to grow beyond a specified limit, the tablets are compressed using the algorithm BMDiff<sup id="cite_ref-algorithms1_9-0" class="reference"><a href="#cite_note-algorithms1-9"><span>[</span>10<span>]</span></a></sup> (referenced in <sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>11<span>]</span></a></sup>) and the Zippy compression algorithm<sup id="cite_ref-algorithms2_11-0" class="reference"><a href="#cite_note-algorithms2-11"><span>[</span>12<span>]</span></a></sup> publicly known and open-sourced as <a href="/wiki/Snappy" title="Snappy">Snappy</a>,<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>13<span>]</span></a></sup> which is a less space-optimal variation of <a href="/wiki/LZ77" title="LZ77" class="mw-redirect">LZ77</a> but more efficient in terms of computing time. The locations in the GFS of tablets are recorded as database entries in multiple special tablets, which are called "META1" tablets. META1 tablets are found by querying the single "META0" tablet, which typically resides on a server of its own since it is often queried by clients as to the location of the "META1" tablet which itself has the answer to the question of where the actual data is located. Like GFS's master server, the META0 server is not generally a <a href="/wiki/Bottleneck" title="Bottleneck">bottleneck</a> since the processor time, bandwidth necessary to discover and transmit META1 locations is minimal and clients aggressively cache locations to minimize queries.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=BigTable&amp;action=edit&amp;section=3" title="Edit section: Other similar software">edit</a>]</span> <span class="mw-headline" id="Other_similar_software">Other similar software</span></h2>
+<ul>
+<li><a href="/wiki/Apache_Cassandra" title="Apache Cassandra">Apache Cassandra</a> — brings together Dynamo's fully distributed design and BigTable's data model. Written in Java.</li>
+<li><a href="/wiki/HBase" title="HBase">HBase</a> — Written in Java. Provides BigTable-like support on the <a href="/wiki/Hadoop" title="Hadoop" class="mw-redirect">Hadoop</a> Core.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>14<span>]</span></a></sup></li>
+<li><a href="/wiki/Hypertable" title="Hypertable">Hypertable</a> — Hypertable is designed to manage the storage and processing of information on a large cluster of commodity servers.<sup id="cite_ref-hypertable_14-0" class="reference"><a href="#cite_note-hypertable-14"><span>[</span>15<span>]</span></a></sup></li>
+<li><a rel="nofollow" class="external text" href="http://github.com/bluefish/kdi">KDI</a> — <a href="/wiki/Kosmix" title="Kosmix">Kosmix</a> attempt to make a BigTable clone. Written in C++.</li>
+<li><a href="/wiki/LevelDB" title="LevelDB">LevelDB</a> - Google's embedded key/value store that uses similar design concepts as the BigTable Tablet<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>16<span>]</span></a></sup></li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=BigTable&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a>]</span> <span class="mw-headline" id="See_also">See also</span></h2>
+<ul>
+<li><a href="/wiki/Amazon_SimpleDB" title="Amazon SimpleDB">Amazon SimpleDB</a></li>
+<li><a href="/wiki/Big_data" title="Big data">Big data</a></li>
+<li><a href="/wiki/Distributed_data_store" title="Distributed data store">Distributed data stores</a>, an overview</li>
+<li><a href="/wiki/Dynamo_(storage_system)" title="Dynamo (storage system)">Dynamo (storage system)</a></li>
+<li><a href="/wiki/Column-oriented_DBMS" title="Column-oriented DBMS">Column-oriented DBMS</a></li>
+<li><a href="/wiki/Hadoop" title="Hadoop" class="mw-redirect">Hadoop</a></li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=BigTable&amp;action=edit&amp;section=5" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1st-blog-0"><b><a href="#cite_ref-1st-blog_0-0">^</a></b> "First an overview. BigTable has been in development since early 2004 and has been in active use for about eight months (about February 2005)."As said by AswiniKumar <a rel="nofollow" class="external text" href="http://andrewhitchcock.org/?post=214">Google's BigTable</a></li>
+<li id="cite_note-1"><b><a href="#cite_ref-1">^</a></b> "Bigtable can be used with MapReduce, a framework for running large-scale parallel computations developed at Google. We have written a set of wrappers that allow a Bigtable to be used both as an input source and as an output target for MapReduce jobs". pg 3 of "Bigtable: A Distributed Storage System for Structured Data", 2006</li>
+<li id="cite_note-google-reader-2"><b><a href="#cite_ref-google-reader_2-0">^</a></b> "Reader is using Google's BigTable in order to create a haven for what is likely to be a massive trove of items." <a rel="nofollow" class="external text" href="http://googlereader.blogspot.com/2005/10/google-reader-two-weeks.html">Official Google Reader</a> blog.</li>
+<li id="cite_note-maps-orkut-3">^ <a href="#cite_ref-maps-orkut_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-maps-orkut_3-1"><sup><i><b>b</b></i></sup></a> "There are currently around 100 cells for services such as Print, Search History, Maps, and Orkut." <a rel="nofollow" class="external text" href="http://andrewhitchcock.org/?post=214">Google's BigTable</a></li>
+<li id="cite_note-4"><b><a href="#cite_ref-4">^</a></b> "Their new solution for thumbnails is to use Google’s BigTable, which provides high performance for a large number of rows, fault tolerance, caching, etc. This is a nice (and rare?) example of actual synergy in an acquisition." <a rel="nofollow" class="external text" href="http://kylecordes.com/2007/07/12/youtube-scalability/">YouTube Scalability Talk</a></li>
+<li id="cite_note-5"><b><a href="#cite_ref-5">^</a></b> <a rel="nofollow" class="external text" href="http://code.google.com/intl/pl/appengine/articles/storage_breakdown.html#anc-background">"How Entities and Indexes are Stored - Google App Engine - Google Code"</a></li>
+<li id="cite_note-6"><b><a href="#cite_ref-6">^</a></b> "We have described Bigtable, a distributed system for storing structured data at Google....Our users like the performance and high availability provided by the Bigtable implementation, and that they can scale the capacity of their clusters by simply adding more machines to the system as their resource demands change over time...Finally, we have found that there are significant advantages to building our own storage solution at Google. We have gotten a substantial amount of flexibility from designing our own data model for Bigtable." from the Conclusion of "Bigtable: A Distributed Storage System for Structured Data", 2006</li>
+<li id="cite_note-7"><b><a href="#cite_ref-7">^</a></b> <a rel="nofollow" class="external autonumber" href="http://labs.google.com/papers/bigtable.html">[1]</a> Fay Chang, Jeffrey Dean, Sanjay Ghemawat, Wilson C. Hsieh, Deborah A. Wallach Mike Burrows, Tushar Chandra, Andrew Fikes, Robert E. Gruber. Bigtable: A Distributed Storage System for Structured Data</li>
+<li id="cite_note-o.27reilly-8"><b><a href="#cite_ref-o.27reilly_8-0">^</a></b> *<a rel="nofollow" class="external text" href="http://radar.oreilly.com/archives/2006/05/database_war_stories_7_google.html">"Database War Stories #7: Google File System and BigTable"</a> Bigtable: A Distributed Storage System for Structured Data</li>
+<li id="cite_note-algorithms1-9"><b><a href="#cite_ref-algorithms1_9-0">^</a></b> <a rel="nofollow" class="external text" href="http://feedblog.org/2008/10/12/google-bigtable-compression-zippy-and-bmdiff">Google, Bigtable, Compression, Zippy and BMDiff</a></li>
+<li id="cite_note-10"><b><a href="#cite_ref-10">^</a></b> <a rel="nofollow" class="external text" href="http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=755678">Data compression using long common strings</a> Bentley McIlroy DCC ‘99 Data Compression Using Long Common Strings</li>
+<li id="cite_note-algorithms2-11"><b><a href="#cite_ref-algorithms2_11-0">^</a></b> <a rel="nofollow" class="external text" href="http://blog.outer-court.com/archive/2005-10-23-n61.html">Google's Bigtable</a></li>
+<li id="cite_note-12"><b><a href="#cite_ref-12">^</a></b> <a rel="nofollow" class="external text" href="http://code.google.com/p/snappy/">Snappy project on Google Code</a></li>
+<li id="cite_note-13"><b><a href="#cite_ref-13">^</a></b> Hadoop Core <a rel="nofollow" class="external text" href="http://wiki.apache.org/hadoop/Hbase#background">HBase - Hadoop Wiki, Background section</a></li>
+<li id="cite_note-hypertable-14"><b><a href="#cite_ref-hypertable_14-0">^</a></b> <a rel="nofollow" class="external free" href="http://www.hypertable.org/about.html">http://www.hypertable.org/about.html</a></li>
+<li id="cite_note-15"><b><a href="#cite_ref-15">^</a></b> <a rel="nofollow" class="external text" href="http://leveldb.googlecode.com/svn/trunk/doc/impl.html">Leveldb file layout and compactions</a></li>
+</ol>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=BigTable&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://labs.google.com/papers/bigtable.html">Bigtable: A Distributed Storage System for Structured Data</a> -(official paper; <a rel="nofollow" class="external text" href="http://labs.google.com/papers/bigtable-osdi06.pdf">PDF</a>)</li>
+<li><a rel="nofollow" class="external text" href="http://www.cs.washington.edu/htbin-post/mvis/mvis?ID=437">BigTable: A Distributed Structured Storage System</a> (<a rel="nofollow" class="external text" href="http://video.google.com/videoplay?docid=7278544055668715642">video</a>)
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.uwtv.org/programs/displayevent.asp?rid=2787">more video</a></li>
+<li><a rel="nofollow" class="external text" href="http://andrewhitchcock.org/?post=214">Google's BigTable</a> -(notes on the official presentation)</li>
+</ul>
+</li>
+<li><a rel="nofollow" class="external text" href="http://www.baselinemag.com/article2/0,1540,1985047,00.asp">"How Google Works"</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.readwriteweb.com/archives/is_the_relational_database_doomed.php">Is the Relational Database Doomed?</a></li>
+</ul>
+<table class="navbox" cellspacing="0" style=";">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible collapsed" style="width:100%;background:transparent;color:inherit;;">
+<tr>
+<th style=";" colspan="2" class="navbox-title"><span style="float:left;width:6em;text-align:left;"><span class="noprint plainlinks navbar" style=""><span style="white-space:nowrap;word-spacing:-.12em;"><a href="/wiki/Template:Google_Inc." title="Template:Google Inc."><span style=";;background:none transparent;border:none;font-size:100%;" title="View this template">v</span></a> <span style=";;background:none transparent;border:none;font-size:100%;"><b>·</b></span> <a href="/wiki/Template_talk:Google_Inc." title="Template talk:Google Inc."><span style=";;background:none transparent;border:none;font-size:100%;" title="Discuss this template">d</span></a> <span style=";;background:none transparent;border:none;font-size:100%;"><b>·</b></span> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Google_Inc.&amp;action=edit"><span style=";;background:none transparent;border:none;font-size:100%;" title="Edit this template">e</span></a></span></span></span><span class="" style="font-size:110%;"><a href="/wiki/Google" title="Google">Google Inc.</a></span></th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" style=";" colspan="2">
+<div><span style="white-space:nowrap;"><b>Executive Chairman</b>: <a href="/wiki/Eric_Schmidt" title="Eric Schmidt">Eric Schmidt</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><b>Director/Technology President/Co-founder</b>: <a href="/wiki/Sergey_Brin" title="Sergey Brin">Sergey Brin</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><b>CEO/Co-founder</b>: <a href="/wiki/Larry_Page" title="Larry Page">Larry Page</a><br />
+<b>Other directors</b>: <a href="/wiki/John_Doerr" title="John Doerr">John Doerr</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/John_L._Hennessy" title="John L. Hennessy">John L. Hennessy</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Ann_Mather" title="Ann Mather">Ann Mather</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Paul_Otellini" title="Paul Otellini">Paul Otellini</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><a href="/wiki/Ram_Shriram" title="Ram Shriram">Ram Shriram</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Shirley_M._Tilghman" title="Shirley M. Tilghman">Shirley M. Tilghman</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><b>Senior Advisor</b>: <a href="/wiki/Al_Gore" title="Al Gore">Al Gore</a></span></div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";;">Advertising</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/wiki/Ad_Manager" title="Ad Manager" class="mw-redirect">Ad Manager</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/AdMob" title="AdMob">AdMob</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Adscape" title="Adscape">Adscape</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/AdSense" title="AdSense">AdSense</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Advertising_Professional" title="Google Advertising Professional" class="mw-redirect">Advertising Professionals</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/AdWords" title="AdWords">AdWords</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Analytics" title="Google Analytics">Analytics</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Checkout" title="Google Checkout">Checkout</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/DoubleClick" title="DoubleClick">DoubleClick</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Offers" title="Google Offers">Offers</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Wallet" title="Google Wallet">Wallet</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";;">Communication</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="/wiki/Google_Alerts" title="Google Alerts">Alerts</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Calendar" title="Google Calendar">Calendar</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Cloud_Connect" title="Google Cloud Connect">Cloud Connect</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Contacts" title="Google Contacts">Contacts</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Dictionary" title="Google Dictionary">Dictionary</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Friend_Connect" title="Google Friend Connect">Friend Connect</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Gmail" title="Gmail">Gmail</a><small>&#160;(<a href="/wiki/History_of_Gmail" title="History of Gmail">history</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Gmail_interface" title="Gmail interface">interface</a>)</small>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google%2B" title="Google+">Google+</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Groups" title="Google Groups">Groups</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Talk" title="Google Talk">Talk</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Latitude" title="Google Latitude">Latitude</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Orkut" title="Orkut">Orkut</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Questions_and_Answers" title="Google Questions and Answers">Q &amp; A</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Reader" title="Google Reader">Reader</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Sync" title="Google Sync">Sync</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Translate" title="Google Translate">Translate</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Voice" title="Google Voice">Voice</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Wave" title="Google Wave" class="mw-redirect">Wave</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";;">Software</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/wiki/Google_Chrome" title="Google Chrome">Chrome</a> <small>(<a href="/wiki/Chrome_Web_Store" title="Chrome Web Store">Chrome Web Store</a>)</small> &#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Chrome_OS" title="Google Chrome OS">Chrome OS</a> <small>(<a href="/wiki/Chromebook" title="Chromebook">Chromebook</a>)</small> &#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Cloud_Print" title="Google Cloud Print">Cloud Print</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Earth" title="Google Earth">Earth</a><small>&#160;(<a href="/wiki/Google_Sky" title="Google Sky">Sky</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Moon" title="Google Moon">Moon</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Mars" title="Google Mars">Mars</a>)</small>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Gadgets" title="Google Gadgets">Gadgets</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Goggles" title="Google Goggles">Goggles</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_IME" title="Google IME">IME</a><small>&#160;(<a href="/wiki/Google_Pinyin" title="Google Pinyin">Pinyin</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Japanese_Input" title="Google Japanese Input">Japanese</a>)</small>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Picasa" title="Picasa">Picasa</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Picnik" title="Picnik">Picnik</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/SketchUp" title="SketchUp">SketchUp</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Talk" title="Google Talk">Talk</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Toolbar" title="Google Toolbar">Toolbar</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Pack#Google_Updater" title="Google Pack">Updater</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Urchin_(software)" title="Urchin (software)">Urchin</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";;"><a href="/wiki/Google_platform" title="Google platform">Platforms</a></td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="/wiki/Google_Account" title="Google Account">Account</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Android_(operating_system)" title="Android (operating system)">Android</a> <small>(<a href="/wiki/Google_TV" title="Google TV">Google TV</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Nexus" title="Google Nexus">Google Nexus</a>)</small>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_App_Engine" title="Google App Engine">App Engine</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Apps" title="Google Apps">Apps</a>&#160;<span style="font-weight:bold;">·</span>  <strong class="selflink">BigTable</strong>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Body" title="Google Body">Body</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Caja_project" title="Caja project">Caja</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Custom_Search" title="Google Custom Search">Custom Search</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Dart_(programming_language)" title="Dart (programming language)">Dart</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Earth_Engine" title="Google Earth Engine">Earth Engine</a>&#160;<span style="font-weight:bold;">·</span> <a href="/wiki/Gears_(software)" title="Gears (software)">Gears</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Go_(programming_language)" title="Go (programming language)">Go</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_File_System" title="Google File System">GFS</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Music" title="Google Music">Music</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Native_Client" title="Google Native Client">Native Client</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/OpenSocial" title="OpenSocial">OpenSocial</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Public_DNS" title="Google Public DNS">Public DNS</a>&#160;<span style="font-weight:bold;">·</span> <a href="/wiki/Google_Wallet" title="Google Wallet">Wallet</a> &#160;<span style="font-weight:bold;">·</span> <a href="/wiki/Google_Wave_Federation_Protocol" title="Google Wave Federation Protocol">Wave</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";;">Development tools</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/wiki/Google_AJAX_APIs" title="Google AJAX APIs">AJAX APIs</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_App_Inventor" title="Google App Inventor">App Inventor</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/AtGoogleTalks" title="AtGoogleTalks">AtGoogleTalks</a> &#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Closure_Tools" title="Google Closure Tools">Closure Tools</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Code" title="Google Code">Code</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Gadgets_API" title="Google Gadgets API">Gadgets API</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/GData" title="GData">GData</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Googlebot" title="Googlebot">Googlebot</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Guice" title="Google Guice">Guice</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Web_Server" title="Google Web Server" class="mw-redirect">GWS</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Keyhole_Markup_Language" title="Keyhole Markup Language">KML</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/MapReduce" title="MapReduce">MapReduce</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/SketchUp_Ruby" title="SketchUp Ruby" class="mw-redirect">SketchUp Ruby</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Sitemaps" title="Sitemaps">Sitemaps</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Summer_of_Code" title="Google Summer of Code">Summer of Code</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Web_Toolkit" title="Google Web Toolkit">Web Toolkit</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Website_Optimizer" title="Google Website Optimizer">Website Optimizer</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Swiffy" title="Google Swiffy">Swiffy</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";;">Publishing</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="/wiki/Google_3D_Warehouse" title="Google 3D Warehouse">Google 3D Warehouse</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Blogger_(service)" title="Blogger (service)">Blogger</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Bookmarks" title="Google Bookmarks">Bookmarks</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Docs" title="Google Docs">Docs</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/FeedBurner" title="FeedBurner">FeedBurner</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/IGoogle" title="IGoogle">iGoogle</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Jaiku" title="Jaiku">Jaiku</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Knol" title="Knol">Knol</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Map_Maker" title="Google Map Maker">Map Maker</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Panoramio" title="Panoramio">Panoramio</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Picasa#Picasa_Web_Albums" title="Picasa">Picasa Web Albums</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Sites" title="Google Sites">Sites (JotSpot)</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/YouTube" title="YouTube">YouTube</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Zagat" title="Zagat">Zagat</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";;"><a href="/wiki/Google_Search" title="Google Search">Search</a> (<a href="/wiki/PageRank" title="PageRank">PageRank</a>)</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/wiki/Google_Search_Appliance" title="Google Search Appliance">Appliance</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Audio_Indexing" title="Google Audio Indexing">Audio</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Books" title="Google Books">Books</a><small>&#160;(<a href="/wiki/Google_Books_Library_Project" title="Google Books Library Project">Library Project</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_eBooks" title="Google eBooks">eBooks</a>)</small>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Code_Search" title="Google Code Search">Code</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Finance" title="Google Finance">Finance</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Images" title="Google Images">Images</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Maps" title="Google Maps">Maps</a><small>&#160;(<a href="/wiki/Google_Street_View" title="Google Street View">Street View</a>)</small>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_News" title="Google News">News</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Patents" title="Google Patents">Patents</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Product_Search" title="Google Product Search">Products</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Scholar" title="Google Scholar">Scholar</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Groups" title="Google Groups">Usenet</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Videos" title="Google Videos">Videos</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Search" title="Google Search">Web Search</a> <small>(<a href="/wiki/Google_Web_History" title="Google Web History">History</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Personalized_Search" title="Google Personalized Search">Personalized</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Real-Time_Search" title="Google Real-Time Search">Real-Time</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Instant_Search" title="Instant Search" class="mw-redirect">Instant Search</a>)</small>&#160;<span style="font-weight:bold;">·</span>  Analysis: <a href="/wiki/Google_Insights_for_Search" title="Google Insights for Search">Insights for Search</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Trends" title="Google Trends">Trends</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";;"><a href="/wiki/List_of_Google_products#Previous_products" title="List of Google products">Discontinued</a></td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="/wiki/Aardvark_(search_engine)" title="Aardvark (search engine)">Aardvark</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Answers" title="Google Answers">Answers</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Browser_Sync" title="Google Browser Sync">Browser Sync</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Base" title="Google Base">Base</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Buzz" title="Google Buzz">Buzz</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/AdWords#Google_Click-to-Call" title="AdWords">Click-to-Call</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Desktop" title="Google Desktop">Desktop</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Dodgeball_(service)" title="Dodgeball (service)">Dodgeball</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Fast_Flip" title="Google Fast Flip">Fast Flip</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/GOOG-411" title="GOOG-411">GOOG-411</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Health" title="Google Health">Health</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Image_Labeler" title="Google Image Labeler">Image Labeler</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Labs" title="Google Labs">Labs</a> &#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Lively" title="Google Lively">Lively</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Mashup_Editor" title="Google Mashup Editor">Mashup Editor</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Notebook" title="Google Notebook">Notebook</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Pack" title="Google Pack">Pack</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Page_Creator" title="Google Page Creator">Page Creator</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_PowerMeter" title="Google PowerMeter">PowerMeter</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_SearchWiki" title="Google SearchWiki">SearchWiki</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Sidewiki" title="Google Sidewiki">Sidewiki</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Slide.com" title="Slide.com">Slide</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Video_Marketplace" title="Google Video Marketplace">Video Marketplace</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Wave" title="Google Wave" class="mw-redirect">Wave</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Web_Accelerator" title="Google Web Accelerator">Web Accelerator</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";;"><a href="/wiki/Category:Google" title="Category:Google">Related</a></td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/wiki/List_of_acquisitions_by_Google" title="List of acquisitions by Google">Acquisitions</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_AI_Challenge" title="Google AI Challenge" class="mw-redirect">AI Challenge</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_bomb" title="Google bomb">Bomb</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Criticism_of_Google" title="Criticism of Google">Criticism</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_logo" title="Google logo">Doodles</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_driverless_car" title="Google driverless car">Driverless car</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Fiber" title="Google Fiber">Fiber</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google.org#Google_Foundation" title="Google.org">Foundation</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_China" title="Google China">Google China</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Grants" title="Google Grants">Google Grants</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google.org" title="Google.org">Google.org</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Googleplex" title="Googleplex">Googleplex</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/History_of_Google" title="History of Google">History</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google%27s_hoaxes" title="Google's hoaxes">Hoaxes</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Illegal_flower_tribute" title="Illegal flower tribute">Illegal flower tribute</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Search#.22I.27m_Feeling_Lucky.22" title="Google Search">I'm Feeling Lucky</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_I/O" title="Google I/O">I/O</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_logo" title="Google logo">Logo</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Lunar_X_Prize" title="Google Lunar X Prize">Lunar X Prize</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Monopoly_City_Streets" title="Monopoly City Streets">Monopoly City Streets</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/List_of_Google_products" title="List of Google products">Products</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Searchology" title="Google Searchology">Searchology</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Unity_(cable_system)" title="Unity (cable system)">Unity</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_Ventures" title="Google Ventures">Ventures</a>&#160;<span style="font-weight:bold;">·</span>  <a href="/wiki/Google_WiFi" title="Google WiFi">WiFi</a></div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" style=";" colspan="2">
+<div><span style="white-space:nowrap;"><b><a href="/wiki/History_of_Google#Financing_and_initial_public_offering" title="History of Google">Stock symbol</a></b>: (<a href="/wiki/NASDAQ" title="NASDAQ">NASDAQ</a>:&#160;<a rel="nofollow" class="external text" href="http://www.nasdaq.com/symbol/GOOG">GOOG</a>, <a href="/wiki/New_York_Stock_Exchange" title="New York Stock Exchange">NYSE</a>:&#160;<a rel="nofollow" class="external text" href="http://www.nyse.com/about/listed/lcddata.html?ticker=GOOG">GOOG</a>, <a href="/wiki/Frankfurt_Stock_Exchange" title="Frankfurt Stock Exchange">FWB</a>:&#160;<a rel="nofollow" class="external text" href="http://www.boerse-frankfurt.de/EN/index.aspx?pageID=23&amp;Query=GGQ1">GGQ1</a>)&#160;<b>·</b></span> <span style="white-space:nowrap;"><b>Motto</b>: <a href="/wiki/Don%27t_be_evil" title="Don't be evil">Don't be evil</a>&#160;<b>·</b></span> <span style="white-space:nowrap;"><b><a href="/wiki/Google.com" title="Google.com" class="mw-redirect">Website</a></b>: <a rel="nofollow" class="external text" href="http://www.google.com/">google.com</a></span></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 2109/1000000
+Post-expand include size: 96255/2048000 bytes
+Template argument size: 45483/2048000 bytes
+Expensive parser function count: 1/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:5919973-0!*!0!!en!4!* and timestamp 20111120024628 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=BigTable&amp;oldid=459843773">http://en.wikipedia.org/w/index.php?title=BigTable&amp;oldid=459843773</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:BigTable_implementations" title="Category:BigTable implementations">BigTable implementations</a></li><li><a href="/wiki/Category:Databases" title="Category:Databases">Databases</a></li><li><a href="/wiki/Category:Distributed_data_stores" title="Category:Distributed data stores">Distributed data stores</a></li><li><a href="/wiki/Category:Google" title="Category:Google">Google</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_cleanup_from_February_2009" title="Category:Articles needing cleanup from February 2009">Articles needing cleanup from February 2009</a></li><li><a href="/wiki/Category:All_articles_needing_cleanup" title="Category:All articles needing cleanup">All articles needing cleanup</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=BigTable" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in / create account</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/BigTable"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:BigTable"  title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+		<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/BigTable" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=BigTable&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=BigTable&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+		<input type='hidden' name="title" value="Special:Search"/>
+				<div id="simpleSearch">
+						<input type="text" name="search" value="" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/skins-1.18/vector/images/search-ltr.png?303-4" alt="Search" /></button>					</div>
+			</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//wikimediafoundation.org/wiki/Special:Landingcheck?landing_page=WMFJA085&amp;language=en&amp;utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=20101204SB002" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/BigTable" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/BigTable" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=BigTable&amp;oldid=459843773" title="Permanent link to this revision of the page">Permanent link</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=BigTable&amp;id=459843773" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=BigTable" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=BigTable&amp;oldid=459843773&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=BigTable&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Google_BigTable">Deutsch</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/BigTable">Español</a></li>
+			<li class="interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%AC%D8%AF%D9%88%D9%84_%D8%A8%D8%B2%D8%B1%DA%AF">فارسی</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/BigTable">Français</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/BigTable">Italiano</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/BigTable">日本語</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/BigTable">Português</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/BigTable">Русский</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/BigTable">中文</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 9 November 2011 at 19:15.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_use">Terms of use</a> for details.<br/>
+Wikipedia&reg; is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href='/w/index.php?title=Big_table&amp;useformat=mobile'>Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/skins-1.18/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<!-- fixalpha -->
+		<script type="text/javascript"> if ( window.isMSIE55 ) fixalpha(); </script>
+		<!-- /fixalpha -->
+		<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*" type="text/javascript"></script>
+<script type="text/javascript">if ( window.mediaWiki ) {
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax", "mediawiki.legacy.mwsuggest", "ext.gadget.wmfFR2011Style", "ext.vector.collapsibleNav", "ext.vector.collapsibleTabs", "ext.vector.editWarning", "ext.vector.simpleSearch", "ext.UserBuckets", "ext.articleFeedback.startup"]);
+}
+</script>
+<script src="/w/index.php?title=Special:BannerController&amp;cache=/cn.js&amp;303-4" type="text/javascript"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*" type="text/javascript"></script>
+<script type="text/javascript">if ( window.mediaWiki ) {
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,
+	"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"gadget-wmfFR2011Style":1});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: enwiki:resourceloader:filter:minify-js:4:b41a86ec4e0fe8329bc3ce917e792339 */
+}
+</script><script src="//geoiplookup.wikimedia.org/" type="text/javascript"></script><!-- Served by srv212 in 0.083 secs. -->
+	</body>
+</html>

@@ -1,0 +1,540 @@
+http://en.wikipedia.org/wiki/Machine_learning
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" dir="ltr" class="client-nojs" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Machine learning - Wikipedia, the free encyclopedia</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="generator" content="MediaWiki 1.18wmf1" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Machine_learning&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Machine_learning&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" type="text/css" media="all" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" type="text/css" media="all" />
+<style type="text/css" media="all">a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: enwiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*" type="text/javascript"></script>
+<script type="text/javascript">if ( window.mediaWiki ) {
+	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "Machine_learning", "wgTitle": "Machine learning", "wgCurRevisionId": 461710203, "wgArticleId": 233488, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": ["Articles needing additional references from August 2008", "All articles needing additional references", "Learning in computer vision", "Machine learning", "Learning", "Cybernetics"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgSearchNamespaces": [0], "wgFlaggedRevsParams": {"tags": {"status": {"levels": 1, "quality": 2, "pristine": 3}}}, "wgStableRevisionId": null, "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": true, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "wgTrackingToken": "6d7fff5a25229b74d3bb051504fd229f", "wikilove-recipient": "", "wikilove-edittoken": "+\\", "wikilove-anon": 0, "mbEditToken": "+\\", "Geo": {"city": "", "country": ""}, "wgNoticeProject": "wikipedia"});
+}
+</script><script type="text/javascript">if ( window.mediaWiki ) {
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.18/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Machine_learning action-view skin-vector">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- centralNotice loads here --></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading">Machine learning</h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav">
+					Jump to: <a href="#mw-head">navigation</a>,
+					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div lang="en" dir="ltr" class="mw-content-ltr"><div class="dablink">For the journal, see <a href="/wiki/Machine_Learning_(journal)" title="Machine Learning (journal)">Machine Learning (journal)</a>.</div>
+<table class="metadata plainlinks ambox ambox-content ambox-Refimprove" style="">
+<tr>
+<td class="mbox-image">
+<div style="width: 52px;"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" /></div>
+</td>
+<td class="mbox-text" style="">This article <b>needs additional <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">citations</a> for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Machine_learning&amp;action=edit">improve this article</a> by adding citations to <a href="/wiki/Wikipedia:Identifying_reliable_sources" title="Wikipedia:Identifying reliable sources">reliable sources</a>. Unsourced material may be <a href="/wiki/Template:Citation_needed" title="Template:Citation needed">challenged</a> and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>. <small><i>(August 2008)</i></small></td>
+</tr>
+</table>
+<p><b>Machine learning</b>, a branch of <a href="/wiki/Artificial_intelligence" title="Artificial intelligence">artificial intelligence</a>, is a scientific discipline concerned with the design and development of <a href="/wiki/Algorithm" title="Algorithm">algorithms</a> that allow <a href="/wiki/Computer" title="Computer">computers</a> to evolve behaviors based on empirical <a href="/wiki/Data" title="Data">data</a>, such as from <a href="/wiki/Sensor" title="Sensor">sensor</a> data or <a href="/wiki/Database" title="Database">databases</a>. Machine learning is concerned with the development of algorithms allowing the machine to learn via <a href="/wiki/Inductive_inference" title="Inductive inference">inductive inference</a> based on observing data that represents incomplete information about statistical phenomenon and generalize it to rules and make <i>predictions</i> on missing attributes or future data. An important task of machine learning is <a href="/wiki/Statistical_classification" title="Statistical classification">classification</a>, which is also referred to as <a href="/wiki/Pattern_recognition" title="Pattern recognition">pattern recognition</a>, in which machines "learn" to automatically recognize complex patterns, to distinguish between exemplars based on their different patterns, and to make intelligent predictions on their class.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Definition"><span class="tocnumber">1</span> <span class="toctext">Definition</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Generalization"><span class="tocnumber">2</span> <span class="toctext">Generalization</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Machine_learning.2C_knowledge_discovery_in_databases_.28KDD.29_and_data_mining"><span class="tocnumber">3</span> <span class="toctext">Machine learning, knowledge discovery in databases (KDD) and data mining</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Human_interaction"><span class="tocnumber">4</span> <span class="toctext">Human interaction</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Algorithm_types"><span class="tocnumber">5</span> <span class="toctext">Algorithm types</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Theory"><span class="tocnumber">6</span> <span class="toctext">Theory</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Approaches"><span class="tocnumber">7</span> <span class="toctext">Approaches</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Decision_tree_learning"><span class="tocnumber">7.1</span> <span class="toctext">Decision tree learning</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Association_rule_learning"><span class="tocnumber">7.2</span> <span class="toctext">Association rule learning</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Artificial_neural_networks"><span class="tocnumber">7.3</span> <span class="toctext">Artificial neural networks</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Genetic_programming"><span class="tocnumber">7.4</span> <span class="toctext">Genetic programming</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Inductive_logic_programming"><span class="tocnumber">7.5</span> <span class="toctext">Inductive logic programming</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Support_vector_machines"><span class="tocnumber">7.6</span> <span class="toctext">Support vector machines</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Clustering"><span class="tocnumber">7.7</span> <span class="toctext">Clustering</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Bayesian_networks"><span class="tocnumber">7.8</span> <span class="toctext">Bayesian networks</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Reinforcement_learning"><span class="tocnumber">7.9</span> <span class="toctext">Reinforcement learning</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Representation_learning"><span class="tocnumber">7.10</span> <span class="toctext">Representation learning</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-18"><a href="#Applications"><span class="tocnumber">8</span> <span class="toctext">Applications</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#Software"><span class="tocnumber">9</span> <span class="toctext">Software</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#Journals_and_conferences"><span class="tocnumber">10</span> <span class="toctext">Journals and conferences</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#See_also"><span class="tocnumber">11</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#References"><span class="tocnumber">12</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-23"><a href="#Further_reading"><span class="tocnumber">13</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-24"><a href="#External_links"><span class="tocnumber">14</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Machine_learning&amp;action=edit&amp;section=1" title="Edit section: Definition">edit</a>]</span> <span class="mw-headline" id="Definition">Definition</span></h2>
+<p><a href="/wiki/Tom_M._Mitchell" title="Tom M. Mitchell">Tom M. Mitchell</a> provided a widely quoted definition: A computer program is said to learn from experience E with respect to some class of tasks T and performance measure P, if its performance at tasks in T, as measured by P, improves with experience E.<sup id="cite_ref-0" class="reference"><a href="#cite_note-0"><span>[</span>1<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Machine_learning&amp;action=edit&amp;section=2" title="Edit section: Generalization">edit</a>]</span> <span class="mw-headline" id="Generalization">Generalization</span></h2>
+<p>The core objective of a learner is to generalize from its experience.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>2<span>]</span></a></sup> The training examples from its experience come from some generally unknown probability distribution and the learner has to extract from them something more general, something about that distribution, that allows it to produce useful answers in new cases.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Machine_learning&amp;action=edit&amp;section=3" title="Edit section: Machine learning, knowledge discovery in databases (KDD) and data mining">edit</a>]</span> <span class="mw-headline" id="Machine_learning.2C_knowledge_discovery_in_databases_.28KDD.29_and_data_mining">Machine learning, knowledge discovery in databases (KDD) and data mining</span></h2>
+<p>These three terms are commonly confused, as they often employ the same methods and overlap strongly. They can be roughly separated as follows:</p>
+<ul>
+<li>Machine learning focuses on the prediction, based on <i>known</i> properties learned from the training data</li>
+<li>Data mining (which is the analysis step of Knowledge Discovery in Databases) focuses on the <a href="/wiki/Discovery_(observation)" title="Discovery (observation)">discovery</a> of (previously) <i>unknown</i> properties on the data</li>
+</ul>
+<p>However, these two areas overlap in many ways: data mining uses many machine learning methods, but often with a slightly different goal in mind. On the other hand, machine learning also employs data mining methods as "unsupervised learning" or as a preprocessing step to improve learner accuracy. Much of the confusion between these two research communities (which do often have separate conferences and separate journals, <a href="/wiki/ECML_PKDD" title="ECML PKDD">ECML PKDD</a> being a major exception) comes from the basic assumptions they work with: in machine learning, the performance is usually evaluated with respect to the ability to <i>reproduce known</i> knowledge, while in KDD the key task is the discovery of previously <i>unknown</i> knowledge. Evaluated with respect to known knowledge, an uninformed (unsupervised) method will easily be outperformed by supervised methods, while in a typical KDD task, supervised methods cannot be used due to the unavailability of training data.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Machine_learning&amp;action=edit&amp;section=4" title="Edit section: Human interaction">edit</a>]</span> <span class="mw-headline" id="Human_interaction">Human interaction</span></h2>
+<p>Some machine learning systems attempt to eliminate the need for human <a href="/wiki/Intuition_(knowledge)" title="Intuition (knowledge)" class="mw-redirect">intuition</a> in data analysis, while others adopt a collaborative approach between human and machine. Human intuition cannot, however, be entirely eliminated, since the system's designer must specify how the data is to be represented and what mechanisms will be used to search for a characterization of the data.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Machine_learning&amp;action=edit&amp;section=5" title="Edit section: Algorithm types">edit</a>]</span> <span class="mw-headline" id="Algorithm_types">Algorithm types</span></h2>
+<p>Machine learning <a href="/wiki/Algorithm" title="Algorithm">algorithms</a> can be organized into a <a href="/wiki/Taxonomy" title="Taxonomy">taxonomy</a> based on the desired outcome of the algorithm.</p>
+<ul>
+<li><b><a href="/wiki/Supervised_learning" title="Supervised learning">Supervised learning</a></b> generates a function that maps inputs to desired outputs (also called <b>labels</b>, because they are often provided by human experts labeling the training examples). For example, in a <a href="/wiki/Statistical_classification" title="Statistical classification">classification</a> problem, the learner approximates a function mapping a vector into classes by looking at input-output examples of the function.</li>
+<li><b><a href="/wiki/Unsupervised_learning" title="Unsupervised learning">Unsupervised learning</a></b> models a set of inputs, like clustering. See also <a href="/wiki/Data_mining" title="Data mining">data mining</a> and knowledge discovery.</li>
+<li><b><a href="/wiki/Semi-supervised_learning" title="Semi-supervised learning">Semi-supervised learning</a></b> combines both labeled and unlabeled examples to generate an appropriate function or classifier.</li>
+<li><b><a href="/wiki/Reinforcement_learning" title="Reinforcement learning">Reinforcement learning</a></b> learns how to act given an observation of the world. Every action has some impact in the environment, and the environment provides feedback in the form of rewards that guides the learning algorithm.</li>
+<li><b><a href="/wiki/Transduction_(machine_learning)" title="Transduction (machine learning)">Transduction</a></b> tries to predict new outputs based on training inputs, training outputs, and test inputs.</li>
+<li><b><a href="/wiki/Learning_to_learn" title="Learning to learn" class="mw-redirect">Learning to learn</a></b> learns its own <a href="/wiki/Inductive_bias" title="Inductive bias">inductive bias</a> based on previous experience.</li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Machine_learning&amp;action=edit&amp;section=6" title="Edit section: Theory">edit</a>]</span> <span class="mw-headline" id="Theory">Theory</span></h2>
+<div class="rellink relarticle mainarticle">Main article: <a href="/wiki/Computational_learning_theory" title="Computational learning theory">Computational learning theory</a></div>
+<p>The computational analysis of machine learning algorithms and their performance is a branch of <a href="/wiki/Theoretical_computer_science" title="Theoretical computer science">theoretical computer science</a> known as <a href="/wiki/Computational_learning_theory" title="Computational learning theory">computational learning theory</a>. Because training sets are finite and the future is uncertain, learning theory usually does not yield guarantees of the performance of algorithms. Instead, probabilistic bounds on the performance are quite common.</p>
+<p>In addition to performance bounds, computational learning theorists study the time complexity and feasibility of learning. In computational learning theory, a computation is considered feasible if it can be done in polynomial time. There are two kinds of <a href="/wiki/Time_complexity" title="Time complexity">time complexity</a> results. Positive results show that a certain class of functions can be learned in <a href="/wiki/Polynomial_time" title="Polynomial time" class="mw-redirect">polynomial time</a>. Negative results show that certain classes cannot be learned in polynomial time.</p>
+<p>There are many similarities between machine learning theory and statistics, although they use different terms.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Machine_learning&amp;action=edit&amp;section=7" title="Edit section: Approaches">edit</a>]</span> <span class="mw-headline" id="Approaches">Approaches</span></h2>
+<div class="rellink relarticle mainarticle">Main article: <a href="/wiki/List_of_machine_learning_algorithms" title="List of machine learning algorithms">List of machine learning algorithms</a></div>
+<h3><span class="editsection">[<a href="/w/index.php?title=Machine_learning&amp;action=edit&amp;section=8" title="Edit section: Decision tree learning">edit</a>]</span> <span class="mw-headline" id="Decision_tree_learning">Decision tree learning</span></h3>
+<div class="rellink relarticle mainarticle">Main article: <a href="/wiki/Decision_tree_learning" title="Decision tree learning">Decision tree learning</a></div>
+<p>Decision tree learning uses a <a href="/wiki/Decision_tree" title="Decision tree">decision tree</a> as a <a href="/wiki/Predictive_modelling" title="Predictive modelling">predictive model</a> which maps observations about an item to conclusions about the item's target value.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Machine_learning&amp;action=edit&amp;section=9" title="Edit section: Association rule learning">edit</a>]</span> <span class="mw-headline" id="Association_rule_learning">Association rule learning</span></h3>
+<div class="rellink relarticle mainarticle">Main article: <a href="/wiki/Association_rule_learning" title="Association rule learning">Association rule learning</a></div>
+<p>Association rule learning is a method for discovering interesting relations between variables in large databases.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Machine_learning&amp;action=edit&amp;section=10" title="Edit section: Artificial neural networks">edit</a>]</span> <span class="mw-headline" id="Artificial_neural_networks">Artificial neural networks</span></h3>
+<div class="rellink relarticle mainarticle">Main article: <a href="/wiki/Artificial_neural_network" title="Artificial neural network">Artificial neural network</a></div>
+<p>An <a href="/wiki/Artificial_neural_network" title="Artificial neural network">artificial neural network</a> (ANN) learning algorithm, usually called "neural network" (NN), is a learning algorithm that is inspired by the structure and/or functional aspects of <a href="/wiki/Biological_neural_networks" title="Biological neural networks" class="mw-redirect">biological neural networks</a>. Computations are structured in terms of an interconnected group of <a href="/wiki/Artificial_neuron" title="Artificial neuron">artificial neurons</a>, processing information using a <a href="/wiki/Connectionism" title="Connectionism">connectionist</a> approach to <a href="/wiki/Computation" title="Computation">computation</a>. Modern neural networks are <a href="/wiki/Non-linear" title="Non-linear" class="mw-redirect">non-linear</a> <a href="/wiki/Statistical" title="Statistical" class="mw-redirect">statistical</a> <a href="/wiki/Data_modeling" title="Data modeling">data modeling</a> tools. They are usually used to model complex relationships between inputs and outputs, to <a href="/wiki/Pattern_recognition" title="Pattern recognition">find patterns</a> in data, or to capture the statistical structure in an unknown <a href="/wiki/Joint_probability_distribution" title="Joint probability distribution">joint probability distribution</a> between observed variables.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Machine_learning&amp;action=edit&amp;section=11" title="Edit section: Genetic programming">edit</a>]</span> <span class="mw-headline" id="Genetic_programming">Genetic programming</span></h3>
+<div class="rellink relarticle mainarticle">Main articles: <a href="/wiki/Genetic_programming" title="Genetic programming">Genetic programming</a> and <a href="/wiki/Evolutionary_computation" title="Evolutionary computation">Evolutionary computation</a></div>
+<p>Genetic programming (GP) is an <a href="/wiki/Evolutionary_algorithm" title="Evolutionary algorithm">evolutionary algorithm</a>-based methodology <a href="/wiki/Bio-inspired_computing" title="Bio-inspired computing">inspired</a> by <a href="/wiki/Biological_evolution" title="Biological evolution" class="mw-redirect">biological evolution</a> to find <a href="/wiki/Computer_program" title="Computer program">computer programs</a> that perform a user-defined task. It is a specialization of <a href="/wiki/Genetic_algorithms" title="Genetic algorithms" class="mw-redirect">genetic algorithms</a> (GA) where each individual is a computer program. It is a machine learning technique used to optimize a population of computer programs according to a <a href="/wiki/Fitness_landscape" title="Fitness landscape">fitness landscape</a> determined by a program's ability to perform a given computational task.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Machine_learning&amp;action=edit&amp;section=12" title="Edit section: Inductive logic programming">edit</a>]</span> <span class="mw-headline" id="Inductive_logic_programming">Inductive logic programming</span></h3>
+<div class="rellink relarticle mainarticle">Main article: <a href="/wiki/Inductive_logic_programming" title="Inductive logic programming">Inductive logic programming</a></div>
+<p>Inductive logic programming (ILP) is an approach to rule learning using <a href="/wiki/Logic_programming" title="Logic programming">logic programming</a> as a uniform representation for examples, background knowledge, and hypotheses. Given an encoding of the known background knowledge and a set of examples represented as a logical database of facts, an ILP system will derive a hypothesized logic program which <a href="/wiki/Entailment" title="Entailment">entails</a> all the positive and none of the negative examples.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Machine_learning&amp;action=edit&amp;section=13" title="Edit section: Support vector machines">edit</a>]</span> <span class="mw-headline" id="Support_vector_machines">Support vector machines</span></h3>
+<div class="rellink relarticle mainarticle">Main article: <a href="/wiki/Support_vector_machines" title="Support vector machines" class="mw-redirect">Support vector machines</a></div>
+<p>Support vector machines (SVMs) are a set of related <a href="/wiki/Supervised_learning" title="Supervised learning">supervised learning</a> methods used for <a href="/wiki/Statistical_classification" title="Statistical classification">classification</a> and <a href="/wiki/Regression_analysis" title="Regression analysis">regression</a>. Given a set of training examples, each marked as belonging to one of two categories, an SVM training algorithm builds a model that predicts whether a new example falls into one category or the other.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Machine_learning&amp;action=edit&amp;section=14" title="Edit section: Clustering">edit</a>]</span> <span class="mw-headline" id="Clustering">Clustering</span></h3>
+<div class="rellink relarticle mainarticle">Main article: <a href="/wiki/Cluster_analysis" title="Cluster analysis">Cluster analysis</a></div>
+<p>Cluster analysis or clustering is the assignment of a set of observations into subsets (called <i>clusters</i>) so that observations in the same cluster are similar in some sense. Clustering is a method of <a href="/wiki/Unsupervised_learning" title="Unsupervised learning">unsupervised learning</a>, and a common technique for <a href="/wiki/Statistics" title="Statistics">statistical</a> <a href="/wiki/Data_analysis" title="Data analysis">data analysis</a>.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Machine_learning&amp;action=edit&amp;section=15" title="Edit section: Bayesian networks">edit</a>]</span> <span class="mw-headline" id="Bayesian_networks">Bayesian networks</span></h3>
+<div class="rellink relarticle mainarticle">Main article: <a href="/wiki/Bayesian_network" title="Bayesian network">Bayesian network</a></div>
+<p>A Bayesian network, belief network or directed acyclic graphical model is a <a href="/wiki/Graphical_model" title="Graphical model">probabilistic graphical model</a> that represents a set of <a href="/wiki/Random_variables" title="Random variables" class="mw-redirect">random variables</a> and their <a href="/wiki/Conditional_independence" title="Conditional independence">conditional independencies</a> via a <a href="/wiki/Directed_acyclic_graph" title="Directed acyclic graph">directed acyclic graph</a> (DAG). For example, a Bayesian network could represent the probabilistic relationships between diseases and symptoms. Given symptoms, the network can be used to compute the probabilities of the presence of various diseases. Efficient algorithms exist that perform <a href="/wiki/Inference" title="Inference">inference</a> and learning.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Machine_learning&amp;action=edit&amp;section=16" title="Edit section: Reinforcement learning">edit</a>]</span> <span class="mw-headline" id="Reinforcement_learning">Reinforcement learning</span></h3>
+<div class="rellink relarticle mainarticle">Main article: <a href="/wiki/Reinforcement_learning" title="Reinforcement learning">Reinforcement learning</a></div>
+<p>Reinforcement learning is concerned with how an <i>agent</i> ought to take <i>actions</i> in an <i>environment</i> so as to maximize some notion of long-term <i>reward</i>. Reinforcement learning algorithms attempt to find a <i>policy</i> that maps <i>states</i> of the world to the actions the agent ought to take in those states. Reinforcement learning differs from the <a href="/wiki/Supervised_learning" title="Supervised learning">supervised learning</a> problem in that correct input/output pairs are never presented, nor sub-optimal actions explicitly corrected.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Machine_learning&amp;action=edit&amp;section=17" title="Edit section: Representation learning">edit</a>]</span> <span class="mw-headline" id="Representation_learning">Representation learning</span></h3>
+<p>Several learning algorithms, mostly <a href="/wiki/Unsupervised_learning" title="Unsupervised learning">unsupervised learning</a> algorithms, aim at discovering better representations of the inputs provided during training. Classical examples include <a href="/wiki/Principal_components_analysis" title="Principal components analysis" class="mw-redirect">principal components analysis</a> and <a href="/wiki/Clustering" title="Clustering">clustering</a>. Representation learning algorithms often attempt to preserve the information in their input but transform it in a way that makes it useful, often as a pre-processing step before performing classification or predictions, allowing to reconstruct the inputs coming from the unknown data generating distribution, while not being necessarily faithful for configurations that are implausible under that distribution. <a href="/wiki/Manifold_learning" title="Manifold learning" class="mw-redirect">Manifold learning</a> algorithms attempt to do so under the constraint that the learned representation is low-dimensional. <a href="/wiki/Sparse_coding" title="Sparse coding">Sparse coding</a> algorithms attempt to do so under the constraint that the learned representation is sparse (has many zeros). <a href="/wiki/Deep_learning" title="Deep learning">Deep learning</a> algorithms discover multiple levels of representation, or a hierarchy of features, with higher-level, more abstract features defined in terms of (or generating) lower-level features. It has been argued that an intelligent machine is one that learns a representation that disentangles the underlying factors of variation that explain the observed data.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>3<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Machine_learning&amp;action=edit&amp;section=18" title="Edit section: Applications">edit</a>]</span> <span class="mw-headline" id="Applications">Applications</span></h2>
+<p>Applications for machine learning include:</p>
+<ul>
+<li><a href="/wiki/Machine_perception" title="Machine perception">machine perception</a></li>
+<li><a href="/wiki/Computer_vision" title="Computer vision">computer vision</a></li>
+<li><a href="/wiki/Natural_language_processing" title="Natural language processing">natural language processing</a></li>
+<li><a href="/wiki/Syntactic_pattern_recognition" title="Syntactic pattern recognition">syntactic pattern recognition</a></li>
+<li><a href="/wiki/Search_engines" title="Search engines" class="mw-redirect">search engines</a></li>
+<li><a href="/wiki/Diagnosis_(artificial_intelligence)" title="Diagnosis (artificial intelligence)">medical diagnosis</a></li>
+<li><a href="/wiki/Bioinformatics" title="Bioinformatics">bioinformatics</a></li>
+<li><a href="/wiki/Brain-machine_interfaces" title="Brain-machine interfaces" class="mw-redirect">brain-machine interfaces</a></li>
+<li><a href="/wiki/Cheminformatics" title="Cheminformatics">cheminformatics</a></li>
+<li>Detecting <a href="/wiki/Credit_card_fraud" title="Credit card fraud">credit card fraud</a></li>
+<li><a href="/wiki/Stock_market" title="Stock market">stock market</a> analysis</li>
+<li>Classifying <a href="/wiki/DNA_sequence" title="DNA sequence" class="mw-redirect">DNA sequences</a></li>
+<li><a href="/wiki/Speech_recognition" title="Speech recognition">speech</a> and <a href="/wiki/Handwriting_recognition" title="Handwriting recognition">handwriting recognition</a></li>
+<li><a href="/wiki/Object_recognition" title="Object recognition" class="mw-redirect">object recognition</a> in <a href="/wiki/Computer_vision" title="Computer vision">computer vision</a></li>
+<li><a href="/wiki/Strategy_game" title="Strategy game">game playing</a></li>
+<li><a href="/wiki/Software_engineering" title="Software engineering">software engineering</a></li>
+<li><a href="/wiki/Adaptive_website" title="Adaptive website">adaptive websites</a></li>
+<li><a href="/wiki/Robot_locomotion" title="Robot locomotion">robot locomotion</a></li>
+<li><a href="/wiki/Computational_finance" title="Computational finance">computational finance</a></li>
+<li><a href="/wiki/Structural_health_monitoring" title="Structural health monitoring">structural health monitoring</a>.</li>
+<li><a href="/wiki/Sentiment_analysis" title="Sentiment analysis">Sentiment Analysis (or Opinion Mining)</a>.</li>
+</ul>
+<p>In 2006, the on-line movie company <a href="/wiki/Netflix" title="Netflix">Netflix</a> held the first "<a href="/wiki/Netflix_Prize" title="Netflix Prize">Netflix Prize</a>" competition to find a program to better predict user preferences and beat its existing Netflix movie recommendation system by at least 10%. The AT&amp;T Research Team BellKor beat out several other teams with their machine learning program "Pragmatic Chaos". After winning several minor prizes, it won the grand prize competition in 2009 for $1 million.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>4<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Machine_learning&amp;action=edit&amp;section=19" title="Edit section: Software">edit</a>]</span> <span class="mw-headline" id="Software">Software</span></h2>
+<p><a href="/wiki/RapidMiner" title="RapidMiner">RapidMiner</a>, <a href="/wiki/KNIME" title="KNIME">KNIME</a>, <a href="/wiki/Weka_(machine_learning)" title="Weka (machine learning)">Weka</a>, <a href="/wiki/Oracle_Data_Mining" title="Oracle Data Mining">ODM</a>, <a href="/wiki/Shogun_(toolbox)" title="Shogun (toolbox)">Shogun toolbox</a>, <a href="/wiki/Orange_(software)" title="Orange (software)">Orange</a>, <a href="/wiki/Apache_Mahout" title="Apache Mahout">Apache Mahout</a> and <a href="/wiki/Scikit-learn" title="Scikit-learn">scikit-learn</a> are <a href="/wiki/Software_suite" title="Software suite">software suites</a> containing a variety of machine learning algorithms.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Machine_learning&amp;action=edit&amp;section=20" title="Edit section: Journals and conferences">edit</a>]</span> <span class="mw-headline" id="Journals_and_conferences">Journals and conferences</span></h2>
+<ul>
+<li><a href="/wiki/Machine_Learning_(journal)" title="Machine Learning (journal)"><i>Machine Learning</i> (journal)</a></li>
+<li><i><a href="/wiki/Journal_of_Machine_Learning_Research" title="Journal of Machine Learning Research">Journal of Machine Learning Research</a></i></li>
+<li><i><a href="/wiki/Neural_Computation" title="Neural Computation">Neural Computation</a></i> (journal)</li>
+<li><a rel="nofollow" class="external text" href="http://www.degruyter.de/journals/jisys/detailEn.cfm">Journal of Intelligent Systems(journal)</a></li>
+<li><a href="/wiki/ICML" title="ICML" class="mw-redirect">International Conference on Machine Learning (ICML)</a> (conference)</li>
+<li><a href="/wiki/NIPS" title="NIPS" class="mw-redirect">Neural Information Processing Systems (NIPS)</a> (conference)</li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Machine_learning&amp;action=edit&amp;section=21" title="Edit section: See also">edit</a>]</span> <span class="mw-headline" id="See_also">See also</span></h2>
+<div class="noprint tright portal" style="border:solid #aaa 1px;margin:0.5em 0 0.5em 0.5em;">
+<table style="background:#f9f9f9; font-size:85%; line-height:110%; max-width:175px;">
+<tr>
+<td><a href="/wiki/File:Animation2.gif" class="image"><img alt="Animation2.gif" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Animation2.gif/17px-Animation2.gif" width="17" height="28" /></a></td>
+<td style="padding:0 0.2em;"><i><b><a href="/wiki/Portal:Artificial_intelligence" title="Portal:Artificial intelligence">Artificial intelligence portal</a></b></i></td>
+</tr>
+</table>
+</div>
+<div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="background-color:transparent;table-layout:fixed;">
+<tr valign="top">
+<td>
+<div style="margin-right:20px;">
+<ul>
+<li><a href="/wiki/Adaptive_control" title="Adaptive control">Adaptive control</a></li>
+<li><a href="/wiki/Cache_language_model" title="Cache language model">Cache language model</a></li>
+<li><a href="/wiki/Computational_intelligence" title="Computational intelligence">Computational intelligence</a></li>
+<li><a href="/wiki/Computational_neuroscience" title="Computational neuroscience">Computational neuroscience</a></li>
+<li><a href="/wiki/Cognitive_science" title="Cognitive science">Cognitive science</a></li>
+<li><a href="/wiki/Data_mining" title="Data mining">Data mining</a></li>
+</ul>
+</div>
+</td>
+<td>
+<div style="margin-right: 20px;">
+<ul>
+<li><a href="/wiki/Explanation-based_learning" title="Explanation-based learning">Explanation-based learning</a></li>
+<li><a href="/wiki/List_of_important_publications_in_computer_science#Machine_learning" title="List of important publications in computer science">Important publications in machine learning</a></li>
+<li><a href="/wiki/Multi-label_classification" title="Multi-label classification">Multi-label classification</a></li>
+<li><a href="/wiki/Pattern_recognition" title="Pattern recognition">Pattern recognition</a></li>
+<li><a href="/wiki/Predictive_analytics" title="Predictive analytics">Predictive analytics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Machine_learning&amp;action=edit&amp;section=22" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-0"><b><a href="#cite_ref-0">^</a></b> * Mitchell, T. (1997). <i>Machine Learning</i>, McGraw Hill. <a href="/wiki/Special:BookSources/0070428077" class="internal mw-magiclink-isbn">ISBN 0-07-042807-7</a>, p.2.</li>
+<li id="cite_note-1"><b><a href="#cite_ref-1">^</a></b> <a href="/wiki/Christopher_M._Bishop" title="Christopher M. Bishop" class="mw-redirect">Christopher M. Bishop</a> (2006) <i>Pattern Recognition and Machine Learning</i>, Springer <a href="/wiki/Special:BookSources/0387310738" class="internal mw-magiclink-isbn">ISBN 0-387-31073-8</a>.</li>
+<li id="cite_note-2"><b><a href="#cite_ref-2">^</a></b> <span class="citation book">Yoshua Bengio (2009). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=cq5ewg7FniMC&amp;pg=PA3"><i>Learning Deep Architectures for AI</i></a>. Now Publishers Inc.. p.&#160;1–3. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781601982940" title="Special:BookSources/9781601982940">9781601982940</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://books.google.com/books?id=cq5ewg7FniMC&amp;pg=PA3">http://books.google.com/books?id=cq5ewg7FniMC&amp;pg=PA3</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Learning+Deep+Architectures+for+AI&amp;rft.aulast=Yoshua+Bengio&amp;rft.au=Yoshua+Bengio&amp;rft.date=2009&amp;rft.pages=p.%26nbsp%3B1%E2%80%933&amp;rft.pub=Now+Publishers+Inc.&amp;rft.isbn=9781601982940&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dcq5ewg7FniMC%26pg%3DPA3&amp;rfr_id=info:sid/en.wikipedia.org:Machine_learning"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-3"><b><a href="#cite_ref-3">^</a></b> <a rel="nofollow" class="external text" href="http://www2.research.att.com/~volinsky/netflix/">"BelKor Home Page"</a> research.att.com</li>
+</ol>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Machine_learning&amp;action=edit&amp;section=23" title="Edit section: Further reading">edit</a>]</span> <span class="mw-headline" id="Further_reading">Further reading</span></h2>
+<div class="refbegin" style="">
+<ul>
+<li>Sergios Theodoridis, Konstantinos Koutroumbas (2009) "Pattern Recognition", 4th Edition, Academic Press, <a href="/wiki/Special:BookSources/9781597492720" class="internal mw-magiclink-isbn">ISBN 978-1-59749-272-0</a>.</li>
+<li>Ethem Alpaydın (2004) <i>Introduction to Machine Learning (Adaptive Computation and Machine Learning)</i>, MIT Press, <a href="/wiki/Special:BookSources/0262012111" class="internal mw-magiclink-isbn">ISBN 0-262-01211-1</a></li>
+<li>Bing Liu (2007), <i><a rel="nofollow" class="external text" href="http://www.cs.uic.edu/~liub/WebMiningBook.html">Web Data Mining: Exploring Hyperlinks, Contents and Usage Data</a>.</i> Springer, <a href="/wiki/Special:BookSources/3540378812" class="internal mw-magiclink-isbn">ISBN 3-540-37881-2</a></li>
+<li>Toby Segaran, <i>Programming Collective Intelligence</i>, O'Reilly <a href="/wiki/Special:BookSources/0596529325" class="internal mw-magiclink-isbn">ISBN 0-596-52932-5</a></li>
+<li><a href="/wiki/Ray_Solomonoff" title="Ray Solomonoff">Ray Solomonoff</a>, "<a rel="nofollow" class="external text" href="http://world.std.com/~rjs/indinf56.pdf">An Inductive Inference Machine</a>" A privately circulated report from the 1956 <a href="/wiki/Dartmouth_Conferences" title="Dartmouth Conferences">Dartmouth Summer Research Conference on AI</a>.</li>
+<li>Ray Solomonoff, <i>An Inductive Inference Machine</i>, IRE Convention Record, Section on Information Theory, Part 2, pp., 56-62, 1957.</li>
+<li>Ryszard S. Michalski, Jaime G. Carbonell, Tom M. Mitchell (1983), <i>Machine Learning: An Artificial Intelligence Approach</i>, Tioga Publishing Company, <a href="/wiki/Special:BookSources/0935382054" class="internal mw-magiclink-isbn">ISBN 0-935382-05-4</a>.</li>
+<li>Ryszard S. Michalski, Jaime G. Carbonell, Tom M. Mitchell (1986), <i>Machine Learning: An Artificial Intelligence Approach, Volume II</i>, Morgan Kaufmann, <a href="/wiki/Special:BookSources/0934613001" class="internal mw-magiclink-isbn">ISBN 0-934613-00-1</a>.</li>
+<li>Yves Kodratoff, Ryszard S. Michalski (1990), <i>Machine Learning: An Artificial Intelligence Approach, Volume III</i>, Morgan Kaufmann, <a href="/wiki/Special:BookSources/1558601198" class="internal mw-magiclink-isbn">ISBN 1-55860-119-8</a>.</li>
+<li>Ryszard S. Michalski, George Tecuci (1994), <i>Machine Learning: A Multistrategy Approach</i>, Volume IV, Morgan Kaufmann, <a href="/wiki/Special:BookSources/1558602518" class="internal mw-magiclink-isbn">ISBN 1-55860-251-8</a>.</li>
+<li>Bishop, C.M. (1995). <i>Neural Networks for Pattern Recognition</i>, Oxford University Press. <a href="/wiki/Special:BookSources/0198538642" class="internal mw-magiclink-isbn">ISBN 0-19-853864-2</a>.</li>
+<li>Richard O. Duda, Peter E. Hart, David G. Stork (2001) <i>Pattern classification</i> (2nd edition), Wiley, New York, <a href="/wiki/Special:BookSources/0471056693" class="internal mw-magiclink-isbn">ISBN 0-471-05669-3</a>.</li>
+<li>Huang T.-M., Kecman V., Kopriva I. (2006), <a rel="nofollow" class="external text" href="http://learning-from-data.com">Kernel Based Algorithms for Mining Huge Data Sets, Supervised, Semi-supervised, and Unsupervised Learning</a>, Springer-Verlag, Berlin, Heidelberg, 260 pp.&#160;96 illus., Hardcover, <a href="/wiki/Special:BookSources/3540316817" class="internal mw-magiclink-isbn">ISBN 3-540-31681-7</a>.</li>
+<li>KECMAN Vojislav (2001), <a rel="nofollow" class="external text" href="http://support-vector.ws">Learning and Soft Computing, Support Vector Machines, Neural Networks and Fuzzy Logic Models</a>, The MIT Press, Cambridge, MA, 608 pp., 268 illus., <a href="/wiki/Special:BookSources/0262112558" class="internal mw-magiclink-isbn">ISBN 0-262-11255-8</a>.</li>
+<li>MacKay, D.J.C. (2003). <i><a rel="nofollow" class="external text" href="http://www.inference.phy.cam.ac.uk/mackay/itila/">Information Theory, Inference, and Learning Algorithms</a></i>, Cambridge University Press. <a href="/wiki/Special:BookSources/0521642981" class="internal mw-magiclink-isbn">ISBN 0-521-64298-1</a>.</li>
+<li>Ian H. Witten and Eibe Frank <i>Data Mining: Practical machine learning tools and techniques</i> Morgan Kaufmann <a href="/wiki/Special:BookSources/0120884070" class="internal mw-magiclink-isbn">ISBN 0-12-088407-0</a>.</li>
+<li>Sholom Weiss and Casimir Kulikowski (1991). <i>Computer Systems That Learn</i>, Morgan Kaufmann. <a href="/wiki/Special:BookSources/1558600655" class="internal mw-magiclink-isbn">ISBN 1-55860-065-5</a>.</li>
+<li>Mierswa, Ingo and Wurst, Michael and Klinkenberg, Ralf and Scholz, Martin and Euler, Timm: <i>YALE: Rapid Prototyping for Complex Data Mining Tasks</i>, in Proceedings of the 12th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD-06), 2006.</li>
+<li>Trevor Hastie, Robert Tibshirani and Jerome Friedman (2001). <i><a rel="nofollow" class="external text" href="http://www-stat.stanford.edu/~tibs/ElemStatLearn/">The Elements of Statistical Learning</a></i>, Springer. <a href="/wiki/Special:BookSources/0387952845" class="internal mw-magiclink-isbn">ISBN 0-387-95284-5</a>.</li>
+<li>Vladimir Vapnik (1998). <i>Statistical Learning Theory</i>. Wiley-Interscience, <a href="/wiki/Special:BookSources/0471030031" class="internal mw-magiclink-isbn">ISBN 0-471-03003-1</a>.</li>
+</ul>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Machine_learning&amp;action=edit&amp;section=24" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://machinelearning.org/">International Machine Learning Society</a></li>
+<li>There is a popular online course by <a href="/wiki/Andrew_Ng" title="Andrew Ng">Andrew Ng</a>, at <a rel="nofollow" class="external text" href="http://www.ml-class.org">ml-class.org</a>. It uses <a href="/wiki/GNU_Octave" title="GNU Octave">GNU Octave</a>. The course is a free version of <a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a>'s actual course, whose lectures are also <a rel="nofollow" class="external text" href="http://see.stanford.edu/see/courseinfo.aspx?coll=348ca38a-3a6d-4052-937d-cb017338d7b1">available for free</a>.</li>
+<li><a rel="nofollow" class="external text" href="http://videolectures.net/Top/Computer_Science/Machine_Learning/">Machine Learning Video Lectures</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 1964/1000000
+Post-expand include size: 14713/2048000 bytes
+Template argument size: 5210/2048000 bytes
+Expensive parser function count: 2/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:233488-0!*!0!!en!4!* and timestamp 20111121034706 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Machine_learning&amp;oldid=461710203">http://en.wikipedia.org/w/index.php?title=Machine_learning&amp;oldid=461710203</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Learning_in_computer_vision" title="Category:Learning in computer vision">Learning in computer vision</a></li><li><a href="/wiki/Category:Machine_learning" title="Category:Machine learning">Machine learning</a></li><li><a href="/wiki/Category:Learning" title="Category:Learning">Learning</a></li><li><a href="/wiki/Category:Cybernetics" title="Category:Cybernetics">Cybernetics</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_August_2008" title="Category:Articles needing additional references from August 2008">Articles needing additional references from August 2008</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Machine_learning" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in / create account</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Machine_learning"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Machine_learning"  title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+		<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Machine_learning" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Machine_learning&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Machine_learning&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+		<input type='hidden' name="title" value="Special:Search"/>
+				<div id="simpleSearch">
+						<input type="text" name="search" value="" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/skins-1.18/vector/images/search-ltr.png?303-4" alt="Search" /></button>					</div>
+			</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//wikimediafoundation.org/wiki/Special:Landingcheck?landing_page=WMFJA085&amp;language=en&amp;utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=20101204SB002" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Machine_learning" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Machine_learning" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Machine_learning&amp;oldid=461710203" title="Permanent link to this revision of the page">Permanent link</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Machine_learning&amp;id=461710203" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Machine+learning" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Machine+learning&amp;oldid=461710203&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Machine_learning&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%AA%D8%B9%D9%84%D9%85_%D8%A2%D9%84%D9%8A">العربية</a></li>
+			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE_%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5">Български</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Aprenentatge_autom%C3%A0tic">Català</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Strojov%C3%A9_u%C4%8Den%C3%AD">Česky</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Maschinelles_Lernen">Deutsch</a></li>
+			<li class="interwiki-et"><a href="//et.wikipedia.org/wiki/Masin%C3%B5ppimine">Eesti</a></li>
+			<li class="interwiki-el"><a href="//el.wikipedia.org/wiki/%CE%9C%CE%B7%CF%87%CE%B1%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BC%CE%AC%CE%B8%CE%B7%CF%83%CE%B7">Ελληνικά</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Aprendizaje_autom%C3%A1tico">Español</a></li>
+			<li class="interwiki-fa"><a href="//fa.wikipedia.org/wiki/%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C_%D9%85%D8%A7%D8%B4%DB%8C%D9%86%DB%8C">فارسی</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Apprentissage_automatique">Français</a></li>
+			<li class="interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EA%B8%B0%EA%B3%84_%ED%95%99%EC%8A%B5">한국어</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Apprendimento_automatico">Italiano</a></li>
+			<li class="interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%9C%D7%9E%D7%99%D7%93%D7%94_%D7%97%D7%99%D7%A9%D7%95%D7%91%D7%99%D7%AA">עברית</a></li>
+			<li class="interwiki-kn"><a href="//kn.wikipedia.org/wiki/%E0%B2%AF%E0%B2%82%E0%B2%A4%E0%B3%8D%E0%B2%B0_%E0%B2%95%E0%B2%B2%E0%B2%BF%E0%B2%95%E0%B3%86">ಕನ್ನಡ</a></li>
+			<li class="interwiki-lv"><a href="//lv.wikipedia.org/wiki/Ma%C5%A1%C4%ABnm%C4%81c%C4%AB%C5%A1an%C4%81s">Latviešu</a></li>
+			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Sistemos_mokymasis">Lietuvių</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Machinaal_leren">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92">日本語</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Maskinl%C3%A6ring">‪Norsk (bokmål)‬</a></li>
+			<li class="interwiki-nn"><a href="//nn.wikipedia.org/wiki/Maskinl%C3%A6ring">‪Norsk (nynorsk)‬</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Uczenie_maszynowe">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Aprendizagem_de_m%C3%A1quina">Português</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5">Русский</a></li>
+			<li class="interwiki-sq"><a href="//sq.wikipedia.org/wiki/Automati_nx%C3%ABn%C3%ABs">Shqip</a></li>
+			<li class="interwiki-sl"><a href="//sl.wikipedia.org/wiki/Strojno_u%C4%8Denje">Slovenščina</a></li>
+			<li class="interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D1%81%D0%BA%D0%BE_%D1%83%D1%87%D0%B5%D1%9A%D0%B5">Српски / Srpski</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Koneoppiminen">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Maskininl%C3%A4rning">Svenska</a></li>
+			<li class="interwiki-tl"><a href="//tl.wikipedia.org/wiki/Pagkatuto_ng_makina">Tagalog</a></li>
+			<li class="interwiki-th"><a href="//th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87">ไทย</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/Makine_%C3%B6%C4%9Frenimi">Türkçe</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%B5_%D0%BD%D0%B0%D0%B2%D1%87%D0%B0%D0%BD%D0%BD%D1%8F">Українська</a></li>
+			<li class="interwiki-vi"><a href="//vi.wikipedia.org/wiki/H%E1%BB%8Dc_m%C3%A1y">Tiếng Việt</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0">中文</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 21 November 2011 at 03:47.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_use">Terms of use</a> for details.<br/>
+Wikipedia&reg; is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href='/w/index.php?title=Machine_learning&amp;useformat=mobile'>Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/skins-1.18/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<!-- fixalpha -->
+		<script type="text/javascript"> if ( window.isMSIE55 ) fixalpha(); </script>
+		<!-- /fixalpha -->
+		<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*" type="text/javascript"></script>
+<script type="text/javascript">if ( window.mediaWiki ) {
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax", "mediawiki.legacy.mwsuggest", "ext.gadget.wmfFR2011Style", "ext.vector.collapsibleNav", "ext.vector.collapsibleTabs", "ext.vector.editWarning", "ext.vector.simpleSearch", "ext.UserBuckets", "ext.articleFeedback.startup"]);
+}
+</script>
+<script src="/w/index.php?title=Special:BannerController&amp;cache=/cn.js&amp;303-4" type="text/javascript"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*" type="text/javascript"></script>
+<script type="text/javascript">if ( window.mediaWiki ) {
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,
+	"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"gadget-wmfFR2011Style":1});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: enwiki:resourceloader:filter:minify-js:4:b41a86ec4e0fe8329bc3ce917e792339 */
+}
+</script><script src="//geoiplookup.wikimedia.org/" type="text/javascript"></script><!-- Served by mw20 in 0.076 secs. -->
+	</body>
+</html>
