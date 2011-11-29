@@ -1,0 +1,16 @@
+***REMINDER***
+WIMS ERC SEMINAR SERIES ANNOUNCEMENT
+
+DATE:   Wednesday October 19th, 2011
+TIME:	10:00 - 11:00am
+PLACE: 1005 EECS
+
+SPEAKER:  Tayfun Özdemir, Ph.D.  President, Virtual EM, Inc., Ann Arbor, MI   
+
+TITLE:  	   "Disruptive Technology Development in the areas of Wireless Sensors"
+
+
+
+Abstract: Bio/Chemical sensing has immense potential to improve human life by making it possible to detect explosives, ensure food safety, and monitor environment, to name a few. Merging wireless technology with sensing makes the system more effective in terms of detection range, ease of deployment and system management. This talk will present high-risk/high-return technology development efforts at Virtual EM with particular emphasis on detecting Biological Warfare Agents (BWAs) and Improvised Explosive Devices (IEDs).
+
+Bio:   Dr. Tayfun Özdemir is the President of Virtual EM Inc., where he manages daily operations and leads business development. Virtual EM is an R&D house funded by U.S. Department of Defense, NASA and NSF contracts involving wireless sensors, antennas, and computational electromagnetics. Dr. Özdemir holds a patent on a planar integrated antenna and has over 20 years of experience in his field of expertise. He published 6 journal papers and two book chapters, made over 50 conference presentations, and serves as the Chair of the AP/MTT/ED Chapter of the Southeast Michigan Section of IEEE. Dr. Özdemir was also the chair of the 2010 IEEE Great Lakes Technology Symposium held in Ann Arbor, Michigan, and chairs the 2012 organizing committee.     

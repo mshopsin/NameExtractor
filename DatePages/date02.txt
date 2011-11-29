@@ -1,0 +1,17 @@
+Electrical Engineering & Computer Science Department
+                    Electrical Engineering:Systems 
+
+FINAL ORAL DEFENSE
+
+Student:   		Gowtham Bellala
+
+Date:                  	Thursday, Dec. 8, 2011
+
+Time:            		11:00 AM
+
+Place:            		3316 EECS
+
+Chair:			Prof. Clayton Scott
+							
+Title:  			Information and Decision Theoretic Approaches
+			to Problems in Active Diagnosis
