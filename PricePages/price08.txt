@@ -1,0 +1,3588 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:addthis="http://www.addthis.com/help/api-spec" xmlns:fb="http://www.facebook.com/2008/fbml">
+
+<!-- Methode uuid: "ea677232-764e-11de-a3ca-f4cf178e5c7b" -->
+
+<head>
+
+<title>New York News | Gossip | Sports | Entertainment | Photos - New York Post</title>
+
+<meta name="eomportal-instanceid" content="10"/>
+
+<meta name="eomportal-id" content="2"/>
+
+<meta name="eomportal-loid" content="4.0.118258489"/>
+
+<meta name="eomportal-uuid" content="ea677232-764e-11de-a3ca-f4cf178e5c7b"/>
+
+<meta name="eomportal-lastUpdate" content="Tue Nov 29 20:27:23 EST 2011"/>
+
+<meta name="description" content="Breaking News, Headline News, Sports and Celebrity News"/>
+
+<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+
+<meta name="copyright" content="Copyright 2011 NYP Holdings. All rights reserved."/>
+
+<meta name="google-site-verification" content="Ieow2pfPQySvLJCPOYjPq7uhHy54_bFOQb9gl7zQyVY"/>
+
+<meta name="msvalidate.01" content="9F0928A84201EE56A108407E43DCF986"/>
+
+<meta name="sailthru.date" content="9:33 AM, July 15, 2010"/>
+
+<meta name="sailthru.title" content="New York News | Gossip | Sports | Entertainment | Photos - New York Post"/>
+
+<meta name="sailthru.tags" content="breaking-news,headline-news,sports-and-celebrity-news"/>
+
+<link rel="shortcut icon" href="/r/SysConfig/WebPortal/nypost/images/favicon.ico"/>
+
+<link rel="icon" href="/r/SysConfig/WebPortal/nypost/images/favicon.ico" type="image/x-icon"/>
+
+<link rel="stylesheet" type="text/css" media="all" href="/r/SysConfig/WebPortal/nypost/css/pkgs/_general.css"/>
+
+<link rel="stylesheet" type="text/css" media="all" href="/r/SysConfig/WebPortal/nypost/css/pkgs/_homepage.css"/>
+
+<link rel="stylesheet" type="text/css" media="all" href="/r/SysConfig/WebPortal/nypost/blocks/_news/local/local.css"/>
+
+<link rel="stylesheet" type="text/css" media="all" href="/r/SysConfig/WebPortal/nypost/blocks/_news/local/events/events.css"/>
+
+<link rel="stylesheet" type="text/css" media="all" href="/r/SysConfig/WebPortal/nypost/blocks/_news/local/events/events_home.css"/>
+
+<link rel="stylesheet" type="text/css" media="all" href="/r/SysConfig/WebPortal/nypost/blocks/calendar/calendar.css"/>
+
+<script type="text/javascript">
+
+ 
+
+  var sitezone = 'homepage';
+
+  var kws = '';
+
+  var kvs = '';
+
+  var adexc = '';
+
+
+
+</script>
+
+<script type="text/javascript" src="/r/SysConfig/WebPortal/nypost/scripts/jquery1.3.1.js"></script>
+
+<script type="text/javascript" src="/r/SysConfig/WebPortal/nypost/scripts/jquery-ui-tabs.js"></script>
+
+<script type="text/javascript" src="/r/SysConfig/WebPortal/nypost/scripts/jquery.jcarousel.nyp.js"></script>
+
+<script type="text/javascript" src="/r/SysConfig/WebPortal/nypost/scripts/jquery.dimensions.js"></script>
+
+<script type="text/javascript" src="/r/SysConfig/WebPortal/nypost/scripts/jquery.liscroll.nyp.js"></script>
+
+<script type="text/javascript" src="/r/SysConfig/WebPortal/nypost/scripts/jquery.corner.js"></script>
+
+<script type="text/javascript" src="/r/SysConfig/WebPortal/nypost/scripts/facebox/facebox.js"></script>
+
+<script type="text/javascript" src="/r/SysConfig/WebPortal/nypost/scripts/block_functions.js"></script>
+
+<script type="text/javascript" src="/r/SysConfig/WebPortal/nypost/scripts/dropmenu.js"></script>
+
+<script type="text/javascript" src="/r/SysConfig/WebPortal/nypost/blocks/ads/ads.js"></script>
+
+<script type="text/javascript" src="/r/SysConfig/WebPortal/nypost/blocks/masthead/masthead.js"></script>
+
+<script type="text/javascript" src="/r/SysConfig/WebPortal/nypost/blocks/fat_header/fat_header.js"></script>
+
+<script type="text/javascript" src="/r/SysConfig/WebPortal/nypost/blocks/search/search.js"></script>
+
+<script type="text/javascript" src="/r/SysConfig/WebPortal/nypost/blocks/shareit/shareit.js"></script>
+
+<script type="text/javascript" src="/r/SysConfig/WebPortal/nypost/blocks/breaking_news_bar/breaking_news_bar.js"></script>
+
+<script type="text/javascript" src="/r/SysConfig/WebPortal/nypost/blocks/top_story/top_story_functions.js"></script>
+
+<script type="text/javascript" src="/r/SysConfig/WebPortal/nypost/blocks/section_blocks/section_blocks.js"></script>
+
+<script type="text/javascript" src="/r/SysConfig/WebPortal/nypost/blocks/most_popular/most_popular_functions.js"></script>
+
+<script type="text/javascript" src="/r/SysConfig/WebPortal/nypost/blocks/comments/comments.js"></script>
+
+<script type="text/javascript" src="/r/SysConfig/WebPortal/nypost/blocks/polls/poll_functions.js"></script>
+
+<script type="text/javascript" src="/r/SysConfig/WebPortal/nypost/blocks/_promos/promos_and_partners/promos_and_partners.js"></script>
+
+<script type="text/javascript" src="/r/SysConfig/WebPortal/nypost/blocks/calendar/ui.datepicker.js"></script>
+
+<script type="text/javascript" src="/r/SysConfig/WebPortal/nypost/blocks/calendar/calendar.js"></script>
+
+<script type="text/javascript" src="/r/SysConfig/WebPortal/nypost/blocks/markets/markets.js"></script>
+
+<script type="text/javascript" src="/r/SysConfig/WebPortal/nypost/blocks/_news/local/events/local_events.js"></script>
+
+<script type="text/javascript" src="/r/SysConfig/WebPortal/nypost/scripts/source_scripts/targetFuel.js"></script>
+
+<script type="text/javascript" src="/commons/js/portal.js"></script>
+
+<script type="text/javascript" src="/commons/js/highlight.js"></script>
+
+<script type="text/javascript" src="/r/SysConfig/WebPortal/nypost/blocks/story_lists/story_lists.js"></script>
+
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime();</script>
+<!--[if (gt IE 6)&(lt IE 9)]>
+		<style type="text/css" media="all">
+			@import "/Resource/SysConfig/WebPortal/nypost/blocks/story_tabs/story_tabs_ie.css";
+		</style>
+<![endif]-->
+<meta http-equiv="refresh" content="900" />
+	<meta property="fb:page_id" content="134486075205" />
+	<meta name="msvalidate.01" content="CAE5F08E456BB56F26EC7BFADBE0FA9E" />
+	<meta property="og:description" content="Breaking news, Headline news, Sports & Celebrity News from the New York Post –NYPOST.com" /> 
+	<meta property="og:image" content=" http://profile.ak.fbcdn.net/hprofile-ak-snc4/195756_134486075205_2121136_q.jpg " /> 
+	<meta property="og:title" content="New York Post Online" /> 
+	<meta property="og:type" content="website" /> 
+	<meta property="og:url" content="http://www.nypost.com" />
+	<link rel="canonical" href="http://www.nypost.com" />
+	<meta name="Title" content="New York Post" />
+
+	
+<!--[if IE 6]>
+	<style type="text/css" media="all">
+		@import "/Resource/SysConfig/WebPortal/nypost/css/styles.ie6.css";
+		</style>
+<![endif]-->
+<link rel="apple-touch-icon" href="http://www.nypost.com/images/favicon.png" />
+
+<!--START GOOGLE ANALYTICS CODE  -->
+<script type="text/javascript">
+	var trackPageView = sitezone;
+	
+	var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-3922003-1']);
+		_gaq.push(['_setClientInfo', true]);
+		_gaq.push(['_setAllowHash', false]);
+		_gaq.push(['_setDetectFlash', true]);
+		_gaq.push(['_setDetectTitle', true]);
+		_gaq.push(['_trackPageview', trackPageView]);
+		
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+<!--END GOOGLE ANALYTICS CODE-->
+</head>
+
+<body id="home" class="home_tpl home_page"><!-- Begin comScore Tag -->
+
+<script type="text/javascript">
+
+    document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+
+</script>
+
+<script type="text/javascript">
+
+  COMSCORE.beacon({
+
+    c1:2,
+
+    c2:6390601,
+
+    c3:"",
+
+    c4:"www.nypost.com/homepage",
+
+    c5:"",
+
+    c6:"",
+
+    c15:""
+
+  });
+
+</script>
+
+<noscript>
+
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=6390601&c3=&c4=&c5=&c6=&c15=&cj=1" />
+
+</noscript>
+
+<!-- End comScore Tag --><!--googleoff: all-->
+
+<div id="hat_wrap">
+<script type="text/javascript">
+  /* iPad Redirect */
+  
+  var regex = new RegExp("Mozilla/5.0(.*)AppleWebKit/(.*) \\(KHTML, like Gecko\\) Version/.* Mobile/(.*) Safari/(.*)"); 
+  //var regex = new RegExp("Mozilla/5.0(.*)AppleWebKit/(.*) \\(KHTML, like Gecko\\) .*?");
+  var matches = regex.exec(navigator.userAgent); 
+  var section = "/";
+    
+  if (matches[1].indexOf("(iPad") == 1 && section != "/static") {
+	window.location="http://www.nypost.com/ipadredirect";
+  }
+/*
+  // check for iphone
+  regex = new RegExp("Mozilla/5.0(.*)AppleWebKit/(.*) \\(KHTML, like Gecko\\) Version/.* Mobile/(.*) Safari/(.*)"); 
+  matches = regex.exec(navigator.userAgent); 
+  if (matches) {
+  	var iTunesLink = ""; 
+  	var AppPromo = ""; 
+
+  	// check for iPad 
+  	if( matches[1].indexOf("(iPad") == 1 ){
+  		$(document).ready(function() { 
+  			$("#page_wrap").css("margin-top", "130px");
+  			$("#hat_wrap").css("height", "150px");
+  		});
+  		iTunesLink = "http://bit.ly/9FgbRu";
+  		AppPromo = "<table cellpadding=\"0\" cellspacing=\"0\" style=\"padding-bottom: 5px;\">";
+  		AppPromo = AppPromo + "<a href=\"" + iTunesLink + "\">";
+  		AppPromo = AppPromo + "<img src=\"/rw/SysConfig/WebPortal/nypost/blocks/hat/images/ipad_banner.jpg\" />";
+  		AppPromo = AppPromo + "</a>";
+  		AppPromo = AppPromo + "</table>";
+    	AppPromo = "<center style=\"background: none repeat scroll 0% 0% rgb(0, 0, 0); font-size: 1.8em; font-weight: bold; color: #000;\">" + AppPromo + "</center>";
+  	} else{ } 
+  	document.write("<div>" + AppPromo + "</div><div class=\"clear full\"></div>");
+  }
+*/  
+</script>
+<div id="hat"> 	
+		<a id="weather" class="sm" href="http://weather.nypost.com">
+			<img alt="weather icon" src="/rw/SysConfig/WebPortal/nypost/blocks/weather/images/weather_showers_day_sm.png" />
+			<span class="conditions">59 &deg; </span>
+		</a>
+	<ul id="hat_link_list" class="link_list">
+			<li id="hat_link_list_0" class="first"><a name="&lid=hat&lpos=Today's Paper" href="/todays_paper">Today's Paper</a></li>
+			<li id="hat_link_list_1" ><a name="&lid=hat&lpos=Login" href="/Fragment/SysConfig/WebPortal/nypost/blocks/_user/blocks/login_standalone.jpt?redirect=/" rel="facebox">Login</a></li><li id="hat_link_list_2" ><a name="&lid=hat&lpos=Register" href="/Signup">Register</a></li><li id="hat_link_list_3" class="parent"><a name="&lid=hat&lpos=Classifieds" href="http://www.classifieds.nypost.com/">Classifieds<img alt="dropdown" width="14" height="13" src="/rw/SysConfig/WebPortal/nypost/images/btn_dn_arrow_sm.png" /></a>
+			<div class="dropmenu_wrap"> 
+				<div class="dropmenu_top"></div>
+				<div class="dropmenu_body">
+					<ul class="dropmenu">
+						<li class="first"><a target="_parent" href="http://www.classifieds.nypost.com/vehicle/">Cars &amp; Vehicles</a></li>
+						<li><a target="_parent" href="http://www.classifieds.nypost.com/housing/sale/">Real Estate</a></li>
+						<li><a target="_parent" href="http://www.classifieds.nypost.com/housing/rent/">For Rent</a></li>
+						<li><a target="_parent" href="http://www.classifieds.nypost.com/job/">Jobs</a></li>
+						<li><a target="_parent" href="http://www.classifieds.nypost.com/sale/pet/">Pets</a></li>
+						<li><a target="_parent" href="http://www.classifieds.nypost.com/sale/">Buy/Sell/Trade</a></li>
+						<li><a target="_parent" href="http://www.classifieds.nypost.com/sale/tickets/">Tickets &amp; Events</a></li>
+						<li><a target="_parent" href="http://www.classifieds.nypost.com/service/">Services</a></li>
+						<li class="last"><a target="_parent" href="http://www.mypublicnotices.com/NYPost/PublicNotice.asp">Legal Notices</a></li>
+					</ul>
+				</div>
+				<div class="dropmenu_bottom"></div> 
+			</div>
+			</li>
+			<li id="hat_link_list_4"><a name="&lid=hat&lpos=Archives" href="/nypostarchives">Archives</a></li> 
+			<li id="hat_link_list_5" class="last"><a name="&lid=hat&lpos=Home Delivery" href="https://secure.nypost.com/homedelivery/signup.htm">Subscribe</a></li>
+		</ul>
+		<form action="http://search.nypost.com/search" method="get" name="gs" id="search_form_hat" class="search_form">
+	<div>
+		<input type="text" class="search_input" id="search_form_hat_search_for" name="q" value="" /><input type="hidden" name="sort" value="date:D:S:d1" /><input type="hidden" name="entsp" value="a" /><input type="hidden" name="client" value="redesign_frontend" /><input type="hidden" name="entqr" value="0" /><input type="hidden" name="oe" value="UTF-8" /><input type="hidden" name="ud" value="1" /><input type="hidden" name="getfields" value="*" /><input type="hidden" name="proxystylesheet"	value="redesign_frontend" /><input type="hidden" name="output" value="xml_no_dtd" /><input type="hidden" name="site" value="default_collection" /><input type="hidden" name="filter" value="p" />
+	</div>
+	<div>
+		<input type="submit" class="search_btn btn" id="search_form_hat_search_submit" name="search_submit" value="Search" />
+	</div>
+</form></div>		
+</div>
+<script type="text/javascript">$('a[rel*=facebox]', '#hat_wrap').facebox();</script><!--  home -->
+
+<div id="page_wrap">
+
+
+
+	<div class="block ad wrap slidingbb">
+
+	  <div class="ad slidingbb">
+
+	    <script type="text/javascript">ad_tag("slidingbb","970x30","script", "true");</script>
+
+	      </div>
+
+	</div>
+
+<div id="masthead_wrap">
+  <div id="masthead"> 
+    
+      <a href="/"><img border="0" alt="New York Post" title="New York Post" width="230" height="32" id="logo" src="/rw/SysConfig/WebPortal/nypost/images/nyp_logo_230x32.gif"/></a>
+    <p id="site_updated"></p>
+     
+  </div>
+  <div class="block ad wrap lb">
+
+	  <div class="ad lb">
+
+	    <script type="text/javascript">ad_tag("leaderboard","728x90","script", "true");</script>
+
+	      </div>
+
+	</div>
+
+<div class="clearer"></div>
+</div>
+
+<!-- for takeover samples start -->
+
+	<!-- for takeover samples end-->
+
+	<div id="info_bar_wrap">
+
+		<!-- breaking_news_bar.jpt: in hot topics -->
+
+	<div id="hot_topics_loader"></div>
+
+<ul id="media_nav">
+    <li class="target"><a href="http://ads.pointroll.com/PortalServe/?pid=1238071K86220110316183603&pos=c&r=[RANDOM]">WEEKLY AD</a></li>
+	<li class="photos"><a href="/photo">PHOTOS</a></li>
+	<li class="videos"><a href="/video">VIDEOS</a></li>
+	<li class="blogs">
+		<a href="/blogs">BLOGS</a> 
+<a class="ico" id="tw_ico" href="http://twitter.com/newyorkpost" target="_blank"></a>
+		<a class="ico" id="fb_ico" href="http://facebook.com/NewYorkPost" target="_blank"></a>	
+	</li>
+</ul><div class="clearer"></div>
+
+	</div>
+
+	<div id="fat_header" class="closed no_section"> 
+	<div id="section_news" class="tpl_1 section first">
+		<div class="dn"></div>
+		<h3><a href="/news" name="&amp;lid=fh_label&amp;lpos=news">News</a></h3>
+		<ul id="news_mininav" class="link_list mininav">
+
+	<li id="news_mininav_0" class="first"><a href="/news/local" name="&amp;lid=fh_topline_news_1&amp;lpos=local">Local</a></li>
+
+	<li id="news_mininav_1"><a href="/news/business" name="&amp;lid=fh_topline_news_2&amp;lpos=business">Business</a></li>
+
+	<li id="news_mininav_2"><a href="/news/opinion" name="&amp;lid=fh_topline_news_3&amp;lpos=opinion">Opinion</a></li>
+
+	<li id="news_mininav_3" class="last"><a href="/news/business/realestate/residential" name="&amp;lid=fh_topline_news_4&amp;lpos=residential">Real Estate</a></li>
+
+</ul></div> 
+	<div id="section_pagesix" class="tpl_2 section">
+		<div class="dn"></div>
+		<h3><a href="/pagesix" name="&amp;lid=fh_label&amp;lpos=pagesix">Page Six</a></h3>
+		<ul id="pagesix_mininav" class="link_list mininav"> 
+
+	<li id="pagesix_mininav_0" class="first"><a href="/pagesix" name="&amp;lid=fh_topline_pagesix_0&amp;lpos=gossip">Gossip</a></li>
+
+	<li id="pagesix_mininav_1"><a href="/pagesix/celebrityphotos" name="&amp;lid=fh_topline_pagesix_1&amp;lpos=celebphotos">Celeb Photos</a></li>
+
+	<li id="pagesix_mininav_2" class="last"><a href="/columnists/cindyadams" name="&amp;lid=fh_topline_pagesix_2&amp;lpos=cindyadams">Cindy Adams</a></li>
+
+	</ul></div>
+	<div id="section_sports" class="tpl_3 section">
+		<div class="dn"></div>
+		<h3><a href="/sports" name="&amp;lid=fh_label&amp;lpos=sports">Sports</a></h3>
+		<ul id="sports_mininav" class="link_list mininav">
+
+	<li id="sports_mininav_0" class="first parent">
+
+		<a href="#" name="&amp;lid=fh_topline_sports_1&amp;lpos=team">Teams<img alt="dropdown" width="14" height="13" src="/rw/SysConfig/WebPortal/nypost/images/btn_dn_arrow_sm.png"/></a>
+
+		<div class="dropmenu_wrap">
+
+			<div class="dropmenu_top"></div>
+
+			<div class="dropmenu_body">
+
+				<ul class="dropmenu">
+
+					<li>
+
+								<a name="&lid=fh_topline_sports_1&lpos=Yankees" href="/sports/yankees">Yankees</a>
+
+							</li>
+
+						<li>
+
+								<a name="&lid=fh_topline_sports_1&lpos=Mets" href="/sports/mets">Mets</a>
+
+							</li>
+
+						<li>
+
+								<a name="&lid=fh_topline_sports_1&lpos=Giants" href="/sports/giants">Giants</a>
+
+							</li>
+
+						<li>
+
+								<a name="&lid=fh_topline_sports_1&lpos=Jets" href="/sports/jets">Jets</a>
+
+							</li>
+
+						<li>
+
+								<a name="&lid=fh_topline_sports_1&lpos=Knicks" href="/sports/knicks">Knicks</a>
+
+							</li>
+
+						<li>
+
+								<a name="&lid=fh_topline_sports_1&lpos=Nets" href="/sports/nets">Nets</a>
+
+							</li>
+
+						<li>
+
+								<a name="&lid=fh_topline_sports_1&lpos=Rangers" href="/sports/rangers">Rangers</a>
+
+							</li>
+
+						<li>
+
+								<a name="&lid=fh_topline_sports_1&lpos=Devils" href="/sports/devils">Devils</a>
+
+							</li>
+
+						<li>
+
+								<a name="&lid=fh_topline_sports_1&lpos=Isles" href="/sports/islanders">Isles</a>
+
+							</li>
+
+						<li>
+
+								<a name="&lid=fh_topline_sports_1&lpos=College" href="/sports/college">College</a>
+
+							</li>
+
+						<li>
+
+								<a name="&lid=fh_topline_sports_1&lpos=Tickets" href="http://tickets.nypost.com">Tickets</a>
+
+							</li>
+
+						</ul>
+
+			</div>
+
+			<div class="dropmenu_bottom"></div> 
+
+		</div>
+
+	</li>
+
+	<li id="sports_mininav_1" class="parent">
+
+		<a href="/sports/high_school" name="&amp;lid=fh_topline_sports_2&amp;lpos=high_school">High Schools<img alt="dropdown" width="14" height="13" src="/rw/SysConfig/WebPortal/nypost/images/btn_dn_arrow_sm.png" /></a>
+
+		<div class="dropmenu_wrap">
+
+			<div class="dropmenu_top"></div>
+
+			<div class="dropmenu_body">
+
+				<ul class="dropmenu lt">
+
+					<li class="first">
+
+							<a name="&lid=fh_topline_sports_2&lpos=Baseball" href="/sports/high_school/baseball">Baseball</a>
+
+						</li>
+
+					<li>
+
+							<a name="&lid=fh_topline_sports_2&lpos=Boys Basketball" href="/sports/high_school/boys_basketball">Boys Basketball</a>
+
+						</li>
+
+					<li>
+
+							<a name="&lid=fh_topline_sports_2&lpos=Girls Basketball" href="/sports/high_school/girls_basketball">Girls Basketball</a>
+
+						</li>
+
+					<li>
+
+							<a name="&lid=fh_topline_sports_2&lpos=Football" href="/sports/high_school/football">Football</a>
+
+						</li>
+
+					<li>
+
+							<a name="&lid=fh_topline_sports_2&lpos=Boys Soccer" href="/sports/high_school/boys_soccer">Boys Soccer</a>
+
+						</li>
+
+					<li>
+
+							<a name="&lid=fh_topline_sports_2&lpos=Girls Soccer" href="/sports/high_school/girls_soccer">Girls Soccer</a>
+
+						</li>
+
+					<li>
+
+							<a name="&lid=fh_topline_sports_2&lpos=Softball" href="/sports/high_school/softball">Softball</a>
+
+						</li>
+
+					<li>
+
+							<a name="&lid=fh_topline_sports_2&lpos=Volleyball" href="/sports/high_school/volleyball">Volleyball</a>
+
+						</li>
+
+					<li class="last">
+
+							<a name="&lid=fh_topline_sports_2&lpos=More Sports" href="/sports/high_school/more_sports">More Sports</a>
+
+						</li>
+
+					</ul>
+
+				<div class="clearer"></div>
+
+			</div>
+
+			<div class="dropmenu_bottom"></div> 
+
+		</div>
+
+	</li>
+
+	<li class="last parent" id="sports_mininav_2">
+
+		<a href="#" name="&amp;lid=fh_topline_sports_3&amp;lpos=scores">Scores<img alt="dropdown" width="14" height="13" src="/rw/SysConfig/WebPortal/nypost/images/btn_dn_arrow_sm.png"/></a>
+
+		<div class="dropmenu_wrap">
+
+			<div class="dropmenu_top"></div>
+
+			<div class="dropmenu_body">
+
+				<ul class="dropmenu">
+
+					<li class="first"><a name="&lid=fh_topline_sports_3&lpos=MLB" href="http://stats.nypost.com/mlb/scoreboard.asp">MLB</a></li>
+
+					<li><a name="&lid=fh_topline_sports_3&lpos=NFL" href="http://stats.nypost.com/fb/scoreboard.asp">NFL</a></li>
+
+					<li><a name="&lid=fh_topline_sports_3&lpos=NBA" href="http://stats.nypost.com/nba/scoreboard.asp">NBA</a></li>
+
+					<li><a name="&lid=fh_topline_sports_3&lpos=NHL" href="http://stats.nypost.com/nhl/scoreboard.asp">NHL</a></li>
+
+					<li><a name="&lid=fh_topline_sports_3&lpos=NCAA Football" href="http://stats.nypost.com/cfb/scoreboards.asp">NCAA Football</a></li>
+
+					<li class="last"><a name="&lid=fh_topline_sports_3&lpos=NCAA Basketball" href="http://stats.nypost.com/cbk/scoreboards.asp">NCAA Basketball</a></li>
+
+				</ul>
+
+			</div>
+
+			<div class="dropmenu_bottom"></div> 
+
+		</div>
+
+    </li>
+
+</ul></div>
+	<div id="section_entertainment" class="tpl_4 section last">
+		<div class="dn"></div>
+		<h3><a href="/entertainment" name="&amp;lid=fh_label&amp;lpos=entertainment">Entertainment</a></h3>
+		<ul id="entertainment_mininav" class="link_list mininav"> 
+
+	<li id="entertainment_mininav_0" class="first"><a href="/entertainment/tv" name="&amp;lid=fh_topline_ent_1&amp;lpos=TV">TV</a></li>
+
+	<li id="entertainment_mininav_1"><a href="/entertainment/movies" name="&amp;lid=fh_topline_ent_2&amp;lpos=Movies">Movies</a></li>
+
+	<li id="entertainment_mininav_2"><a href="/entertainment/fashion" name="&amp;lid=fh_topline_ent_3&amp;lpos=Fashion">Fashion</a></li>
+
+	<li id="entertainment_mininav_3" class="last"><a href="/lifestyle/travel" name="&amp;lid=fh_topline_ent_4&amp;lpos=Travel">Travel</a></li>
+
+	</ul></div>
+	<div class="clearer"></div>
+</div><div id="content_wrap">
+
+		<div class="lt_rail" id="lt_rail">
+
+			<div class="lt_rail_top"></div>
+
+			<div class="lt_rail_body">
+
+				<div id="post_ten_long_head">
+
+	<img alt="Post Ten" src="/rw/SysConfig/WebPortal/nypost/blocks/post_ten/images/post_ten_long_head.gif" />
+
+</div>
+
+<ul class="left_block_item" id="post_ten_long">
+
+	<link rel="stylesheet" type="text/css" media="all" href="/r/SysConfig/WebPortal/nypost/blocks/post_ten/post_ten.css"/>
+
+
+
+<li>
+
+	<div class="post_ten_data">
+
+		<div class="post_ten_data_head"></div>
+
+		<div class="post_ten_data_body" onclick="href('/p/pagesix/james_bond_calls_the_kardashians_iZUONVxVtoWHwUZTzzGa8J');_hbLink('post_ten_story_1','James Bond calls the Kardashians \'idiots\'');">
+
+			<span class="num">1</span>
+
+			<img alt="James Bond calls the Kardashians 'idiots'" width="140" height="100" src="/rf/image_lowres/nypost/2011/11/29/pagesix/web_photos/51302314161934--140x100.jpg" />
+
+			<h3 class="post_ten"><a name="&lid=post_ten_story_1&lpos=James Bond calls the Kardashians 'idiots'" href="/p/pagesix/james_bond_calls_the_kardashians_iZUONVxVtoWHwUZTzzGa8J">James Bond calls the Kardashians 'idiots'</a></h3>
+
+			<p>
+
+		The Kardashians make Daniel Craig want to spew profanity. In fact, the James Bond actor... &nbsp;</p>
+
+			<span class="update"> 4:53 PM</span>
+
+<div class="btn default">
+
+    			<div class="btn_lt"></div>
+
+    			<div class="btn_body">
+
+
+
+        	 	<a href="/pagesix">
+
+	         				<span class="prefix">from</span> 
+      Page Six
+    </a>
+
+            		</div>
+
+    			<div class="btn_rt"></div>
+
+    			<div class="clearer"></div>
+
+  			</div>
+
+			<div class="clearer"></div>
+
+		</div>
+
+		<div class="post_ten_data_foot"></div>
+
+	</div>
+
+</li>
+
+
+
+<link rel="stylesheet" type="text/css" media="all" href="/r/SysConfig/WebPortal/nypost/blocks/post_ten/post_ten.css"/>
+
+
+
+<li>
+
+	<div class="post_ten_data">
+
+		<div class="post_ten_data_head"></div>
+
+		<div class="post_ten_data_body" onclick="href('/p/news/international/gary_giordano_getting_robyn_disappearance_yTJcfwMOiwTBl6GK8FiMNN');_hbLink('post_ten_story_2','Aruba releases American businessman held in disappearance case');">
+
+			<span class="num">2</span>
+
+			<img alt="Aruba releases American businessman held in disappearance case" width="140" height="100" src="/rf/image_lowres/nypost/2011/11/29/news/web_photos/ArubaMissingAmerican092349--140x100.jpg" />
+
+			<h3 class="post_ten"><a name="&lid=post_ten_story_2&lpos=Aruba releases American businessman held in disappearance case" href="/p/news/international/gary_giordano_getting_robyn_disappearance_yTJcfwMOiwTBl6GK8FiMNN">Aruba releases American businessman held in disappearance case</a></h3>
+
+			<p>
+
+		ORANJESTAD, Aruba -- A US businessman who had been held in Aruba for almost four months... &nbsp;</p>
+
+			<span class="update"> 7:34 PM</span>
+
+<div class="btn default">
+
+    			<div class="btn_lt"></div>
+
+    			<div class="btn_body">
+
+
+
+        	 	<a href="/news/international">
+
+	         				<span class="prefix">from</span> 
+        International
+      </a>
+
+            		</div>
+
+    			<div class="btn_rt"></div>
+
+    			<div class="clearer"></div>
+
+  			</div>
+
+			<div class="clearer"></div>
+
+		</div>
+
+		<div class="post_ten_data_foot"></div>
+
+	</div>
+
+</li>
+
+
+
+<link rel="stylesheet" type="text/css" media="all" href="/r/SysConfig/WebPortal/nypost/blocks/post_ten/post_ten.css"/>
+
+
+
+<li>
+
+	<div class="post_ten_data">
+
+		<div class="post_ten_data_head"></div>
+
+		<div class="post_ten_data_body" onclick="href('/p/pagesix/can_wilmer_valderrama_handle_demi_6zna8TDjTvQSSzguAp4AxN');_hbLink('post_ten_story_3','Can Wilmer Valderrama handle Demi Lovato\'s \'baggage\'?');">
+
+			<span class="num">3</span>
+
+			<img alt="Can Wilmer Valderrama handle Demi Lovato's 'baggage'?" width="140" height="100" src="/rf/image_lowres/nypost/2011/11/29/pagesix/web_photos/132197139174456--140x100.jpg" />
+
+			<h3 class="post_ten"><a name="&lid=post_ten_story_3&lpos=Can Wilmer Valderrama handle Demi Lovato's 'baggage'?" href="/p/pagesix/can_wilmer_valderrama_handle_demi_6zna8TDjTvQSSzguAp4AxN">Can Wilmer Valderrama handle Demi Lovato's 'baggage'?</a></h3>
+
+			<p>
+
+		Demi Lovato needs a guy who can handle "a little bit of baggage." The 19-year-old pop star... &nbsp;</p>
+
+			<span class="update"> 5:46 PM</span>
+
+<div class="btn default">
+
+    			<div class="btn_lt"></div>
+
+    			<div class="btn_body">
+
+
+
+        	 	<a href="/pagesix">
+
+	         				<span class="prefix">from</span> Page Six</a>
+
+            		</div>
+
+    			<div class="btn_rt"></div>
+
+    			<div class="clearer"></div>
+
+  			</div>
+
+			<div class="clearer"></div>
+
+		</div>
+
+		<div class="post_ten_data_foot"></div>
+
+	</div>
+
+</li>
+
+
+
+<link rel="stylesheet" type="text/css" media="all" href="/r/SysConfig/WebPortal/nypost/blocks/post_ten/post_ten.css"/>
+
+
+
+<li>
+
+	<div class="post_ten_data">
+
+		<div class="post_ten_data_head"></div>
+
+		<div class="post_ten_data_body" onclick="href('/p/news/national/michael_jackson_doctor_sentenced_IG5aBjPSaljh8l712WFldK');_hbLink('post_ten_story_4','Michael Jackson\'s doctor sentenced to 4 years in jail for pop star\'s death');">
+
+			<span class="num">4</span>
+
+			<img alt="Michael Jackson's doctor sentenced to 4 years in jail for pop star's death" width="140" height="100" src="/rf/image_lowres/nypost/2011/11/29/news/web_photos/jackcodoc125959--140x100.jpg" />
+
+			<h3 class="post_ten"><a name="&lid=post_ten_story_4&lpos=Michael Jackson's doctor sentenced to 4 years in jail for pop star's death" href="/p/news/national/michael_jackson_doctor_sentenced_IG5aBjPSaljh8l712WFldK">Michael Jackson's doctor sentenced to 4 years in jail for pop star's death</a></h3>
+
+			<p>
+
+		The Doctor Feelgood who fatally poisoned Michael Jackson was sentenced today to four years... &nbsp;</p>
+
+			<span class="update"> 3:16 PM</span>
+
+<div class="btn default">
+
+    			<div class="btn_lt"></div>
+
+    			<div class="btn_body">
+
+
+
+        	 	<a href="/news/national">
+
+	         				<span class="prefix">from</span> National</a>
+
+            		</div>
+
+    			<div class="btn_rt"></div>
+
+    			<div class="clearer"></div>
+
+  			</div>
+
+			<div class="clearer"></div>
+
+		</div>
+
+		<div class="post_ten_data_foot"></div>
+
+	</div>
+
+</li>
+
+
+
+<link rel="stylesheet" type="text/css" media="all" href="/r/SysConfig/WebPortal/nypost/blocks/post_ten/post_ten.css"/>
+
+
+
+<li>
+
+	<div class="post_ten_data">
+
+		<div class="post_ten_data_head"></div>
+
+		<div class="post_ten_data_body" onclick="href('/p/news/national/ex_fiance_of_missing_people_court_mvcBfDoxXym2m76l0OlgPI');_hbLink('post_ten_story_5','Ex-fiance of missing \'People\'s Court\' woman hires attorney');">
+
+			<span class="num">5</span>
+
+			<img alt="Ex-fiance of missing 'People's Court' woman hires attorney" width="140" height="100" src="/rf/image_lowres/nypost/2011/11/29/news/web_photos/Michelle_Parker_missing_peoples_court--140x100.jpg" />
+
+			<h3 class="post_ten"><a name="&lid=post_ten_story_5&lpos=Ex-fiance of missing 'People's Court' woman hires attorney" href="/p/news/national/ex_fiance_of_missing_people_court_mvcBfDoxXym2m76l0OlgPI">Ex-fiance of missing 'People's Court' woman hires attorney</a></h3>
+
+			<p>
+
+		ORLANDO, Fla. &mdash; A lawyer for the ex-fiance of missing Florida mom Michelle Parker sharply... &nbsp;</p>
+
+			<span class="update"> 7:34 PM</span>
+
+<div class="btn default">
+
+    			<div class="btn_lt"></div>
+
+    			<div class="btn_body">
+
+
+
+        	 	<a href="/news/national">
+
+	         				<span class="prefix">from</span> 
+        National
+      </a>
+
+            		</div>
+
+    			<div class="btn_rt"></div>
+
+    			<div class="clearer"></div>
+
+  			</div>
+
+			<div class="clearer"></div>
+
+		</div>
+
+		<div class="post_ten_data_foot"></div>
+
+	</div>
+
+</li>
+
+
+
+<link rel="stylesheet" type="text/css" media="all" href="/r/SysConfig/WebPortal/nypost/blocks/post_ten/post_ten.css"/>
+
+
+
+<li>
+
+	<div class="post_ten_data">
+
+		<div class="post_ten_data_head"></div>
+
+		<div class="post_ten_data_body" onclick="href('/p/pagesix/george_clooney_and_stacy_keibler_Q4ydsCaBUPXas6Mfd0ZfOI');_hbLink('post_ten_story_6','George Clooney and Stacy Keibler back from Mexican vacation');">
+
+			<span class="num">6</span>
+
+			<img alt="George Clooney and Stacy Keibler back from Mexican vacation" width="140" height="100" src="/rf/image_lowres/nypost/2011/11/29/pagesix/web_photos/SPL338705_001140413--140x100.jpg" />
+
+			<h3 class="post_ten"><a name="&lid=post_ten_story_6&lpos=George Clooney and Stacy Keibler back from Mexican vacation" href="/p/pagesix/george_clooney_and_stacy_keibler_Q4ydsCaBUPXas6Mfd0ZfOI">George Clooney and Stacy Keibler back from Mexican vacation</a></h3>
+
+			<p>
+
+		George Clooney and his new love, former professional wrestler Stacy Keibler, have returned from... &nbsp;</p>
+
+			<span class="update"> 3:25 PM</span>
+
+<div class="btn default">
+
+    			<div class="btn_lt"></div>
+
+    			<div class="btn_body">
+
+
+
+        	 	<a href="/pagesix">
+
+	         				<span class="prefix">from</span> 
+      Page Six
+    </a>
+
+            		</div>
+
+    			<div class="btn_rt"></div>
+
+    			<div class="clearer"></div>
+
+  			</div>
+
+			<div class="clearer"></div>
+
+		</div>
+
+		<div class="post_ten_data_foot"></div>
+
+	</div>
+
+</li>
+
+
+
+<link rel="stylesheet" type="text/css" media="all" href="/r/SysConfig/WebPortal/nypost/blocks/post_ten/post_ten.css"/>
+
+
+
+<li>
+
+	<div class="post_ten_data">
+
+		<div class="post_ten_data_head"></div>
+
+		<div class="post_ten_data_body" onclick="href('/p/pagesix/kris_humphries_in_utter_horror_watching_4CnmQlQV4eLLuvrooYrz9I');_hbLink('post_ten_story_7','Humphries in \'utter horror\' watching \'Kourtney & Kim\' premiere');">
+
+			<span class="num">7</span>
+
+			<img alt="Humphries in 'utter horror' watching 'Kourtney & Kim' premiere" width="140" height="100" src="/rf/image_lowres/nypost/2011/11/29/pagesix/web_photos/1117N03XX010095518--140x100.jpg" />
+
+			<h3 class="post_ten"><a name="&lid=post_ten_story_7&lpos=Humphries in 'utter horror' watching 'Kourtney & Kim' premiere" href="/p/pagesix/kris_humphries_in_utter_horror_watching_4CnmQlQV4eLLuvrooYrz9I">Humphries in 'utter horror' watching 'Kourtney & Kim' premiere</a></h3>
+
+			<p>
+
+		Kim Kardashian's estranged husband, Kris Humphries, was among the 3.2 million people watching... &nbsp;</p>
+
+			<span class="update"> 5:42 PM</span>
+
+<div class="btn default">
+
+    			<div class="btn_lt"></div>
+
+    			<div class="btn_body">
+
+
+
+        	 	<a href="/pagesix">
+
+	         				<span class="prefix">from</span> Page Six</a>
+
+            		</div>
+
+    			<div class="btn_rt"></div>
+
+    			<div class="clearer"></div>
+
+  			</div>
+
+			<div class="clearer"></div>
+
+		</div>
+
+		<div class="post_ten_data_foot"></div>
+
+	</div>
+
+</li>
+
+
+
+<link rel="stylesheet" type="text/css" media="all" href="/r/SysConfig/WebPortal/nypost/blocks/post_ten/post_ten.css"/>
+
+
+
+<li>
+
+	<div class="post_ten_data">
+
+		<div class="post_ten_data_head"></div>
+
+		<div class="post_ten_data_body" onclick="href('/p/news/international/iranian_protesters_storm_british_sU3676CqwPOt9hMxsK0jpI');_hbLink('post_ten_story_8','Iranian protesters storm British embassy');">
+
+			<span class="num">8</span>
+
+			<img alt="Iranian protesters storm British embassy" width="140" height="100" src="/rf/image_lowres/nypost/2011/11/29/news/web_photos/IRAN-BRITAIN_EMBASSY093816--140x100.jpg" />
+
+			<h3 class="post_ten"><a name="&lid=post_ten_story_8&lpos=Iranian protesters storm British embassy" href="/p/news/international/iranian_protesters_storm_british_sU3676CqwPOt9hMxsK0jpI">Iranian protesters storm British embassy</a></h3>
+
+			<p>
+
+		TEHRAN -- Dozens of hardline student protesters stormed the British Embassy and another British... &nbsp;</p>
+
+			<span class="update"> 5:47 PM</span>
+
+<div class="btn default">
+
+    			<div class="btn_lt"></div>
+
+    			<div class="btn_body">
+
+
+
+        	 	<a href="/news/international">
+
+	         				<span class="prefix">from</span> International</a>
+
+            		</div>
+
+    			<div class="btn_rt"></div>
+
+    			<div class="clearer"></div>
+
+  			</div>
+
+			<div class="clearer"></div>
+
+		</div>
+
+		<div class="post_ten_data_foot"></div>
+
+	</div>
+
+</li>
+
+
+
+<link rel="stylesheet" type="text/css" media="all" href="/r/SysConfig/WebPortal/nypost/blocks/post_ten/post_ten.css"/>
+
+
+
+<li>
+
+	<div class="post_ten_data">
+
+		<div class="post_ten_data_head"></div>
+
+		<div class="post_ten_data_body" onclick="href('/p/pagesix/kristen_stewart_not_fashion_pariah_OTINklWzWDFCYBR4LKHCxJ');_hbLink('post_ten_story_9','Kristen Stewart not a \'fashion pariah\'');">
+
+			<span class="num">9</span>
+
+			<img alt="Kristen Stewart not a 'fashion pariah'" width="140" height="100" src="/rf/image_lowres/nypost/2011/11/29/pagesix/web_photos/298040_012121715--140x100.jpg" />
+
+			<h3 class="post_ten"><a name="&lid=post_ten_story_9&lpos=Kristen Stewart not a 'fashion pariah'" href="/p/pagesix/kristen_stewart_not_fashion_pariah_OTINklWzWDFCYBR4LKHCxJ">Kristen Stewart not a 'fashion pariah'</a></h3>
+
+			<p>
+
+		Despite reports that Kristen Stewart is a "fashion pariah" who "very few people want to work... &nbsp;</p>
+
+			<span class="update"> 1:25 PM</span>
+
+<div class="btn default">
+
+    			<div class="btn_lt"></div>
+
+    			<div class="btn_body">
+
+
+
+        	 	<a href="/pagesix">
+
+	         				<span class="prefix">from</span> Page Six</a>
+
+            		</div>
+
+    			<div class="btn_rt"></div>
+
+    			<div class="clearer"></div>
+
+  			</div>
+
+			<div class="clearer"></div>
+
+		</div>
+
+		<div class="post_ten_data_foot"></div>
+
+	</div>
+
+</li>
+
+
+
+<link rel="stylesheet" type="text/css" media="all" href="/r/SysConfig/WebPortal/nypost/blocks/post_ten/post_ten.css"/>
+
+
+
+<li>
+
+	<div class="post_ten_data">
+
+		<div class="post_ten_data_head"></div>
+
+		<div class="post_ten_data_body" onclick="href('/p/pagesix/charlize_theron_takes_stumble_YME8TrA0IrnYn0uoZ2dEHP');_hbLink('post_ten_story_10','Charlize Theron takes a stumble');">
+
+			<span class="num">10</span>
+
+			<img alt="Charlize Theron takes a stumble" width="140" height="100" src="/rf/image_lowres/nypost/2011/11/29/pagesix/web_photos/SPL335546_008103325--140x100.jpg" />
+
+			<h3 class="post_ten"><a name="&lid=post_ten_story_10&lpos=Charlize Theron takes a stumble" href="/p/pagesix/charlize_theron_takes_stumble_YME8TrA0IrnYn0uoZ2dEHP">Charlize Theron takes a stumble</a></h3>
+
+			<p>
+
+		"Young Adult" actress Charlize Theron came dangerously close to a wardrobe malfunction last... &nbsp;</p>
+
+			<span class="update"> 12:33 PM</span>
+
+<div class="btn default">
+
+    			<div class="btn_lt"></div>
+
+    			<div class="btn_body">
+
+
+
+        	 	<a href="/pagesix">
+
+	         				<span class="prefix">from</span> Page Six</a>
+
+            		</div>
+
+    			<div class="btn_rt"></div>
+
+    			<div class="clearer"></div>
+
+  			</div>
+
+			<div class="clearer"></div>
+
+		</div>
+
+		<div class="post_ten_data_foot"></div>
+
+	</div>
+
+</li>
+
+
+
+</ul><div class="block homepage_columnists_list_wrap" id="columnsts_list_wrap">
+
+	<div class="rounded_top"></div>
+
+	<div class="rounded_body">
+
+		<div class="header_holder">
+
+			<h2 class="block_title"><a href="/columnists">Columnists</a></h2>
+
+		</div>
+
+		<ul class="columnists_block homepage_columnists_block">
+
+		<li>
+
+				<div class="pointer headshot_wrap" onclick="href('/p/news/local/proof_love_is_blind_and_just_stupid_qbHEvpELWJSht4maWjMCZM')">
+
+					<img class="headshot" alt="Andrea Peyser" src="/rw/SysConfig/WebPortal/nypost/images/columnist_headshots/andrea_peyser.png"></img>
+
+						<h3 class="columnist_name">
+
+						<span class="col_name">Andrea</span>
+
+								<span class="lastname"></span>
+
+								<span class="lastname">Peyser</span>
+
+							</h3>
+
+					<h4><a href="/p/news/local/proof_love_is_blind_and_just_stupid_qbHEvpELWJSht4maWjMCZM">Proof love is blind – and just stupid</a></h4>
+
+				</div>
+
+				<div onclick="href('/p/news/local/proof_love_is_blind_and_just_stupid_qbHEvpELWJSht4maWjMCZM')" class="pointer story_wrap">
+
+					
+
+					<div class="story_item">
+
+						<p>
+
+							They sure don&rsquo;t make mistresses like they used to. The live sex-and-crime show that was billed as a headliner in Manhattan federal court yesterday... &nbsp;<div class="readon"><a href="/p/news/local/proof_love_is_blind_and_just_stupid_qbHEvpELWJSht4maWjMCZM">Read On</a></div>
+
+							</p>
+
+						<div class="clearer"></div>
+
+					</div>
+
+				</div>
+
+				
+
+			</li>
+
+		<li>
+
+				<div class="pointer headshot_wrap" onclick="href('/p/news/business/way_to_gauge_earnings_surprises_S9w3KQCyCH6qdwt9V1NZGJ')">
+
+					<img class="headshot" alt="John Crudele" src="/rw/SysConfig/WebPortal/nypost/images/columnist_headshots/john_crudele.png"></img>
+
+						<h3 class="columnist_name">
+
+						<span class="col_name">John</span>
+
+								<span class="lastname"></span>
+
+								<span class="lastname">Crudele</span>
+
+							</h3>
+
+					<h4><a href="/p/news/business/way_to_gauge_earnings_surprises_S9w3KQCyCH6qdwt9V1NZGJ">A way to gauge earnings surprises</a></h4>
+
+				</div>
+
+				<div onclick="href('/p/news/business/way_to_gauge_earnings_surprises_S9w3KQCyCH6qdwt9V1NZGJ')" class="pointer story_wrap">
+
+					
+
+					<div class="story_item">
+
+						<p>
+
+							This will surprise Wall Street: Recent corporate earnings weren&rsquo;t as pleasant as the stock market thinks. There&rsquo;s a decades-old scam that goes like... &nbsp;<div class="readon"><a href="/p/news/business/way_to_gauge_earnings_surprises_S9w3KQCyCH6qdwt9V1NZGJ">Read On</a></div>
+
+							</p>
+
+						<div class="clearer"></div>
+
+					</div>
+
+				</div>
+
+				
+
+			</li>
+
+		<li>
+
+				<div class="pointer headshot_wrap" onclick="href('/p/news/business/realestate/commercial/another_facet_to_gem_tower_OhlupyqmjdHatqZX6jxIIK')">
+
+					<img class="headshot" alt="Steve Cuozzo" src="/rw/SysConfig/WebPortal/nypost/images/columnist_headshots/steve_cuozzo.png"></img>
+
+						<h3 class="columnist_name">
+
+						<span class="col_name">Steve</span>
+
+								<span class="lastname"></span>
+
+								<span class="lastname">Cuozzo</span>
+
+							</h3>
+
+					<h4><a href="/p/news/business/realestate/commercial/another_facet_to_gem_tower_OhlupyqmjdHatqZX6jxIIK">Another facet to Gem Tower</a></h4>
+
+				</div>
+
+				<div onclick="href('/p/news/business/realestate/commercial/another_facet_to_gem_tower_OhlupyqmjdHatqZX6jxIIK')" class="pointer story_wrap">
+
+					
+
+					<div class="story_item">
+
+						<p>
+
+							As the elegant International Gem Tower rises at 50 W. 47th St., the 34-story, crystalline lady stretching steel limbs has taken on a second address:... &nbsp;<div class="readon"><a href="/p/news/business/realestate/commercial/another_facet_to_gem_tower_OhlupyqmjdHatqZX6jxIIK">Read On</a></div>
+
+							</p>
+
+						<div class="clearer"></div>
+
+					</div>
+
+				</div>
+
+				
+
+			</li>
+
+		<li>
+
+				<div class="pointer headshot_wrap" onclick="href('/p/sports/giants/big_blue_plagued_by_full_swoon_fever_06OTGYlXb1u7ifH9hJOJqO')">
+
+					<img class="headshot" alt="Steve Serby" src="/rw/SysConfig/WebPortal/nypost/images/columnist_headshots/steve_serby.png"></img>
+
+						<h3 class="columnist_name">
+
+						<span class="col_name">Steve</span>
+
+								<span class="lastname"></span>
+
+								<span class="lastname">Serby</span>
+
+							</h3>
+
+					<h4><a href="/p/sports/giants/big_blue_plagued_by_full_swoon_fever_06OTGYlXb1u7ifH9hJOJqO">Giants plagued by full swoon fever</a></h4>
+
+				</div>
+
+				<div onclick="href('/p/sports/giants/big_blue_plagued_by_full_swoon_fever_06OTGYlXb1u7ifH9hJOJqO')" class="pointer story_wrap">
+
+					
+
+					<div class="story_item">
+
+						<p>
+
+							NEW ORLEANS &mdash; They are the words no one around the Giants wants to hear. Collapse. Swoon. Meltdown. Take your pick. Tom Coughlin and Eli Manning... &nbsp;<div class="readon"><a href="/p/sports/giants/big_blue_plagued_by_full_swoon_fever_06OTGYlXb1u7ifH9hJOJqO">Read On</a></div>
+
+							</p>
+
+						<div class="clearer"></div>
+
+					</div>
+
+				</div>
+
+				
+
+			</li>
+
+		<li>
+
+				<div class="pointer headshot_wrap" onclick="href('/p/sports/giants/black_blue_AMSk7uW9GhG7kTFaZdkrtK')">
+
+					<img class="headshot" alt="Mike Vaccaro" src="/rw/SysConfig/WebPortal/nypost/images/columnist_headshots/mike_vaccaro.png"></img>
+
+						<h3 class="columnist_name">
+
+						<span class="col_name">Mike</span>
+
+								<span class="lastname"></span>
+
+								<span class="lastname">Vaccaro</span>
+
+							</h3>
+
+					<h4><a href="/p/sports/giants/black_blue_AMSk7uW9GhG7kTFaZdkrtK">With Packers next, carnage not over for overmatched Giants</a></h4>
+
+				</div>
+
+				<div onclick="href('/p/sports/giants/black_blue_AMSk7uW9GhG7kTFaZdkrtK')" class="pointer story_wrap">
+
+					
+
+					<div class="story_item">
+
+						<p>
+
+							NEW ORLEANS &ndash; The message was delivered quickly, on the Saints&rsquo; first possession, a preview of what the evening would look like: chinks of yards here... &nbsp;<div class="readon"><a href="/p/sports/giants/black_blue_AMSk7uW9GhG7kTFaZdkrtK">Read On</a></div>
+
+							</p>
+
+						<div class="clearer"></div>
+
+					</div>
+
+				</div>
+
+				
+
+			</li>
+
+		<li>
+
+				<div class="pointer headshot_wrap" onclick="href('/p/sports/jets/playoff_surge_not_easy_to_three_6FkAe3sIjVYo2xJTVnIQbN')">
+
+					<img class="headshot" alt="Mark Cannizzaro" src="/rw/SysConfig/WebPortal/nypost/images/columnist_headshots/mark_cannizzaro.png"></img>
+
+						<h3 class="columnist_name">
+
+						<span class="col_name">Mark</span>
+
+								<span class="lastname"></span>
+
+								<span class="lastname">Cannizzaro</span>
+
+							</h3>
+
+					<h4><a href="/p/sports/jets/playoff_surge_not_easy_to_three_6FkAe3sIjVYo2xJTVnIQbN">Jets' playoff surge not easy to three-peat</a></h4>
+
+				</div>
+
+				<div onclick="href('/p/sports/jets/playoff_surge_not_easy_to_three_6FkAe3sIjVYo2xJTVnIQbN')" class="pointer story_wrap">
+
+					
+
+					<div class="story_item">
+
+						<p>
+
+							Two years ago, the Jets were the darlings of the NFL. Getting to the AFC Championship Game with rookies at quarterback and head coach after... &nbsp;<div class="readon"><a href="/p/sports/jets/playoff_surge_not_easy_to_three_6FkAe3sIjVYo2xJTVnIQbN">Read On</a></div>
+
+							</p>
+
+						<div class="clearer"></div>
+
+					</div>
+
+				</div>
+
+				
+
+			</li>
+
+		<li>
+
+				<div class="pointer headshot_wrap" onclick="href('/p/sports/knicks/it_time_to_play_ball_and_can_wait_iRwAMIXzu7TYdQ9Upc986O')">
+
+					<img class="headshot" alt="Iman Shumpert" src="/rw/SysConfig/WebPortal/nypost/images/columnist_headshots/iman_shumpert.png"></img>
+
+						<h3 class="columnist_name">
+
+						<span class="col_name">Iman</span>
+
+								<span class="lastname"></span>
+
+								<span class="lastname">Shumpert</span>
+
+							</h3>
+
+					<h4><a href="/p/sports/knicks/it_time_to_play_ball_and_can_wait_iRwAMIXzu7TYdQ9Upc986O">It’s time to play ball ... and I can’t wait</a></h4>
+
+				</div>
+
+				<div onclick="href('/p/sports/knicks/it_time_to_play_ball_and_can_wait_iRwAMIXzu7TYdQ9Upc986O')" class="pointer story_wrap">
+
+					
+
+					<div class="story_item">
+
+						<p>
+
+							Knicks rookie Iman Shumpert has provided a periodic diary during the lockout, detailing his offbeat transition to the NBA. The Georgia Tech guard is... &nbsp;<div class="readon"><a href="/p/sports/knicks/it_time_to_play_ball_and_can_wait_iRwAMIXzu7TYdQ9Upc986O">Read On</a></div>
+
+							</p>
+
+						<div class="clearer"></div>
+
+					</div>
+
+				</div>
+
+				
+
+			</li>
+
+		<li>
+
+				<div class="pointer headshot_wrap" onclick="href('/p/sports/more_sports/amnesty_nba_style_ebc1TPfRuaW9LfdiHaioHI')">
+
+					<img class="headshot" alt="Peter Vecsey" src="/rw/SysConfig/WebPortal/nypost/images/columnist_headshots/peter_vecsey.png"></img>
+
+						<h3 class="columnist_name">
+
+						<span class="col_name">Peter</span>
+
+								<span class="lastname"></span>
+
+								<span class="lastname">Vecsey</span>
+
+							</h3>
+
+					<h4><a href="/p/sports/more_sports/amnesty_nba_style_ebc1TPfRuaW9LfdiHaioHI">Amnesty, NBA style</a></h4>
+
+				</div>
+
+				<div onclick="href('/p/sports/more_sports/amnesty_nba_style_ebc1TPfRuaW9LfdiHaioHI')" class="pointer story_wrap">
+
+					
+
+					<div class="story_item">
+
+						<p>
+
+							Welcome to the NBA&rsquo;s version of (select one or more)... 1&mdash;&ldquo;Amnesty International&rdquo; 2&mdash;&ldquo;Contract Killing&rdquo; As part of the league&rsquo;s pending new... &nbsp;<div class="readon"><a href="/p/sports/more_sports/amnesty_nba_style_ebc1TPfRuaW9LfdiHaioHI">Read On</a></div>
+
+							</p>
+
+						<div class="clearer"></div>
+
+					</div>
+
+				</div>
+
+				
+
+			</li>
+
+		</ul>
+
+		<div class="clearer"></div>
+
+		<div class="button_holder">
+
+			<div class="btn news">
+
+    <div class="btn_lt"></div>
+
+    <div class="btn_body">
+
+      <a href="/columnists" name="&lid=btn&lpos=Columnists">
+
+         <span class="prefix">More in</span> Columnists</a>
+
+    </div>
+
+    <div class="btn_rt"></div>
+
+    <div class="clearer"></div>
+
+  </div></div>
+
+		<div class="clearer"></div>
+
+	</div>
+
+	<div class="rounded_bottom"></div>
+
+</div><div id="classifieds_home_vert" class="classifieds_home_vert block">
+
+	<div class="rounded_top"></div>
+
+	<div class="rounded_body">
+
+		<h2 class="block_title">Classifieds</h2>
+
+		<ul>
+
+			<li><a href="http://www.classifieds.nypost.com/">All Classifieds</a></li>
+
+			<li><a href="http://www.classifieds.nypost.com/housing/rent/">All Rentals</a></li>
+
+			<li><a href="/news/business/jobs">Jobs</a></li>
+
+			<li><a href="http://www.classifieds.nypost.com/vehicle/">Cars</a></li>
+
+			<li><a href="/news/business/realestate/residential">Real Estate</a></li>
+
+			<li><a href="http://www.classifieds.nypost.com/housing/rent/apartment/">NY Apartments</a></li>
+
+		</ul>
+
+	</div>
+
+	<div class="rounded_bottom"></div>
+
+</div></div>
+
+		</div>
+
+		<div class="ct_rail" id="ct_rail">
+
+			<div class="ct_rail_head"></div>
+
+			<div class="ct_top_story"><div id="top_story_wrap" class="block">
+
+<div id="top_story_def" class="def block">
+	<!-- CORRELATION PHOTO -->
+
+<!-- CORRELATION VIDEO -->
+
+<div class="top_story_data top_story_data_single" id="top_story_1">
+
+	<a name="&lid=lead_story_1&lpos=photo" href="/p/news/local/friend_claims_conn_trio_not_real_ixydKaxvkDfq1MFVKOQBwM">
+
+			<img class="lead_story" alt="3 Conn. money managers say they're not covering for anyone in Powerball prize" width="480" height="180" src="/rw/nypost/2011/11/29/news/web_photos/lottonew183053--480x180.jpg"></img>
+
+		</a>
+
+	<h1><a name="&lid=lead_story_1&lpos=headline" href="/p/news/local/friend_claims_conn_trio_not_real_ixydKaxvkDfq1MFVKOQBwM">3 Conn. money managers say they're not covering for anyone in Powerball prize</a></h1> 
+
+	<p>
+
+		NEW HAVEN, Conn. &mdash; Three money managers awarded a $254 million Powerball jackpot said Tuesday there's no fourth participant despite a claim they're covering for a winner who wants to stay anonymous.... &nbsp;<a name="&lid=lead_story_1&lpos=read_full_story" href="/p/news/local/friend_claims_conn_trio_not_real_ixydKaxvkDfq1MFVKOQBwM">Read Full Story</a>
+
+	</p>
+
+	<!-- CORRELATION PHOTO -->
+
+<!-- CORRELATION VIDEO -->
+
+<div class="media_loader" id="media_loader_1"></div>
+
+<ul class="media_controls">
+
+	<li class="media_story" id="media_story_1">
+
+		<a href="javascript://" name="&lid=lead_story_button&lpos=1">story</a>
+
+	</li>
+
+	</ul></div><!-- CORRELATION PHOTO -->
+
+<!-- CORRELATION VIDEO -->
+
+<div class="top_story_data top_story_data_single" id="top_story_2">
+
+	<a name="&lid=lead_story_2&lpos=photo" href="/p/blogs/backpage/bobby_in_final_two_for_red_sox_job_0kRauSGPFCPqV9YeZWBfcJ">
+
+			<img class="lead_story" alt="Ex-Mets manager Valentine to be Red Sox skipper" width="480" height="180" src="/rw/nypost/2011/11/29/sports/web_photos/valentine202437--480x180.jpg"></img>
+
+		</a>
+
+	<h1><a name="&lid=lead_story_2&lpos=headline" href="/p/blogs/backpage/bobby_in_final_two_for_red_sox_job_0kRauSGPFCPqV9YeZWBfcJ">Ex-Mets manager Valentine to be Red Sox skipper</a></h1> 
+
+	<p>
+
+		BOSTON -- Bobby Valentine on Tuesday accepted an offer to be the new manager of the Boston Red Sox, ESPN reported, citing a source close to the team. Valentine, an analyst for ESPN, appeared at a charity event in Japan on Monday and was... &nbsp;<a name="&lid=lead_story_2&lpos=read_full_story" href="/p/blogs/backpage/bobby_in_final_two_for_red_sox_job_0kRauSGPFCPqV9YeZWBfcJ">Read Full Story</a>
+
+	</p>
+
+	<!-- CORRELATION PHOTO -->
+
+<!-- CORRELATION VIDEO -->
+
+<div class="media_loader" id="media_loader_2"></div>
+
+<ul class="media_controls">
+
+	<li class="media_story" id="media_story_2">
+
+		<a href="javascript://" name="&lid=lead_story_button&lpos=2">story</a>
+
+	</li>
+
+	</ul></div><!-- CORRELATION PHOTO -->
+
+<!-- CORRELATION VIDEO -->
+
+<div class="top_story_data top_story_data_single" id="top_story_3">
+
+	<a name="&lid=lead_story_3&lpos=photo" href="/p/news/local/brooklyn/feds_arrest_boyland_on_new_bribery_UMty66wLNTwbm7YJawl4lI">
+
+			<img class="lead_story" alt="Feds arrest Brooklyn assemblyman on new $250K bribery charges" width="480" height="180" src="/rw/nypost/2011/11/29/news/web_photos/boyland151451--480x180.jpg"></img>
+
+		</a>
+
+	<h1><a name="&lid=lead_story_3&lpos=headline" href="/p/news/local/brooklyn/feds_arrest_boyland_on_new_bribery_UMty66wLNTwbm7YJawl4lI">Feds arrest Brooklyn assemblyman on new $250K bribery charges</a></h1> 
+
+	<p>
+
+		Fresh off his surprise acquittal on corruption charges, Assemblyman William F. Boyland, Jr. was charged by federal authorities in Brooklyn today with soliciting more than $250,000 in bribes and... &nbsp;<a name="&lid=lead_story_3&lpos=read_full_story" href="/p/news/local/brooklyn/feds_arrest_boyland_on_new_bribery_UMty66wLNTwbm7YJawl4lI">Read Full Story</a>
+
+	</p>
+
+	<!-- CORRELATION PHOTO -->
+
+<!-- CORRELATION VIDEO -->
+
+<div class="media_loader" id="media_loader_3"></div>
+
+<ul class="media_controls">
+
+	<li class="media_story" id="media_story_3">
+
+		<a href="javascript://" name="&lid=lead_story_button&lpos=3">story</a>
+
+	</li>
+
+	</ul></div><div id="bottom_controls">
+	  <img id="top_story_pointer" src="/rw/SysConfig/WebPortal/nypost/blocks/top_story/images/top_story_pointer.png" alt=""  />
+		<ul id="top_story_nav"> 
+			<li id="story_1" class="top_story_nav_tab first" style="background:url(/rf/image_lowres/nypost/2011/11/29/news/web_photos/lottonew183338--150x60.jpg) center center no-repeat;">
+
+	<a class="story_link" href="#top_story_1" name="&amp;lid=lead_num_button&amp;lpos=1">1</a>
+
+</li><li id="story_2" class="top_story_nav_tab" style="background:url(/rf/image_lowres/nypost/2011/11/29/sports/web_photos/bvsm200603--150x60.jpg) center center no-repeat;">
+
+	<a class="story_link" href="#top_story_2" name="&amp;lid=lead_num_button&amp;lpos=2">2</a>
+
+</li><li id="story_3" class="top_story_nav_tab last" style="background:url(/rf/image_lowres/nypost/2011/11/29/news/web_photos/boyland_sm151445--150x60.jpg) center center no-repeat;">
+
+	<a class="story_link" href="#top_story_3" name="&amp;lid=lead_num_button&amp;lpos=3">3</a>
+
+</li></ul>
+		<div class="clearer"></div>
+	</div>
+	<div id="bottom_controls_bottom" class="clearer"></div>
+</div>
+</div></div>
+
+			<div class="ct_rail_body"><div id="homepage" class="story_list story_list_tabs block"> 
+	<a href="/news"><h2 class="block_title">Latest News</h2></a>
+	<a href="/upost"><img class="icon_promo icon_upost" alt="upost" title="upost" src="/rw/SysConfig/WebPortal/nypost/images/icon_upost.gif" /></a>
+		<a href="http://www.hopstop.com/?cb3711"><img class="icon_promo icon_transit" alt="transit" title="transit" src="/rw/SysConfig/WebPortal/nypost/images/icon_transit.gif" /></a>
+	<ul class="story_list_tabs_nav">
+		<li class="first">
+
+	<a href="#ny_news" name="&lid=tab_region_tab&lpos=ny_news">NYC Local</a>
+
+</li><li >
+
+	<a href="#news" name="&lid=tab_region_tab&lpos=news">US/World</a>
+
+</li><li >
+
+	<a href="#sports" name="&lid=tab_region_tab&lpos=sports">Sports</a>
+
+</li><li class="last">
+
+	<a href="#entertainment" name="&lid=tab_region_tab&lpos=entertainment">Entertainment</a>
+
+</li></ul>
+	<ul id="ny_news" class="story_list_holder">
+
+	<li class="story_list_data first" onclick="href('/p/sports/college/basketball/syracuse_says_boeheim_staying_as_kktiGDuePsN2E6q77CyNTO');_hbLink('tab_region_story','ny_news');">
+	<h4><a name="&lid=tab_region_link&lpos=ny_news" href="/p/sports/college/basketball/syracuse_says_boeheim_staying_as_kktiGDuePsN2E6q77CyNTO">Syracuse says Boeheim will stay, gets standing ovation</a></h4>
+	<p>
+		SYRACUSE -- Syracuse University Chancellor Nancy Cantor gave men&rsquo;s basketball coach Jim Boeheim a vote of confidence Tuesday amid an investigation of... &nbsp;<span class="update"> 7:26 PM</span>
+
+</p> 
+	<div class="clearer"></div>
+</li>
+<li class="story_list_data" onclick="href('/p/news/local/manhattan/harlem_students_hospitalized_after_08xKjfGgj76KampSQp2xcO');_hbLink('tab_region_story','ny_news');">
+	<h4><a name="&lid=tab_region_link&lpos=ny_news" href="/p/news/local/manhattan/harlem_students_hospitalized_after_08xKjfGgj76KampSQp2xcO">9 Harlem students hospitalized after macing by classmate</a></h4>
+	<p>
+		Nine students were hospitalized after getting maced by a classmate at a school in Harlem this afternoon, according to authorities. The students from... &nbsp;<span class="update"> 6:35 PM</span>
+
+</p> 
+	<div class="clearer"></div>
+</li>
+<li class="story_list_data" onclick="href('/p/news/business/empire_state_building_might_be_part_KZmyMnmTaf13lHetJDPUKK');_hbLink('tab_region_story','ny_news');">
+	<img alt="Empire State Building might be part of public firm" width="140" height="100" src="/rf/image_lowres/nypost/2011/11/29/news/web_photos/507488715163046--140x100.jpg" />
+		<h4><a name="&lid=tab_region_link&lpos=ny_news" href="/p/news/business/empire_state_building_might_be_part_KZmyMnmTaf13lHetJDPUKK">Empire State Building might be part of public firm</a></h4>
+	<p>
+		Even King Kong might go ape over this IPO. The Empire State Building could become part of a publicly traded real estate investment company. The company that supervises the portfolio of office properties that includes the iconic Manhattan... &nbsp;<span class="update"> 4:40 PM</span>
+
+</p> 
+	<div class="clearer"></div>
+</li>
+<li class="story_list_data" onclick="href('/p/news/local/staten_island/suspect_busted_for_smoking_pot_drops_a7j0RPGSXgJnqDilwAF17I');_hbLink('tab_region_story','ny_news');">
+	<h4><a name="&lid=tab_region_link&lpos=ny_news" href="/p/news/local/staten_island/suspect_busted_for_smoking_pot_drops_a7j0RPGSXgJnqDilwAF17I">Suspect busted for smoking pot dies after fighting with cop</a></h4>
+	<p>
+		A drug suspect was busted for smoking pot at the College of Staten Island &ndash; but later died after a violent struggle with a cop whose gun he had wrested... &nbsp;<span class="update"> 5:24 PM</span>
+
+</p> 
+	<div class="clearer"></div>
+</li>
+<li class="story_list_data" onclick="href('/p/news/local/manhattan/manhattan_judge_calls_homes_harlem_inf2YjkRseSTjpyFya5B1H');_hbLink('tab_region_story','ny_news');">
+	<h4><a name="&lid=tab_region_link&lpos=ny_news" href="/p/news/local/manhattan/manhattan_judge_calls_homes_harlem_inf2YjkRseSTjpyFya5B1H">Manhattan judge calls on Harlem leaders to help control guns in homes at gang's sentencing</a></h4>
+	<p>
+		Only Harlem can save Harlem, a Manhattan judge -- sickened by the teen gang deaths that flood his courtroom -- said from the bench today in an unusual... &nbsp;<span class="update"> 12:41 PM</span>
+
+</p> 
+	<div class="clearer"></div>
+</li>
+<li class="story_list_data" onclick="href('/p/news/local/bronx_cop_undervalued_ipad_in_theft_oOPjhAbfVr01LxRDG1S3GK');_hbLink('tab_region_story','ny_news');">
+	<h4><a name="&lid=tab_region_link&lpos=ny_news" href="/p/news/local/bronx_cop_undervalued_ipad_in_theft_oOPjhAbfVr01LxRDG1S3GK">Bronx cop undervalued iPad in theft report, NYPD trial shows</a></h4>
+	<p>
+		A Bronx cop allegedly fudged crime stats by undervaluing a stolen iPad &ndash; effectively downgrading a felony case into a misdemeanor. Police Officer... &nbsp;<span class="update"> 2:23 PM</span>
+
+</p> 
+	<div class="clearer"></div>
+</li>
+<li class="story_list_data" onclick="href('/p/news/local/brooklyn/man_and_woman_charged_in_klyn_sex_exzvhDeFHnvYEttBMG2WvK');_hbLink('tab_region_story','ny_news');">
+	<h4><a name="&lid=tab_region_link&lpos=ny_news" href="/p/news/local/brooklyn/man_and_woman_charged_in_klyn_sex_exzvhDeFHnvYEttBMG2WvK">Man and woman charged in B'klyn 'sex kidnap' ordeal</a></h4>
+	<p>
+		A man and woman have been charged with kidnapping a woman in Brooklyn yesterday and allegedly trying to force her into prostitution, police sources... &nbsp;<span class="update"> 2:23 PM</span>
+
+</p> 
+	<div class="clearer"></div>
+</li>
+<li class="story_list_data last" onclick="href('/p/news/local/defense_rests_in_conn_home_invasion_2Jxp6caBdXtE0TM2B6NHMN');_hbLink('tab_region_story','ny_news');">
+	<img alt="Both sides rest in Conn. home invasion sentencing" width="140" height="100" src="/rf/image_lowres/nypost/2011/11/29/news/web_photos/HomeInvasion115412--140x100.jpg" />
+		<h4><a name="&lid=tab_region_link&lpos=ny_news" href="/p/news/local/defense_rests_in_conn_home_invasion_2Jxp6caBdXtE0TM2B6NHMN">Both sides rest in Conn. home invasion sentencing</a></h4>
+	<p>
+		NEW HAVEN, Conn. &mdash; The defense and prosecution rested Tuesday in their arguments over whether a man convicted of killing a woman and her two daughters in a 2007 home invasion should spend the rest of his life in prison or be put to death. The jury... &nbsp;<span class="update"> 4:39 PM</span>
+
+</p> 
+	<div class="clearer"></div>
+</li>
+</ul><ul id="news" class="story_list_holder">
+
+	<li class="story_list_data first" onclick="href('/p/news/international/gary_giordano_getting_robyn_disappearance_yTJcfwMOiwTBl6GK8FiMNN');_hbLink('tab_region_story','news');">
+	<img alt="Aruba releases American businessman held in disappearance case" width="140" height="100" src="/rf/image_lowres/nypost/2011/11/29/news/web_photos/ArubaMissingAmerican092349--140x100.jpg" />
+		<h4><a name="&lid=tab_region_link&lpos=news" href="/p/news/international/gary_giordano_getting_robyn_disappearance_yTJcfwMOiwTBl6GK8FiMNN">Aruba releases American businessman held in disappearance case</a></h4>
+	<p>
+		ORANJESTAD, Aruba -- A US businessman who had been held in Aruba for almost four months following the disappearance of his vacation companion was released from custody Tuesday. Gary Giordano left jail with his lawyers, despite prosecutors still... &nbsp;<span class="update"> 7:34 PM</span>
+
+</p> 
+	<div class="clearer"></div>
+</li>
+<li class="story_list_data" onclick="href('/p/news/national/us_to_pay_in_photo_editor_anthrax_g88v8n4K87JlQUK0I7ngCK');_hbLink('tab_region_story','news');">
+	<h4><a name="&lid=tab_region_link&lpos=news" href="/p/news/national/us_to_pay_in_photo_editor_anthrax_g88v8n4K87JlQUK0I7ngCK">US to pay $2.5M in photo editor’s anthrax death</a></h4>
+	<p>
+		MIAMI &mdash; More than a decade after tabloid photo editor Robert Stevens became the first victim of the 2001 anthrax attacks, the U.S. government has... &nbsp;<span class="update"> 4:39 PM</span>
+
+</p> 
+	<div class="clearer"></div>
+</li>
+<li class="story_list_data" onclick="href('/p/news/national/obama_campaign_issues_first_ads_MyEn4mjH5AdwNC6GHFrL5I');_hbLink('tab_region_story','news');">
+	<img alt="WATCH: Obama campaign issues first ads of the campaign season" width="140" height="100" src="/rf/image_lowres/nypost/2011/11/29/news/web_photos/OBAMA_142056--140x100.jpg" />
+		<h4><a name="&lid=tab_region_link&lpos=news" href="/p/news/national/obama_campaign_issues_first_ads_MyEn4mjH5AdwNC6GHFrL5I">WATCH: Obama campaign issues first ads of the campaign season</a></h4>
+	<p>
+		CHICAGO -- President Barack Obama's 2012 campaign has made its first ad buy of the election season with two spots aimed at building momentum for the re-election bid. The ads began airing Monday on satellite vendors such as DIRECTV. Despite the... &nbsp;<span class="update"> 2:21 PM</span>
+
+</p> 
+	<div class="clearer"></div>
+</li>
+<li class="story_list_data" onclick="href('/p/news/international/biden_arrives_in_baghdad_on_surprise_8cnQuOzukT2uCNHK9HpwLO');_hbLink('tab_region_story','news');">
+	<h4><a name="&lid=tab_region_link&lpos=news" href="/p/news/international/biden_arrives_in_baghdad_on_surprise_8cnQuOzukT2uCNHK9HpwLO">Biden arrives in Baghdad on surprise visit</a></h4>
+	<p>
+		BAGHDAD -- US Vice President Joe Biden arrived in Baghdad Tuesday on a surprise visit ahead of the withdrawal of US troops from Iraq, FOX News Channel... &nbsp;<span class="update"> 1:18 PM</span>
+
+</p> 
+	<div class="clearer"></div>
+</li>
+<li class="story_list_data" onclick="href('/p/news/international/smoking_iphone_on_flight_investigated_OZx0oqU7OnSSKkBF2fLPXJ');_hbLink('tab_region_story','news');">
+	<h4><a name="&lid=tab_region_link&lpos=news" href="/p/news/international/smoking_iphone_on_flight_investigated_OZx0oqU7OnSSKkBF2fLPXJ">Smoking iPhone on flight investigated by Australian air safety bureau</a></h4>
+	<p>
+		SYDNEY -- Australia's aviation safety watchdog said Tuesday it was investigating after an Apple iPhone apparently began glowing red and emitting smoke... &nbsp;<span class="update"> 10:58 AM</span>
+
+</p> 
+	<div class="clearer"></div>
+</li>
+<li class="story_list_data" onclick="href('/p/news/business/missing_mf_global_money_potentially_ChsYzL5qgZjVnoVquh2FjL');_hbLink('tab_region_story','news');">
+	<h4><a name="&lid=tab_region_link&lpos=news" href="/p/news/business/missing_mf_global_money_potentially_ChsYzL5qgZjVnoVquh2FjL">Missing MF Global money potentially found in UK: report</a></h4>
+	<p>
+		LONDON -- Roughly $200 million in funds believed to belong to clients of bankrupt trading firm MF Global has reportedly been found at J.P. Morgan Chase... &nbsp;<span class="update"> 9:16 AM</span>
+
+</p> 
+	<div class="clearer"></div>
+</li>
+<li class="story_list_data" onclick="href('/p/news/international/russia_activates_radar_warning_system_Or4BvwBxQXq9n5q0IZ37rO');_hbLink('tab_region_story','news');">
+	<h4><a name="&lid=tab_region_link&lpos=news" href="/p/news/international/russia_activates_radar_warning_system_Or4BvwBxQXq9n5q0IZ37rO">Russia activates radar warning system amid US missile tensions</a></h4>
+	<p>
+		KALININGRAD, Russia -- Russia activated Tuesday a radar warning system in its Baltic region of Kaliningrad, amid growing tensions with the West over a... &nbsp;<span class="update"> 8:28 AM</span>
+
+</p> 
+	<div class="clearer"></div>
+</li>
+<li class="story_list_data" onclick="href('/p/news/international/pakistan_boycotts_bonn_conference_qfxuAWXOluIbtU8ramjicJ');_hbLink('tab_region_story','news');">
+	<img alt="Pakistan boycotts Bonn conference over NATO strike" width="140" height="100" src="/rf/image_lowres/nypost/2011/11/29/news/web_photos/PAKISTAN-NATO_085151--140x100.jpg" />
+		<h4><a name="&lid=tab_region_link&lpos=news" href="/p/news/international/pakistan_boycotts_bonn_conference_qfxuAWXOluIbtU8ramjicJ">Pakistan boycotts Bonn conference over NATO strike</a></h4>
+	<p>
+		ISLAMABAD, Pakistan -- Pakistan on Tuesday decided to boycott a key international conference on Afghanistan next month, widening its protest over lethal cross-border NATO strikes and exacerbating a deep crisis in US ties. The Pakistani cabinet made... &nbsp;<span class="update"> 9:19 AM</span>
+
+</p> 
+	<div class="clearer"></div>
+</li>
+<li class="story_list_data" onclick="href('/p/news/national/american_airlines_files_for_bankruptcy_UUFSnVhXxp64UuLO7612mK');_hbLink('tab_region_story','news');">
+	<h4><a name="&lid=tab_region_link&lpos=news" href="/p/news/national/american_airlines_files_for_bankruptcy_UUFSnVhXxp64UuLO7612mK">American Airlines files for bankruptcy, names new CEO</a></h4>
+	<p>
+		FORT WORTH, Texas -- AMR Corporation, the parent company of American Airlines, filed for Chapter 11 bankruptcy protection Tuesday to restructure... &nbsp;<span class="update"> 10:58 AM</span>
+
+</p> 
+	<div class="clearer"></div>
+</li>
+<li class="story_list_data last" onclick="href('/p/news/international/three_italian_brothers_suffer_heart_g61MKkNOpvXXDqelgJN71M');_hbLink('tab_region_story','news');">
+	<h4><a name="&lid=tab_region_link&lpos=news" href="/p/news/international/three_italian_brothers_suffer_heart_g61MKkNOpvXXDqelgJN71M">Three Italian brothers suffer heart attacks on same day, just one survives</a></h4>
+	<p>
+		CATANIA, Italy -- Three Italian brothers suffered heart attacks on the same day, killing two of them. The third was already in the hospital at the... &nbsp;<span class="update"> 8:28 AM</span>
+
+</p> 
+	<div class="clearer"></div>
+</li>
+</ul><ul id="sports" class="story_list_holder">
+
+	<li class="story_list_data first" onclick="href('/p/blogs/backpage/bobby_in_final_two_for_red_sox_job_0kRauSGPFCPqV9YeZWBfcJ');_hbLink('tab_region_story','sports');">
+	<img alt="Bobby V will manage Red Sox: report" width="140" height="100" src="/rf/image_lowres/nypost/2011/11/29/sports/web_photos/bv201159--140x100.jpg" />
+		<h4><a name="&lid=tab_region_link&lpos=sports" href="/p/blogs/backpage/bobby_in_final_two_for_red_sox_job_0kRauSGPFCPqV9YeZWBfcJ">Bobby V will manage Red Sox: report</a></h4>
+	<p>
+		BOSTON -- Bobby Valentine on Tuesday accepted an offer to be the new manager of the Boston Red Sox, ESPN reported, citing a source close to the team. Valentine, an analyst for ESPN, appeared at a charity event in Japan on Monday and was scheduled... &nbsp;<span class="update"> 8:32 PM</span>
+
+</p> 
+	<div class="clearer"></div>
+</li>
+<li class="story_list_data" onclick="href('/p/sports/knicks/paul_says_heart_is_in_new_orleans_MSaoLMHnWUW1ptnsfBUXEN');_hbLink('tab_region_story','sports');">
+	<img alt="Paul says 'heart is in New Orleans'" width="140" height="100" src="/rf/image_lowres/nypost/2011/11/29/sports/web_photos/cp191217--140x100.jpg" />
+		<h4><a name="&lid=tab_region_link&lpos=sports" href="/p/sports/knicks/paul_says_heart_is_in_new_orleans_MSaoLMHnWUW1ptnsfBUXEN">Paul says 'heart is in New Orleans'</a></h4>
+	<p>
+		Chris Paul can become a free agent after this season, and the new NBA labor agreement would still allow the Hornets to send the point guard to another team through a sign-and-trade deal to get something in return if it appears he&rsquo;s determined to... &nbsp;<span class="update"> 7:15 PM</span>
+
+</p> 
+	<div class="clearer"></div>
+</li>
+<li class="story_list_data" onclick="href('/p/sports/college/basketball/st_john_coach_lavin_out_indefinitely_KDZPRE3KDMVuoFG546EBXO');_hbLink('tab_region_story','sports');">
+	<h4><a name="&lid=tab_region_link&lpos=sports" href="/p/sports/college/basketball/st_john_coach_lavin_out_indefinitely_KDZPRE3KDMVuoFG546EBXO">St. John's coach Lavin out indefinitely: report</a></h4>
+	<p>
+		Steve Lavin will not coach St. John's again until he has regained full stamina recovering from prostate surgery, ESPN.com reported Monday. Lavin will... &nbsp;<span class="update"> 7:23 PM</span>
+
+</p> 
+	<div class="clearer"></div>
+</li>
+<li class="story_list_data" onclick="href('/p/sports/college/basketball/syracuse_says_boeheim_staying_as_kktiGDuePsN2E6q77CyNTO');_hbLink('tab_region_story','sports');">
+	<h4><a name="&lid=tab_region_link&lpos=sports" href="/p/sports/college/basketball/syracuse_says_boeheim_staying_as_kktiGDuePsN2E6q77CyNTO">Syracuse says Boeheim will stay, gets standing ovation</a></h4>
+	<p>
+		SYRACUSE -- Syracuse University Chancellor Nancy Cantor gave men&rsquo;s basketball coach Jim Boeheim a vote of confidence Tuesday amid an investigation of... &nbsp;<span class="update"> 7:26 PM</span>
+
+</p> 
+	<div class="clearer"></div>
+</li>
+<li class="story_list_data" onclick="href('/p/blogs/giantsblog/giants_umenyiora_likely_out_weeks_6h0NIRCdpyuXuAR0tMC00K');_hbLink('tab_region_story','sports');">
+	<img alt="Giants' Umenyiora likely out weeks" width="140" height="100" src="/rf/image_lowres/nypost/2011/11/29/sports/web_photos/ou191800--140x100.jpg" />
+		<h4><a name="&lid=tab_region_link&lpos=sports" href="/p/blogs/giantsblog/giants_umenyiora_likely_out_weeks_6h0NIRCdpyuXuAR0tMC00K">Giants' Umenyiora likely out weeks</a></h4>
+	<p>
+		It looks as if the Giants, already sagging with a shamefully unproductive pass rush, will play Sunday against the Packers without defensive end Osi Umenyiora, who likely will be sidelined with a sprained ankle. Umenyiora was at the Hospital for... &nbsp;<span class="update"> 7:22 PM</span>
+
+</p> 
+	<div class="clearer"></div>
+</li>
+<li class="story_list_data" onclick="href('/p/blogs/giantsblog/rolle_says_giants_absolutely_will_M872J51dqHESz0DyZ7dthK');_hbLink('tab_region_story','sports');">
+	<h4><a name="&lid=tab_region_link&lpos=sports" href="/p/blogs/giantsblog/rolle_says_giants_absolutely_will_M872J51dqHESz0DyZ7dthK">Rolle says Giants 'absolutely' will make playoffs</a></h4>
+	<p>
+		On the day after a brutal loss to the Saints, Antrel Rolle said the Giants will make the playoffs. &ldquo;Absolutely,&rsquo;&rsquo; Rolle said Tuesday afternoon on his... &nbsp;<span class="update"> 4:19 PM</span>
+
+</p> 
+	<div class="clearer"></div>
+</li>
+<li class="story_list_data" onclick="href('/p/blogs/jetsblog/sanchez_says_jets_can_play_like_KZGuwiGWdLCuXONrm4o20N');_hbLink('tab_region_story','sports');">
+	<h4><a name="&lid=tab_region_link&lpos=sports" href="/p/blogs/jetsblog/sanchez_says_jets_can_play_like_KZGuwiGWdLCuXONrm4o20N">Sanchez says Jets can't play like that and win</a></h4>
+	<p>
+		Jets quarterback Mark Sanchez knows he needs to improve to get his team to the playoffs. Sanchez threw four touchdowns Sunday in the 28-24 win over... &nbsp;<span class="update"> 5:53 PM</span>
+
+</p> 
+	<div class="clearer"></div>
+</li>
+<li class="story_list_data" onclick="href('/p/blogs/jetsblog/leonhard_takes_issue_with_jets_fans_yxMyVSDjagoRcFqAq9oyWM');_hbLink('tab_region_story','sports');">
+	<h4><a name="&lid=tab_region_link&lpos=sports" href="/p/blogs/jetsblog/leonhard_takes_issue_with_jets_fans_yxMyVSDjagoRcFqAq9oyWM">Leonhard takes issue with Jets fans booing Sanchez</a></h4>
+	<p>
+		Jets safety Jim Leonhard took issue with the fans at MetLife Stadium booing quarterback Mark Sanchez before Sunday&rsquo;s win over the Bills. Sanchez was... &nbsp;<span class="update"> 7:22 PM</span>
+
+</p> 
+	<div class="clearer"></div>
+</li>
+<li class="story_list_data" onclick="href('/p/sports/more_sports/nfl_suspends_lions_suh_for_two_games_ORTnKRN2jzQ76K7U5vzVIP');_hbLink('tab_region_story','sports');">
+	<h4><a name="&lid=tab_region_link&lpos=sports" href="/p/sports/more_sports/nfl_suspends_lions_suh_for_two_games_ORTnKRN2jzQ76K7U5vzVIP">Lions' Suh appeals two-game suspension</a></h4>
+	<p>
+		ALLEN PARK, Mich.&mdash; Ndamukong Suh is going back to the NFL, this time hoping for some leniency. The league suspended Detroit&rsquo;s All-Pro defensive... &nbsp;<span class="update"> 8:22 PM</span>
+
+</p> 
+	<div class="clearer"></div>
+</li>
+<li class="story_list_data" onclick="href('/p/sports/more_sports/texans_sign_qb_delhomme_agent_oIQjcwcUSuVtisVPqIiZDM');_hbLink('tab_region_story','sports');">
+	<h4><a name="&lid=tab_region_link&lpos=sports" href="/p/sports/more_sports/texans_sign_qb_delhomme_agent_oIQjcwcUSuVtisVPqIiZDM">Texans sign QB Delhomme</a></h4>
+	<p>
+		HOUSTON -- The injury-riddled Houston Texans added to their quarterback depth Tuesday, reaching a deal with Jake Delhomme. Delhomme worked out with... &nbsp;<span class="update"> 7:15 PM</span>
+
+</p> 
+	<div class="clearer"></div>
+</li>
+<li class="story_list_data" onclick="href('/p/sports/more_sports/jaguars_fire_head_coach_del_rio_YUavkFkdc1vKXbIqxY5K4O');_hbLink('tab_region_story','sports');">
+	<h4><a name="&lid=tab_region_link&lpos=sports" href="/p/sports/more_sports/jaguars_fire_head_coach_del_rio_YUavkFkdc1vKXbIqxY5K4O">Jaguars announce sale of team; fire head coach Del Rio</a></h4>
+	<p>
+		JACKSONVILLE, Fla. -- Shortly after the firing of longtime head coach Jack Del Rio, Jacksonville Jaguars owner Wayne Weaver announced Tuesday he is... &nbsp;<span class="update"> 3:27 PM</span>
+
+</p> 
+	<div class="clearer"></div>
+</li>
+<li class="story_list_data" onclick="href('/p/blogs/slapshot/rangers_have_interest_in_ducks_ryan_wSl8ga4qJ9dqKy2mL8SQVI');_hbLink('tab_region_story','sports');">
+	<h4><a name="&lid=tab_region_link&lpos=sports" href="/p/blogs/slapshot/rangers_have_interest_in_ducks_ryan_wSl8ga4qJ9dqKy2mL8SQVI">Rangers have interest in Ducks' Ryan</a></h4>
+	<p>
+		Rangers general manager Glen Sather has been in touch with Anaheim counterpart Bob Murray regarding the availability of 24-year-old power winger Bobby... &nbsp;<span class="update"> 6:52 PM</span>
+
+</p> 
+	<div class="clearer"></div>
+</li>
+<li class="story_list_data" onclick="href('/p/sports/rangers/rangers_staal_begins_skating_qTxVQbOIV43R4twHNzbZpI');_hbLink('tab_region_story','sports');">
+	<h4><a name="&lid=tab_region_link&lpos=sports" href="/p/sports/rangers/rangers_staal_begins_skating_qTxVQbOIV43R4twHNzbZpI">Rangers’ Staal begins skating</a></h4>
+	<p>
+		Marc Staal has begun skating on his own this week, thus taking another stride on his road to recovery from the post-concussion headaches that have... &nbsp;<span class="update"> 6:54 PM</span>
+
+</p> 
+	<div class="clearer"></div>
+</li>
+<li class="story_list_data" onclick="href('/p/blogs/nhlblog/crosby_tells_rangers_staal_not_to_AUSu3t6kziXR3deWPkXkVO');_hbLink('tab_region_story','sports');">
+	<h4><a name="&lid=tab_region_link&lpos=sports" href="/p/blogs/nhlblog/crosby_tells_rangers_staal_not_to_AUSu3t6kziXR3deWPkXkVO">Crosby tells Rangers' Staal not to rush back from concussion</a></h4>
+	<p>
+		If there&rsquo;s anyone who knows what Rangers defenseman Marc Staal is going through right now, it&rsquo;s Penguins star Sidney Crosby. &ldquo;There are days when you... &nbsp;<span class="update"> 7:00 PM</span>
+
+</p> 
+	<div class="clearer"></div>
+</li>
+<li class="story_list_data" onclick="href('/p/pagesix/kris_humphries_in_utter_horror_watching_4CnmQlQV4eLLuvrooYrz9I');_hbLink('tab_region_story','sports');">
+	<img alt="Humphries in 'utter horror' watching 'Kourtney & Kim' premiere" width="140" height="100" src="/rf/image_lowres/nypost/2011/11/29/pagesix/web_photos/1117N03XX010095518--140x100.jpg" />
+		<h4><a name="&lid=tab_region_link&lpos=sports" href="/p/pagesix/kris_humphries_in_utter_horror_watching_4CnmQlQV4eLLuvrooYrz9I">Humphries in 'utter horror' watching 'Kourtney & Kim' premiere</a></h4>
+	<p>
+		Kim Kardashian's estranged husband, Kris Humphries, was among the 3.2 million people watching the season two premiere of "Kourtney &amp; Kim Take New York" Sunday night. The episode left the basketball star in "utter horror," reports say. A source... &nbsp;<span class="update"> 5:42 PM</span>
+
+</p> 
+	<div class="clearer"></div>
+</li>
+<li class="story_list_data last" onclick="href('/p/blogs/marc_raimondi/iona_prep_combs_son_ucla_rap_mogul_kq6pzJgkyWqRBgGKbVgXvL');_hbLink('tab_region_story','sports');">
+	<img alt="Iona Prep's Combs, son of rap mogul Diddy, commits to UCLA" width="140" height="100" src="/rf/image_lowres/nypost/blogs/marc_raimondi/201111/Images/combs--140x100.jpg" />
+		<h4><a name="&lid=tab_region_link&lpos=sports" href="/p/blogs/marc_raimondi/iona_prep_combs_son_ucla_rap_mogul_kq6pzJgkyWqRBgGKbVgXvL">Iona Prep's Combs, son of rap mogul Diddy, commits to UCLA</a></h4>
+	<p>
+		Diddy&rsquo;s son is heading to Hollywood. Justin Combs, Iona Prep&rsquo;s star defensive back, committed to play football at UCLA on Tuesday, spurning Illinois and Virginia, among others. The 5-foot-9, 170-pound cornerback will compete in the Semper Fidelis... &nbsp;<span class="update"> 7:40 PM</span>
+
+</p> 
+	<div class="clearer"></div>
+</li>
+</ul><ul id="entertainment" class="story_list_holder">
+
+	<li class="story_list_data first" onclick="href('/p/entertainment/food/the_sports_bar_goes_glam_EY3CiopmfEvhRCYqoYD0dJ');_hbLink('tab_region_story','entertainment');">
+	<img alt="The sports bar goes glam" width="140" height="100" src="/rf/image_lowres/nypost/2011/11/29/pulse/web_photos/pulse_cover--140x100.jpg" />
+		<h4><a name="&lid=tab_region_link&lpos=entertainment" href="/p/entertainment/food/the_sports_bar_goes_glam_EY3CiopmfEvhRCYqoYD0dJ">The sports bar goes glam</a></h4>
+	<p>
+		Stop by Bounce Sporting Club on any given Sunday and you&rsquo;ll likely find a bunch of guys hanging out, eating duck confit sliders and ordering Grey Goose by the bottle. Look closer, past the DJ booth and the girls in heels, and you&rsquo;ll see this is no... &nbsp;<span class="update"> 12:58 PM</span>
+
+</p> 
+	<div class="clearer"></div>
+</li>
+<li class="story_list_data" onclick="href('/p/entertainment/comedian_patrice_neal_dead_at_age_GtHXl5Oy9dwpT7MzEB4nBL');_hbLink('tab_region_story','entertainment');">
+	<img alt="Comedian Patrice O'Neal dead at age 41" width="140" height="100" src="/rf/image_lowres/nypost/2011/11/29/pulse/web_photos/505664859125610--140x100.jpg" />
+		<h4><a name="&lid=tab_region_link&lpos=entertainment" href="/p/entertainment/comedian_patrice_neal_dead_at_age_GtHXl5Oy9dwpT7MzEB4nBL">Comedian Patrice O'Neal dead at age 41</a></h4>
+	<p>
+		Comedian Patrice O'Neal died Monday at the age of 41 after suffering a stroke in late October, the hosts of the "Opie and Anthony" radio show announced. "Yes it's true that our pal Patrice O'Neal has passed away. The funniest and best thinker I've... &nbsp;<span class="update"> 2:39 PM</span>
+
+</p> 
+	<div class="clearer"></div>
+</li>
+<li class="story_list_data" onclick="href('/p/entertainment/tv/ricky_martin_to_guest_star_on_glee_qrtJ0optmGASfIX7BUYfGP');_hbLink('tab_region_story','entertainment');">
+	<img alt="Ricky Martin to guest star on 'Glee'" width="140" height="100" src="/rf/image_lowres/nypost/2011/11/29/pulse/web_photos/RickyMartin154141--140x100.jpg" />
+		<h4><a name="&lid=tab_region_link&lpos=entertainment" href="/p/entertainment/tv/ricky_martin_to_guest_star_on_glee_qrtJ0optmGASfIX7BUYfGP">Ricky Martin to guest star on 'Glee'</a></h4>
+	<p>
+		LOS ANGELES -- Ricky Martin is set to guest star on "Glee" as a music-loving Spanish teacher, TV Line reported Tuesday. The 39-year-old singer will play "the hottest Spanish teacher ever" on the FOX hit, a source close to the show told the... &nbsp;<span class="update"> 4:05 PM</span>
+
+</p> 
+	<div class="clearer"></div>
+</li>
+<li class="story_list_data" onclick="href('/p/entertainment/music/amy_winehouse_back_to_black_dress_IyrKkScpZNjsPrdmlGtjhM');_hbLink('tab_region_story','entertainment');">
+	<img alt="Amy Winehouse's 'Back to Black' dress fetches £43,200 at auction" width="140" height="100" src="/rf/image_lowres/nypost/2011/11/29/pulse/web_photos/134204147143805--140x100.jpg" />
+		<h4><a name="&lid=tab_region_link&lpos=entertainment" href="/p/entertainment/music/amy_winehouse_back_to_black_dress_IyrKkScpZNjsPrdmlGtjhM">Amy Winehouse's 'Back to Black' dress fetches £43,200 at auction</a></h4>
+	<p>
+		LONDON -- A dress worn by the late singer Amy Winehouse on the cover of her album "Back to Black" sold for &pound;43,200 ($67,500) at auction in London Tuesday. The proceeds from the auction of the printed chiffon dress will go to the Amy Winehouse... &nbsp;<span class="update"> 2:39 PM</span>
+
+</p> 
+	<div class="clearer"></div>
+</li>
+<li class="story_list_data" onclick="href('/p/entertainment/fahrenheit_finally_out_as_an_book_oqFvPPu75Dc2fVs5sxkL6L');_hbLink('tab_region_story','entertainment');">
+	<img alt="'Fahrenheit 451' finally out as an e-book" width="140" height="100" src="/rf/image_lowres/nypost/2011/11/29/pulse/web_photos/BRADBURY104828--140x100.jpg" />
+		<h4><a name="&lid=tab_region_link&lpos=entertainment" href="/p/entertainment/fahrenheit_finally_out_as_an_book_oqFvPPu75Dc2fVs5sxkL6L">'Fahrenheit 451' finally out as an e-book</a></h4>
+	<p>
+		At age 91, Ray Bradbury is making peace with the future he helped predict. The science fiction/fantasy author and longtime enemy of the e-book has finally allowed his dystopian classic "Fahrenheit 451" to be published in digital format. Simon &amp;... &nbsp;<span class="update"> 10:50 AM</span>
+
+</p> 
+	<div class="clearer"></div>
+</li>
+<li class="story_list_data" onclick="href('/p/entertainment/tv/the_line_aZQTt927LuKt8JYOCCO6IL');_hbLink('tab_region_story','entertainment');">
+	<img alt="The ‘O’ line" width="140" height="100" src="/rf/image_lowres/nypost/2011/11/29/tv/web_photos/29.1T069.oprah2c.ta--140x100.jpg" />
+		<h4><a name="&lid=tab_region_link&lpos=entertainment" href="/p/entertainment/tv/the_line_aZQTt927LuKt8JYOCCO6IL">The ‘O’ line</a></h4>
+	<p>
+		The surging Atlanta Falcons are calling on Oprah Winfrey for last-minute help. Literally. Falcons quarterback Matt Ryan barked &ldquo;Four-Oprah!&rdquo; to his offense during Atlanta&rsquo;s 24-14 victory Sunday over Minnesota &mdash; using the former talk show host&rsquo;s... &nbsp;<span class="update"> 12:58 PM</span>
+
+</p> 
+	<div class="clearer"></div>
+</li>
+<li class="story_list_data" onclick="href('/p/entertainment/tv/not_so_secret_formula_WX68RQTd9w59tIUJ7H0lYO');_hbLink('tab_region_story','entertainment');">
+	<img alt="Not-so-secret formula" width="140" height="100" src="/rf/image_lowres/nypost/2011/11/29/tv/web_photos/29.1T069.innocentc--140x100.jpg" />
+		<h4><a name="&lid=tab_region_link&lpos=entertainment" href="/p/entertainment/tv/not_so_secret_formula_WX68RQTd9w59tIUJ7H0lYO">Not-so-secret formula</a></h4>
+	<p>
+		As networks continue to lose viewers with their lame attempts at creating edgy shows to compete with cable, cable has gone back and created the kind of sure-fire hit that the networks gave up because they weren&rsquo;t edgy enough in the first place. I&rsquo;m... &nbsp;<span class="update"> 12:58 PM</span>
+
+</p> 
+	<div class="clearer"></div>
+</li>
+<li class="story_list_data" onclick="href('/p/entertainment/tv/real_office_supplies_kY5LWvmn126JfUAHTQNNMN');_hbLink('tab_region_story','entertainment');">
+	<img alt="Real ‘Office’ supplies" width="140" height="100" src="/rf/image_lowres/nypost/2011/11/29/tv/web_photos/29.1T069.officec--140x100.jpg" />
+		<h4><a name="&lid=tab_region_link&lpos=entertainment" href="/p/entertainment/tv/real_office_supplies_kY5LWvmn126JfUAHTQNNMN">Real ‘Office’ supplies</a></h4>
+	<p>
+		Now you can stock your office with official &ldquo;Office&rdquo; paper. NBC has teamed up with paper company Quill to create an officially licensed brand of Dunder Mifflin Inc. copy paper &mdash; natch &mdash; based on the fictional paper product supply company where the... &nbsp;<span class="update"> 12:58 PM</span>
+
+</p> 
+	<div class="clearer"></div>
+</li>
+<li class="story_list_data" onclick="href('/p/entertainment/tv/perry_writes_penn_st_victim_8Mh7ZLepkiXqTt3MIhk10J');_hbLink('tab_region_story','entertainment');">
+	<img alt="Perry writes Penn St. victim" width="140" height="100" src="/rf/image_lowres/nypost/2011/11/28/tv/web_photos/tyler_perry--140x100.jpg" />
+		<h4><a name="&lid=tab_region_link&lpos=entertainment" href="/p/entertainment/tv/perry_writes_penn_st_victim_8Mh7ZLepkiXqTt3MIhk10J">Perry writes Penn St. victim</a></h4>
+	<p>
+		Tyler Perry has penned an open letter to one of the alleged victims in the Penn State molestation scandal. The popular actor/producer/writer best known for his &ldquo;Madea&rdquo; films and TBS comedies including &ldquo;Tyler Perry&rsquo;s House of Payne,&rdquo; got serious... &nbsp;<span class="update"> 12:58 PM</span>
+
+</p> 
+	<div class="clearer"></div>
+</li>
+<li class="story_list_data" onclick="href('/p/entertainment/tv/awkward_community_voted_no_YgCKJxi3g7bjVbzHcwFViM');_hbLink('tab_region_story','entertainment');">
+	<h4><a name="&lid=tab_region_link&lpos=entertainment" href="/p/entertainment/tv/awkward_community_voted_no_YgCKJxi3g7bjVbzHcwFViM">Awkward . . . ‘Community’ voted No. 1</a></h4>
+	<p>
+		What an embarrassment! The No. 1 favorite show in TV Guide&rsquo;s annual reader&rsquo;s poll is . . . &ldquo;Community,&rdquo; the comedy NBC pulled off the air last week.... &nbsp;<span class="update"> 12:58 PM</span>
+
+</p> 
+	<div class="clearer"></div>
+</li>
+<li class="story_list_data" onclick="href('/p/entertainment/music/chris_cornell_has_mellow_new_sound_0INLYIKcEbhjczRHmmwf2O');_hbLink('tab_region_story','entertainment');">
+	<img alt="Chris Cornell has a mellow new sound garden" width="140" height="100" src="/rf/image_lowres/nypost/2011/11/29/pulse/web_photos/29.1e038.cd3.C--140x100.jpg" />
+		<h4><a name="&lid=tab_region_link&lpos=entertainment" href="/p/entertainment/music/chris_cornell_has_mellow_new_sound_0INLYIKcEbhjczRHmmwf2O">Chris Cornell has a mellow new sound garden</a></h4>
+	<p>
+		Album of the week CHRIS CORNELL &ldquo;Songbook&rdquo;3 1/2 stars While Chris Cornell is famous as the frontman for big, loud bands such as Temple of the Dog, Soundgarden and Audioslave, this year the singer has experimented with quiet-riot arrangements in a... &nbsp;<span class="update"> 12:58 PM</span>
+
+</p> 
+	<div class="clearer"></div>
+</li>
+<li class="story_list_data last" onclick="href('/p/entertainment/tv/starr_report_4EE8I3UoXc8mdqh1ghzb1I');_hbLink('tab_region_story','entertainment');">
+	<img alt="Starr report" width="140" height="100" src="/rf/image_lowres/nypost/2011/11/29/tv/web_photos/tasha_smith--140x100.jpg" />
+		<h4><a name="&lid=tab_region_link&lpos=entertainment" href="/p/entertainment/tv/starr_report_4EE8I3UoXc8mdqh1ghzb1I">Starr report</a></h4>
+	<p>
+		For all the hoo-ha of &ldquo;Leno vs. Letterman,&rdquo; it&rsquo;s actually ABC&rsquo;s &ldquo;Nightline&rdquo; that&rsquo;s making the most noise in late night as we near the year&rsquo;s end. For the week of Nov. 14, &ldquo;Nightline&rdquo; (Cynthia McFadden, Terry Moran and Bill Weir) averaged nearly 4... &nbsp;</p> 
+	<div class="clearer"></div>
+</li>
+</ul><ul class="mini_nav">
+
+	<li class="first"><a href="/Signup">Newsletter</a></li>
+
+	<li><a href="https://secure.nypost.com/homedelivery/signup.htm">Subscribe</a></li>
+
+	<li class="last"><a href="/Rss"><img alt="RSS" src="/rw/SysConfig/WebPortal/nypost/images/icon_rss.png" />RSS</a></li>
+
+	</ul><div class="clearer"></div> 
+</div><div class="section_block three_cols block" id="pagesix_section_block">
+  	
+    
+    <!-- <a href="/pagesix"><h2 class="block_title">Page Six</h2></a>-->
+    <a name="&lid=module_region_label&lpos=pagesix" href="/pagesix"><h2 class="block_title">Page Six</h2></a>
+    	<div class="section_block_lt">
+		<div class="data_block" onclick="href('/p/pagesix/fairy_tale_kar_crash_end_U6cUp4M7A5omI1whqvdF6J');_hbLink('module_region_story','pagesix');">
+
+	<img alt="Fairy tale’s Kar-crash end" width="140" height="100" src="/rf/image_lowres/nypost/2011/11/29/pagesix/web_photos/kim_kardashian--140x100.jpg" />
+
+	<h4><a name="&lid=module_region_story&lpos=pagesix" href="/p/pagesix/fairy_tale_kar_crash_end_U6cUp4M7A5omI1whqvdF6J">Fairy tale’s Kar-crash end</a></h4> 
+
+	<p>
+
+		Kim Kardashian has given up on her dreams of fairy-tale romance... &nbsp;<span class="update"> 10:12 AM</span>
+
+</p>
+
+</div><div class="data_block" onclick="href('/p/pagesix/cuomo_culinary_critique_EknRrEe5XcTsldd1huDg5K');_hbLink('module_region_story','pagesix');">
+
+	<img alt="Cuomo culinary critique" width="140" height="100" src="/rf/image_lowres/nypost/2011/11/29/pagesix/web_photos/sandra_and_matilda2--140x100.jpg" />
+
+	<h4><a name="&lid=module_region_story&lpos=pagesix" href="/p/pagesix/cuomo_culinary_critique_EknRrEe5XcTsldd1huDg5K">Cuomo culinary critique</a></h4> 
+
+	<p>
+
+		Mama Mia! Gov. Andrew Cuomo&rsquo;s mother, Matilda, says the kitchen... &nbsp;<span class="update"> 12:28 AM</span>
+
+</p>
+
+</div><div class="clearer"></div>
+		<div class="section_block_extra" onclick="href('/p/pagesix/cindy_adams/tilda_talking_AKPHfj8gEE0kBiV4PO1uAL');_hbLink('module_region_story','pagesix');">
+
+  <img src="/rw/SysConfig/WebPortal/nypost/images/columnist_headshots/cindy_adams.png" alt="Cindy Adams" class="headshot" />
+
+    <a class="columnist_name cindy_logo" name="&lid=module_region_story&lpos=pagesix" href="/p/pagesix/cindy_adams/tilda_talking_AKPHfj8gEE0kBiV4PO1uAL">Cindy Adams</a>
+
+  		<h4><a name="&lid=module_region_story&lpos=pagesix" href="/p/pagesix/cindy_adams/tilda_talking_AKPHfj8gEE0kBiV4PO1uAL">Tilda’s talking</a></h4> 
+
+  <p>
+
+    Tilda Swinton. One day in New York for her new movie &ldquo;We Need To... &nbsp;<span class="update"> 12:48 AM</span>
+
+</p>
+
+</div></div>
+	<ul class="links">
+	<li class="link_block" onclick="href('/p/pagesix/glad_to_be_free_UikEqnoDWItZGk8SLDPN7M');_hbLink('module_region_story','pagesix');">
+				<h5>
+					<a name="&lid=module_region_link&lpos=pagesix" href="/p/pagesix/glad_to_be_free_UikEqnoDWItZGk8SLDPN7M">Glad to be free</a>
+						</h5>
+				<p class="links">
+					Newly single Demi Moore stepped out for the first time since her... &nbsp;</p>
+			</li>
+		<li class="link_block" onclick="href('/p/pagesix/coming_home_aJu42tMKcjRcvZ27G9AiPM');_hbLink('module_region_story','pagesix');">
+				<h5>
+					<a name="&lid=module_region_link&lpos=pagesix" href="/p/pagesix/coming_home_aJu42tMKcjRcvZ27G9AiPM">Coming home</a>
+						</h5>
+				<p class="links">
+					Nicky Hilton is looking to leave the Hollywood scene and move to... &nbsp;</p>
+			</li>
+		<li class="link_block first" onclick="href('/p/pagesix/thorn_to_rose_ceMai9tjKjiVEBLGHb3LKN');_hbLink('module_region_story','pagesix');">
+				<h5>
+					<a name="&lid=module_region_link&lpos=pagesix" href="/p/pagesix/thorn_to_rose_ceMai9tjKjiVEBLGHb3LKN">Thorn to Rose</a>
+						</h5>
+				<p class="links">
+					Salman Rushdie is quashing any notion he and saucy Social Life... &nbsp;</p>
+			</li>
+		</ul>
+	<div class="clearer"></div>
+
+	<div class="btn default">
+
+    <div class="btn_lt"></div>
+
+    <div class="btn_body">
+
+      <a href="/pagesix" name="&lid=btn&lpos=Page Six">
+
+         <span class="prefix">More in</span> Page Six</a>
+
+    </div>
+
+    <div class="btn_rt"></div>
+
+    <div class="clearer"></div>
+
+  </div><div class="clearer"></div>
+</div><div class="block ad wrap quigo">
+
+	  <div class="ad quigo">
+
+	    <script type="text/javascript">adsonar_placementId=1506171;adsonar_pid=871775;adsonar_ps=-1;adsonar_zw=440;adsonar_zh=150;adsonar_jv='ads.adsonar.com';</script><script language="JavaScript" src="http://js.adsonar.com/js/adsonar.js"></script>
+
+	      </div>
+
+	</div>
+
+<div class="section_block three_cols block" id="sports_section_block">
+  	
+    
+    <!-- <a href=""><h2 class="block_title">Sports</h2></a>-->
+    <a name="&lid=module_region_label&lpos=sports" href="/sports"><h2 class="block_title">Sports</h2></a>
+    	<div class="section_block_lt">
+		<div class="data_block" onclick="href('/p/blogs/backpage/bobby_in_final_two_for_red_sox_job_0kRauSGPFCPqV9YeZWBfcJ');_hbLink('module_region_story','sports');">
+
+	<img alt="Bobby V will manage Red Sox: report" width="140" height="100" src="/rf/image_lowres/nypost/2011/11/29/sports/web_photos/bv201159--140x100.jpg" />
+
+	<h4><a name="&lid=module_region_story&lpos=sports" href="/p/blogs/backpage/bobby_in_final_two_for_red_sox_job_0kRauSGPFCPqV9YeZWBfcJ">Bobby V will manage Red Sox: report</a></h4> 
+
+	<p>
+
+		BOSTON -- Bobby Valentine on Tuesday accepted an offer to be the... &nbsp;<span class="update"> 8:27 PM</span>
+
+</p>
+
+</div><div class="data_block" onclick="href('/p/sports/knicks/paul_says_heart_is_in_new_orleans_MSaoLMHnWUW1ptnsfBUXEN');_hbLink('module_region_story','sports');">
+
+	<img alt="Paul says 'heart is in New Orleans'" width="140" height="100" src="/rf/image_lowres/nypost/2011/11/29/sports/web_photos/cp191217--140x100.jpg" />
+
+	<h4><a name="&lid=module_region_story&lpos=sports" href="/p/sports/knicks/paul_says_heart_is_in_new_orleans_MSaoLMHnWUW1ptnsfBUXEN">Paul says 'heart is in New Orleans'</a></h4> 
+
+	<p>
+
+		Chris Paul can become a free agent after this season, and the new... &nbsp;<span class="update"> 7:15 PM</span>
+
+</p>
+
+</div><div class="clearer"></div>
+		<div class="section_block_extra" onclick="href('/p/sports/college/basketball/syracuse_says_boeheim_staying_as_kktiGDuePsN2E6q77CyNTO');_hbLink('module_region_story','sports');">
+
+  <h4><a name="&lid=module_region_story&lpos=sports" href="/p/sports/college/basketball/syracuse_says_boeheim_staying_as_kktiGDuePsN2E6q77CyNTO">Syracuse says Boeheim will stay, gets standing ovation</a></h4> 
+
+  <p>
+
+    SYRACUSE -- Syracuse University Chancellor Nancy Cantor gave men... &nbsp;<span class="update"> 7:26 PM</span>
+
+</p>
+
+</div></div>
+	<ul class="links">
+	<li class="link_block" onclick="href('/p/blogs/giantsblog/giants_umenyiora_likely_out_weeks_6h0NIRCdpyuXuAR0tMC00K');_hbLink('module_region_story','sports');">
+				<h5>
+					<a name="&lid=module_region_link&lpos=sports" href="/p/blogs/giantsblog/giants_umenyiora_likely_out_weeks_6h0NIRCdpyuXuAR0tMC00K">Giants' Umenyiora likely out weeks</a>
+						</h5>
+				<p class="links">
+					It looks as if the Giants, already sagging with a shamefully... &nbsp;</p>
+			</li>
+		<li class="link_block" onclick="href('/p/sports/college/basketball/st_john_coach_lavin_out_indefinitely_KDZPRE3KDMVuoFG546EBXO');_hbLink('module_region_story','sports');">
+				<h5>
+					<a name="&lid=module_region_link&lpos=sports" href="/p/sports/college/basketball/st_john_coach_lavin_out_indefinitely_KDZPRE3KDMVuoFG546EBXO">St. John's coach Lavin out indefinitely: report</a>
+						</h5>
+				<p class="links">
+					Steve Lavin will not coach St. John's again until he has regained... &nbsp;</p>
+			</li>
+		<li class="link_block first" onclick="href('/p/sports/rangers/rangers_staal_begins_skating_qTxVQbOIV43R4twHNzbZpI');_hbLink('module_region_story','sports');">
+				<h5>
+					<a name="&lid=module_region_link&lpos=sports" href="/p/sports/rangers/rangers_staal_begins_skating_qTxVQbOIV43R4twHNzbZpI">Rangers’ Staal begins skating</a>
+						</h5>
+				<p class="links">
+					Marc Staal has begun skating on his own this week, thus taking... &nbsp;</p>
+			</li>
+		</ul>
+	<div class="clearer"></div>
+
+	<div class="btn default">
+
+    <div class="btn_lt"></div>
+
+    <div class="btn_body">
+
+      <a href="/sports" name="&lid=btn&lpos=Sports">
+
+         <span class="prefix">More in</span> Sports</a>
+
+    </div>
+
+    <div class="btn_rt"></div>
+
+    <div class="clearer"></div>
+
+  </div><div class="clearer"></div>
+</div><div class="section_block three_cols block" id="entertainment_section_block">
+  	
+    
+    <!-- <a href=""><h2 class="block_title">Entertainment</h2></a>-->
+    <a name="&lid=module_region_label&lpos=entertainment" href="/entertainment"><h2 class="block_title">Entertainment</h2></a>
+    	<div class="section_block_lt">
+		<div class="data_block" onclick="href('/p/entertainment/food/the_sports_bar_goes_glam_EY3CiopmfEvhRCYqoYD0dJ');_hbLink('module_region_story','entertainment');">
+
+	<img alt="The sports bar goes glam" width="140" height="100" src="/rf/image_lowres/nypost/2011/11/29/pulse/web_photos/pulse_cover--140x100.jpg" />
+
+	<h4><a name="&lid=module_region_story&lpos=entertainment" href="/p/entertainment/food/the_sports_bar_goes_glam_EY3CiopmfEvhRCYqoYD0dJ">The sports bar goes glam</a></h4> 
+
+	<p>
+
+		Stop by Bounce Sporting Club on any given Sunday and you&rsquo;ll... &nbsp;<span class="update"> 12:58 PM</span>
+
+</p>
+
+</div><div class="data_block" onclick="href('/p/entertainment/tv/the_line_aZQTt927LuKt8JYOCCO6IL');_hbLink('module_region_story','entertainment');">
+
+	<img alt="The ‘O’ line" width="140" height="100" src="/rf/image_lowres/nypost/2011/11/29/tv/web_photos/29.1T069.oprah2c.ta--140x100.jpg" />
+
+	<h4><a name="&lid=module_region_story&lpos=entertainment" href="/p/entertainment/tv/the_line_aZQTt927LuKt8JYOCCO6IL">The ‘O’ line</a></h4> 
+
+	<p>
+
+		The surging Atlanta Falcons are calling on Oprah Winfrey for last... &nbsp;<span class="update"> 12:58 PM</span>
+
+</p>
+
+</div><div class="clearer"></div>
+		<div class="section_block_extra" onclick="href('/p/entertainment/tv/starr_report_4EE8I3UoXc8mdqh1ghzb1I');_hbLink('module_region_story','entertainment');">
+
+  <img src="/rw/SysConfig/WebPortal/nypost/images/columnist_headshots/michael_starr.png" alt="Michael Starr" class="headshot" />
+
+    <a class="columnist_name" name="&lid=module_region_story&lpos=entertainment" href="/p/entertainment/tv/starr_report_4EE8I3UoXc8mdqh1ghzb1I">Michael Starr</a>
+
+  		<h4><a name="&lid=module_region_story&lpos=entertainment" href="/p/entertainment/tv/starr_report_4EE8I3UoXc8mdqh1ghzb1I">Starr report</a></h4> 
+
+  <p>
+
+    For all the hoo-ha of &ldquo;Leno vs. Letterman,&rdquo; it&rsquo;s actually ABC&rsquo;s... &nbsp;</p>
+
+</div></div>
+	<ul class="links">
+	<li class="link_block" onclick="href('/p/entertainment/fashion/they_ve_got_game_cuKBaoUEP9VzFP2SgsThgK');_hbLink('module_region_story','entertainment');">
+				<h5>
+					<a name="&lid=module_region_link&lpos=entertainment" href="/p/entertainment/fashion/they_ve_got_game_cuKBaoUEP9VzFP2SgsThgK">They've got game</a>
+						</h5>
+				<p class="links">
+					Decked out in her Saturday night finest, wearing a fitted... &nbsp;</p>
+			</li>
+		<li class="link_block" onclick="href('/p/entertainment/theater/hugh_didgeri_dudes_yDLnGUvZIpOQlt9tk93FhK');_hbLink('module_region_story','entertainment');">
+				<h5>
+					<a name="&lid=module_region_link&lpos=entertainment" href="/p/entertainment/theater/hugh_didgeri_dudes_yDLnGUvZIpOQlt9tk93FhK">Hugh’s didgeri-dudes</a>
+						</h5>
+				<p class="links">
+					There have been unusual sounds over the years on Broadway &mdash; Carol... &nbsp;</p>
+			</li>
+		<li class="link_block first" onclick="href('/p/entertainment/music/chris_cornell_has_mellow_new_sound_0INLYIKcEbhjczRHmmwf2O');_hbLink('module_region_story','entertainment');">
+				<h5>
+					<a name="&lid=module_region_link&lpos=entertainment" href="/p/entertainment/music/chris_cornell_has_mellow_new_sound_0INLYIKcEbhjczRHmmwf2O">Chris Cornell has a mellow new sound garden</a>
+						</h5>
+				<p class="links">
+					Album of the week CHRIS CORNELL &ldquo;Songbook&rdquo;3 1/2 stars While... &nbsp;</p>
+			</li>
+		</ul>
+	<div class="clearer"></div>
+
+	<div class="btn default">
+
+    <div class="btn_lt"></div>
+
+    <div class="btn_body">
+
+      <a href="/entertainment" name="&lid=btn&lpos=Entertainment">
+
+         <span class="prefix">More in</span> Entertainment</a>
+
+    </div>
+
+    <div class="btn_rt"></div>
+
+    <div class="clearer"></div>
+
+  </div><div class="clearer"></div>
+</div><div class="section_block three_cols block" id="business_section_block">
+  	
+    
+    <!-- <a href=""><h2 class="block_title">Business</h2></a>-->
+    <a name="&lid=module_region_label&lpos=business" href="/news/business"><h2 class="block_title">Business</h2></a>
+    	<div class="section_block_lt">
+		<div class="data_block" onclick="href('/p/news/business/judge_disses_sec_oC15NUqNXfp7JKS64TVKmJ');_hbLink('module_region_story','business');">
+
+	<img alt="Judge disses SEC" width="140" height="100" src="/rf/image_lowres/nypost/2011/11/29/business/web_photos/judge_rakoff--140x100.jpg" />
+
+	<h4><a name="&lid=module_region_story&lpos=business" href="/p/news/business/judge_disses_sec_oC15NUqNXfp7JKS64TVKmJ">Judge disses SEC</a></h4> 
+
+	<p>
+
+		Securities and Exchange Commission chief Mary Schapiro was given... &nbsp;<span class="update"> 12:57 AM</span>
+
+</p>
+
+</div><div class="data_block" onclick="href('/p/news/business/frank_banks_cYpu8xZIranVJdt8tTBwlJ');_hbLink('module_region_story','business');">
+
+	<img alt="Frank ’n’ banks" width="140" height="100" src="/rf/image_lowres/nypost/2011/11/29/business/web_photos/dodd_frank--140x100.jpg" />
+
+	<h4><a name="&lid=module_region_story&lpos=business" href="/p/news/business/frank_banks_cYpu8xZIranVJdt8tTBwlJ">Frank ’n’ banks</a></h4> 
+
+	<p>
+
+		At a news conference yesterday, Barney Frank said he hesitated to... &nbsp;<span class="update"> 4:25 AM</span>
+
+</p>
+
+</div><div class="clearer"></div>
+		<div class="section_block_extra" onclick="href('/p/news/business/way_to_gauge_earnings_surprises_S9w3KQCyCH6qdwt9V1NZGJ');_hbLink('module_region_story','business');">
+
+  <img src="/rw/SysConfig/WebPortal/nypost/images/columnist_headshots/john_crudele.png" alt="John Crudele" class="headshot" />
+
+    <a class="columnist_name" name="&lid=module_region_story&lpos=business" href="/p/news/business/way_to_gauge_earnings_surprises_S9w3KQCyCH6qdwt9V1NZGJ">John Crudele</a>
+
+  		<h4><a name="&lid=module_region_story&lpos=business" href="/p/news/business/way_to_gauge_earnings_surprises_S9w3KQCyCH6qdwt9V1NZGJ">A way to gauge earnings surprises</a></h4> 
+
+  <p>
+
+    This will surprise Wall Street: Recent corporate earnings weren&rsquo;t... &nbsp;<span class="update"> 12:51 AM</span>
+
+</p>
+
+</div></div>
+	<ul class="links">
+	<li class="link_block" onclick="href('/p/news/business/cyber_rific_sales_W5Zt8Ro7ceec4C80IeVmDO');_hbLink('module_region_story','business');">
+				<h5>
+					<a name="&lid=module_region_link&lpos=business" href="/p/news/business/cyber_rific_sales_W5Zt8Ro7ceec4C80IeVmDO">Cyber-rific sales</a>
+						</h5>
+				<p class="links">
+					Shoppers logged on, loaded up their carts and clicked &ldquo;buy&rdquo; like... &nbsp;</p>
+			</li>
+		<li class="link_block" onclick="href('/p/news/business/wall_street_wows_after_down_sessions_WNrdivlbg1lVMe7C5pJ4MP');_hbLink('module_region_story','business');">
+				<h5>
+					<a name="&lid=module_region_link&lpos=business" href="/p/news/business/wall_street_wows_after_down_sessions_WNrdivlbg1lVMe7C5pJ4MP">Wall Street wows after 7 down sessions</a>
+						</h5>
+				<p class="links">
+					Robust holiday shopping and the expectation that European leaders... &nbsp;</p>
+			</li>
+		<li class="link_block first" onclick="href('/p/news/business/suit_verizon_inflated_numbers_uLeSYeYNFASJjZw4OmkCiO');_hbLink('module_region_story','business');">
+				<h5>
+					<a name="&lid=module_region_link&lpos=business" href="/p/news/business/suit_verizon_inflated_numbers_uLeSYeYNFASJjZw4OmkCiO">Suit: Verizon inflated numbers</a>
+						</h5>
+				<p class="links">
+					Two top executives at Verizon Wireless are feeling the heat from... &nbsp;</p>
+			</li>
+		</ul>
+	<div class="clearer"></div>
+
+	<div class="btn default">
+
+    <div class="btn_lt"></div>
+
+    <div class="btn_body">
+
+      <a href="/news/business" name="&lid=btn&lpos=Business">
+
+         <span class="prefix">More in</span> Business</a>
+
+    </div>
+
+    <div class="btn_rt"></div>
+
+    <div class="clearer"></div>
+
+  </div><div class="clearer"></div>
+</div><div class="section_block three_cols block" id="opinion_section_block">
+  	
+    
+    <!-- <a href=""><h2 class="block_title">Opinion</h2></a>-->
+    <a name="&lid=module_region_label&lpos=opinion" href="/news/opinion"><h2 class="block_title">Opinion</h2></a>
+    	<div class="section_block_lt">
+		<div class="data_block" onclick="href('/p/news/opinion/editorials/albany_con_job_WHamAgUm4b5tx83ddhNDZP');_hbLink('module_region_story','opinion');">
+
+	<img alt="Albany con job" width="140" height="100" src="/rf/image_lowres/nypost/2011/11/29/oped/web_photos/sec002444.jpg" />
+
+	<h4><a name="&lid=module_region_story&lpos=opinion" href="/p/news/opinion/editorials/albany_con_job_WHamAgUm4b5tx83ddhNDZP">Albany con job</a></h4> 
+
+	<p>
+
+		Talk about an electric shock. As The Post&rsquo;s Bill Sanderson... &nbsp;<span class="update"> 12:46 AM</span>
+
+</p>
+
+</div><div class="data_block" onclick="href('/p/news/opinion/editorials/bye_bye_barney_YWR4JQk30XuNik0UVJDU2J');_hbLink('module_region_story','opinion');">
+
+	<img alt="Bye-bye, Barney" width="140" height="100" src="/rf/image_lowres/nypost/2011/11/28/oped/web_photos/barney_frank--140x100.jpg" />
+
+	<h4><a name="&lid=module_region_story&lpos=opinion" href="/p/news/opinion/editorials/bye_bye_barney_YWR4JQk30XuNik0UVJDU2J">Bye-bye, Barney</a></h4> 
+
+	<p>
+
+		Rep. Barney Frank&rsquo;s surprise announcement yesterday that he won&rsquo;t... &nbsp;<span class="update"> 12:22 AM</span>
+
+</p>
+
+</div><div class="clearer"></div>
+		</div>
+	<ul class="links">
+	<li class="link_block" onclick="href('/p/news/opinion/editorials/read_andrew_lips_Yki7if9I1qqC9GuPdcbfXL');_hbLink('module_region_story','opinion');">
+				<h5>
+					<a name="&lid=module_region_link&lpos=opinion" href="/p/news/opinion/editorials/read_andrew_lips_Yki7if9I1qqC9GuPdcbfXL">Read Andrew’s lips</a>
+						</h5>
+				<p class="links">
+					&ldquo;You are kidding yourself if you think you can be one of the... &nbsp;</p>
+			</li>
+		<li class="link_block" onclick="href('/p/news/opinion/opedcolumnists/not_an_islamist_wave_w4CRqP4cgHy4awY8JleujP');_hbLink('module_region_story','opinion');">
+				<h5>
+					<a name="&lid=module_region_link&lpos=opinion" href="/p/news/opinion/opedcolumnists/not_an_islamist_wave_w4CRqP4cgHy4awY8JleujP">AMIR TAHERI: Not an Islamist wave</a>
+						</h5>
+				<p class="links">
+					Is a green wave of Islamism soon to cover the whole of North... &nbsp;</p>
+			</li>
+		<li class="link_block first" onclick="href('/p/news/opinion/opedcolumnists/sends_the_wrong_signal_on_egypt_qBmW3KSEWbZW1o1GPXATeO');_hbLink('module_region_story','opinion');">
+				<h5>
+					<a name="&lid=module_region_link&lpos=opinion" href="/p/news/opinion/opedcolumnists/sends_the_wrong_signal_on_egypt_qBmW3KSEWbZW1o1GPXATeO">BENNY AVNI: O sends the wrong signal on Egypt</a>
+						</h5>
+				<p class="links">
+					As Egypt launched a 10-day parliamentary election yesterday,... &nbsp;</p>
+			</li>
+		</ul>
+	<div class="clearer"></div>
+
+	<div class="btn default">
+
+    <div class="btn_lt"></div>
+
+    <div class="btn_body">
+
+      <a href="/news/opinion" name="&lid=btn&lpos=Opinion">
+
+         <span class="prefix">More in</span> Opinion</a>
+
+    </div>
+
+    <div class="btn_rt"></div>
+
+    <div class="clearer"></div>
+
+  </div><div class="clearer"></div>
+</div><div class="section_block three_cols block" id="news_section_block">
+  	
+    
+    <!-- <a href=""><h2 class="block_title">In Today's Paper</h2></a>-->
+    <a name="&lid=module_region_label&lpos=news" href="/news"><h2 class="block_title">In Today's Paper</h2></a>
+    	<div class="section_block_lt">
+		<div class="data_block" onclick="href('/p/news/national/liberal_lion_frank_is_packing_it_2xDY01uBvTGLbO15twuMMO');_hbLink('module_region_story','news');">
+
+	<img alt="Liberal lion Frank is packing it in" width="140" height="100" src="/rf/image_lowres/nypost/2011/11/29/news/web_photos/29.1n008.frank.c.ta--140x100.jpg" />
+
+	<h4><a name="&lid=module_region_story&lpos=news" href="/p/news/national/liberal_lion_frank_is_packing_it_2xDY01uBvTGLbO15twuMMO">Liberal lion Frank is packing it in</a></h4> 
+
+	<p>
+
+		WASHINGTON &mdash; Gay-rights champion and Wall Street scourge Rep.... &nbsp;<span class="update"> 2:11 AM</span>
+
+</p>
+
+</div><div class="data_block" onclick="href('/p/news/national/hard_day_note_qZQDSAOikLloLsZMM6d7LO');_hbLink('module_region_story','news');">
+
+	<img alt="A hard day’s note" width="140" height="100" src="/rf/image_lowres/nypost/2011/11/29/news/web_photos/29.1N023.lennon1--140x100.jpg" />
+
+	<h4><a name="&lid=module_region_story&lpos=news" href="/p/news/national/hard_day_note_qZQDSAOikLloLsZMM6d7LO">A hard day’s note</a></h4> 
+
+	<p>
+
+		It&rsquo;s a day in the life of John Lennon &mdash; and he&rsquo;s waiting for the... &nbsp;<span class="update"> 2:26 AM</span>
+
+</p>
+
+</div><div class="clearer"></div>
+		</div>
+	<ul class="links">
+	<li class="link_block" onclick="href('/p/news/national/new_tryst_hits_cain_Mc7C1U64lhReEzgGpS0lVM');_hbLink('module_region_story','news');">
+				<h5>
+					<a name="&lid=module_region_link&lpos=news" href="/p/news/national/new_tryst_hits_cain_Mc7C1U64lhReEzgGpS0lVM">New ‘tryst’ hits Cain</a>
+						</h5>
+				<p class="links">
+					WASHINGTON &mdash; Herman Cain&rsquo;s presidential campaign was rocked... &nbsp;</p>
+			</li>
+		<li class="link_block" onclick="href('/p/news/national/obama_plan_to_liberate_debt_ridden_KPLFxYJsFCkRoR6dFfRmnJ');_hbLink('module_region_story','news');">
+				<h5>
+					<a name="&lid=module_region_link&lpos=news" href="/p/news/national/obama_plan_to_liberate_debt_ridden_KPLFxYJsFCkRoR6dFfRmnJ">Obama plan to liberate debt-ridden Europe</a>
+						</h5>
+				<p class="links">
+					WASHINGTON &mdash; Wary of Europe&rsquo;s deepening debt crisis, President... &nbsp;</p>
+			</li>
+		<li class="link_block first" onclick="href('/p/news/national/gals_free_gala_gripe_vs_playboy_EoDEGy1S4K0vF3PBtE4UbK');_hbLink('module_region_story','news');">
+				<h5>
+					<a name="&lid=module_region_link&lpos=news" href="/p/news/national/gals_free_gala_gripe_vs_playboy_EoDEGy1S4K0vF3PBtE4UbK">Gals-free gala gripe vs. Playboy</a>
+						</h5>
+				<p class="links">
+					LOS ANGELES &mdash; A group of men who were forced to pay for entry to... &nbsp;</p>
+			</li>
+		</ul>
+	<div class="clearer"></div>
+
+	<div class="btn default">
+
+    <div class="btn_lt"></div>
+
+    <div class="btn_body">
+
+      <a href="/news" name="&lid=btn&lpos=News">
+
+         <span class="prefix">More in</span> News</a>
+
+    </div>
+
+    <div class="btn_rt"></div>
+
+    <div class="clearer"></div>
+
+  </div><div class="clearer"></div>
+</div></div>
+
+			<div class="ct_rail_foot"></div>
+
+		</div>
+
+		<div class="rt_rail" id="rt_rail">
+
+			<div class="block ad wrap box">
+
+	  <div class="ad box">
+
+	    <script type="text/javascript">ad_tag("box1","300x600,300x250","script", "true");</script>
+
+	      </div>
+
+	</div>
+
+<div class="block rounded_rt_3d" id="post_pics_block" >
+
+	<div class="rounded_head"></div>
+
+	<div class="rounded_body">
+
+		<a href="/photo"><h2><span class="title_1 title">Post</span><span class="title_2 media title">Pics</span></h2></a>
+
+		<span class="caption">Today in Pictures</span>
+
+		<ul class="post_pics">
+
+		<li class="first_pic" onclick="href('/p/news/international/day_in_photos_nov_YOP3WXeWGinTjxFdOSWr8L')">
+
+						<a href="/p/news/international/day_in_photos_nov_YOP3WXeWGinTjxFdOSWr8L" name="&amp;lid=post_pics&amp;lpos=/nypost/2011/11/29/news/web_galleries/g_day_in_photos/day_in_photos018--185x120.jpg?uuid=iRI0AhrMEeGT0ZNFm2sVAA">
+
+						<img class="post_pics_main" alt="Day in Photos: Nov. 29, 2011" src="/rf/image_lowres/nypost/2011/11/29/news/web_galleries/g_day_in_photos/day_in_photos018--185x120.jpg" width="185" height="120" />
+
+						</a>
+
+						<div class="caption">Day in Photos: Nov. 29, 2011</div>
+
+						</li>
+
+				<li onclick="href('/p/news/local/victoria_secret_nyc_runway_show_OZ3UUMqBJ8168pDAdEvpbJ')">
+
+						<a href="/p/news/local/victoria_secret_nyc_runway_show_OZ3UUMqBJ8168pDAdEvpbJ" name="&amp;lid=post_pics&amp;lpos=/nypost/2011/11/09/pagesix/web_galleries/g_victoriasecret/victoria_secret_photos002--90x120.jpg?uuid=U-0q0gtCEeGdBESSsGDaGA">
+
+							<img class="post_pics" alt="Victoria's Secret NYC Fashion Show" src="/rf/image_lowres/nypost/2011/11/09/pagesix/web_galleries/g_victoriasecret/victoria_secret_photos002--90x120.jpg" width="90" height="120" />
+
+						</a>
+
+						<div class="caption">Victoria's Secret NYC Fashion Show</div>
+
+					</li>
+
+				<li onclick="href('/p/news/international/british_embassy_attack_Im7XfjceKpeZdd2PeJwPPP')">
+
+						<a href="/p/news/international/british_embassy_attack_Im7XfjceKpeZdd2PeJwPPP" name="&amp;lid=post_pics&amp;lpos=/nypost/2011/11/29/news/web_galleries/g_embassy_attack/embassy_photos003--90x120.jpg?uuid=pclQMBrWEeGT0ZNFm2sVAA">
+
+							<img class="post_pics" alt="British embassy attacked" src="/rf/image_lowres/nypost/2011/11/29/news/web_galleries/g_embassy_attack/embassy_photos003--90x120.jpg" width="90" height="120" />
+
+						</a>
+
+						<div class="caption">British embassy attacked</div>
+
+					</li>
+
+				<li onclick="href('/p/pagesix/celebrity_photos/week_best_celebrity_photos_RvPxJbMhpEGvjJWhWLkVtL')">
+
+						<a href="/p/pagesix/celebrity_photos/week_best_celebrity_photos_RvPxJbMhpEGvjJWhWLkVtL" name="&amp;lid=post_pics&amp;lpos=/nypost/2011/11/22/pagesix/web_galleries/g_celebrity_photos/celeb_photos013--90x120.jpg?uuid=gRGI7BiiEeGe50wxF3Fi1w">
+
+							<img class="post_pics" alt="Week's best celebrity photos" src="/rf/image_lowres/nypost/2011/11/22/pagesix/web_galleries/g_celebrity_photos/celeb_photos013--90x120.jpg" width="90" height="120" />
+
+						</a>
+
+						<div class="caption">Week's best celebrity photos</div>
+
+					</li>
+
+				<li onclick="href('/p/pagesix/celebrity_photos/celebrity_photos_nov_4EgUltjToc8iHZfglSZGdN')">
+
+						<a href="/p/pagesix/celebrity_photos/celebrity_photos_nov_4EgUltjToc8iHZfglSZGdN" name="&amp;lid=post_pics&amp;lpos=/nypost/2011/11/29/pagesix/web_galleries/g_celebrity_photos/134222991192532--90x120.jpg?uuid=ufvKcBowEeGT0ZNFm2sVAA">
+
+							<img class="post_pics" alt="Celebrity photos: Nov. 29, 2011" src="/rf/image_lowres/nypost/2011/11/29/pagesix/web_galleries/g_celebrity_photos/134222991192532--90x120.jpg" width="90" height="120" />
+
+						</a>
+
+						<div class="caption">Celebrity photos: Nov. 29, 2011</div>
+
+					</li>
+
+				</ul>
+
+		<div class="clearer"></div>
+
+	</div>
+
+	<div class="rounded_foot">
+
+		<div class="btn alt2">
+
+    <div class="btn_lt"></div>
+
+    <div class="btn_body">
+
+      <a href="/photo" name="&lid=btn&lpos=photos">
+
+         <span class="prefix">More in</span> photos</a>
+
+    </div>
+
+    <div class="btn_rt"></div>
+
+    <div class="clearer"></div>
+
+  </div><h4>Click on Each Photo</h4>
+
+	</div>
+
+</div><div class="block rounded_rt_3d" id="post_video_block">
+
+	  <div class="rounded_head"></div>
+
+				<div class="rounded_body">
+
+					<a href="/video"><h2 class="title_1 title">Video</h2></a>
+
+				    <div id="video_container">
+
+	  <embed width="298" height="363" flashvars="vxBaseURL=http%3A//publish.vx.roo.com/nypost/filmstrip/&amp;vxTemplate=http%3A//publish.vx.roo.com/nypost/filmstrip/NYPost_MiniPlayer09-NYPOST-10-20100726.swf&amp;vxEmbedMode=fullsize&amp;vxSiteId=fe3e21a8-49f1-4cec-9ba5-cfe372fa6572&amp;vxChannel=PostTopFilmStrip&amp;vxSearch=&amp;vxClipId=&amp;vxBitrate=700&amp;vxFormat=&amp;vxServerBase=&amp;vxIMU=&amp;vxClickToPlay=&amp;vxTint=&amp;vxFullscreen=imuCompatibility&amp;vxSecure=false&amp;vxBD=&amp;vxHBX=&amp;vxExternalIMU=&amp;vxRowCount=&amp;vxStartMode=normal&amp;vxCore=&amp;vxPreviewId=&amp;vxDebug=&amp;vxFilmStrip=PostTopFilmStrip:2:;PostTopFilmStrip:3:;PostTopFilmStrip:4:;PostTopFilmStrip:5:;&amp;vxDynChannel=&amp;vxHBXClipIdVar=&amp;vxHBXClientType=Flash Player" 
+
+						  	wmode="opaque" allowscriptaccess="always" allowfullscreen="true" quality="high" bgcolor="#FFFFFF" 
+
+						  	name="vxFlashPlayerEmbed" id="vxFlashPlayerEmbed" style="" 
+
+						  	src="http://publish.vx.roo.com/nypost/filmstrip/flashembed/" 
+
+						  	type="application/x-shockwave-flash"/>
+
+						</div>
+
+				    <div class="clearer"></div>
+
+				</div>
+
+			  <div class="rounded_foot">
+
+			  	<div class="btn videos">
+
+    <div class="btn_lt"></div>
+
+    <div class="btn_body">
+
+      <a href="/video?channel=PostTopFilmStrip" name="&lid=btn&lpos=videos">
+
+         <span class="prefix">More in</span> videos</a>
+
+    </div>
+
+    <div class="btn_rt"></div>
+
+    <div class="clearer"></div>
+
+  </div><ul>
+
+			  		<li class="first"><a href="http://www.nypost.com/video/?vxSiteId=0db7b365-a288-4708-857b-8bdb545cbd0f&vxChannel=PostUsFeed">News</a></li>
+
+			  		<li><a href="http://www.nypost.com/video/?vxSiteId=0db7b365-a288-4708-857b-8bdb545cbd0f&vxChannel=PostGossip">Gossip</a></li>
+
+			  		<li><a href="http://www.nypost.com/video/?vxSiteId=0db7b365-a288-4708-857b-8bdb545cbd0f&vxChannel=PostSportsFeed">Sports</a></li>
+
+			  		<li><a href="http://www.nypost.com/video/?vxSiteId=0db7b365-a288-4708-857b-8bdb545cbd0f&vxChannel=PostWeirdNews">Weird News</a></li>
+
+			  		<li class="last"><a href="http://www.nypost.com/video/?vxSiteId=0db7b365-a288-4708-857b-8bdb545cbd0f&vxChannel=PostLifestyleFeed">Lifestyle</a></li>
+
+			  	</ul>
+
+			  </div>
+
+		</div><div class="block ad wrap quigo">
+
+	  <div class="ad quigo">
+
+	    <script  src="http://content.pulse360.com/6873D2DC-BEA6-11E0-933F-6C94CA3AF435"  type="text/javascript"></script>
+
+	      </div>
+
+	</div>
+
+<script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like-box href="www.facebook.com/newyorkpost" width="292" show_faces="true" stream="true" header="true"></fb:like-box><div class="block ad wrap box">
+
+	  <div class="ad box">
+
+	    <script type="text/javascript">ad_tag("box2","300x250","script", "");</script>
+
+	      </div>
+
+	</div>
+
+<div class="block ad wrap rt_rail_promo">
+
+	  <div class="ad rt_rail_promo">
+
+	    <script type="text/javascript">ad_tag("rt_rail_promo","300x100","script", "");</script>
+
+	      </div>
+
+	</div>
+
+<a href="http://twitter.com/newyorkpost" target="_blank"><img src="/rw/SysConfig/WebPortal/nypost/images/promos/twitter.jpg"/></a><div class="block rounded_rt_3d" id="todays_cover">
+
+	<div class="rounded_head"></div>
+
+	<div class="rounded_body">
+
+		<h2 class="block_title"><a href="/archives/covers/">Today's <span>Covers</span></a></h2>
+
+		<ul>
+
+			<li class="cover">
+
+        		<a href="/archives/covers"><img alt="" width="108" height="121" src="/rf/image_lowres/nypost/2011/11/29/covers/front.jpg" /></a>
+
+        	</li>
+
+            <li class="back">
+
+            	<a href="/archives/covers"><img alt="" width="108" height="121" src="/rf/image_lowres/nypost/2011/11/29/covers/back.jpg" /></a>
+
+            </li>
+
+        </ul>
+
+        <div class="clearer"></div>
+
+    </div>
+
+    <div class="rounded_foot">
+
+    <h3><a href="https://secure.nypost.com/homedelivery/signup.htm" name="&lid=todayscover&lpos=Home Delivery">Subscribe Now</a></h3>
+
+    <div class="btn alt2">
+
+    <div class="btn_lt"></div>
+
+    <div class="btn_body">
+
+      <a href="/archives/covers" name="&lid=btn&lpos=Cover Archives">
+
+         Cover Archives</a>
+
+    </div>
+
+    <div class="btn_rt"></div>
+
+    <div class="clearer"></div>
+
+  </div></div>
+
+</div><div class="promos_and_partners widget block">
+
+	<div class="widget_head">
+
+    	<h2 class="widget_title">Promos and Partners</h2>
+
+        <!--widget controls-->
+
+        <ul class="widget_controls">
+
+        	<li class="list_view"></li>
+
+            <li class="thumb_view"></li>
+
+        </ul>
+
+        <!--widget controls end-->
+
+    </div>
+
+    <div class="widget_body">
+
+		<div class="widget_clip_wrap">
+
+        	<div class="widget_clip_head"></div>
+
+            <!--content body-->
+
+            <div class="widget_clip_body">
+
+            	<ul id="pane1" class="widget_content widget_thumbs">
+
+					<li class="promo first" onclick="href('http://www.eventmanagement.org/newyork/');_hbLink('promos_partners_thumb','NY XPO for Business');"><img src="/rw/nypost/promos_and_partners/images/nyxpo.jpg" alt="NY XPO for Business"/></li>
+
+			        <li class="promo" onclick="href('http://www.nypost.com/diningout');_hbLink('promos_partners_thumb','Dining Out');"><img src="/rw/nypost/promos_and_partners/images/diningout.jpg" alt="Dining Out"/></li>
+
+			        <li class="promo" onclick="href('http://coupons2.smartsource.com/smartsource/index.jsp?Link=L54YXH6YNBYWS');_hbLink('promos_partners_thumb','Smart Source');"><img src="/rw/nypost/promos_and_partners/images/smartsource.gif" alt="Smart Source"/></li>
+
+			        <li class="promo" onclick="href('http://www.liu.edu/brooklyn');_hbLink('promos_partners_thumb','LIU');"><img src="/rw/nypost/promos_and_partners/images/LIU-4color-brooklyn.jpg" alt="LIU"/></li>
+
+			        <li class="promo" onclick="href('http://www.nypost.com/contests/NIE2009.htm');_hbLink('promos_partners_thumb','Classroom Extra');"><img src="/rw/nypost/promos_and_partners/images/classroom_extra.gif" alt="Check out The New York Posts Classroom Extra"/></li>
+
+			        <li class="promo" onclick="href('http://www.myfoxny.com');_hbLink('promos_partners_thumb','Fox 5');"><img src="/rw/nypost/promos_and_partners/images/fox5.jpg" alt="- Breaking news from Fox 5"/></li>
+
+			        <li class="promo" onclick="href('http://www.steinersports.com');_hbLink('promos_partners_thumb','Steiner Sports');"><img src="/rw/nypost/promos_and_partners/images/steiner.jpg" alt="Sports memorabilia from Steiner Sports"/></li>
+
+			        <li class="promo" onclick="href('http://outside.in/');_hbLink('promos_partners_thumb','Outside.in');"><img src="/rw/nypost/promos_and_partners/images/outsidein.jpg" alt="the best place to discover news happening around you"/></li>
+
+			        <li class="promo" onclick="href('http://www.nypost.com/forms/dating/form.htm');_hbLink('promos_partners_thumb','Meet Market');"><img src="/rw/nypost/promos_and_partners/images/meetmarket.gif" alt="Meet Market"/></li>
+
+			        <li class="promo" onclick="href('https://secure.nypost.com/homedelivery/signup.htm');_hbLink('promos_partners_thumb','HOME DELIVERY');"><img src="/rw/nypost/promos_and_partners/images/homedelivery.jpg" alt="
+				Get the New York Post newspaper delivered to your
+				doorstep.
+			"/></li>
+
+			        <li class="promo last" onclick="href('http://www.nypost.com/entertainment#ent_lifestyle');_hbLink('promos_partners_thumb','Daily Horoscopes');"><img src="/rw/nypost/promos_and_partners/images/horoscopes.jpg" alt="The New York Post's Daily Horoscopes"/></li>
+
+			        </ul>
+
+                <ul d="pane2" class="widget_content widget_list">
+
+					<li class="promo first" onclick="href('http://www.eventmanagement.org/newyork/');_hbLink('promos_partners_list','NY XPO for Business');"><h3>NY XPO for Business</h3><span>NY XPO for Business</span></li>
+
+			        <li class="promo" onclick="href('http://www.nypost.com/diningout');_hbLink('promos_partners_list','Dining Out');"><h3>Dining Out</h3><span>Dining Out</span></li>
+
+			        <li class="promo" onclick="href('http://coupons2.smartsource.com/smartsource/index.jsp?Link=L54YXH6YNBYWS');_hbLink('promos_partners_list','Smart Source');"><h3>Smart Source</h3><span>Smart Source</span></li>
+
+			        <li class="promo" onclick="href('http://www.liu.edu/brooklyn');_hbLink('promos_partners_list','LIU');"><h3>LIU</h3><span>LIU</span></li>
+
+			        <li class="promo" onclick="href('http://www.nypost.com/contests/NIE2009.htm');_hbLink('promos_partners_list','Classroom Extra');"><h3>Classroom Extra</h3><span>Check out The New York Posts Classroom Extra</span></li>
+
+			        <li class="promo" onclick="href('http://www.myfoxny.com');_hbLink('promos_partners_list','Fox 5');"><h3>Fox 5</h3><span>- Breaking news from Fox 5</span></li>
+
+			        <li class="promo" onclick="href('http://www.steinersports.com');_hbLink('promos_partners_list','Steiner Sports');"><h3>Steiner Sports</h3><span>Sports memorabilia from Steiner Sports</span></li>
+
+			        <li class="promo" onclick="href('http://outside.in/');_hbLink('promos_partners_list','Outside.in');"><h3>Outside.in</h3><span>the best place to discover news happening around you</span></li>
+
+			        <li class="promo" onclick="href('http://www.nypost.com/forms/dating/form.htm');_hbLink('promos_partners_list','Meet Market');"><h3>Meet Market</h3><span>Meet Market</span></li>
+
+			        <li class="promo" onclick="href('https://secure.nypost.com/homedelivery/signup.htm');_hbLink('promos_partners_list','HOME DELIVERY');"><h3>HOME DELIVERY</h3><span>
+				Get the New York Post newspaper delivered to your
+				doorstep.
+			</span></li>
+
+			        <li class="promo last" onclick="href('http://www.nypost.com/entertainment#ent_lifestyle');_hbLink('promos_partners_list','Daily Horoscopes');"><h3>Daily Horoscopes</h3><span>The New York Post's Daily Horoscopes</span></li>
+
+			        </ul>
+
+                <div class="clearer"></div>
+
+            </div>
+
+            <!--content body ends-->
+
+            <div class="widget_clip_foot"></div>
+
+        </div>
+
+		<div class="clearer"></div>
+
+    </div>
+
+    <div class="widget_foot"></div>
+
+</div></div>
+
+		<div class="clearer"></div>
+
+		<div id="classifieds_verticals_wrap">
+
+	<div id="classifieds_verticals_top" ></div>
+
+	<div id="classifieds_verticals">
+
+		<h3>Need Something? Find it here…</h3>
+
+		<div class="vertical_wrap first">
+
+	<a href="http://www.nypost.com/news/business/realestate/residential"><h4>Real Estate
+</h4></a>
+
+	<div class="vertical">
+
+		<a href="/p/news/business/realestate/residential/moment_of_th_ZMmtS4aqeemEvYWpUPNwII">
+
+			<img width="170" height="115" alt="Real Estate
+" src="/rf/image_lowres/nypost/2011/11/24/home/web_photos/24R.HomeCover--170x115.jpg" />
+
+			<span class="headline">Moment of Ruth</span>
+
+		</a>
+
+		<span class="also">Also…</span>
+
+			<ul class="link_list">
+
+				<li class="first">
+
+							<a target="_blank" href="http://www.classifieds.nypost.com/housing/sale/">Property Search</a></li>
+
+						</li>
+
+				<li >
+
+							<a target="_blank" href="http://www.nypost.com/blogs/realestate">Blog: NYP Home</a></li>
+
+						</li>
+
+				<li class="last">
+
+							<a target="_blank" href="http://nypost.interest.com/">Mortgage Center</a></li>
+
+						</li>
+
+				</ul>
+
+		</div>
+
+</div>
+
+<div class="vertical_wrap">
+
+	<a href="http://www.nypost.com/lifestyle/travel"><h4>Travel
+</h4></a>
+
+	<div class="vertical">
+
+		<a href="/p/entertainment/travel/in_los_angeles_old_is_new_again_Omj5Npvwecp2vLJiYPYXrK">
+
+			<img width="170" height="115" alt="Travel
+" src="/rf/image_lowres/nypost/2011/11/29/travel/web_photos/hotel_bel_air--170x115.jpg" />
+
+			<span class="headline">In Los Angeles, old is new again</span>
+
+		</a>
+
+		<span class="also">Also…</span>
+
+			<ul class="link_list">
+
+				<li class="first">
+
+							<a target="_self" href="/p/lifestyle/travel/america_in_6UTON33gwXEBmjW1GP73kN">Series: 50 States, 50 Stories</a></li>
+
+						</li>
+
+				<li >
+
+								</li>
+
+						</li>
+
+				<li >
+
+							<a target="_self" href="/p/lifestyle/travel/destinations_yG2WPxE4Y4yruUZze9AK7I">Destination Guides</a></li>
+
+						</li>
+
+				<li >
+
+								</li>
+
+						</li>
+
+				<li class="last">
+
+							<a target="_blank" href="http://www.nypost.com/blogs/onthego">Blog: On the Go</a></li>
+
+						</li>
+
+				</ul>
+
+		</div>
+
+</div>
+
+<div class="vertical_wrap">
+
+	<a href="http://www.classifieds.nypost.com/vehicle/"><h4>Cars
+</h4></a>
+
+	<div class="vertical">
+
+		<a href="http://www.classifieds.nypost.com/vehicle/">
+
+			<img width="170" height="115" alt="Cars
+" src="/rf/image_lowres/nypost/static/photos/car--170x115.jpg" />
+
+			<span class="headline">Cars & Vehicles for sale around New York</span>
+
+		</a>
+
+		<span class="also">Also…</span>
+
+			<ul class="link_list">
+
+				<li class="first">
+
+							<a target="_blank" href="http://www.classifieds.nypost.com/vehicle/commercial_truck/">Commercial Trucks</a></li>
+
+						</li>
+
+				<li >
+
+							<a target="_blank" href="http://www.classifieds.nypost.com/vehicle/motorcycle/">Motorcycles</a></li>
+
+						</li>
+
+				<li class="last">
+
+							<a target="_blank" href="http://www.classifieds.nypost.com/vehicle/boat/">Boats</a></li>
+
+						</li>
+
+				</ul>
+
+		</div>
+
+</div>
+
+<div class="vertical_wrap">
+
+	<a href="http://www.nypost.com/news/business/jobs"><h4>Jobs
+</h4></a>
+
+	<div class="vertical">
+
+		<a href="/p/news/business/jobs/checking_out_OYOSRpSrdqSCI3WuTEmCJO">
+
+			<img width="170" height="115" alt="Jobs
+" src="/rf/image_lowres/nypost/2011/11/28/atwork/web_photos/04W.cover1.c.ta--170x115.jpg" />
+
+			<span class="headline">Checking out</span>
+
+		</a>
+
+		<span class="also">Also…</span>
+
+			<ul class="link_list">
+
+				<li class="first">
+
+							<a target="_blank" href="http://www.classifieds.nypost.com/job/">Job Search</a></li>
+
+						</li>
+
+				<li >
+
+							<a target="_blank" href="http://www.nypost.com/news/business/jobs/education">Education Center</a></li>
+
+						</li>
+
+				<li class="last">
+
+							<a target="_blank" href="http://www.classifieds.nypost.com/post/">Place a Job Ad</a></li>
+
+						</li>
+
+				</ul>
+
+		</div>
+
+</div>
+
+<div class="vertical_wrap last">
+
+	<a href="http://zootoo.nypost.com/"><h4>Pets
+</h4></a>
+
+	<div class="vertical">
+
+		<a href="/p/entertainment/good_dogs_PEwwznLJygkcHNBTDdu0OK">
+
+			<img width="170" height="115" alt="Pets
+" src="/rf/image_lowres/nypost/2011/11/27/pulse/web_photos/27E.Pets_Merlin1.TA--170x115.jpg" />
+
+			<span class="headline">Good dogs</span>
+
+		</a>
+
+		<span class="also">Also…</span>
+
+			<ul class="link_list">
+
+				<li class="first">
+
+							<a target="_blank" href="http://zootoo.nypost.com/petnews">Latest Pet News</a></li>
+
+						</li>
+
+				<li >
+
+							<a target="_blank" href="http://zootoo.nypost.com/petservices">Local Services</a></li>
+
+						</li>
+
+				<li class="last">
+
+							<a target="_blank" href="http://www.classifieds.nypost.com/sale/pet/-/-/10036">Search for Pets</a></li>
+
+						</li>
+
+				</ul>
+
+		</div>
+
+</div>
+
+<div class="clearer"></div>
+
+	</div>
+
+	<div id="classifieds_verticals_bottom"></div>
+
+</div></div>
+
+</div>
+
+<div id="footer_outer_wrap">
+
+  <div id="footer_wrap">
+
+    <div id="footer_top"></div>
+
+    <div id="footer">
+
+      <div id="footer_bottom_row">
+	<div id="footer_sitemap" class="footer_list first">
+		<h3>Post Sections</h3>
+		<div class="section">
+				<h4><a href="/news">News</a>:</h4>
+				<ul>
+					<li class="first">
+							<a name="&lid=ftr&lpos=Business" href="/news/business">Business</a>
+						</li>
+					<li>
+							<a name="&lid=ftr&lpos=Opinion" href="/news/opinion">Opinion</a>
+						</li>
+					<li>
+							<a name="&lid=ftr&lpos=Columnists" href="/columnists">Columnists</a>
+						</li>
+					<li>
+							<a name="&lid=ftr&lpos=Local News" href="/news/local">Local News</a>
+						</li>
+					<li class="last">
+							<a name="&lid=ftr&lpos=Real Estate" href="/news/business/realestate/residential">Real Estate</a>
+						</li>
+					</ul>
+			</div>
+		<div class="section">
+				<h4><a href="/sports">Sports</a>:</h4>
+				<ul>
+					<li class="first">
+							<a name="&lid=ftr&lpos=Columnists" href="/columnists#columnists_list_sports">Columnists</a>
+						</li>
+					<li>
+							<a name="&lid=ftr&lpos=Scores" href="http://stats.nypost.com/">Scores</a>
+						</li>
+					<li>
+							<a name="&lid=ftr&lpos=Fantasy" href="http://fantasy.nypost.com/">Fantasy</a>
+						</li>
+					<li class="last">
+							<a name="&lid=ftr&lpos=Post Tickets" href="http://tickets.nypost.com/">Post Tickets</a>
+						</li>
+					</ul>
+			</div>
+		<div class="section">
+				<h4><a href="/pagesix">PageSix</a>:</h4>
+				<ul>
+					<li class="first">
+							<a name="&lid=ftr&lpos=Celeb Photos" href="/photo#celeb_photos_anchor">Celeb Photos</a>
+						</li>
+					<li>
+							<a name="&lid=ftr&lpos=Cindy Adams" href="/columnists/cindyadams">Cindy Adams</a>
+						</li>
+					<li class="last">
+							<a name="&lid=ftr&lpos=Page Six Magazine" href="/pagesixmag">Page Six Magazine</a>
+						</li>
+					</ul>
+			</div>
+		<div class="section">
+				<h4><a href="/entertainment">Entertainment</a>:</h4>
+				<ul>
+					<li class="first">
+							<a name="&lid=ftr&lpos=TV" href="/entertainment/tv">TV</a>
+						</li>
+					<li>
+							<a name="&lid=ftr&lpos=Movies" href="/entertainment/movies">Movies</a>
+						</li>
+					<li class="last">
+							<a name="&lid=ftr&lpos=Music" href="/entertainment/music">Music</a>
+						</li>
+					</ul>
+			</div>
+		<div class="section">
+				<h4><a href="http://www.classifieds.nypost.com/">Classifieds</a>:</h4>
+				<ul>
+					<li class="first">
+							<a name="&lid=ftr&lpos=Rentals" href="http://www.classifieds.nypost.com/housing/rent/">Rentals</a>
+						</li>
+					<li>
+							<a name="&lid=ftr&lpos=Jobs" href="http://www.classifieds.nypost.com/job/">Jobs</a>
+						</li>
+					<li>
+							<a name="&lid=ftr&lpos=Cars" href="http://www.classifieds.nypost.com/vehicle/">Cars</a>
+						</li>
+					<li>
+							<a name="&lid=ftr&lpos=Real Estate" href="http://www.classifieds.nypost.com/housing/sale/">Real Estate</a>
+						</li>
+					<li class="last">
+							<a name="&lid=ftr&lpos=NY Apartments" href="http://www.classifieds.nypost.com/housing/rent/apartment/">NY Apartments</a>
+						</li>
+					</ul>
+			</div>
+		<div class="section">
+				<h4><a href="/video">Multimedia</a>:</h4>
+				<ul>
+					<li class="first">
+							<a name="&lid=ftr&lpos=Photos" href="/photo">Photos</a>
+						</li>
+					<li class="last">
+							<a name="&lid=ftr&lpos=Video" href="/video">Video</a>
+						</li>
+					</ul>
+			</div>
+		<div class="section">
+				<h4><a href="">Specials</a>:</h4>
+				<ul>
+					<li class="first">
+							<a name="&lid=ftr&lpos=Contests/Sweepstakes" href="http://www.nypost.com/promotions/">Contests/Sweepstakes</a>
+						</li>
+					</ul>
+			</div>
+		</div>
+	<div class="footer_list">
+		<h3>Customer Care</h3>
+		<ul id="footlist_care"> 
+			<li id="footlist_care_0" class="first"><a name="&lid=ftr&lpos=Contact Us" href="/contact/contactus.htm">Contact Us</a></li>
+			<li id="footlist_care_1"><a name="&lid=ftr&lpos=FAQ" href="/p/static/frequently_asked_questions_pYPyculKmlkJduyMuq9CcN">FAQ</a></li>
+			<li id="footlist_care_2"><a name="&lid=ftr&lpos=Today's Paper" href="/todays_paper">Today's Paper</a></li>
+			<li id="footlist_care_3"><a name="&lid=ftr&lpos=Archives" href="/nypostarchives">Archives</a></li>
+			<li id="footlist_care_4"><a name="&lid=ftr&lpos=Covers" href="/archives/covers/">Covers</a></li>
+			<li id="footlist_care_5"><a name="&lid=ftr&lpos=Back Issues" href="/backissues/backissues.htm">Back Issues</a></li>
+			<li id="footlist_care_6"><a name="&lid=ftr&lpos=Reprints" href="/reprints/reprints.htm">Reprints</a></li>
+			<li id="footlist_care_7"><a name="&lid=ftr&lpos=Sitemap" href="/p/static/site_map_H9QJodTDYACLl6K25PCpdN">Sitemap</a></li>
+			<li id="footlist_care_8" class="last"><a name="&lid=ftr&lpos=help" href="/help">Help</a></li>
+		</ul>
+	</div>
+	<div class="footer_list">
+		<h3>Subscribe</h3>
+		<ul id="footlist_subscribe"> 
+			<li id="footlist_subscribe_0" class="first"><a name="&lid=ftr&lpos=Home Delivery" href="/homedelivery">Home Delivery</a></li>
+			<li id="footlist_subscribe_1"><a name="&lid=ftr&lpos=iPad" href="/mobile/?app=ipad">iPad</a></li>
+			<li id="footlist_subscribe_2"><a name="&lid=ftr&lpos=Daily Newsletter" href="/Signup">Daily Newsletter</a></li> 
+			<li id="footlist_subscribe_3"><a name="&lid=ftr&lpos=iPhone" href="/mobile/?app=iphone">iPhone</a></li>
+			<li id="footlist_subscribe_3"><a name="&lid=ftr&lpos=Android" href="/mobile/?app=android">Android</a></li>
+			<li id="footlist_subscribe_4"><a name="&lid=ftr&lpos=E-Edition" href="/eedition">E-Edition</a></li>
+			<li id="footlist_subscribe_5"><a name="&lid=ftr&lpos=Mobile" href="/mobile">Mobile</a></li>
+			<li id="footlist_subscribe_6" class="last"><a name="&lid=ftr&lpos=RSS" href="/p/static/rss_feeds_77sQZr48RqOy66EKnPpPdN">RSS</a></li>
+		</ul>
+	</div>
+	<div class="footer_list last">
+		<h3>Advertising/Partners</h3>
+		<ul id="footlist_partners">
+			<li id="footlist_partners_0" class="first"><a name="&lid=ftr&lpos=Media Kit" href="/mediakit">Media Kit</a></li>
+			<li id="footlist_partners_1" class="last"><a name="&lid=ftr&lpos=Parade Magazine" href="http://www.parade.com/?npNumber=471&flag=direct">Parade Magazine</a></li>
+			<li id="footlist_partners_2" class="first"><a name="&lid=ftr&lpos=Coupons" href="/p/static/item_TD8hJ3yOPrr7GNUkS6kobN">Coupons</a></li>
+		</ul>
+	</div>
+</div>
+<div class="clearer"></div> 
+
+        <div class="clearer"></div>
+
+    </div>
+
+    <div id="footer_bottom"></div>
+
+  </div>
+
+  <div id="sub_footer_wrap">
+
+	<div id="sub_footer">
+
+		<a class="nyp_logo" href="/">
+
+			<img alt="The New York Post" width="180" height="25" src="/rw/SysConfig/WebPortal/nypost/images/nyp_logo_180x25.png" />
+
+		</a>
+
+		<div class="search_wrap">
+
+			<span>Can't find what you're looking for? Try searching: </span>
+
+			<form action="http://search.nypost.com/search" method="get" name="gs" id="search_form_footer" class="search_form">
+	<div>
+		<input type="text" class="search_input" id="search_form_footer_search_for" name="q" value="" /><input type="hidden" name="sort" value="date:D:S:d1" /><input type="hidden" name="entsp" value="a" /><input type="hidden" name="client" value="redesign_frontend" /><input type="hidden" name="entqr" value="0" /><input type="hidden" name="oe" value="UTF-8" /><input type="hidden" name="ud" value="1" /><input type="hidden" name="getfields" value="*" /><input type="hidden" name="proxystylesheet"	value="redesign_frontend" /><input type="hidden" name="output" value="xml_no_dtd" /><input type="hidden" name="site" value="default_collection" /><input type="hidden" name="filter" value="p" />
+	</div>
+	<div>
+		<input type="submit" class="search_btn btn" id="search_form_footer_search_submit" name="search_submit" value="Search" />
+	</div>
+</form></div>
+
+		<div id="legal_fineprint">
+
+			<p>NEW YORK POST is a registered trademark of NYP Holdings, Inc.</p>
+
+			<p><span class="url">nypost.com</span>, <span class="url">nypostonline.com</span>, and <span class="url">newyorkpost.com</span> are trademarks of NYP Holdings, Inc.</p>
+
+			<p>Copyright 2011 NYP Holdings, Inc. All rights reserved. <a href="/p/static/privacy_policy_PlyzvkFUzwURLgq0xv11cN">Privacy</a> | <a href="/p/static/terms_of_use_F27QUfwMq8P3OuZ1AonIfN">Terms of Use</a> | <a href="/p/static/privacy_policy_PlyzvkFUzwURLgq0xv11cN#ad-choice" />Ad Choices</a></p>
+
+		</div>
+
+	</div>
+
+</div></div><script type="text/javascript">
+	FB.init("97e69424c6bceff3c8ecf4cb93e9b699", "http://www.nypost.com/r/SysConfig/WebPortal/nypost/blocks/shareit/fbconnect/xd_receiver.html");
+</script>
+
+<!--START SAILTHRU CODE -->
+<script type="text/javascript">
+    (function() {
+        function loadHorizon() { var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
+            s.src = ('https:'==location.protocol?'https://d1gp8joe0evc8s.cloudfront.net':'http://cdn.sail-horizon.com')+'/horizon/v1.js';
+            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        }
+        loadHorizon();
+        var oldOnLoad = window.onload;
+        window.onload = function() {
+            if (typeof oldOnLoad === 'function') {
+                oldOnLoad();
+            }
+            Sailthru.setup({
+                domain: 'horizon.nypost.com',
+            });
+        };
+    })();
+</script>
+<!--END SAILTHRU CODE-->
+
+<!-- START IFRAME : below is Opt In Smart Pixel (Nonsecure) for SailThru -->
+<iframe src='http://pixel.fetchback.com/serve/fb/pdc?cat=&name=landing&sid=3801' scrolling='no' width='1' height='1' marginheight='0' marginwidth='0' frameborder='0'></iframe>
+<!-- END IFRAME -->
+
+<!--START CHARTBEAT CODE -->
+<script type="text/javascript">
+	var chartbeatSection = new Array();
+	chartbeatSection = sitezone.split("/");
+	
+	var sectionSize = chartbeatSection.length;
+	if ( sectionSize > 1 ){
+		chartbeatSection = chartbeatSection[0];
+	}
+
+	chartbeatSection = chartbeatSection.toString();
+	chartbeatSection = chartbeatSection.split(".");
+	
+	sectionSize = chartbeatSection.length;
+	if ( sectionSize > 1 ){
+		if ( sectionSize > 2 ) {
+			chartbeatSection = chartbeatSection[2];
+		} else {
+			chartbeatSection = chartbeatSection[1];
+		}
+	}
+	
+	if (chartbeatSection == null) {
+		chartbeatSection = "";
+	}
+
+
+	var sectionAuthor = $("meta[name=byline]");
+	sectionAuthor = sectionAuthor.attr("content");
+	if (sectionAuthor != null) {
+		sectionAuthor = sectionAuthor.replace(/\s+/g," ");
+		sectionAuthor = sectionAuthor.replace(/By /gi, "");
+		sectionAuthor = sectionAuthor.replace(/ and /gi,", ");
+		sectionAuthor = sectionAuthor.replace(/ & /g,", ");
+		
+		if (sectionAuthor == null) {
+			sectionAuthor = "";
+		}
+	} else {
+		sectionAuthor = "";
+	}
+
+
+	var _sf_async_config={uid:19332,domain:"nypost.com"};
+	_sf_async_config.sections = chartbeatSection.toString().toLowerCase();
+	_sf_async_config.authors = sectionAuthor.toString().toUpperCase();
+	_sf_async_config.path = window.location.pathname;
+	
+	(function(){
+		function loadChartbeat() {
+			window._sf_endpt=(new Date()).getTime();
+			var e = document.createElement('script');
+			e.setAttribute('language', 'javascript');
+			e.setAttribute('type', 'text/javascript');
+			e.setAttribute('src',
+				(("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://") +
+				"static.chartbeat.com/js/chartbeat.js");
+			document.body.appendChild(e);
+		}
+		var oldonload = window.onload;
+		window.onload = (typeof window.onload != 'function') ?
+			loadChartbeat : function() { oldonload(); loadChartbeat(); };
+	})();
+</script>
+<!--END CHARTBEAT CODE-->
+
+<script type="text/javascript">document.write(unescape('%3Cscript type="text/javascript" src="'+document.location.protocol+'//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/3900.js"%3E%3C%2Fscript%3E'))</script>
+
+<!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2010 Nielsen Online -->
+<script type="text/javascript">
+  (function () {
+    var d = new Image(1, 1);
+    d.onerror = d.onload = function () {
+      d.onerror = d.onload = null;
+    };
+    d.src = ["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-804583h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');
+  })();
+</script>
+<noscript>
+  <div>
+    <img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-804583h&amp;cg=0&amp;cc=1&amp;ts=noscript"    width="1" height="1" alt="" />
+  </div>
+</noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+
+<!--  MDotM pixel tracker -->
+<img src="http://ads.mdotm.com/ads/ret.php?utm_source=web&utm_campaign=com.nypost&utm_medium=retargeting&utm_term=subscriber&utm_content=/&r=01234" width="1" height="1" border="0"/>
+<!-- Ad Side -->
+<script type="text/javascript">
+	doclix_pid = 16382;
+	doclix_cid_anchor = 5287;
+</script>
+<script type="text/javascript" src="http://ads.doclix.com/adserver/serve/js/doclix_synd_overlay.js" async="async" charset="utf-8"></script></body></html>
